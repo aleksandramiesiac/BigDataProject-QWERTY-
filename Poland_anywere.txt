@@ -1,0 +1,456 @@
+Data Przewoznik Czy_przesiadka Cena Godzina_odlotu Miejsce_odlotu Godzina_przylotu Miejsce_przylotu
+17/04/19 Ryanair 0 6.75 07:10 Gdansk GDN 08:40 Oslo TRFOslo (Torp) TRF
+23/04/19 Ryanair 0 5.89 09:05 Oslo TRFOslo (Torp) TRF 10:35 Gdansk GDN
+17/04/19 Ryanair 0 7.91 06:40 Warsaw WMIWarsaw (Modlin) WMI 08:30 Oslo TRFOslo (Torp) TRF
+24/04/19 Ryanair 0 5.89 08:55 Oslo TRFOslo (Torp) TRF 10:35 Warsaw WMIWarsaw (Modlin) WMI
+20/04/19 Ryanair 0 7.91 08:00 Gdansk GDN 09:05 Vaxjo VXO
+28/04/19 Ryanair 0 7.28 16:30 Vaxjo VXO 17:35 Gdansk GDN
+20/04/19 Ryanair 0 7.91 08:25 Gdansk GDN 09:40 Stockholm NYOStockholm (Skavsta) NYO
+25/04/19 Ryanair 0 7.28 06:45 Stockholm NYOStockholm (Skavsta) NYO 08:00 Gdansk GDN
+18/05/19 Ryanair 0 8.82 12:25 Krakow KRK 13:40 Szczecin SZZ
+23/05/19 Ryanair 0 8.82 09:00 Szczecin SZZ 10:15 Krakow KRK
+18/05/19 Ryanair 0 8.82 14:05 Szczecin SZZ 15:20 Krakow KRK
+23/05/19 Ryanair 0 8.82 07:20 Krakow KRK 08:35 Szczecin SZZ
+14/04/19 Ryanair 0 9.08 20:10 Poznan POZ 21:30 Billund BLL
+21/04/19 Ryanair 0 9.77 21:55 Billund BLL 23:15 Poznan POZ
+31/05/19 Ryanair 0 9.08 08:30 Warsaw WMIWarsaw (Modlin) WMI 10:00 Stockholm NYOStockholm (Skavsta) NYO
+04/06/19 Ryanair 0 9.86 13:40 Stockholm NYOStockholm (Skavsta) NYO 15:10 Warsaw WMIWarsaw (Modlin) WMI
+04/05/19 Ryanair 0 9.08 14:05 Poznan POZ 15:35 Stockholm NYOStockholm (Skavsta) NYO
+11/05/19 Ryanair 0 9.86 12:10 Stockholm NYOStockholm (Skavsta) NYO 13:40 Poznan POZ
+22/05/19 Ryanair 0 9.08 18:55 Warsaw WMIWarsaw (Modlin) WMI 20:25 Goteborg GOTGoteborg (Landvetter) GOT
+26/05/19 Ryanair 0 9.86 20:40 Goteborg GOTGoteborg (Landvetter) GOT 22:15 Warsaw WMIWarsaw (Modlin) WMI
+14/12/19 Wizz Air 0 9.08 11:30 Wroclaw WRO 13:40 Lviv LWO
+19/12/19 Wizz Air 0 9.94 14:10 Lviv LWO 14:20 Wroclaw WRO
+14/11/19 Wizz Air 0 9.08 06:00 Katowice KTW 08:00 Lviv LWO
+19/11/19 Wizz Air 0 9.94 12:00 Lviv LWO 11:55 Katowice KTW
+11/11/19 Wizz Air 0 9.08 14:20 Gdansk GDN 17:35 Kharkov HRK
+18/11/19 Wizz Air 0 9.94 18:05 Kharkov HRK 19:30 Gdansk GDN
+01/12/19 Wizz Air 0 9.08 18:20 Wroclaw WRO 21:40 Kharkov HRK
+05/12/19 Wizz Air 0 9.94 22:10 Kharkov HRK 23:25 Wroclaw WRO
+05/02/20 Wizz Air 0 9.08 12:40 Gdansk GDN 15:00 Lviv LWO
+09/02/20 Wizz Air 0 9.94 15:30 Lviv LWO 15:45 Gdansk GDN
+08/06/19 Ryanair 0 9.08 19:35 Bydgoszcz BZG 22:25 Kiev KBPKiev (Borispol) KBP
+15/06/19 Ryanair 0 9.99 18:05 Kiev KBPKiev (Borispol) KBP 18:55 Bydgoszcz BZG
+26/02/20 Wizz Air 0 9.08 13:55 Krakow KRK 17:00 Turku TKU
+01/03/20 Wizz Air 0 9.99 17:35 Turku TKU 18:40 Krakow KRK
+23/05/19 Wizz Air 0 9.08 11:30 Gdansk GDN 13:55 Turku TKU
+27/05/19 Wizz Air 0 9.99 14:25 Turku TKU 14:50 Gdansk GDN
+16/05/19 Ryanair 0 9.08 18:55 Warsaw WMIWarsaw (Modlin) WMI 21:00 Brussels CRLBrussels (Charleroi) CRL
+22/05/19 Ryanair 0 9.99 06:55 Brussels CRLBrussels (Charleroi) CRL 08:50 Warsaw WMIWarsaw (Modlin) WMI
+03/01/20 Wizz Air 0 9.08 13:45 Gdansk GDN 15:15 Vienna VIE
+10/01/20 Wizz Air 0 9.99 21:30 Vienna VIE 23:00 Gdansk GDN
+19/06/19 Wizz Air 0 9.08 07:10 Katowice KTW 09:05 Eindhoven EIN
+26/06/19 Wizz Air 0 9.99 15:25 Eindhoven EIN 17:10 Katowice KTW
+05/03/20 Wizz Air 0 9.08 06:35 Krakow KRK 08:30 Eindhoven EIN
+12/03/20 Wizz Air 0 9.99 09:05 Eindhoven EIN 10:55 Krakow KRK
+10/05/19 Ryanair 0 9.08 12:50 Wroclaw WRO 14:30 Brussels CRLBrussels (Charleroi) CRL
+15/05/19 Ryanair 0 9.99 10:45 Brussels CRLBrussels (Charleroi) CRL 12:25 Wroclaw WRO
+04/05/19 Laudamotion 0 9.08 19:10 Krakow KRK 20:10 Vienna VIE
+12/05/19 Laudamotion 0 9.99 20:45 Vienna VIE 21:45 Krakow KRK
+09/05/19 Ryanair 0 9.08 06:00 Krakow KRK 07:20 Berlin TXLBerlin (Tegel) TXL
+17/05/19 Ryanair 0 9.99 08:00 Berlin TXLBerlin (Tegel) TXL 09:20 Krakow KRK
+05/06/19 Wizz Air 0 9.08 07:00 Gdansk GDN 08:50 Haugesund HAU
+10/06/19 Wizz Air 0 10.23 13:35 Haugesund HAU 15:15 Gdansk GDN
+21/06/19 Ryanair 0 9.08 18:10 Poznan POZ 19:50 Oslo TRFOslo (Torp) TRF
+25/06/19 Ryanair 0 10.23 10:35 Oslo TRFOslo (Torp) TRF 12:15 Poznan POZ
+07/06/19 Wizz Air 0 9.08 15:55 Gdansk GDN 17:25 Oslo OSLOslo (Gardermoen) OSL
+12/06/19 Wizz Air 0 10.23 17:35 Oslo OSLOslo (Gardermoen) OSL 19:05 Gdansk GDN
+16/05/19 Wizz Air 0 9.08 06:10 Katowice KTW 08:10 Oslo TRFOslo (Torp) TRF
+21/05/19 Wizz Air 0 10.23 12:45 Oslo TRFOslo (Torp) TRF 14:40 Katowice KTW
+07/06/19 Ryanair 0 9.08 06:30 Wroclaw WRO 08:25 Oslo TRFOslo (Torp) TRF
+14/06/19 Ryanair 0 10.23 08:50 Oslo TRFOslo (Torp) TRF 10:40 Wroclaw WRO
+12/06/19 Wizz Air 0 9.08 18:40 Warsaw WAW 20:30 Oslo TRFOslo (Torp) TRF
+19/06/19 Wizz Air 0 10.23 21:05 Oslo TRFOslo (Torp) TRF 23:00 Warsaw WAW
+07/06/19 Wizz Air 0 9.08 06:40 Katowice KTW 08:05 Malmo MMX
+12/06/19 Wizz Air 0 10.43 13:50 Malmo MMX 15:10 Katowice KTW
+07/06/19 Wizz Air 0 9.08 12:45 Katowice KTW 14:30 Stockholm NYOStockholm (Skavsta) NYO
+12/06/19 Wizz Air 0 10.43 15:00 Stockholm NYOStockholm (Skavsta) NYO 16:40 Katowice KTW
+10/06/19 Wizz Air 0 9.08 11:30 Wroclaw WRO 13:10 Stockholm NYOStockholm (Skavsta) NYO
+14/06/19 Wizz Air 0 10.43 13:40 Stockholm NYOStockholm (Skavsta) NYO 15:15 Wroclaw WRO
+11/05/19 Wizz Air 0 9.08 15:50 Gdansk GDN 17:10 Billund BLL
+18/05/19 Wizz Air 0 10.57 17:40 Billund BLL 18:55 Gdansk GDN
+25/04/19 Ryanair 0 7.91 08:25 Gdansk GDN 09:40 Stockholm NYOStockholm (Skavsta) NYO
+30/04/19 Ryanair 1 6.03 06:45 Stockholm NYOStockholm (Skavsta) NYO 12:55 Gdansk GDN
+30/04/19 Ryanair 1 6.95 09:45 London STNLondon (Stansted) STN 08:05 London STNLondon (Stansted) STN FR53
+26/05/19 Ryanair 1 3.88 22:45 Wroclaw WRO 23:55 London STNLondon (Stansted) STN
+30/05/19 Ryanair 0 17.39 08:35 London STNLondon (Stansted) STN 11:30 Wroclaw WRO
+30/05/19 Ryanair 0 9.08 18:40 Gdansk GDN 19:50 Aarhus AAR
+06/06/19 Ryanair 0 12.84 20:15 Aarhus AAR 21:20 Gdansk GDN
+08/06/19 Wizz Air 0 13.73 11:45 Poznan POZ 13:20 Eindhoven EIN
+15/06/19 Wizz Air 0 9.99 09:40 Eindhoven EIN 11:10 Poznan POZ
+01/06/19 Ryanair 0 12.31 06:40 Wroclaw WRO 07:45 Gdansk GDN
+08/06/19 Ryanair 0 12.31 08:10 Gdansk GDN 09:15 Wroclaw WRO
+27/05/19 Wizz Air 0 13.73 16:00 Wroclaw WRO 17:35 Goteborg GOTGoteborg (Landvetter) GOT
+03/06/19 Wizz Air 0 14.26 18:05 Goteborg GOTGoteborg (Landvetter) GOT 19:35 Wroclaw WRO
+22/04/19 Ryanair 0 13.03 07:05 Wroclaw WRO 08:40 Belfast BFS
+29/04/19 Ryanair 0 15.07 09:05 Belfast BFS 12:45 Wroclaw WRO
+26/05/19 Ryanair 0 13.03 21:25 Bydgoszcz BZG 22:35 London LTNLondon (Luton) LTN
+31/05/19 Ryanair 0 15.07 18:10 London LTNLondon (Luton) LTN 21:20 Bydgoszcz BZG
+30/05/19 Wizz Air 1 9.08 06:15 Gdansk GDN 17:50 Bremen BRE
+30/05/19 Ryanair 1 4.69 16:15 Stockholm NYOStockholm (Skavsta) NYO 07:25 Stockholm NYOStockholm (Skavsta) NYO W61731
+04/06/19 Wizz Air 1 14.99 12:40 Bremen BRE 14:05 Gdansk GDN
+24/05/19 Ryanair 1 9.08 08:30 Warsaw WMIWarsaw (Modlin) WMI 14:30 Brussels CRLBrussels (Charleroi) CRL
+24/05/19 Ryanair 1 9.86 12:20 Stockholm NYOStockholm (Skavsta) NYO 10:00 Stockholm NYOStockholm (Skavsta) NYO FR7012
+28/05/19 Ryanair 1 9.99 18:20 Brussels CRLBrussels (Charleroi) CRL 20:15 Warsaw WMIWarsaw (Modlin) WMI
+29/05/19 Ryanair 1 3.88 07:00 Wroclaw WRO 19:30 Oslo TRFOslo (Torp) TRF
+29/05/19 Ryanair 1 15.07 16:35 London STNLondon (Stansted) STN 08:10 London STNLondon (Stansted) STN FR8406
+05/06/19 Ryanair 1 10.23 14:30 Oslo TRFOslo (Torp) TRF 16:20 Wroclaw WRO
+23/05/19 Wizz Air 1 9.08 06:15 Gdansk GDN 17:50 Bremen BRE
+23/05/19 Ryanair 1 4.69 16:15 Stockholm NYOStockholm (Skavsta) NYO 07:25 Stockholm NYOStockholm (Skavsta) NYO W61731
+28/05/19 Ryanair 1 4.99 14:10 Bremen BRE 18:20 Gdansk GDN
+08/05/19 Wizz Air 0 10.43 50 Wr claw WRO 18:20 Gdansk GDN W61734
+13/05/19 Ryanair 1 9.08 15 Br ssels CRLBrussels (Charleroi) CRL 14:30 Brussels CRLBrussels (Charleroi) CRL FR8373
+13/05/19 Ryanair 1 9.99 10:15 Brussels CRLBrussels (Charleroi) CRL 15:15 Wroclaw WRO
+25/05/19 Wizz Air 1 10.43 10 Kr kow KRK 15:15 Wroclaw WRO W61872
+31/05/19 Laudamotion 1 9.08 20 Vi nna VIE 20:10 Vienna VIE OE1305
+31/05/19 Wizz Air 1 9.99 13:20 Vienna VIE 23:55 Krakow KRK
+23/05/19 Wizz Air 1 10.57 15 Wa saw WMIWarsaw (Modlin) WMI 23:55 Krakow KRK W65032
+29/05/19 Ryanair 0 15.13 35 Co ogne CGNCologne-Bonn CGN 18:05 Cologne CGNCologne-Bonn CGN FR1405
+01/07/19 Ryanair 0 14.99 40 Wa saw WMIWarsaw (Modlin) WMI 16:20 Warsaw WMIWarsaw (Modlin) WMI FR1404
+07/07/19 Ryanair 0 15.13 30 Ki v KBPKiev (Borispol) KBP 12:20 Kiev KBPKiev (Borispol) KBP FR3166
+16/06/19 Ryanair 0 14.99 20 Wr claw WRO 14:10 Warsaw WMIWarsaw (Modlin) WMI FR3167
+24/06/19 Ryanair 0 15.13 05 Ki v KBPKiev (Borispol) KBP 22:10 Kiev KBPKiev (Borispol) KBP FR7182
+13/06/19 Ryanair 0 14.99 50 Wa saw WMIWarsaw (Modlin) WMI 18:55 Wroclaw WRO FR7183
+19/06/19 Ryanair 0 15.13 10 Ei dhoven EIN 09:50 Eindhoven EIN FR4022
+10/06/19 Ryanair 0 14.99 30 Wa saw WMIWarsaw (Modlin) WMI 17:55 Warsaw WMIWarsaw (Modlin) WMI FR4021
+17/06/19 Ryanair 0 15.13 00 Lv v LWO 08:35 Lviv LWO FR3122
+29/05/19 Ryanair 0 14.99 10 Lu lin LUZ 09:05 Warsaw WMIWarsaw (Modlin) WMI FR3123
+02/06/19 Wizz Air 0 13.73 35 Os o TRFOslo (Torp) TRF 14:15 Oslo TRFOslo (Torp) TRF W62079
+24/05/19 Wizz Air 0 16.44 20 By goszcz BZG 11:35 Lublin LUZ W62080
+30/05/19 Ryanair 0 13.03 45 Lo don STNLondon (Stansted) STN 11:30 London STNLondon (Stansted) STN FR2463
+29/05/19 Ryanair 0 17.39 25 Wa saw WMIWarsaw (Modlin) WMI 09:55 Bydgoszcz BZG FR2462
+04/06/19 Ryanair 0 13.03 15 Mi an BGYMilan (Bergamo) BGY 21:30 Milan BGYMilan (Bergamo) BGY FR3899
+05/06/19 Ryanair 0 17.99 20 Wr claw WRO 23:15 Warsaw WMIWarsaw (Modlin) WMI FR3898
+11/06/19 Wizz Air 0 13.73 30 Ei dhoven EIN 17:00 Eindhoven EIN W61825
+17/05/19 Wizz Air 0 17.49 30 Wa saw WMIWarsaw (Modlin) WMI 19:00 Wroclaw WRO W61826
+21/05/19 Ryanair 1 9.08 40 Me mingen FMM 16:15 Memmingen FMM FR5025
+21/05/19 Ryanair 1 9.99 09:40 Memmingen FMM 15:10 Warsaw WMIWarsaw (Modlin) WMI
+30/05/19 Ryanair 1 12.42 10 Wr claw WRO 15:10 Warsaw WMIWarsaw (Modlin) WMI FR7011
+06/06/19 Wizz Air 0 9.08 15 Do tmund DTM 08:40 Dortmund DTM W61831
+07/06/19 Wizz Air 1 22.49 30 Gd nsk GDN 17:35 Wroclaw WRO W61832
+07/06/19 Wizz Air 1 9.08 06:30 Gdansk GDN 10:40 Wroclaw WRO
+13/06/19 Ryanair 1 10.23 40 Wr claw WRO 10:40 Wroclaw WRO FR4128
+06/06/19 Ryanair 0 12.31 40 Wr claw WRO 07:45 Gdansk GDN FR4105
+14/06/19 Ryanair 1 12.31 30 Gd nsk GDN 07:45 Gdansk GDN FR4105
+14/06/19 Wizz Air 1 9.08 06:30 Gdansk GDN 10:40 Wroclaw WRO
+01/06/19 Ryanair 1 10.23 10 Gd nsk GDN 10:40 Wroclaw WRO FR4128
+05/06/19 Ryanair 1 12.31 10 Wr claw WRO 09:15 Wroclaw WRO FR4106
+05/06/19 Ryanair 1 9.08 12:10 Wroclaw WRO 16:45 Gdansk GDN
+05/06/19 Ryanair 1 10.23 10 Wr claw WRO 16:45 Gdansk GDN FR8509
+13/06/19 Ryanair 0 9.08 15:15 Oslo TRFOslo (Torp) TRF 14:05 Oslo TRFOslo (Torp) TRF FR4127
+09/05/19 Ryanair 1 10.23 08:10 Gdansk GDN 09:15 Wroclaw WRO
+09/05/19 Ryanair 1 12.31 40 Wr claw WRO 09:15 Wroclaw WRO FR4106
+13/05/19 Ryanair 1 12.31 08:25 Gdansk GDN 07:45 Gdansk GDN FR4105
+23/05/19 Ryanair 0 9.08 13:40 Stockholm NYOStockholm (Skavsta) NYO 15:15 Wroclaw WRO
+29/05/19 Wizz Air 0 10.43 12:35 Warsaw WMIWarsaw (Modlin) WMI 14:05 London STNLondon (Stansted) STN
+28/06/19 Ryanair 0 15.13 09:30 London STNLondon (Stansted) STN 12:45 Warsaw WMIWarsaw (Modlin) WMI
+05/07/19 Ryanair 0 17.39 14:30 Warsaw WMIWarsaw (Modlin) WMI 16:15 Memmingen FMM
+21/06/19 Ryanair 0 15.13 16:40 Memmingen FMM 18:25 Warsaw WMIWarsaw (Modlin) WMI
+25/06/19 Ryanair 1 17.99 08:30 Warsaw WMIWarsaw (Modlin) WMI 10:00 Stockholm NYOStockholm (Skavsta) NYO
+25/06/19 Ryanair 1 9.08 45 St ckholm NYOStockholm (Skavsta) NYO 10:00 Stockholm NYOStockholm (Skavsta) NYO FR7012
+29/05/19 Ryanair 1 3.24 08:50 London STNLondon (Stansted) STN 08:05 London STNLondon (Stansted) STN FR53
+03/06/19 Ryanair 1 20.86 13:45 Gdansk GDN 15:15 Vienna VIE
+03/06/19 Wizz Air 1 9.08 35 Vi nna VIE 15:15 Vienna VIE W61781
+20/04/19 Wizz Air 1 9.99 11:00 Malmo MMX 07:25 Malmo MMX W62855
+25/04/19 Wizz Air 1 14.26 08:00 Gdansk GDN 10:35 Gdansk GDN
+25/04/19 Ryanair 1 7.91 09:30 Vaxjo VXO 09:05 Vaxjo VXO FR7271
+30/05/19 Ryanair 1 7.28 08:25 Gdansk GDN 18:20 Gdansk GDN
+05/06/19 Ryanair 0 7.91 00 Wr claw WRO 18:20 Gdansk GDN W61734
+31/05/19 Wizz Air 1 10.43 13:05 London STNLondon (Stansted) STN 08:10 London STNLondon (Stansted) STN FR8406
+31/05/19 Ryanair 1 3.88 30 Ei dhoven EIN 15:10 Eindhoven EIN FR5681
+04/06/19 Ryanair 1 15.07 10 Gd nsk GDN 19:00 Wroclaw WRO W61826
+06/06/19 Wizz Air 0 14.99 13:20 Vienna VIE 07:40 Vienna VIE W61781
+11/06/19 Wizz Air 0 13.73 17:40 Billund BLL 18:55 Gdansk GDN
+11/05/19 Wizz Air 0 9.99 22:20 Lublin LUZ 00:10 London LTNLondon (Luton) LTN
+19/05/19 Wizz Air 1 10.57 05:55 London LTNLondon (Luton) LTN 09:30 Lublin LUZ
+19/05/19 Wizz Air 1 13.73 40 Kr kow KRK 09:30 Lublin LUZ W62068
+20/06/19 Wizz Air 1 20.86 00 Ma mo MMX 12:15 Malmo MMX FR4039
+27/06/19 Ryanair 0 15.13 20:45 Vienna VIE 09:40 Vienna VIE W62856
+07/06/19 Wizz Air 0 10.43 12:10 Wroclaw WRO 14:15 Paris BVAParis (Beauvais) BVA
+14/06/19 Laudamotion 0 9.99 14:40 Paris BVAParis (Beauvais) BVA 16:35 Wroclaw WRO
+09/05/19 Ryanair 1 17.69 19:30 Wroclaw WRO 21:10 Milan BGYMilan (Bergamo) BGY
+09/05/19 Ryanair 1 17.99 35 Mi an BGYMilan (Bergamo) BGY 21:10 Milan BGYMilan (Bergamo) BGY FR8845
+13/05/19 Ryanair 1 17.69 20 Kr kow KRK 23:15 Wroclaw WRO FR8844
+11/05/19 Ryanair 0 17.99 10:45 Szczecin SZZ 08:35 Szczecin SZZ FR9507
+18/05/19 Ryanair 1 8.82 17:50 Oslo TRFOslo (Torp) TRF 19:50 Krakow KRK
+18/05/19 Wizz Air 1 13.73 40 Gd nsk GDN 19:50 Krakow KRK FR8505
+23/05/19 Ryanair 1 13.34 00 Br men BRE 12:10 Bremen BRE W61669
+31/05/19 Wizz Air 0 20.71 17:15 Stockholm NYOStockholm (Skavsta) NYO 15:35 Stockholm NYOStockholm (Skavsta) NYO FR3794
+22/05/19 Ryanair 1 4.99 07:10 Wroclaw WRO 16:05 London STNLondon (Stansted) STN
+22/05/19 Wizz Air 1 10.43 15:45 Dortmund DTM 08:40 Dortmund DTM W61831
+30/05/19 Wizz Air 1 9.08 09:00 London STNLondon (Stansted) STN 11:55 Wroclaw WRO
+18/05/19 Ryanair 1 9.99 13:45 Gdansk GDN 19:10 London STNLondon (Stansted) STN
+18/05/19 Ryanair 1 17.39 18:00 Vienna VIE 15:15 Vienna VIE W61781
+22/05/19 Wizz Air 1 9.08 11:10 London STNLondon (Stansted) STN 14:20 Gdansk GDN
+17/04/19 Laudamotion 0 9.99 12:25 Krakow KRK 15:20 Krakow KRK
+24/04/19 Ryanair 1 17.39 00 Kr kow KRK 15:20 Krakow KRK FR9508
+24/04/19 Ryanair 1 8.82 06:00 Krakow KRK 09:20 Krakow KRK
+23/05/19 Ryanair 1 8.82 35 Gd nsk GDN 09:20 Krakow KRK FR2697
+29/05/19 Ryanair 0 9.08 10 Os o OSLOslo (Gardermoen) OSL 17:05 Oslo OSLOslo (Gardermoen) OSL W61783
+20/05/19 Ryanair 0 9.99 11:10 London STNLondon (Stansted) STN 09:15 London STNLondon (Stansted) STN FR1393
+27/05/19 Wizz Air 0 13.73 06:10 Katowice KTW 12:25 Milan BGYMilan (Bergamo) BGY
+29/05/19 Ryanair 0 5.89 00 Mi an BGYMilan (Bergamo) BGY 12:25 Milan BGYMilan (Bergamo) BGY FR4558
+05/06/19 Ryanair 0 17.39 25 Wa saw WMIWarsaw (Modlin) WMI 12:50 Katowice KTW FR5426
+30/05/19 Wizz Air 1 9.08 50 Pe cara PSR 18:25 Pescara PSR FR4260
+30/05/19 Ryanair 1 15.40 18:50 Pescara PSR 20:50 Warsaw WMIWarsaw (Modlin) WMI
+06/06/19 Ryanair 1 12.99 18:20 Warsaw WMIWarsaw (Modlin) WMI 20:50 Marseille MRS
+13/05/19 Ryanair 0 24.50 21:15 Marseille MRS 23:45 Warsaw WMIWarsaw (Modlin) WMI
+19/05/19 Ryanair 1 12.99 07:00 Wroclaw WRO 15:20 Dortmund DTM
+19/05/19 Ryanair 1 17.69 13:00 London STNLondon (Stansted) STN 08:10 London STNLondon (Stansted) STN FR8406
+22/05/19 Ryanair 1 19.99 16:15 Dortmund DTM 17:35 Wroclaw WRO
+28/05/19 Ryanair 1 3.88 19:40 Krakow KRK 21:30 Billund BLL
+28/05/19 Ryanair 1 11.59 45 Bi lund BLL 21:30 Billund BLL W65031
+29/02/20 Wizz Air 1 22.49 20:45 Vienna VIE 17:25 Vienna VIE W62834
+08/03/20 Wizz Air 1 17.45 19:25 Warsaw WMIWarsaw (Modlin) WMI 21:30 Milan BGYMilan (Bergamo) BGY
+08/03/20 Wizz Air 1 10.57 15 Mi an BGYMilan (Bergamo) BGY 21:30 Milan BGYMilan (Bergamo) BGY FR3899
+21/12/19 Laudamotion 1 9.99 18:20 Brussels CRLBrussels (Charleroi) CRL 09:50 Brussels CRLBrussels (Charleroi) CRL FR4523
+26/12/19 Ryanair 1 13.03 11:30 Wroclaw WRO 14:20 Wroclaw WRO
+26/12/19 Ryanair 1 14.99 14:10 Lviv LWO 13:40 Lviv LWO W61843
+20/04/19 Ryanair 1 9.99 11:30 Wroclaw WRO 14:20 Wroclaw WRO
+25/04/19 Wizz Air 0 9.08 00 Ka owice KTW 14:20 Wroclaw WRO W61844
+22/05/19 Wizz Air 1 9.94 12:00 Lviv LWO 08:00 Lviv LWO W61295
+22/05/19 Wizz Air 1 9.08 00 Ka owice KTW 11:55 Katowice KTW W61296
+26/05/19 Wizz Air 1 9.94 12:00 Lviv LWO 08:00 Lviv LWO W61295
+24/05/19 Wizz Air 1 9.08 07:45 Gdansk GDN 09:00 Berlin TXLBerlin (Tegel) TXL
+24/05/19 Wizz Air 1 9.94 00 Be lin TXLBerlin (Tegel) TXL 09:00 Berlin TXLBerlin (Tegel) TXL U25748
+28/05/19 Wizz Air 1 9.08 30 Gd nsk GDN 16:05 Gdansk GDN U25747
+13/06/19 Wizz Air 1 9.94 14:50 Oslo TRFOslo (Torp) TRF 08:00 Oslo TRFOslo (Torp) TRF W61743
+13/06/19 easyJet 1 2.33 45 Ka owice KTW 16:45 Katowice KTW W61216
+18/06/19 easyJet 1 18.15 16:25 Stockholm NYOStockholm (Skavsta) NYO 14:30 Stockholm NYOStockholm (Skavsta) NYO W61201
+09/05/19 Wizz Air 1 9.08 13:45 Krakow KRK 17:55 Hamburg HAM
+09/05/19 Wizz Air 1 10.23 16:30 Oslo TRFOslo (Torp) TRF 15:50 Oslo TRFOslo (Torp) TRF FR8508
+14/05/19 Wizz Air 1 9.08 08:20 Hamburg HAM 09:55 Krakow KRK
+03/05/19 Ryanair 1 9.86 06:40 Warsaw WMIWarsaw (Modlin) WMI 16:10 Gdansk GDN
+03/05/19 Ryanair 1 13.03 14:40 Oslo TRFOslo (Torp) TRF 08:30 Oslo TRFOslo (Torp) TRF FR4528
+11/05/19 Ryanair 1 10.23 06:15 Gdansk GDN 15:10 Warsaw WMIWarsaw (Modlin) WMI
+16/05/19 Ryanair 1 14.99 40 Wa saw WMIWarsaw (Modlin) WMI 15:10 Warsaw WMIWarsaw (Modlin) WMI FR7011
+16/05/19 Ryanair 1 9.08 06:40 Warsaw WMIWarsaw (Modlin) WMI 10:35 Warsaw WMIWarsaw (Modlin) WMI
+22/05/19 Ryanair 1 10.23 45 Wa saw WMIWarsaw (Modlin) WMI 10:35 Warsaw WMIWarsaw (Modlin) WMI FR4529
+25/05/19 Wizz Air 1 9.08 13:40 Stockholm NYOStockholm (Skavsta) NYO 13:15 Stockholm NYOStockholm (Skavsta) NYO FR7012
+25/05/19 Ryanair 1 9.86 50 Po nan POZ 15:10 Warsaw WMIWarsaw (Modlin) WMI FR7011
+31/05/19 Ryanair 1 9.08 14:15 Oslo TRFOslo (Torp) TRF 12:30 Oslo TRFOslo (Torp) TRF W61979
+30/05/19 Ryanair 1 10.23 08:25 Gdansk GDN 13:40 Poznan POZ
+30/05/19 Ryanair 1 9.08 12:10 Stockholm NYOStockholm (Skavsta) NYO 09:40 Stockholm NYOStockholm (Skavsta) NYO FR8452
+04/06/19 Ryanair 1 9.86 06:15 Gdansk GDN 13:40 Warsaw WMIWarsaw (Modlin) WMI
+22/05/19 Wizz Air 1 9.08 40 Wa saw WMIWarsaw (Modlin) WMI 13:40 Warsaw WMIWarsaw (Modlin) WMI FR7011
+22/05/19 Ryanair 1 10.23 06:40 Warsaw WMIWarsaw (Modlin) WMI 09:55 Gdansk GDN
+29/05/19 Ryanair 1 9.08 25 Gd nsk GDN 09:55 Gdansk GDN W61744
+24/05/19 Ryanair 1 9.86 12:10 Stockholm NYOStockholm (Skavsta) NYO 09:40 Stockholm NYOStockholm (Skavsta) NYO FR8452
+24/05/19 Wizz Air 1 9.08 50 Po nan POZ 13:40 Poznan POZ FR7238
+31/05/19 Ryanair 1 9.86 14:15 Oslo TRFOslo (Torp) TRF 12:30 Oslo TRFOslo (Torp) TRF W61979
+23/05/19 Ryanair 0 9.08 09:00 Szczecin SZZ 20:40 Oslo TRFOslo (Torp) TRF
+27/05/19 Wizz Air 1 10.23 45 Os o TRFOslo (Torp) TRF 20:40 Oslo TRFOslo (Torp) TRF FR8508
+27/05/19 Ryanair 1 9.08 08:45 Oslo TRFOslo (Torp) TRF 10:10 Szczecin SZZ
+07/10/19 Ryanair 1 9.86 12:50 Wroclaw WRO 19:50 Warsaw WMIWarsaw (Modlin) WMI
+13/10/19 Wizz Air 0 9.08 40 Wa saw WMIWarsaw (Modlin) WMI 19:50 Warsaw WMIWarsaw (Modlin) WMI FR1055
+26/05/19 Ryanair 0 10.23 14:30 Oslo TRFOslo (Torp) TRF 08:30 Oslo TRFOslo (Torp) TRF FR4528
+02/06/19 Ryanair 0 8.82 06:00 Warsaw WMIWarsaw (Modlin) WMI 10:30 Wroclaw WRO
+17/05/19 Ryanair 1 13.03 50 Wr claw WRO 10:30 Wroclaw WRO W61880
+17/05/19 Wizz Air 1 16.44 12:50 Wroclaw WRO 20:15 Warsaw WMIWarsaw (Modlin) WMI
+21/05/19 Ryanair 1 9.08 20 Kr kow KRK 20:15 Warsaw WMIWarsaw (Modlin) WMI FR1055
+07/06/19 Ryanair 1 9.99 15 Ha burg HAM 07:55 Hamburg HAM FR7260
+07/06/19 Ryanair 1 9.08 15:15 Hamburg HAM 19:50 Krakow KRK
+12/06/19 Ryanair 1 10.23 50 Wa saw WAW 19:50 Krakow KRK FR8505
+06/06/19 Ryanair 1 9.08 00 Ba el-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL 16:00 Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL U21162
+06/06/19 Wizz Air 1 10.23 13:00 Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL 15:10 Warsaw WAW
+13/06/19 Ryanair 1 9.08 06:45 Wroclaw WRO 08:00 Leeds LBA
+05/06/19 Ryanair 1 9.99 08:25 Leeds LBA 11:40 Wroclaw WRO
+05/06/19 Ryanair 1 15.13 00 Wa saw WMIWarsaw (Modlin) WMI 11:40 Wroclaw WRO FR4107
+12/06/19 Ryanair 1 9.99 20:15 Oslo TRFOslo (Torp) TRF 07:50 Oslo TRFOslo (Torp) TRF FR4528
+31/05/19 Ryanair 1 13.34 08:30 Poznan POZ 16:25 Warsaw WMIWarsaw (Modlin) WMI
+31/05/19 easyJet 1 6.98 14:45 Oslo TRFOslo (Torp) TRF 10:10 Oslo TRFOslo (Torp) TRF FR1764
+07/06/19 easyJet 1 13.82 06:00 Katowice KTW 10:40 Wroclaw WRO
+27/05/19 Ryanair 1 17.69 25 Wr claw WRO 10:40 Wroclaw WRO FR4128
+27/05/19 Ryanair 1 20.86 06:25 Wroclaw WRO 16:45 Katowice KTW
+31/05/19 Ryanair 1 9.08 40 Wa saw WMIWarsaw (Modlin) WMI 16:45 Katowice KTW W61216
+22/05/19 Ryanair 1 10.23 12:45 Oslo TRFOslo (Torp) TRF 08:30 Oslo TRFOslo (Torp) TRF FR4528
+22/05/19 Ryanair 1 9.08 10 Ka owice KTW 14:40 Katowice KTW W61216
+26/05/19 Ryanair 1 10.23 08:55 Oslo TRFOslo (Torp) TRF 08:10 Oslo TRFOslo (Torp) TRF W61215
+18/05/19 Wizz Air 1 9.08 18:40 Warsaw WAW 23:00 Warsaw WAW
+18/05/19 Ryanair 1 10.23 21:05 Oslo TRFOslo (Torp) TRF 20:30 Oslo TRFOslo (Torp) TRF W61515
+22/05/19 Wizz Air 1 9.08 18:40 Warsaw WAW 23:00 Warsaw WAW
+10/05/19 Wizz Air 1 10.23 25 Wr claw WRO 23:00 Warsaw WAW W61516
+10/05/19 Ryanair 1 9.08 06:25 Wroclaw WRO 15:45 Gdansk GDN
+14/05/19 Wizz Air 1 10.23 30 Gd nsk GDN 15:45 Gdansk GDN FR8509
+01/06/19 Wizz Air 1 9.08 08:50 Oslo TRFOslo (Torp) TRF 08:00 Oslo TRFOslo (Torp) TRF W61743
+01/06/19 Ryanair 1 10.23 30 Wr claw WRO 10:40 Wroclaw WRO FR4128
+05/06/19 Wizz Air 1 9.08 08:35 Oslo TRFOslo (Torp) TRF 08:25 Oslo TRFOslo (Torp) TRF FR4127
+24/05/19 Wizz Air 1 10.23 06:00 Katowice KTW 10:40 Wroclaw WRO
+24/05/19 Wizz Air 1 9.08 08:50 Oslo TRFOslo (Torp) TRF 08:00 Oslo TRFOslo (Torp) TRF W61215
+31/05/19 Wizz Air 1 10.23 07:00 Katowice KTW 16:45 Gdansk GDN
+17/05/19 Wizz Air 1 9.08 30 Gd nsk GDN 16:45 Gdansk GDN FR8509
+17/05/19 Ryanair 1 10.23 06:30 Gdansk GDN 16:45 Katowice KTW
+21/05/19 Wizz Air 1 9.08 10 Ka owice KTW 16:45 Katowice KTW W61216
+18/09/19 Ryanair 1 10.23 21:45 Oslo TRFOslo (Torp) TRF 08:10 Oslo TRFOslo (Torp) TRF W61215
+18/09/19 Ryanair 1 9.08 40 Wa saw WMIWarsaw (Modlin) WMI 23:25 Warsaw WMIWarsaw (Modlin) WMI FR4529
+22/09/19 Wizz Air 1 10.23 14:50 Oslo TRFOslo (Torp) TRF 08:30 Oslo TRFOslo (Torp) TRF FR4528
+30/05/19 Wizz Air 1 9.08 06:00 Katowice KTW 10:10 Poznan POZ
+30/05/19 Ryanair 1 10.23 08:35 Oslo TRFOslo (Torp) TRF 08:00 Oslo TRFOslo (Torp) TRF W61215
+07/06/19 Wizz Air 1 9.08 08:30 Poznan POZ 14:40 Katowice KTW
+11/05/19 Ryanair 1 10.23 45 Wa saw WAW 14:40 Katowice KTW W61216
+11/05/19 Wizz Air 1 9.08 18:45 Warsaw WAW 23:25 Warsaw WMIWarsaw (Modlin) WMI
+18/05/19 Wizz Air 1 10.23 40 Wa saw WMIWarsaw (Modlin) WMI 23:25 Warsaw WMIWarsaw (Modlin) WMI FR4529
+11/05/19 Wizz Air 1 9.08 21:05 Oslo TRFOslo (Torp) TRF 08:30 Oslo TRFOslo (Torp) TRF FR4528
+11/05/19 Ryanair 1 10.23 30 Gd nsk GDN 23:00 Warsaw WAW W61516
+18/05/19 Ryanair 1 9.08 08:50 Oslo TRFOslo (Torp) TRF 08:00 Oslo TRFOslo (Torp) TRF W61743
+13/04/19 Wizz Air 0 10.23 06:30 Wroclaw WRO 15:45 Gdansk GDN
+20/04/19 Wizz Air 0 9.08 50 Po nan POZ 15:45 Gdansk GDN FR8509
+10/05/19 Wizz Air 1 10.23 20:15 Oslo TRFOslo (Torp) TRF 12:30 Oslo TRFOslo (Torp) TRF W61979
+10/05/19 Ryanair 1 9.08 30 Po nan POZ 21:55 Poznan POZ FR1765
+17/05/19 Wizz Air 1 10.23 10:35 Oslo TRFOslo (Torp) TRF 10:10 Oslo TRFOslo (Torp) TRF FR1764
+12/09/19 Wizz Air 0 9.08 13:45 Gdansk GDN 20:10 Stockholm NYOStockholm (Skavsta) NYO
+17/09/19 Ryanair 0 10.23 25 St ckholm NYOStockholm (Skavsta) NYO 20:10 Stockholm NYOStockholm (Skavsta) NYO W62859
+02/06/19 Ryanair 1 9.08 00 Wr claw WRO 17:40 Gdansk GDN FR8451
+02/06/19 Wizz Air 1 10.23 07:00 Wroclaw WRO 20:50 Goteborg GOTGoteborg (Landvetter) GOT
+10/06/19 Wizz Air 1 9.08 05 Go eborg GOTGoteborg (Landvetter) GOT 20:50 Goteborg GOTGoteborg (Landvetter) GOT FR964
+15/05/19 Ryanair 0 10.23 25 Gd nsk GDN 19:35 Wroclaw WRO W61874
+19/05/19 Ryanair 0 9.08 10:05 Stockholm NYOStockholm (Skavsta) NYO 09:40 Stockholm NYOStockholm (Skavsta) NYO FR8452
+25/05/19 Ryanair 0 10.23 12:30 Dusseldorf NRNDusseldorf (Weeze) NRN 18:20 Gdansk GDN
+01/06/19 Wizz Air 0 9.08 15 Gd nsk GDN 18:20 Gdansk GDN W61734
+26/05/19 Ryanair 0 10.23 09:05 Stockholm NYOStockholm (Skavsta) NYO 07:25 Stockholm NYOStockholm (Skavsta) NYO W61731
+31/05/19 Ryanair 0 9.08 06:30 Memmingen FMM 18:20 Gdansk GDN
+15/05/19 Ryanair 1 10.23 50 Lo z LCJ 18:20 Gdansk GDN W61734
+15/05/19 Wizz Air 1 9.08 20:50 Lodz LCJ 00:30 Athens ATH
+22/05/19 Wizz Air 1 14.99 18:50 Athens ATH 20:25 Lodz LCJ
+15/04/19 Ryanair 0 14.84 10:50 Poznan POZ 17:55 Hamburg HAM
+22/04/19 Ryanair 0 3.88 40 Ha burg HAM 17:55 Hamburg HAM FR1044
+31/05/19 Ryanair 0 20.86 20:15 Oslo TRFOslo (Torp) TRF 16:05 Oslo TRFOslo (Torp) TRF FR1043
+07/06/19 Wizz Air 0 14.26 18:40 Krakow KRK 20:30 Milan MXPMilan (Malpensa) MXP
+08/05/19 Ryanair 1 9.08 06:50 Milan MXPMilan (Malpensa) MXP 08:40 Krakow KRK
+08/05/19 Ryanair 1 9.86 10 Ka owice KTW 08:40 Krakow KRK U22593
+16/05/19 Ryanair 1 9.99 08:00 Malmo MMX 07:35 Malmo MMX W61209
+26/05/19 Wizz Air 0 10.43 05:35 Vienna VIE 16:25 Katowice KTW
+30/05/19 Wizz Air 0 9.08 45 Lo z LCJ 16:25 Katowice KTW W61210
+05/06/19 Ryanair 0 9.86 25 Lo don STNLondon (Stansted) STN 12:05 London STNLondon (Stansted) STN FR2469
+12/06/19 Ryanair 0 9.99 05 By goszcz BZG 16:40 Lodz LCJ FR2468
+15/06/19 Wizz Air 0 10.43 20 Gl sgow PIKGlasgow (Prestwick) PIK 12:35 Glasgow PIKGlasgow (Prestwick) PIK FR7625
+22/06/19 Ryanair 0 15.13 10 Wr claw WRO 10:40 Bydgoszcz BZG FR7624
+06/06/19 Ryanair 0 24.27 00 Lo don LTNLondon (Luton) LTN 07:25 London LTNLondon (Luton) LTN W61801
+13/06/19 Wizz Air 0 9.08 15 Wa saw WMIWarsaw (Modlin) WMI 11:00 Wroclaw WRO W61802
+21/09/19 Ryanair 0 10.23 15:15 Brussels CRLBrussels (Charleroi) CRL 11:20 Brussels CRLBrussels (Charleroi) CRL FR1058
+28/09/19 Ryanair 0 9.99 13:00 Craiova CRA 19:50 Warsaw WMIWarsaw (Modlin) WMI
+30/05/19 Ryanair 0 10.23 35 Wa saw WMIWarsaw (Modlin) WMI 19:50 Warsaw WMIWarsaw (Modlin) WMI FR1055
+06/06/19 easyJet 0 9.31 40 Br stol BRS 08:15 Bristol BRS FR4136
+29/05/19 easyJet 0 12.73 05 Wr claw WRO 12:10 Warsaw WMIWarsaw (Modlin) WMI FR4135
+03/06/19 Wizz Air 0 9.08 05 At ens ATH 19:40 Athens ATH FR4937
+18/05/19 Wizz Air 1 10.43 40 Wa saw WMIWarsaw (Modlin) WMI 15:40 Wroclaw WRO FR4936
+18/05/19 Wizz Air 1 9.99 06:40 Warsaw WMIWarsaw (Modlin) WMI 23:00 Warsaw WAW
+22/05/19 Wizz Air 1 10.43 45 Wa saw WAW 23:00 Warsaw WAW W61516
+15/05/19 Ryanair 1 22.60 12:10 Stockholm NYOStockholm (Skavsta) NYO 11:25 Stockholm NYOStockholm (Skavsta) NYO W61501
+15/05/19 Ryanair 1 17.39 20 Wa saw WMIWarsaw (Modlin) WMI 13:40 Warsaw WMIWarsaw (Modlin) WMI FR7011
+22/05/19 Ryanair 1 17.69 45 Bi mingham BHX 19:00 Birmingham BHX FR8084
+16/05/19 Ryanair 1 23.18 00 Wa saw WMIWarsaw (Modlin) WMI 23:15 Warsaw WMIWarsaw (Modlin) WMI FR8083
+16/05/19 Wizz Air 1 20.71 11:00 Warsaw WMIWarsaw (Modlin) WMI 12:45 Manchester MAN
+20/05/19 Wizz Air 1 20.86 13:10 Manchester MAN 16:35 Warsaw WMIWarsaw (Modlin) WMI
+12/06/19 Ryanair 1 9.08 21:55 Warsaw WMIWarsaw (Modlin) WMI 23:30 East Midla EMA
+12/06/19 Wizz Air 1 14.99 10 Ea t Midla EMA 23:30 East Midla EMA FR4054
+19/06/19 Wizz Air 1 8.20 45 Wa saw WMIWarsaw (Modlin) WMI 21:30 Warsaw WMIWarsaw (Modlin) WMI FR4053
+15/05/19 Ryanair 1 9.99 45 Le ds LBA 08:20 Leeds LBA FR2204
+15/05/19 Ryanair 1 19.78 08:45 Leeds LBA 12:10 Warsaw WMIWarsaw (Modlin) WMI
+21/05/19 Ryanair 1 22.70 21:10 Warsaw WMIWarsaw (Modlin) WMI 22:50 Liverpool LPL
+05/06/19 Ryanair 1 19.78 17:20 Liverpool LPL 20:45 Warsaw WMIWarsaw (Modlin) WMI
+05/06/19 Ryanair 1 22.98 40 Wr claw WRO 20:45 Warsaw WMIWarsaw (Modlin) WMI FR4043
+12/06/19 Ryanair 1 9.08 30 Li erpool LPL 11:05 Liverpool LPL FR9649
+20/10/19 Wizz Air 0 10.23 35 Wr claw WRO 14:45 Wroclaw WRO FR9648
+27/10/19 Wizz Air 0 13.73 10 Ma chester MAN 15:00 Manchester MAN FR8307
+09/05/19 Ryanair 0 9.86 15 Wa saw WMIWarsaw (Modlin) WMI 00:25 Wroclaw WRO FR8308
+14/05/19 Ryanair 1 19.78 20:15 Brussels CRLBrussels (Charleroi) CRL 11:20 Brussels CRLBrussels (Charleroi) CRL FR1058
+14/05/19 Ryanair 1 23.18 15 Bu apest BUD 22:10 Budapest BUD W62284
+18/05/19 Ryanair 1 19.78 17:55 Brussels CRLBrussels (Charleroi) CRL 08:10 Brussels CRLBrussels (Charleroi) CRL W62281
+23/05/19 Ryanair 1 23.18 12:50 Wroclaw WRO 17:45 Budapest BUD
+23/05/19 Ryanair 1 19.78 15:45 Brussels CRLBrussels (Charleroi) CRL 14:30 Brussels CRLBrussels (Charleroi) CRL FR8373
+18/05/19 Ryanair 1 23.18 06:15 Budapest BUD 12:25 Wroclaw WRO
+23/05/19 Ryanair 1 19.78 20 Kr kow KRK 12:25 Wroclaw WRO FR8372
+23/05/19 Ryanair 1 23.18 07:20 Krakow KRK 23:15 London STNLondon (Stansted) STN
+15/05/19 Ryanair 1 19.78 00 Lo don STNLondon (Stansted) STN 23:15 London STNLondon (Stansted) STN FR2467
+22/05/19 Ryanair 1 23.18 17:45 Dortmund DTM 15:20 Dortmund DTM FR1788
+22/05/19 Ryanair 1 19.78 45 Wa saw WAW 19:25 Krakow KRK FR4926
+15/05/19 Ryanair 1 23.18 15:00 Stockholm NYOStockholm (Skavsta) NYO 11:25 Stockholm NYOStockholm (Skavsta) NYO W61501
+22/05/19 Ryanair 1 19.78 07:00 Katowice KTW 23:00 Warsaw WAW
+22/05/19 Ryanair 1 23.18 21:05 Oslo TRFOslo (Torp) TRF 09:00 Oslo TRFOslo (Torp) TRF W61215
+18/05/19 Ryanair 1 9.08 09:45 Warsaw WAW 18:20 Gdansk GDN
+23/05/19 Wizz Air 1 14.99 40 Gd nsk GDN 18:20 Gdansk GDN W61734
+23/05/19 Wizz Air 1 9.30 13:40 Gdansk GDN 23:00 Warsaw WAW
+22/05/19 Ryanair 1 9.99 30 Gd nsk GDN 23:00 Warsaw WAW W61516
+28/05/19 Ryanair 1 9.08 21:05 Oslo TRFOslo (Torp) TRF 08:00 Oslo TRFOslo (Torp) TRF W61743
+28/05/19 Ryanair 1 14.99 45 Wa saw WAW 23:00 Warsaw WAW W61516
+12/06/19 Wizz Air 1 9.30 17:15 Stockholm NYOStockholm (Skavsta) NYO 11:25 Stockholm NYOStockholm (Skavsta) NYO W61501
+17/06/19 Ryanair 0 9.99 13:25 Warsaw WMIWarsaw (Modlin) WMI 15:45 Paris BVAParis (Beauvais) BVA
+29/05/19 Ryanair 1 8.82 15:55 Paris BVAParis (Beauvais) BVA 18:10 Warsaw WMIWarsaw (Modlin) WMI
+29/05/19 Ryanair 1 13.03 45 Gd nsk GDN 18:10 Warsaw WMIWarsaw (Modlin) WMI FR4055
+02/06/19 Ryanair 1 11.59 30 Be lin TXLBerlin (Tegel) TXL 18:00 Berlin TXLBerlin (Tegel) TXL U25748
+08/06/19 Ryanair 0 9.99 17:50 Oslo OSLOslo (Gardermoen) OSL 09:15 Oslo OSLOslo (Gardermoen) OSL U25777
+15/06/19 Wizz Air 0 13.73 09:15 Warsaw WMIWarsaw (Modlin) WMI 16:40 Barcelona GROBarcelona (Girona) GRO
+08/05/19 Wizz Air 1 10.43 25 Ba celona GROBarcelona (Girona) GRO 16:40 Barcelona GROBarcelona (Girona) GRO FR6902
+08/05/19 Wizz Air 1 9.08 06:25 Barcelona GROBarcelona (Girona) GRO 20:15 Warsaw WMIWarsaw (Modlin) WMI
+15/05/19 Wizz Air 1 10.23 15 Wa saw WMIWarsaw (Modlin) WMI 20:15 Warsaw WMIWarsaw (Modlin) WMI FR1055
+26/05/19 Wizz Air 1 13.73 13:00 Brussels CRLBrussels (Charleroi) CRL 11:20 Brussels CRLBrussels (Charleroi) CRL FR1058
+26/05/19 Wizz Air 1 10.43 45 Bo deaux BOD 14:35 Bordeaux BOD FR1389
+02/06/19 Ryanair 1 9.08 18:20 Brussels CRLBrussels (Charleroi) CRL 14:20 Brussels CRLBrussels (Charleroi) CRL FR1389
+15/05/19 Wizz Air 1 10.23 09:15 Warsaw WMIWarsaw (Modlin) WMI 13:10 Carcassonn CCF
+15/05/19 Wizz Air 1 9.08 11:30 Brussels CRLBrussels (Charleroi) CRL 11:20 Brussels CRLBrussels (Charleroi) CRL FR1058
+19/05/19 Wizz Air 1 10.23 13:35 Carcassonn CCF 19:50 Warsaw WMIWarsaw (Modlin) WMI
+15/05/19 Wizz Air 1 13.73 15 Wa saw WMIWarsaw (Modlin) WMI 19:50 Warsaw WMIWarsaw (Modlin) WMI FR1055
+15/05/19 Wizz Air 1 10.43 09:15 Warsaw WMIWarsaw (Modlin) WMI 16:25 Bratislava BTS
+22/05/19 Ryanair 1 23.50 30 Br tislava BTS 16:25 Bratislava BTS FR2973
+10/05/19 Ryanair 1 19.99 17:55 Brussels CRLBrussels (Charleroi) CRL 14:15 Brussels CRLBrussels (Charleroi) CRL FR2974
+10/05/19 easyJet 1 2.33 15 Wa saw WMIWarsaw (Modlin) WMI 19:50 Warsaw WMIWarsaw (Modlin) WMI FR1055
+15/05/19 easyJet 1 13.61 18:10 Brussels CRLBrussels (Charleroi) CRL 11:20 Brussels CRLBrussels (Charleroi) CRL FR1058
+08/05/19 Wizz Air 1 10.23 09:15 Barcelona REUBarcelona (Reus) REU 18:30 Warsaw WMIWarsaw (Modlin) WMI
+08/05/19 Ryanair 1 9.08 16:35 Brussels CRLBrussels (Charleroi) CRL 11:20 Brussels CRLBrussels (Charleroi) CRL FR2829
+14/05/19 Ryanair 1 12.99 13:45 Gdansk GDN 16:30 Krakow KRK
+22/05/19 Ryanair 1 12.99 10 Kr kow KRK 16:30 Krakow KRK OE1304
+22/05/19 Ryanair 1 9.99 13:10 Krakow KRK 17:05 Gdansk GDN
+29/05/19 Ryanair 1 9.08 00 Wr claw WRO 17:05 Gdansk GDN FR8509
+22/05/19 Ryanair 1 12.99 15 Ki v IEVKiev (Zhuliany) IEV 13:45 Kiev IEVKiev (Zhuliany) IEV W66270
+22/05/19 Ryanair 1 12.99 14:15 Kiev IEVKiev (Zhuliany) IEV 15:05 Wroclaw WRO
+26/05/19 Ryanair 1 9.99 13:15 Katowice KTW 17:10 Stuttgart STR
+08/05/19 Ryanair 1 9.08 10 St ttgart STR 17:10 Stuttgart STR OE2309
+08/05/19 Ryanair 1 12.99 10:10 Stuttgart STR 17:00 Katowice KTW
+16/05/19 Ryanair 1 12.99 00 Wr claw WRO 17:00 Katowice KTW FR5426
+15/05/19 Ryanair 1 9.99 50 Bi mingham BHX 21:20 Birmingham BHX W61807
+15/05/19 Ryanair 1 9.08 21:50 Birmingham BHX 00:55 Wroclaw WRO
+23/05/19 Ryanair 1 12.99 13:45 Gdansk GDN 20:55 Milan MXPMilan (Malpensa) MXP
+18/05/19 Ryanair 1 12.99 10 Mi an MXPMilan (Malpensa) MXP 20:55 Milan MXPMilan (Malpensa) MXP W62847
+18/05/19 Ryanair 1 9.99 07:10 Milan MXPMilan (Malpensa) MXP 14:20 Gdansk GDN
+22/05/19 Ryanair 1 9.08 45 Ka owice KTW 14:20 Gdansk GDN FR2374
+17/05/19 Ryanair 1 12.99 14:45 Stockholm NYOStockholm (Skavsta) NYO 14:30 Stockholm NYOStockholm (Skavsta) NYO W61201
+17/05/19 Ryanair 1 12.99 20 Du sseldor DUS 16:35 Duesseldor DUS OE195
+22/05/19 Ryanair 1 9.99 15:10 Milan BGYMilan (Bergamo) BGY 08:00 Milan BGYMilan (Bergamo) BGY OE196
+18/05/19 Wizz Air 1 9.08 09:15 Warsaw WMIWarsaw (Modlin) WMI 21:45 Manchester MAN
+18/05/19 Laudamotion 1 12.99 21:20 Brussels CRLBrussels (Charleroi) CRL 11:20 Brussels CRLBrussels (Charleroi) CRL FR1058
+23/05/19 Ryanair 1 13.03 09:35 Manchester MAN 22:15 Warsaw WMIWarsaw (Modlin) WMI
+08/05/19 Ryanair 1 10.23 05 Kr kow KRK 22:15 Warsaw WMIWarsaw (Modlin) WMI FR546
+08/05/19 Wizz Air 1 25.37 17:05 Krakow KRK 20:05 Rome FCORome (Fiumicino) FCO
+15/05/19 Wizz Air 1 20.25 05 Ro e FCORome (Fiumicino) FCO 20:05 Rome FCORome (Fiumicino) FCO EW5884
+15/05/19 Ryanair 1 13.03 15:30 Vienna VIE 09:45 Vienna VIE OE1309
+15/05/19 Laudamotion 1 9.99 10 Gd nsk GDN 16:30 Krakow KRK OE1304
+23/05/19 Laudamotion 1 9.99 18:05 Vienna VIE 07:40 Vienna VIE W61781
+29/02/20 Ryanair 0 12.99 06:45 Bologna BLQ 14:20 Gdansk GDN
+07/03/20 Wizz Air 0 25.37 15 Wa saw WMIWarsaw (Modlin) WMI 14:20 Gdansk GDN FR2374
+04/05/19 Wizz Air 1 20.86 14:00 Brussels CRLBrussels (Charleroi) CRL 11:20 Brussels CRLBrussels (Charleroi) CRL FR1058
+04/05/19 Wizz Air 1 9.08 30 Mi an BGYMilan (Bergamo) BGY 15:30 Milan BGYMilan (Bergamo) BGY FR4526
+12/05/19 Wizz Air 1 14.99 08:50 London STNLondon (Stansted) STN 07:40 London STNLondon (Stansted) STN FR4191
+11/05/19 Ryanair 1 4.99 12:50 Wroclaw WRO 19:40 Bologna BLQ
+11/05/19 Ryanair 1 17.39 18:00 Brussels CRLBrussels (Charleroi) CRL 14:30 Brussels CRLBrussels (Charleroi) CRL FR8373
+15/05/19 Wizz Air 1 9.08 06:45 Bologna BLQ 11:30 Wroclaw WRO
+09/05/19 Laudamotion 1 14.84 15 Gd nsk GDN 11:30 Wroclaw WRO FR8405
+09/05/19 Laudamotion 1 9.99 06:15 Gdansk GDN 17:25 Tuzla TZL
+13/05/19 Ryanair 1 12.99 45 Tu la TZL 17:25 Tuzla TZL W64282
+13/05/19 Ryanair 0 9.08 16:25 Stockholm NYOStockholm (Skavsta) NYO 14:20 Stockholm NYOStockholm (Skavsta) NYO W64281
+20/05/19 Ryanair 1 12.99 09:15 Warsaw WMIWarsaw (Modlin) WMI 18:05 Edinburgh EDI
+20/05/19 Ryanair 1 15.07 17:25 Brussels CRLBrussels (Charleroi) CRL 11:20 Brussels CRLBrussels (Charleroi) CRL FR1058
+31/05/19 Ryanair 1 9.86 07:00 Edinburgh EDI 13:40 Warsaw WMIWarsaw (Modlin) WMI
+04/06/19 Laudamotion 0 9.08 15 Wa saw WMIWarsaw (Modlin) WMI 13:40 Warsaw WMIWarsaw (Modlin) WMI FR7011
+16/05/19 Eurowings 1 15.99 21:15 Brussels CRLBrussels (Charleroi) CRL 11:20 Brussels CRLBrussels (Charleroi) CRL FR1058
+16/05/19 Laudamotion 1 9.99 55 Pi a PSA 23:05 Pisa PSA FR3747
+24/05/19 Laudamotion 1 12.99 18:20 Brussels CRLBrussels (Charleroi) CRL 08:45 Brussels CRLBrussels (Charleroi) CRL FR3746
+16/05/19 Wizz Air 1 13.73 09:15 Warsaw WMIWarsaw (Modlin) WMI 15:30 Marseille MRS
+16/05/19 Laudamotion 1 9.99 13:50 Brussels CRLBrussels (Charleroi) CRL 11:20 Brussels CRLBrussels (Charleroi) CRL FR1058
+20/05/19 Ryanair 1 7.01 08:35 Marseille MRS 19:50 Warsaw WMIWarsaw (Modlin) WMI
+30/05/19 Ryanair 1 17.39 15 Wa saw WMIWarsaw (Modlin) WMI 19:50 Warsaw WMIWarsaw (Modlin) WMI FR1055
+30/05/19 Ryanair 1 9.08 09:15 Warsaw WMIWarsaw (Modlin) WMI 13:15 Turin TRN
+03/06/19 Ryanair 1 14.99 40 Tu in TRN 13:15 Turin TRN FR4864
+08/05/19 Ryanair 1 7.01 17:55 Brussels CRLBrussels (Charleroi) CRL 15:10 Brussels CRLBrussels (Charleroi) CRL FR4865
+08/05/19 Ryanair 1 17.39 15 Wa saw WMIWarsaw (Modlin) WMI 19:50 Warsaw WMIWarsaw (Modlin) WMI FR1055
+13/05/19 Ryanair 1 9.08 18:55 Brussels CRLBrussels (Charleroi) CRL 11:20 Brussels CRLBrussels (Charleroi) CRL FR1058
