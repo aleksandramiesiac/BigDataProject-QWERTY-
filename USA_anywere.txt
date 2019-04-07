@@ -1,0 +1,29 @@
+Data Przewoznik Czy_przesiadka Cena Godzina_odlotu Miejsce_odlotu Godzina_przylotu Miejsce_przylotu
+15/04/19 WOW air 0 89.99 18:45 Detroit DTW 04:40 Reykjavik KEFReykjavik (Keflavik) KEF
+19/04/19 WOW air 0 89.99 15:10 Reykjavik KEFReykjavik (Keflavik) KEF 17:45 Detroit DTW
+21/04/19 WOW air 0 89.99 19:10 Boston BOS 04:40 Reykjavik KEFReykjavik (Keflavik) KEF
+29/04/19 WOW air 0 89.99 15:50 Reykjavik KEFReykjavik (Keflavik) KEF 17:55 Boston BOS
+22/04/19 norwegian 0 79.00 20:50 Providence PVD 07:45 Cork ORK
+26/04/19 norwegian 0 129.00 16:20 Cork ORK 18:20 Providence PVD
+08/04/19 norwegian 0 79.00 20:25 Stewart SWF 07:35 Shannon SNN
+12/04/19 norwegian 0 129.00 15:40 Shannon SNN 17:50 Stewart SWF
+26/05/19 norwegian 0 90.91 20:55 Stewart SWF 08:15 Dublin DUB
+03/06/19 norwegian 0 119.90 14:30 Dublin DUB 16:50 Stewart SWF
+28/04/19 norwegian 0 98.78 20:35 Stewart SWF 09:40 Bergen BGO
+04/05/19 norwegian 0 112.10 16:30 Bergen BGO 18:10 Stewart SWF
+07/04/19 norwegian 0 79.00 20:55 Providence PVD 07:55 Shannon SNN
+12/04/19 norwegian 0 139.00 15:30 Shannon SNN 17:20 Providence PVD
+28/04/19 WOW air 0 89.99 18:45 Newark EWR 04:45 Reykjavik KEFReykjavik (Keflavik) KEF
+02/05/19 WOW air 0 139.99 15:10 Reykjavik KEFReykjavik (Keflavik) KEF 17:35 Newark EWR
+04/05/19 norwegian 0 149.90 23:00 Boston BOS 11:30 Madrid MAD
+09/05/19 norwegian 0 99.90 19:25 Madrid MAD 21:00 Boston BOS
+30/09/19 Level Openskies 0 149.70 22:40 Newark EWR 12:00 Paris ORYParis (Orly) ORY
+04/10/19 Level Openskies 0 128.94 18:15 Paris ORYParis (Orly) ORY 20:40 Newark EWR
+27/10/19 norwegian 0 139.90 23:59 New York JFKNew York (JFK) JFK 12:00 Madrid MAD
+31/10/19 norwegian 0 139.90 19:05 Madrid MAD 22:30 New York JFKNew York (JFK) JFK
+04/05/19 WOW air 0 145.99 19:00 Baltimore BWI 05:00 Reykjavik KEFReykjavik (Keflavik) KEF
+09/05/19 WOW air 0 125.99 15:30 Reykjavik KEFReykjavik (Keflavik) KEF 18:00 Baltimore BWI
+23/09/19 norwegian 0 139.90 18:30 Chicago O' ORD 09:50 Barcelona BCN
+27/09/19 norwegian 0 149.97 14:05 Barcelona BCN 16:30 Chicago O' ORD
+14/09/19 Jetairfly 0 148.99 15:40 Miami MIA 07:15 Brussels BRU
+21/09/19 Jetairfly 1 148.99 09:30 Brussels BRU 14:20 Miami MIA

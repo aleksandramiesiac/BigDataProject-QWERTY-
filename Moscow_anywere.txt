@@ -1,0 +1,467 @@
+Data Przewoznik Czy_przesiadka Cena Godzina_odlotu Miejsce_odlotu Godzina_przylotu Miejsce_przylotu
+13/04/19 Pobeda 0 20.44 17:50 Moscow VKOMoscow (Vnukovo) VKO 20:25 Ulyanovsk ULV
+17/04/19 Pobeda 0 20.44 21:05 Ulyanovsk ULV 21:40 Moscow VKOMoscow (Vnukovo) VKO
+16/09/19 Pobeda 0 28.62 14:25 Moscow VKOMoscow (Vnukovo) VKO 15:50 St Petersb LED
+24/09/19 Pobeda 0 13.62 21:10 St Petersb LED 22:45 Moscow VKOMoscow (Vnukovo) VKO
+27/09/19 Pobeda 0 28.62 10:00 Moscow VKOMoscow (Vnukovo) VKO 11:45 Kazan KZN
+05/10/19 Pobeda 0 13.62 20:15 Kazan KZN 21:45 Moscow VKOMoscow (Vnukovo) VKO
+13/05/19 Pobeda 0 28.62 08:00 Moscow VKOMoscow (Vnukovo) VKO 10:25 Magas IGT
+18/05/19 Pobeda 0 16.35 11:05 Magas IGT 13:40 Moscow VKOMoscow (Vnukovo) VKO
+11/04/19 Pobeda 0 23.16 09:10 Moscow VKOMoscow (Vnukovo) VKO 10:30 Cheboksary CSY
+19/04/19 Pobeda 0 23.16 11:00 Cheboksary CSY 12:20 Moscow VKOMoscow (Vnukovo) VKO
+15/05/19 Pobeda 0 23.85 10:10 Moscow VKOMoscow (Vnukovo) VKO 11:40 Petrozavod PES
+22/05/19 Pobeda 0 23.85 12:10 Petrozavod PES 13:35 Moscow VKOMoscow (Vnukovo) VKO
+09/02/20 Wizz Air 0 29.99 18:10 Moscow VKOMoscow (Vnukovo) VKO 18:45 Debrecen DEB
+16/02/20 Wizz Air 0 18.95 13:10 Debrecen DEB 17:35 Moscow VKOMoscow (Vnukovo) VKO
+08/04/19 Pobeda 0 28.62 17:00 Moscow VKOMoscow (Vnukovo) VKO 18:45 Nizhnekams NBC
+13/04/19 Pobeda 0 23.16 19:10 Nizhnekams NBC 21:05 Moscow VKOMoscow (Vnukovo) VKO
+03/07/19 Pobeda 0 23.38 19:20 Moscow VKOMoscow (Vnukovo) VKO 22:00 Samara KUF
+11/07/19 Pobeda 0 28.62 22:30 Samara KUF 23:20 Moscow VKOMoscow (Vnukovo) VKO
+10/04/19 Pobeda 0 28.62 18:30 Moscow VKOMoscow (Vnukovo) VKO 19:20 Kaliningra KGD
+17/04/19 Pobeda 0 23.85 19:45 Kaliningra KGD 22:40 Moscow VKOMoscow (Vnukovo) VKO
+18/05/19 Pobeda 0 28.62 22:25 Moscow VKOMoscow (Vnukovo) VKO 00:45 Krasnodar KRR
+22/05/19 Pobeda 0 28.62 17:20 Krasnodar KRR 19:35 Moscow VKOMoscow (Vnukovo) VKO
+31/08/19 Pobeda 0 28.62 20:15 Moscow VKOMoscow (Vnukovo) VKO 21:50 Kirov KVXKirov (Pobedilovo) KVX
+04/09/19 Pobeda 0 28.62 22:20 Kirov KVXKirov (Pobedilovo) KVX 23:55 Moscow VKOMoscow (Vnukovo) VKO
+16/10/19 Pobeda 0 28.62 21:00 Moscow VKOMoscow (Vnukovo) VKO 23:20 Mineralnye MRV
+24/10/19 Pobeda 0 28.62 07:05 Mineralnye MRV 09:25 Moscow VKOMoscow (Vnukovo) VKO
+16/05/19 Pobeda 0 29.07 12:15 Moscow VKOMoscow (Vnukovo) VKO 14:00 Rostov ROVRostov-on-Don ROV
+24/05/19 Pobeda 0 29.07 22:05 Rostov ROVRostov-on-Don ROV 23:55 Moscow VKOMoscow (Vnukovo) VKO
+10/04/19 Pobeda 0 29.98 07:50 Moscow VKOMoscow (Vnukovo) VKO 10:40 Volgograd VOG
+15/04/19 Pobeda 0 29.98 22:10 Volgograd VOG 23:00 Moscow VKOMoscow (Vnukovo) VKO
+17/05/19 Pobeda 0 35.45 09:20 Moscow VKOMoscow (Vnukovo) VKO 11:45 Vladikavka OGZVladikavkaz-Beslan OGZ
+21/05/19 Pobeda 0 28.62 12:25 Vladikavka OGZVladikavkaz-Beslan OGZ 14:50 Moscow VKOMoscow (Vnukovo) VKO
+15/05/19 Pobeda 0 35.45 20:50 Moscow VKOMoscow (Vnukovo) VKO 23:10 Sochi AER
+23/05/19 Pobeda 0 28.62 10:00 Sochi AER 12:20 Moscow VKOMoscow (Vnukovo) VKO
+18/04/19 Red Wings 0 34.63 15:30 Moscow DMEMoscow (Domodedovo) DME 17:40 Krasnodar KRR
+26/04/19 Red Wings 0 34.63 21:30 Krasnodar KRR 23:35 Moscow DMEMoscow (Domodedovo) DME
+23/05/19 Red Wings 0 35.31 18:10 Moscow DMEMoscow (Domodedovo) DME 21:20 Astrakhan ASF
+28/05/19 Red Wings 0 35.31 22:20 Astrakhan ASF 23:30 Moscow DMEMoscow (Domodedovo) DME
+15/05/19 Pobeda 0 35.45 07:05 Moscow VKOMoscow (Vnukovo) VKO 10:15 Astrakhan ASF
+22/05/19 Pobeda 0 35.45 10:40 Astrakhan ASF 11:55 Moscow VKOMoscow (Vnukovo) VKO
+15/05/19 Pobeda 0 36.08 17:15 Moscow VKOMoscow (Vnukovo) VKO 21:00 Gyumri LWN
+23/05/19 Pobeda 0 35.55 21:05 Gyumri LWN 22:55 Moscow VKOMoscow (Vnukovo) VKO
+14/04/19 Red Wings 0 39.40 01:35 Moscow DMEMoscow (Domodedovo) DME 05:30 Ufa UFA
+22/04/19 Red Wings 0 32.59 17:15 Ufa UFA 17:15 Moscow DMEMoscow (Domodedovo) DME
+10/04/19 Pobeda 0 31.35 09:45 Moscow VKOMoscow (Vnukovo) VKO 14:05 Ekaterinbu SVX
+18/04/19 Pobeda 0 40.89 06:20 Ekaterinbu SVX 06:55 Moscow VKOMoscow (Vnukovo) VKO
+24/06/19 Belavia 0 35.00 10:20 Moscow ZIAMoscow (Zhukovsky) ZIA 11:45 Minsk MSQ
+29/06/19 Belavia 0 39.43 08:15 Minsk MSQ 09:40 Moscow ZIAMoscow (Zhukovsky) ZIA
+11/04/19 Red Wings 0 40.77 11:15 Moscow DMEMoscow (Domodedovo) DME 13:30 Sochi AER
+18/04/19 Red Wings 0 33.95 14:40 Sochi AER 17:00 Moscow DMEMoscow (Domodedovo) DME
+18/04/19 Pobeda 0 37.48 00:40 Moscow VKOMoscow (Vnukovo) VKO 04:40 Perm PEE
+25/04/19 Pobeda 0 37.48 06:10 Perm PEE 06:15 Moscow VKOMoscow (Vnukovo) VKO
+10/04/19 Pobeda 1 23.86 08:35 Moscow VKOMoscow (Vnukovo) VKO 14:05 Kaliningra KGD
+10/04/19 Pobeda 1 28.62 13:30 St Petersb LED 10:00 St Petersb LED DP203
+17/04/19 Pobeda 1 23.85 14:30 Kaliningra KGD 17:30 Moscow VKOMoscow (Vnukovo) VKO
+11/04/19 Pobeda 0 23.86 14:25 Moscow VKOMoscow (Vnukovo) VKO 15:55 St Petersb LED
+17/04/19 Pobeda 1 28.62 13:30 St Petersb LED 17:30 Moscow VKOMoscow (Vnukovo) VKO
+17/04/19 Pobeda 1 23.85 14:30 Kaliningra KGD 14:05 Kaliningra KGD DP529
+10/04/19 Pobeda 1 28.62 08:00 Moscow VKOMoscow (Vnukovo) VKO 12:00 St Petersb LED
+17/04/19 Pobeda 0 23.86 55 St Petersb LED 12:00 St Petersb LED DP530
+17/04/19 Pobeda 0 23.86 55 Mo cow VKOMoscow (Vnukovo) VKO 09:25 Moscow VKOMoscow (Vnukovo) VKO DP208
+23/04/19 Pobeda 0 35.45 20 Ty men TJM 04:35 Tyumen TJM DP449
+17/04/19 Pobeda 0 40.89 00 Mo cow VKOMoscow (Vnukovo) VKO 07:10 Moscow VKOMoscow (Vnukovo) VKO DP450
+23/04/19 Pobeda 1 28.62 25 Ka iningra KGD 09:00 Kaliningra KGD DP261
+23/04/19 Pobeda 1 23.86 09:25 Kaliningra KGD 21:45 Moscow VKOMoscow (Vnukovo) VKO
+26/09/19 Pobeda 1 23.86 00 Mo cow VKOMoscow (Vnukovo) VKO 21:45 Moscow VKOMoscow (Vnukovo) VKO DP204
+02/10/19 Pobeda 0 28.62 23:50 Mineralnye MRV 23:20 Mineralnye MRV DP169
+10/02/20 Pobeda 0 35.45 18:45 Kazan KZN 20:15 Moscow VKOMoscow (Vnukovo) VKO
+18/02/20 Pobeda 0 13.62 11:05 Moscow VKOMoscow (Vnukovo) VKO 11:40 Budapest BUD
+15/04/19 Wizz Air 0 39.99 05:55 Budapest BUD 10:30 Moscow VKOMoscow (Vnukovo) VKO
+23/04/19 Wizz Air 1 38.24 17:00 Moscow VKOMoscow (Vnukovo) VKO 18:45 Nizhnekams NBC
+23/04/19 Pobeda 1 28.62 00 Ni hnekams NBC 18:45 Nizhnekams NBC DP441
+17/04/19 Pobeda 1 28.62 21:10 St Petersb LED 20:30 St Petersb LED DP528
+21/04/19 Pobeda 0 23.86 12:00 Moscow VKOMoscow (Vnukovo) VKO 17:35 Nizhnekams NBC
+12/04/19 Pobeda 0 23.86 10 Ni hnekams NBC 17:35 Nizhnekams NBC DP527
+19/04/19 Pobeda 0 28.62 15 Mo cow DMEMoscow (Domodedovo) DME 21:05 Moscow VKOMoscow (Vnukovo) VKO DP442
+08/04/19 Pobeda 1 28.62 30 Si feropol SIP 13:40 Simferopol SIP WZ307
+08/04/19 Red Wings 1 40.77 21:30 Simferopol SIP 23:50 Moscow DMEMoscow (Domodedovo) DME
+13/04/19 Red Wings 1 40.77 17:50 Moscow VKOMoscow (Vnukovo) VKO 21:40 Moscow VKOMoscow (Vnukovo) VKO
+10/04/19 Pobeda 0 20.44 50 Mo cow VKOMoscow (Vnukovo) VKO 21:40 Moscow VKOMoscow (Vnukovo) VKO DP466
+17/04/19 Pobeda 0 20.44 21:05 Ulyanovsk ULV 20:25 Ulyanovsk ULV DP465
+10/04/19 Pobeda 1 20.44 08:00 Moscow VKOMoscow (Vnukovo) VKO 10:30 Makhachkal MCX
+10/04/19 Pobeda 1 20.44 15 Ma hachkal MCX 10:30 Makhachkal MCX DP189
+15/04/19 Pobeda 1 40.89 35 Mo cow VKOMoscow (Vnukovo) VKO 18:55 Moscow VKOMoscow (Vnukovo) VKO DP192
+11/05/19 Pobeda 0 40.89 10:40 St Petersb LED 10:00 St Petersb LED DP203
+15/05/19 Pobeda 1 23.86 21:35 Cheboksary CSY 22:50 Moscow VKOMoscow (Vnukovo) VKO
+15/05/19 Pobeda 1 35.45 10 Mo cow VKOMoscow (Vnukovo) VKO 22:50 Moscow VKOMoscow (Vnukovo) VKO DP458
+16/10/19 Pobeda 1 23.16 25 Ch boksary CSY 10:30 Cheboksary CSY DP459
+22/10/19 Pobeda 1 23.16 21:10 St Petersb LED 15:35 St Petersb LED DP526
+22/10/19 Pobeda 1 35.45 30 Mo cow VKOMoscow (Vnukovo) VKO 22:45 Moscow VKOMoscow (Vnukovo) VKO DP206
+20/10/19 Pobeda 1 23.86 15 Kr snodar KRR 11:40 Krasnodar KRR DP155
+24/10/19 Pobeda 1 28.62 21:10 St Petersb LED 19:25 St Petersb LED DP510
+24/10/19 Pobeda 1 40.89 00 Mo cow VKOMoscow (Vnukovo) VKO 22:45 Moscow VKOMoscow (Vnukovo) VKO DP206
+11/10/19 Pobeda 1 13.62 25 So hi AER 22:20 Sochi AER DP113
+15/10/19 Pobeda 0 28.62 21:10 St Petersb LED 14:35 St Petersb LED DP306
+18/04/19 Pobeda 0 40.89 14:05 Moscow DMEMoscow (Domodedovo) DME 16:30 Makhachkal MCX
+23/04/19 Pobeda 0 13.62 17:30 Makhachkal MCX 20:05 Moscow DMEMoscow (Domodedovo) DME
+16/10/19 Red Wings 0 41.79 23:15 Moscow VKOMoscow (Vnukovo) VKO 07:20 Tomsk TOF
+22/10/19 Red Wings 1 41.79 08:00 Tomsk TOF 08:30 Moscow VKOMoscow (Vnukovo) VKO
+22/10/19 Pobeda 1 36.08 50 Mo cow VKOMoscow (Vnukovo) VKO 08:30 Moscow VKOMoscow (Vnukovo) VKO DP464
+14/10/19 Pobeda 1 47.71 15 Ka an KZN 11:20 Kazan KZN DP283
+22/10/19 Pobeda 1 28.62 20:10 St Petersb LED 15:25 St Petersb LED WZ5598
+22/10/19 Red Wings 1 41.59 10 Mo cow VKOMoscow (Vnukovo) VKO 21:45 Moscow VKOMoscow (Vnukovo) VKO DP204
+07/04/19 Pobeda 1 13.62 35 Ro tov ROVRostov-on-Don ROV 14:00 Rostov ROVRostov-on-Don ROV DP105
+11/04/19 Pobeda 0 29.07 20:10 St Petersb LED 17:20 St Petersb LED DP522
+10/04/19 Pobeda 0 42.25 23:40 Moscow VKOMoscow (Vnukovo) VKO 04:55 Surgut SGC
+17/04/19 Pobeda 1 13.62 06:00 Surgut SGC 07:30 Moscow VKOMoscow (Vnukovo) VKO
+17/04/19 Pobeda 1 40.89 50 Mo cow VKOMoscow (Vnukovo) VKO 07:30 Moscow VKOMoscow (Vnukovo) VKO DP260
+11/04/19 Pobeda 1 47.71 15 Vo gograd VOG 10:40 Volgograd VOG DP181
+19/04/19 Pobeda 0 29.98 21:10 St Petersb LED 12:50 St Petersb LED DP518
+19/04/19 Pobeda 0 35.45 14:25 Moscow VKOMoscow (Vnukovo) VKO 21:35 Volgograd VOG
+26/04/19 Pobeda 0 23.86 10 Vo gograd VOG 21:35 Volgograd VOG DP517
+17/05/19 Pobeda 0 23.86 20 Mo cow VKOMoscow (Vnukovo) VKO 23:00 Moscow VKOMoscow (Vnukovo) VKO DP182
+22/05/19 Pobeda 0 35.45 55 Le pzig LEJLeipzig-Halle LEJ 11:15 Leipzig LEJLeipzig-Halle LEJ DP817
+20/04/19 Pobeda 0 29.98 50 Mo cow VKOMoscow (Vnukovo) VKO 15:40 Moscow VKOMoscow (Vnukovo) VKO DP818
+25/04/19 Pobeda 0 45.09 05 Ei dhoven EIN 10:30 Eindhoven EIN DP913
+17/04/19 Pobeda 0 45.09 15 Mo cow VKOMoscow (Vnukovo) VKO 15:20 Moscow VKOMoscow (Vnukovo) VKO DP914
+22/04/19 Pobeda 0 45.09 45 Be lin TXLBerlin (Tegel) TXL 18:55 Berlin TXLBerlin (Tegel) TXL DP845
+24/04/19 Pobeda 0 45.09 50 Mo cow VKOMoscow (Vnukovo) VKO 19:15 Moscow VKOMoscow (Vnukovo) VKO DP846
+28/04/19 Pobeda 0 45.09 55 Ge ova GOA 10:45 Genova GOA DP909
+13/04/19 Pobeda 0 45.09 45 Mo cow DMEMoscow (Domodedovo) DME 15:25 Moscow VKOMoscow (Vnukovo) VKO DP910
+17/04/19 Pobeda 0 45.70 00 Ar hangels ARH 11:40 Arkhangels ARH WZ5119
+15/04/19 Pobeda 0 45.09 00 Mo cow DMEMoscow (Domodedovo) DME 08:55 Moscow DMEMoscow (Domodedovo) DME WZ5115
+22/04/19 Red Wings 0 46.70 30 Mu mansk MMK 13:30 Murmansk MMK WZ217
+06/06/19 Red Wings 0 46.70 50 Mo cow VKOMoscow (Vnukovo) VKO 16:50 Moscow DMEMoscow (Domodedovo) DME WZ218
+11/06/19 Red Wings 0 47.58 50 Ch lyabins CEK 04:15 Chelyabins CEK DP413
+22/05/19 Red Wings 1 47.58 05 Mo cow VKOMoscow (Vnukovo) VKO 06:20 Moscow VKOMoscow (Vnukovo) VKO DP414
+22/05/19 Pobeda 1 47.71 21:05 Moscow VKOMoscow (Vnukovo) VKO 23:15 Anapa AAQ
+30/05/19 Pobeda 1 47.71 08:00 Anapa AAQ 10:10 Moscow VKOMoscow (Vnukovo) VKO
+23/09/19 Pobeda 1 68.16 08:00 Moscow VKOMoscow (Vnukovo) VKO 11:10 Minsk MSQ
+23/09/19 Pobeda 1 28.62 09:10 Kaliningra KGD 09:00 Kaliningra KGD DP261
+30/09/19 Pobeda 1 28.62 18:20 Minsk MSQ 22:40 Moscow VKOMoscow (Vnukovo) VKO
+09/09/19 Belavia 1 18.00 10 Mo cow VKOMoscow (Vnukovo) VKO 22:40 Moscow VKOMoscow (Vnukovo) VKO DP264
+09/09/19 Belavia 1 22.44 09:10 Moscow VKOMoscow (Vnukovo) VKO 21:30 Rostov ROVRostov-on-Don ROV
+17/09/19 Pobeda 1 28.62 10 Ro tov ROVRostov-on-Don ROV 21:30 Rostov ROVRostov-on-Don ROV DP521
+09/09/19 Pobeda 0 28.62 10 Mo cow VKOMoscow (Vnukovo) VKO 18:05 Moscow VKOMoscow (Vnukovo) VKO DP104
+16/09/19 Pobeda 1 35.44 15:25 St Petersb LED 10:25 St Petersb LED DP205
+16/09/19 Pobeda 1 34.07 20 Ki ov KVXKirov (Pobedilovo) KVX 17:15 Kirov KVXKirov (Pobedilovo) KVX DP513
+11/04/19 Pobeda 1 28.62 15 Mo cow VKOMoscow (Vnukovo) VKO 23:55 Moscow VKOMoscow (Vnukovo) VKO DP276
+19/04/19 Pobeda 0 40.89 45 Ki ov KVXKirov (Pobedilovo) KVX 21:50 Kirov KVXKirov (Pobedilovo) KVX DP275
+17/04/19 Pobeda 1 28.62 21:10 St Petersb LED 19:50 St Petersb LED DP514
+17/04/19 Pobeda 1 28.62 30 Mo cow VKOMoscow (Vnukovo) VKO 22:45 Moscow VKOMoscow (Vnukovo) VKO DP206
+24/04/19 Pobeda 1 40.89 20:10 St Petersb LED 16:55 St Petersb LED DP203
+02/09/19 Pobeda 0 28.62 06:50 Krasnodar KRR 08:55 Moscow VKOMoscow (Vnukovo) VKO
+07/09/19 Pobeda 0 23.86 09:10 Moscow VKOMoscow (Vnukovo) VKO 14:05 Kaliningra KGD
+02/10/19 Red Wings 0 40.77 25 Ka iningra KGD 14:05 Kaliningra KGD DP529
+07/10/19 Pobeda 1 35.45 21:10 St Petersb LED 12:00 St Petersb LED DP530
+07/10/19 Pobeda 1 23.86 15 Mo cow VKOMoscow (Vnukovo) VKO 22:45 Moscow VKOMoscow (Vnukovo) VKO DP206
+24/05/19 Pobeda 1 28.62 20 Br tislava BTS 18:50 Bratislava BTS DP801
+29/05/19 Pobeda 0 23.86 00 Mo cow VKOMoscow (Vnukovo) VKO 22:50 Moscow VKOMoscow (Vnukovo) VKO DP802
+10/04/19 Pobeda 1 23.86 45 Mi eralnye MRV 23:20 Mineralnye MRV DP169
+10/04/19 Pobeda 1 47.04 14:45 Mineralnye MRV 22:45 Moscow VKOMoscow (Vnukovo) VKO
+17/04/19 Pobeda 1 53.17 05 Mo cow VKOMoscow (Vnukovo) VKO 22:45 Moscow VKOMoscow (Vnukovo) VKO DP206
+15/05/19 Pobeda 0 28.62 19:15 Sochi AER 18:30 Sochi AER DP115
+21/05/19 Pobeda 1 61.34 21:05 Ulyanovsk ULV 21:40 Moscow VKOMoscow (Vnukovo) VKO
+21/05/19 Pobeda 1 13.62 00 Mo cow VKOMoscow (Vnukovo) VKO 21:40 Moscow VKOMoscow (Vnukovo) VKO DP466
+10/04/19 Pobeda 1 47.71 09:25 Kaliningra KGD 09:00 Kaliningra KGD DP261
+17/04/19 Pobeda 1 28.62 13:30 St Petersb LED 17:30 Moscow VKOMoscow (Vnukovo) VKO
+17/04/19 Pobeda 1 28.62 14:30 Kaliningra KGD 14:05 Kaliningra KGD DP529
+20/05/19 Pobeda 1 28.62 09:45 Moscow VKOMoscow (Vnukovo) VKO 14:05 Ekaterinbu SVX
+24/05/19 Pobeda 1 23.86 05:30 Ekaterinbu SVX 09:25 Moscow VKOMoscow (Vnukovo) VKO
+24/05/19 Pobeda 1 28.62 07:05 Mineralnye MRV 06:35 Mineralnye MRV DP541
+16/05/19 Pobeda 1 23.85 08:35 Moscow VKOMoscow (Vnukovo) VKO 17:35 Nizhnekams NBC
+22/05/19 Pobeda 1 40.89 00 Ni hnekams NBC 17:35 Nizhnekams NBC DP527
+22/05/19 Pobeda 1 35.45 18:00 Nizhnekams NBC 22:45 Moscow VKOMoscow (Vnukovo) VKO
+17/05/19 Pobeda 1 28.62 10 Mo cow VKOMoscow (Vnukovo) VKO 22:45 Moscow VKOMoscow (Vnukovo) VKO DP206
+21/05/19 Pobeda 1 23.86 05 Bu apest BUD 23:45 Budapest BUD W62492
+21/05/19 Pobeda 1 28.62 15:05 Budapest BUD 22:50 Moscow VKOMoscow (Vnukovo) VKO
+16/05/19 Pobeda 1 28.62 40 Mo cow VKOMoscow (Vnukovo) VKO 22:50 Moscow VKOMoscow (Vnukovo) VKO DP804
+21/05/19 Pobeda 1 23.86 30 Pe m PEE 20:40 Perm PEE DP1433
+21/05/19 Wizz Air 1 34.99 05:30 Perm PEE 09:25 Moscow VKOMoscow (Vnukovo) VKO
+20/05/19 Ryanair 1 21.17 20 Mo cow VKOMoscow (Vnukovo) VKO 09:25 Moscow VKOMoscow (Vnukovo) VKO DP170
+24/05/19 Pobeda 0 50.11 50 Vl dikavka OGZVladikavkaz-Beslan OGZ 11:45 Vladikavka OGZVladikavkaz-Beslan OGZ DP195
+18/05/19 Pobeda 1 37.48 21:10 St Petersb LED 18:05 St Petersb LED DP508
+18/05/19 Pobeda 1 40.89 10 Mo cow VKOMoscow (Vnukovo) VKO 22:45 Moscow VKOMoscow (Vnukovo) VKO DP206
+25/05/19 Pobeda 1 28.62 35 Co ogne CGNCologne-Bonn CGN 10:25 Cologne CGNCologne-Bonn CGN DP819
+13/04/19 Pobeda 0 35.45 10:55 Milan BGYMilan (Bergamo) BGY 10:00 Milan BGYMilan (Bergamo) BGY FR5550
+17/04/19 Pobeda 0 47.71 08:10 Moscow VKOMoscow (Vnukovo) VKO 23:35 Milan BGYMilan (Bergamo) BGY
+20/05/19 Pobeda 1 23.86 25 Mi an BGYMilan (Bergamo) BGY 23:35 Milan BGYMilan (Bergamo) BGY FR5532
+20/05/19 Pobeda 1 45.09 18:25 Milan BGYMilan (Bergamo) BGY 22:50 Moscow VKOMoscow (Vnukovo) VKO
+26/05/19 Ryanair 1 12.99 21:00 Moscow VKOMoscow (Vnukovo) VKO 04:45 Perm PEE
+12/06/19 Pobeda 0 50.11 10 Pe m PEE 04:45 Perm PEE DP544
+19/06/19 Pobeda 0 45.09 40 Mo cow VKOMoscow (Vnukovo) VKO 06:15 Moscow VKOMoscow (Vnukovo) VKO DP434
+16/05/19 Ryanair 0 12.99 05 Om k OMS 04:00 Omsk OMS DP471
+23/05/19 Pobeda 0 50.11 00 Mo cow VKOMoscow (Vnukovo) VKO 05:45 Moscow VKOMoscow (Vnukovo) VKO DP472
+29/05/19 Pobeda 0 35.45 23:50 Mineralnye MRV 23:20 Mineralnye MRV DP169
+02/06/19 Pobeda 0 35.45 07:10 Ekaterinbu SVX 07:40 Moscow VKOMoscow (Vnukovo) VKO
+15/04/19 Pobeda 0 37.48 08:00 Moscow VKOMoscow (Vnukovo) VKO 10:10 Gelendzik GDZ
+23/04/19 Pobeda 0 54.52 10:40 Gelendzik GDZ 12:50 Moscow VKOMoscow (Vnukovo) VKO
+15/05/19 Pobeda 0 54.52 07:50 Moscow VKOMoscow (Vnukovo) VKO 10:40 Bari BRI
+23/05/19 Pobeda 0 28.62 11:20 Bari BRI 15:45 Moscow VKOMoscow (Vnukovo) VKO
+16/05/19 Pobeda 0 40.89 08:10 Moscow VKOMoscow (Vnukovo) VKO 10:25 Cologne CGNCologne-Bonn CGN
+23/05/19 Pobeda 0 40.89 10:50 Cologne CGNCologne-Bonn CGN 15:05 Moscow VKOMoscow (Vnukovo) VKO
+24/02/20 Pobeda 1 81.79 16:25 Moscow VKOMoscow (Vnukovo) VKO 18:45 Karlsruhe FKBKarlsruhe-Baden Baden FKB
+24/02/20 Pobeda 1 28.62 15 Ka lsruhe FKBKarlsruhe-Baden Baden FKB 18:45 Karlsruhe FKBKarlsruhe-Baden Baden FKB DP815
+28/02/20 Pobeda 1 45.09 50 Mo cow VKOMoscow (Vnukovo) VKO 23:30 Moscow VKOMoscow (Vnukovo) VKO DP816
+10/04/19 Pobeda 1 66.69 20 Ka lovy Va KLV 17:40 Karlovy Va KLV DP847
+10/04/19 Pobeda 1 45.09 18:20 Karlovy Va KLV 22:10 Moscow VKOMoscow (Vnukovo) VKO
+17/04/19 Pobeda 1 66.69 14:00 Moscow VKOMoscow (Vnukovo) VKO 16:40 Ostend OSTOstend-Bruges OST
+12/04/19 Pobeda 0 45.09 17:10 Ostend OSTOstend-Bruges OST 21:45 Moscow VKOMoscow (Vnukovo) VKO
+19/04/19 Pobeda 0 67.14 11:05 Moscow VKOMoscow (Vnukovo) VKO 14:50 Skopje SKP
+30/05/19 Pobeda 1 67.14 35 Sk pje SKP 14:50 Skopje SKP W62229
+30/05/19 Pobeda 1 45.09 15:35 Skopje SKP 22:30 Moscow VKOMoscow (Vnukovo) VKO
+07/06/19 Pobeda 1 45.09 35 Mo cow VKOMoscow (Vnukovo) VKO 22:30 Moscow VKOMoscow (Vnukovo) VKO W62491
+15/05/19 Pobeda 1 67.14 15:15 St Petersb LED 10:00 St Petersb LED DP203
+15/05/19 Wizz Air 1 49.99 35 So hi AER 18:25 Sochi AER DP305
+21/05/19 Wizz Air 1 14.28 25 Mo cow VKOMoscow (Vnukovo) VKO 23:55 Moscow VKOMoscow (Vnukovo) VKO DP120
+15/05/19 Wizz Air 1 9.74 15 Ve ice TSFVenice (Treviso) TSF 18:45 Venice TSFVenice (Treviso) TSF DP857
+15/05/19 Wizz Air 1 38.24 19:15 Venice TSFVenice (Treviso) TSF 23:35 Moscow VKOMoscow (Vnukovo) VKO
+22/05/19 Pobeda 1 23.86 10:20 Moscow ZIAMoscow (Zhukovsky) ZIA 18:20 Kaliningra KGD
+17/06/19 Pobeda 0 54.52 10 Ka iningra KGD 18:20 Kaliningra KGD B2949
+25/06/19 Pobeda 0 35.45 18:05 Minsk MSQ 11:10 Minsk MSQ B2948
+09/10/19 Pobeda 0 45.09 08:10 Moscow VKOMoscow (Vnukovo) VKO 22:55 Bordeaux BOD
+17/10/19 Pobeda 0 69.54 50 Bo deaux BOD 22:55 Bordeaux BOD FR6481
+16/05/19 Belavia 0 35.00 10:55 Milan BGYMilan (Bergamo) BGY 08:30 Milan BGYMilan (Bergamo) BGY FR5832
+22/05/19 Belavia 1 22.44 08:10 Moscow VKOMoscow (Vnukovo) VKO 15:25 London STNLondon (Stansted) STN
+22/05/19 Belavia 1 18.00 15:00 Cologne CGNCologne-Bonn CGN 10:25 Cologne CGNCologne-Bonn CGN DP819
+15/05/19 Belavia 1 39.44 06:25 London STNLondon (Stansted) STN 15:20 Moscow VKOMoscow (Vnukovo) VKO
+21/05/19 Pobeda 0 45.09 50 Mo cow DMEMoscow (Domodedovo) DME 15:20 Moscow VKOMoscow (Vnukovo) VKO DP914
+11/04/19 Ryanair 1 9.99 35 Mi sk MSQ 21:10 Minsk MSQ B2956
+11/04/19 Ryanair 1 9.99 16:35 Minsk MSQ 17:55 Moscow DMEMoscow (Domodedovo) DME
+17/04/19 Pobeda 1 50.11 21:50 Moscow VKOMoscow (Vnukovo) VKO 06:40 Krasnoyars KJA
+10/04/19 Pobeda 1 45.09 07:15 Krasnoyars KJA 08:20 Moscow VKOMoscow (Vnukovo) VKO
+10/04/19 Ryanair 1 9.99 50 Mo cow VKOMoscow (Vnukovo) VKO 08:20 Moscow VKOMoscow (Vnukovo) VKO DP418
+17/04/19 Ryanair 1 15.07 10 Ba i BRI 10:40 Bari BRI DP911
+13/05/19 Pobeda 0 45.09 18:25 Milan BGYMilan (Bergamo) BGY 14:45 Milan BGYMilan (Bergamo) BGY FR4668
+21/05/19 Belavia 1 58.00 15:30 Moscow VKOMoscow (Vnukovo) VKO 17:55 Milan BGYMilan (Bergamo) BGY
+21/05/19 Belavia 1 57.43 55 Mi an BGYMilan (Bergamo) BGY 17:55 Milan BGYMilan (Bergamo) BGY DP803
+14/04/19 Pobeda 1 61.34 30 Mo cow VKOMoscow (Vnukovo) VKO 15:20 Moscow VKOMoscow (Vnukovo) VKO DP806
+19/04/19 Pobeda 0 54.52 18:05 St Petersb LED 16:55 St Petersb LED DP203
+17/10/19 Pobeda 1 45.09 11:15 Volgograd VOG 21:45 Moscow VKOMoscow (Vnukovo) VKO
+17/10/19 Ryanair 1 22.03 20:10 St Petersb LED 12:50 St Petersb LED DP518
+22/10/19 Pobeda 1 50.11 08:35 Moscow VKOMoscow (Vnukovo) VKO 12:45 Cheboksary CSY
+15/05/19 Pobeda 1 67.14 25 Ch boksary CSY 12:45 Cheboksary CSY DP525
+15/05/19 Pobeda 1 50.11 13:25 Cheboksary CSY 22:45 Moscow VKOMoscow (Vnukovo) VKO
+22/05/19 Pobeda 1 23.86 00 Mo cow VKOMoscow (Vnukovo) VKO 22:45 Moscow VKOMoscow (Vnukovo) VKO DP206
+16/10/19 Pobeda 1 35.45 10 Ma hachkal MCX 10:30 Makhachkal MCX DP189
+16/10/19 Pobeda 1 35.45 11:10 Makhachkal MCX 22:45 Moscow VKOMoscow (Vnukovo) VKO
+22/10/19 Pobeda 1 23.86 10 Mo cow VKOMoscow (Vnukovo) VKO 22:45 Moscow VKOMoscow (Vnukovo) VKO DP206
+23/05/19 Pobeda 1 23.86 16:55 St Petersb LED 10:25 St Petersb LED DP205
+23/05/19 Pobeda 1 35.45 15 Ma hachkal MCX 20:30 Makhachkal MCX DP506
+29/05/19 Pobeda 1 35.45 00 Mo cow VKOMoscow (Vnukovo) VKO 18:55 Moscow VKOMoscow (Vnukovo) VKO DP192
+16/10/19 Pobeda 0 23.86 23:50 Mineralnye MRV 23:20 Mineralnye MRV DP169
+24/10/19 Pobeda 0 40.89 13:15 Kazan KZN 21:45 Moscow VKOMoscow (Vnukovo) VKO
+15/05/19 Pobeda 1 54.52 10 Mo cow VKOMoscow (Vnukovo) VKO 21:45 Moscow VKOMoscow (Vnukovo) VKO DP204
+15/05/19 Pobeda 1 23.86 08:10 Moscow VKOMoscow (Vnukovo) VKO 23:35 Milan BGYMilan (Bergamo) BGY
+22/05/19 Pobeda 1 23.86 10 Mi an BGYMilan (Bergamo) BGY 23:35 Milan BGYMilan (Bergamo) BGY FR5532
+11/04/19 Pobeda 0 54.52 11:05 Eindhoven EIN 10:45 Eindhoven EIN FR4535
+17/04/19 Pobeda 1 40.89 21:00 Moscow VKOMoscow (Vnukovo) VKO 04:50 Ekaterinbu SVX
+17/04/19 Pobeda 1 28.62 23:50 Mineralnye MRV 23:20 Mineralnye MRV DP169
+17/04/19 Pobeda 1 35.45 05:30 Ekaterinbu SVX 09:25 Moscow VKOMoscow (Vnukovo) VKO
+22/04/19 Red Wings 0 41.59 05 Mo cow VKOMoscow (Vnukovo) VKO 09:25 Moscow VKOMoscow (Vnukovo) VKO DP170
+11/04/19 Pobeda 1 13.62 12:30 Budapest BUD 11:40 Budapest BUD W62490
+11/04/19 Pobeda 1 45.09 25 Nu rnberg NUE 13:55 Nuernberg NUE FR220
+17/04/19 Ryanair 1 12.99 18:25 Milan BGYMilan (Bergamo) BGY 13:40 Milan BGYMilan (Bergamo) BGY FR5506
+16/05/19 Ryanair 1 17.99 23:00 Moscow VKOMoscow (Vnukovo) VKO 07:05 Novosibirs OVBNovosibirsk (Tolmachevo) OVB
+16/05/19 Pobeda 1 45.09 35 No osibirs OVBNovosibirsk (Tolmachevo) OVB 07:05 Novosibirs OVBNovosibirsk (Tolmachevo) OVB DP419
+22/05/19 Pobeda 1 28.62 10 Mo cow VKOMoscow (Vnukovo) VKO 07:55 Moscow VKOMoscow (Vnukovo) VKO DP420
+23/09/19 Pobeda 0 35.45 17:20 Cologne CGNCologne-Bonn CGN 10:25 Cologne CGNCologne-Bonn CGN DP819
+01/10/19 Pobeda 0 28.62 07:05 Berlin SXFBerlin (Schonefeld) SXF 22:50 Moscow VKOMoscow (Vnukovo) VKO
+18/05/19 Pobeda 1 28.62 15 Mo cow VKOMoscow (Vnukovo) VKO 22:50 Moscow VKOMoscow (Vnukovo) VKO DP804
+18/05/19 Wizz Air 1 49.99 08:15 Moscow VKOMoscow (Vnukovo) VKO 12:00 Larnaca LCA
+22/05/19 Ryanair 1 12.44 10:30 Larnaca LCA 16:35 Moscow VKOMoscow (Vnukovo) VKO
+26/05/19 Ryanair 1 9.99 10 Mo cow DMEMoscow (Domodedovo) DME 16:35 Moscow VKOMoscow (Vnukovo) VKO W67897
+26/05/19 Pobeda 1 50.11 22:10 Moscow DMEMoscow (Domodedovo) DME 06:10 Novosibirs OVBNovosibirsk (Tolmachevo) OVB
+30/05/19 Pobeda 1 61.34 15:45 Novosibirs OVBNovosibirsk (Tolmachevo) OVB 16:00 Moscow DMEMoscow (Domodedovo) DME
+16/05/19 Pobeda 0 61.34 14:25 Moscow VKOMoscow (Vnukovo) VKO 23:15 Krasnodar KRR
+22/05/19 Pobeda 1 45.09 15 Kr snodar KRR 23:15 Krasnodar KRR WZ647
+22/05/19 Ryanair 1 12.99 16:15 Krasnodar KRR 21:45 Moscow VKOMoscow (Vnukovo) VKO
+22/05/19 Ryanair 1 14.99 50 Mo cow VKOMoscow (Vnukovo) VKO 21:45 Moscow VKOMoscow (Vnukovo) VKO DP204
+28/05/19 Pobeda 1 50.11 12:45 Bari BRI 10:40 Bari BRI DP911
+28/05/19 Pobeda 1 67.14 30 Bu apest BUD 14:15 Budapest BUD W62362
+29/05/19 Wizz Air 1 19.99 10:55 Milan BGYMilan (Bergamo) BGY 10:05 Milan BGYMilan (Bergamo) BGY FR3165
+06/06/19 Wizz Air 1 38.24 09:10 Moscow VKOMoscow (Vnukovo) VKO 11:50 Pisa PSA
+06/06/19 Red Wings 1 68.04 30 Pi a PSA 11:50 Pisa PSA DP811
+16/05/19 Red Wings 1 61.22 10 Mo cow VKOMoscow (Vnukovo) VKO 22:10 Moscow VKOMoscow (Vnukovo) VKO DP812
+22/05/19 Pobeda 1 23.86 14:00 Cologne CGNCologne-Bonn CGN 10:25 Cologne CGNCologne-Bonn CGN DP819
+22/05/19 Red Wings 1 40.77 00 Co enhagen CPH 15:25 Copenhagen CPH FR409
+07/09/19 Pobeda 1 40.89 18:25 Milan BGYMilan (Bergamo) BGY 11:05 Milan BGYMilan (Bergamo) BGY FR2991
+14/09/19 Pobeda 0 23.86 17:10 Moscow VKOMoscow (Vnukovo) VKO 22:00 Malta MLA
+11/04/19 Pobeda 1 45.09 50 Ma ta MLA 22:00 Malta MLA W67877
+11/04/19 Wizz Air 1 19.99 05:50 Malta MLA 19:40 Moscow VKOMoscow (Vnukovo) VKO
+17/04/19 Ryanair 1 14.37 30 Mo cow VKOMoscow (Vnukovo) VKO 19:40 Moscow VKOMoscow (Vnukovo) VKO DP928
+22/05/19 Pobeda 1 50.11 10 Mi an BGYMilan (Bergamo) BGY 17:55 Milan BGYMilan (Bergamo) BGY DP803
+22/05/19 Pobeda 1 67.14 09:10 Milan BGYMilan (Bergamo) BGY 15:20 Moscow VKOMoscow (Vnukovo) VKO
+29/05/19 Pobeda 1 62.98 05 Mo cow VKOMoscow (Vnukovo) VKO 15:20 Moscow VKOMoscow (Vnukovo) VKO DP914
+22/05/19 Pobeda 1 45.09 19:50 Budapest BUD 11:40 Budapest BUD W62490
+22/05/19 Ryanair 1 14.99 55 Ro e FCORome (Fiumicino) FCO 21:40 Rome FCORome (Fiumicino) FCO W62341
+29/05/19 Ryanair 1 19.93 12:20 Bari BRI 09:00 Bari BRI FR7092
+22/05/19 Pobeda 1 50.11 14:35 Moscow VKOMoscow (Vnukovo) VKO 00:25 Sofia SOF
+22/05/19 Wizz Air 1 27.49 21:55 Bratislava BTS 16:10 Bratislava BTS DP801
+29/05/19 Wizz Air 1 20.82 07:40 Sofia SOF 22:15 Moscow VKOMoscow (Vnukovo) VKO
+16/05/19 Air Malta 1 36.73 10 Mo cow VKOMoscow (Vnukovo) VKO 22:15 Moscow VKOMoscow (Vnukovo) VKO DP804
+16/05/19 Pobeda 1 45.09 08:10 Moscow VKOMoscow (Vnukovo) VKO 19:20 Katowice KTW
+24/05/19 Pobeda 1 67.14 10 Ka owice KTW 19:20 Katowice KTW W61100
+13/05/19 Ryanair 1 17.99 11:05 Eindhoven EIN 09:05 Eindhoven EIN W61071
+13/05/19 Pobeda 1 45.09 05 Mo cow VKOMoscow (Vnukovo) VKO 15:20 Moscow VKOMoscow (Vnukovo) VKO DP914
+21/05/19 Wizz Air 1 49.99 50 Me mingen FMM 10:20 Memmingen FMM DP821
+20/05/19 Wizz Air 1 18.95 30 Mo cow VKOMoscow (Vnukovo) VKO 15:10 Moscow VKOMoscow (Vnukovo) VKO DP822
+20/05/19 Ryanair 1 16.52 15:30 Moscow VKOMoscow (Vnukovo) VKO 21:30 Rostov ROVRostov-on-Don ROV
+28/05/19 Pobeda 1 45.09 35 Ro tov ROVRostov-on-Don ROV 21:30 Rostov ROVRostov-on-Don ROV DP521
+22/05/19 Pobeda 1 38.08 20:10 St Petersb LED 17:20 St Petersb LED DP522
+22/05/19 Wizz Air 1 27.49 05 Mo cow VKOMoscow (Vnukovo) VKO 21:45 Moscow VKOMoscow (Vnukovo) VKO DP204
+30/05/19 Wizz Air 1 15.33 16:25 Budapest BUD 11:40 Budapest BUD W62490
+16/05/19 Pobeda 1 50.11 11:00 Stuttgart STR 22:50 Moscow VKOMoscow (Vnukovo) VKO
+16/05/19 Pobeda 1 45.09 18:25 Milan BGYMilan (Bergamo) BGY 12:05 Milan BGYMilan (Bergamo) BGY OE4436
+21/05/19 Wizz Air 1 27.49 08:10 Moscow VKOMoscow (Vnukovo) VKO 20:30 Madrid MAD
+22/05/19 Wizz Air 0 13.73 45 Ma rid MAD 20:30 Madrid MAD FR3016
+30/05/19 Pobeda 1 45.09 18:25 Milan BGYMilan (Bergamo) BGY 12:00 Milan BGYMilan (Bergamo) BGY FR6991
+30/05/19 Pobeda 1 79.63 10 Mo cow VKOMoscow (Vnukovo) VKO 22:50 Moscow VKOMoscow (Vnukovo) VKO DP804
+14/04/19 Pobeda 1 52.11 21:30 Cologne CGNCologne-Bonn CGN 10:25 Cologne CGNCologne-Bonn CGN DP819
+18/04/19 Pobeda 0 23.86 08:45 Palma Mall PMI 22:50 Moscow VKOMoscow (Vnukovo) VKO
+11/04/19 Pobeda 0 42.25 50 Mo cow VKOMoscow (Vnukovo) VKO 22:50 Moscow VKOMoscow (Vnukovo) VKO DP804
+16/04/19 Pobeda 0 42.25 21:50 Bari BRI 10:40 Bari BRI DP911
+20/05/19 Pobeda 0 23.86 17:30 Pisa PSA 22:10 Moscow VKOMoscow (Vnukovo) VKO
+25/05/19 Wizz Air 0 49.99 13:25 Moscow VKOMoscow (Vnukovo) VKO 18:50 Naples NAP
+18/05/19 Laudamotion 1 23.08 50 Na les NAP 18:50 Naples NAP FR334
+18/05/19 Laudamotion 1 9.99 08:50 Naples NAP 15:20 Moscow VKOMoscow (Vnukovo) VKO
+22/05/19 Pobeda 1 50.11 25 Mo cow VKOMoscow (Vnukovo) VKO 15:20 Moscow VKOMoscow (Vnukovo) VKO DP806
+22/05/19 Pobeda 1 45.09 18:40 Berlin TXLBerlin (Tegel) TXL 15:05 Berlin TXLBerlin (Tegel) TXL DP845
+22/05/19 Ryanair 1 19.99 55 Bu apest BUD 20:20 Budapest BUD U25655
+30/05/19 Ryanair 1 17.99 05 Mo cow VKOMoscow (Vnukovo) VKO 09:30 Moscow VKOMoscow (Vnukovo) VKO W62489
+27/09/19 Pobeda 0 50.11 20:10 Budapest BUD 11:40 Budapest BUD W62490
+03/10/19 Pobeda 0 45.09 07:05 Milan MXPMilan (Malpensa) MXP 19:40 Moscow VKOMoscow (Vnukovo) VKO
+12/04/19 Ryanair 0 19.99 50 Mo cow VKOMoscow (Vnukovo) VKO 19:40 Moscow VKOMoscow (Vnukovo) VKO DP928
+17/04/19 Ryanair 0 17.99 15:50 Bari BRI 10:40 Bari BRI DP911
+08/04/19 Pobeda 0 50.11 07:20 Frankfurt HHNFrankfurt (Hahn) HHN 16:55 Moscow VKOMoscow (Vnukovo) VKO
+16/04/19 Pobeda 0 45.09 10 Mo cow VKOMoscow (Vnukovo) VKO 16:55 Moscow VKOMoscow (Vnukovo) VKO DP912
+16/05/19 Ryanair 1 19.83 30 Pi a PSA 16:50 Pisa PSA DP811
+16/05/19 Pobeda 1 68.51 06:30 Pisa PSA 19:40 Moscow VKOMoscow (Vnukovo) VKO
+24/05/19 Pobeda 1 45.09 25 Mo cow VKOMoscow (Vnukovo) VKO 19:40 Moscow VKOMoscow (Vnukovo) VKO DP928
+17/05/19 Ryanair 1 14.99 10 Pa ermo PMO 11:25 Palermo PMO DP905
+17/05/19 Ryanair 1 23.38 12:10 Palermo PMO 17:10 Moscow VKOMoscow (Vnukovo) VKO
+22/05/19 Pobeda 1 50.11 08:15 Moscow VKOMoscow (Vnukovo) VKO 12:00 Larnaca LCA
+18/05/19 Pobeda 1 45.09 12:30 Larnaca LCA 16:10 Moscow VKOMoscow (Vnukovo) VKO
+18/05/19 easyJet 1 20.68 45 Mo cow VKOMoscow (Vnukovo) VKO 16:10 Moscow VKOMoscow (Vnukovo) VKO DP826
+22/05/19 Wizz Air 1 47.89 00 Is anbul SAWIstanbul (Sabiha Gokcen) SAW 15:10 Istanbul SAWIstanbul (Sabiha Gokcen) SAW DP1883
+22/05/19 Wizz Air 1 49.99 00 Mo cow VKOMoscow (Vnukovo) VKO 19:25 Moscow VKOMoscow (Vnukovo) VKO DP1884
+22/05/19 Wizz Air 1 18.95 08:00 Moscow VKOMoscow (Vnukovo) VKO 13:35 Timisoara TSR
+29/05/19 Ryanair 1 19.83 25 Ti isoara TSR 13:35 Timisoara TSR FR5511
+30/05/19 Pobeda 1 45.09 18:25 Milan BGYMilan (Bergamo) BGY 07:15 Milan BGYMilan (Bergamo) BGY W63551
+30/05/19 Pobeda 1 45.09 10 Mo cow VKOMoscow (Vnukovo) VKO 22:50 Moscow VKOMoscow (Vnukovo) VKO DP804
+06/06/19 Ryanair 1 12.99 12:00 Cologne CGNCologne-Bonn CGN 10:25 Cologne CGNCologne-Bonn CGN DP819
+15/05/19 Ryanair 1 8.99 06:30 Bologna BLQ 19:40 Moscow VKOMoscow (Vnukovo) VKO
+15/05/19 Pobeda 1 67.14 14:25 Catania CTA 08:10 Catania CTA FR1087
+22/05/19 Pobeda 1 67.14 15:20 Moscow DMEMoscow (Domodedovo) DME 18:25 Istanbul SAWIstanbul (Sabiha Gokcen) SAW
+16/05/19 Ryanair 1 22.03 11:45 Istanbul SAWIstanbul (Sabiha Gokcen) SAW 14:40 Moscow DMEMoscow (Domodedovo) DME
+16/05/19 Pobeda 1 45.09 35 Mo cow VKOMoscow (Vnukovo) VKO 14:40 Moscow DMEMoscow (Domodedovo) DME PC388
+22/05/19 Pobeda 1 67.14 05 Ul n-Ude UUDUlan-Ude (Baikal) UUD 07:35 Ulan-Ude UUDUlan-Ude (Baikal) UUD DP425
+20/05/19 Pobeda 1 67.14 20 Mo cow VKOMoscow (Vnukovo) VKO 09:30 Moscow VKOMoscow (Vnukovo) VKO DP426
+20/05/19 Pobeda 1 67.14 22:20 Moscow VKOMoscow (Vnukovo) VKO 06:40 Kemerovo KEJ
+28/05/19 Pobeda 1 67.14 07:30 Kemerovo KEJ 08:05 Moscow VKOMoscow (Vnukovo) VKO
+18/04/19 Pobeda 1 72.15 08:10 Moscow VKOMoscow (Vnukovo) VKO 13:20 Venice TSFVenice (Treviso) TSF
+18/04/19 Pobeda 1 62.51 11:50 Cologne CGNCologne-Bonn CGN 10:25 Cologne CGNCologne-Bonn CGN DP819
+23/04/19 Pobeda 1 67.14 19:15 Venice TSFVenice (Treviso) TSF 23:35 Moscow VKOMoscow (Vnukovo) VKO
+15/04/19 Ryanair 1 9.99 07:50 Moscow VKOMoscow (Vnukovo) VKO 16:05 Bratislava BTS
+15/04/19 Wizz Air 1 8.20 14:20 Eindhoven EIN 10:30 Eindhoven EIN DP913
+22/04/19 Pobeda 1 50.11 08:15 Bratislava BTS 22:50 Moscow VKOMoscow (Vnukovo) VKO
+18/04/19 Pobeda 1 45.09 00 Mo cow VKOMoscow (Vnukovo) VKO 22:50 Moscow VKOMoscow (Vnukovo) VKO DP804
+18/04/19 Ryanair 1 12.99 08:00 Moscow VKOMoscow (Vnukovo) VKO 17:55 Luxembourg LUX
+23/04/19 Ryanair 1 32.48 55 Lu embourg LUX 17:55 Luxembourg LUX FR5835
+30/05/19 Pobeda 1 45.09 10:55 Milan BGYMilan (Bergamo) BGY 10:10 Milan BGYMilan (Bergamo) BGY FR5836
+30/05/19 Pegasus 1 69.99 00 Mo cow VKOMoscow (Vnukovo) VKO 15:20 Moscow VKOMoscow (Vnukovo) VKO DP806
+06/06/19 Pegasus 1 66.00 14:45 Milan BGYMilan (Bergamo) BGY 10:25 Milan BGYMilan (Bergamo) BGY DP805
+21/09/19 Pobeda 1 68.16 12:20 Duesseldor DUS 22:50 Moscow VKOMoscow (Vnukovo) VKO
+21/09/19 Pobeda 1 68.16 18:25 Milan BGYMilan (Bergamo) BGY 14:00 Milan BGYMilan (Bergamo) BGY OE196
+25/09/19 Pobeda 1 68.16 10:05 Moscow VKOMoscow (Vnukovo) VKO 20:15 Brussels CRLBrussels (Charleroi) CRL
+15/05/19 Pobeda 1 68.16 20 Br ssels CRLBrussels (Charleroi) CRL 20:15 Brussels CRLBrussels (Charleroi) CRL FR8415
+15/05/19 Pobeda 1 45.09 06:20 Brussels CRLBrussels (Charleroi) CRL 22:15 Moscow VKOMoscow (Vnukovo) VKO
+21/05/19 Ryanair 1 22.02 10 Mo cow VKOMoscow (Vnukovo) VKO 22:15 Moscow VKOMoscow (Vnukovo) VKO DP804
+16/05/19 Pobeda 1 69.54 18:10 Cologne CGNCologne-Bonn CGN 10:25 Cologne CGNCologne-Bonn CGN DP819
+16/05/19 Pobeda 1 45.09 15 Ba celona BCN 20:15 Barcelona BCN FR2508
+22/05/19 Ryanair 1 26.51 10:55 Milan BGYMilan (Bergamo) BGY 08:00 Milan BGYMilan (Bergamo) BGY FR6353
+27/05/19 Ryanair 1 14.99 08:10 Moscow VKOMoscow (Vnukovo) VKO 20:25 Valencia VLC
+27/05/19 Pobeda 1 50.11 18:00 Cologne CGNCologne-Bonn CGN 10:25 Cologne CGNCologne-Bonn CGN DP819
+31/05/19 Pobeda 1 67.14 07:30 Valencia VLC 15:20 Moscow VKOMoscow (Vnukovo) VKO
+08/04/19 Ryanair 0 9.99 55 Mo cow VKOMoscow (Vnukovo) VKO 15:20 Moscow VKOMoscow (Vnukovo) VKO DP914
+12/04/19 Ryanair 0 9.99 11:35 Rostov ROVRostov-on-Don ROV 10:45 Rostov ROVRostov-on-Don ROV DP103
+13/05/19 Pobeda 1 50.11 14:50 Tbilisi TBS 23:55 Moscow VKOMoscow (Vnukovo) VKO
+13/05/19 Pobeda 1 67.14 22:05 Rostov ROVRostov-on-Don ROV 15:20 Rostov ROVRostov-on-Don ROV DP854
+21/05/19 Laudamotion 1 9.99 15:30 Moscow DMEMoscow (Domodedovo) DME 21:00 Moscow DMEMoscow (Domodedovo) DME
+15/05/19 Laudamotion 1 9.99 30 Mo cow DMEMoscow (Domodedovo) DME 21:00 Moscow DMEMoscow (Domodedovo) DME WZ258
+15/05/19 Pobeda 1 50.11 15:30 Moscow DMEMoscow (Domodedovo) DME 21:00 Moscow DMEMoscow (Domodedovo) DME
+22/05/19 Wizz Air 1 54.99 10 Mo cow VKOMoscow (Vnukovo) VKO 21:00 Moscow DMEMoscow (Domodedovo) DME WZ258
+18/07/19 Ryanair 1 14.37 15:25 St Petersb LED 10:25 St Petersb LED DP205
+18/07/19 Ryanair 1 17.99 45 Ki ov KVXKirov (Pobedilovo) KVX 17:15 Kirov KVXKirov (Pobedilovo) KVX DP513
+24/07/19 Pobeda 1 50.11 21:10 St Petersb LED 19:50 St Petersb LED DP514
+11/05/19 Pobeda 1 45.09 14:45 Moscow VKOMoscow (Vnukovo) VKO 21:00 Moscow DMEMoscow (Domodedovo) DME
+11/05/19 Ryanair 1 24.47 18:55 Krasnodar KRR 16:55 Krasnodar KRR DP155
+17/05/19 Ryanair 1 17.99 11:15 Moscow DMEMoscow (Domodedovo) DME 23:55 Moscow VKOMoscow (Vnukovo) VKO
+19/05/19 Pobeda 1 50.11 05 Mo cow VKOMoscow (Vnukovo) VKO 23:55 Moscow VKOMoscow (Vnukovo) VKO DP120
+19/05/19 Pobeda 1 45.09 10:05 Moscow VKOMoscow (Vnukovo) VKO 20:40 Prague PRG
+24/05/19 Ryanair 1 22.98 10 Pr gue PRG 20:40 Prague PRG FR4091
+24/05/19 Ryanair 1 24.99 17:45 Milan BGYMilan (Bergamo) BGY 11:35 Milan BGYMilan (Bergamo) BGY FR5508
+24/05/19 Pobeda 1 45.09 00 Mo cow VKOMoscow (Vnukovo) VKO 22:15 Moscow VKOMoscow (Vnukovo) VKO DP804
+31/05/19 Pobeda 1 29.07 23:50 Mineralnye MRV 23:20 Mineralnye MRV DP169
+18/05/19 Pobeda 1 36.08 05:30 Perm PEE 09:25 Moscow VKOMoscow (Vnukovo) VKO
+18/05/19 Pobeda 1 44.09 07:05 Mineralnye MRV 06:30 Mineralnye MRV DP543
+22/05/19 Pobeda 1 29.07 18:15 Moscow DMEMoscow (Domodedovo) DME 22:40 Moscow VKOMoscow (Vnukovo) VKO
+20/05/19 Red Wings 1 34.63 05 Mo cow VKOMoscow (Vnukovo) VKO 22:40 Moscow VKOMoscow (Vnukovo) VKO DP158
+20/05/19 Red Wings 1 34.63 07:05 Moscow VKOMoscow (Vnukovo) VKO 23:30 Moscow DMEMoscow (Domodedovo) DME
+24/05/19 Red Wings 1 34.63 10 Mo cow VKOMoscow (Vnukovo) VKO 23:30 Moscow DMEMoscow (Domodedovo) DME WZ196
+16/05/19 Red Wings 1 34.63 11:40 Cologne CGNCologne-Bonn CGN 10:25 Cologne CGNCologne-Bonn CGN DP819
+16/05/19 Pobeda 1 28.62 35 Fa o FAO 13:45 Faro FAO FR2658
+24/05/19 Pobeda 1 40.89 11:05 Eindhoven EIN 10:35 Eindhoven EIN FR7411
+11/04/19 Pobeda 0 40.89 07:50 Moscow VKOMoscow (Vnukovo) VKO 17:20 Krakow KRK
+16/04/19 Pobeda 0 28.62 00 Kr kow KRK 17:20 Krakow KRK FR5891
+13/07/19 Pobeda 1 35.45 20:05 Berlin TXLBerlin (Tegel) TXL 07:20 Berlin TXLBerlin (Tegel) TXL FR2696
+13/07/19 Red Wings 1 34.63 00 Mo cow VKOMoscow (Vnukovo) VKO 23:55 Moscow VKOMoscow (Vnukovo) VKO DP846
+18/07/19 Red Wings 1 40.77 00 Ch sinau KIV 21:00 Chisinau KIV 5F132
+20/05/19 Pobeda 1 28.62 25 Mo cow VKOMoscow (Vnukovo) VKO 18:00 Moscow VKOMoscow (Vnukovo) VKO 5F131
+20/05/19 Wizz Air 1 54.99 13:25 Moscow VKOMoscow (Vnukovo) VKO 22:35 Vienna VIE
+24/05/19 Ryanair 1 14.37 10 Vi nna VIE 22:35 Vienna VIE U25851
+18/05/19 Ryanair 1 20.61 10:55 Milan BGYMilan (Bergamo) BGY 07:40 Milan BGYMilan (Bergamo) BGY OE1318
+18/05/19 Pobeda 1 50.11 50 Mo cow VKOMoscow (Vnukovo) VKO 15:20 Moscow VKOMoscow (Vnukovo) VKO DP806
+22/05/19 Pobeda 1 28.62 15:10 Eindhoven EIN 10:30 Eindhoven EIN DP913
+10/04/19 Pobeda 1 40.89 06:50 Dublin DUB 22:50 Moscow VKOMoscow (Vnukovo) VKO
+10/04/19 Pobeda 1 35.45 18:25 Milan BGYMilan (Bergamo) BGY 10:15 Milan BGYMilan (Bergamo) BGY FR9428
+18/04/19 Pobeda 1 35.45 20:05 Moscow ZIAMoscow (Zhukovsky) ZIA 00:10 St Petersb LED
+19/05/19 Red Wings 1 34.63 35 St Petersb LED 00:10 St Petersb LED B2943
+19/05/19 Pobeda 1 35.45 05:35 St Petersb LED 19:30 Moscow ZIAMoscow (Zhukovsky) ZIA
+25/05/19 Pobeda 1 35.45 40 Mo cow VKOMoscow (Vnukovo) VKO 19:30 Moscow ZIAMoscow (Zhukovsky) ZIA B2973
+20/05/19 Red Wings 1 35.31 17:25 Memmingen FMM 13:55 Memmingen FMM DP821
+20/05/19 Pobeda 1 45.09 40 Br ndisi BDS 19:20 Brindisi BDS FR5129
+28/05/19 Ryanair 1 22.98 11:00 Milan BGYMilan (Bergamo) BGY 10:25 Milan BGYMilan (Bergamo) BGY FR8886
+13/05/19 Ryanair 1 27.73 12:45 Moscow VKOMoscow (Vnukovo) VKO 18:15 Ibiza IBZ
+13/05/19 Pobeda 1 45.09 15:25 Berlin TXLBerlin (Tegel) TXL 14:25 Berlin TXLBerlin (Tegel) TXL DP845
+21/05/19 Pobeda 1 45.09 10:25 Ibiza IBZ 22:50 Moscow VKOMoscow (Vnukovo) VKO
+17/04/19 Ryanair 1 19.99 05 Mo cow ZIAMoscow (Zhukovsky) ZIA 22:50 Moscow VKOMoscow (Vnukovo) VKO DP804
+17/04/19 Ryanair 1 9.08 20:05 Moscow ZIAMoscow (Zhukovsky) ZIA 01:35 Nizhny Nov GOJ
+25/04/19 Pobeda 1 67.14 45 Ni hny Nov GOJ 01:35 Nizhny Nov GOJ B2929
+23/05/19 FlyOne 1 62.00 08:15 Minsk MSQ 06:45 Minsk MSQ B2930
+23/05/19 FlyOne 1 79.32 10 Mo cow VKOMoscow (Vnukovo) VKO 09:40 Moscow ZIAMoscow (Zhukovsky) ZIA B2971
+29/05/19 Pobeda 1 45.09 19:50 Cologne CGNCologne-Bonn CGN 10:25 Cologne CGNCologne-Bonn CGN DP819
+29/05/19 easyJet 0 18.15 15:45 Cagliari CAG 22:50 Moscow VKOMoscow (Vnukovo) VKO
+02/06/19 Laudamotion 1 7.99 10 Mo cow VKOMoscow (Vnukovo) VKO 22:50 Moscow VKOMoscow (Vnukovo) VKO DP804
+02/06/19 Pobeda 1 50.11 08:10 Moscow VKOMoscow (Vnukovo) VKO 19:05 Craiova CRA
+20/05/19 Pobeda 1 45.09 10 Cr iova CRA 19:05 Craiova CRA W63988
+24/05/19 Ryanair 1 17.99 18:25 Milan BGYMilan (Bergamo) BGY 15:10 Milan BGYMilan (Bergamo) BGY W63751
+24/05/19 Ryanair 1 28.99 50 Mo cow VKOMoscow (Vnukovo) VKO 22:50 Moscow VKOMoscow (Vnukovo) VKO DP804
+20/05/19 Pobeda 1 50.11 21:50 Bari BRI 10:40 Bari BRI DP911
+27/05/19 Belavia 0 35.00 06:50 Pisa PSA 17:40 Moscow VKOMoscow (Vnukovo) VKO
+17/10/19 Belavia 1 36.43 15 Mo cow ZIAMoscow (Zhukovsky) ZIA 17:40 Moscow VKOMoscow (Vnukovo) VKO DP832
+17/10/19 Belavia 1 32.00 15:15 Moscow ZIAMoscow (Zhukovsky) ZIA 18:20 Istanbul ISTIstanbul (Ataturk) IST
+21/10/19 Belavia 1 39.43 11:30 Istanbul ISTIstanbul (Ataturk) IST 14:25 Moscow ZIAMoscow (Zhukovsky) ZIA
+24/06/19 Pobeda 1 52.11 10:20 Moscow ZIAMoscow (Zhukovsky) ZIA 19:30 Moscow ZIAMoscow (Zhukovsky) ZIA
+24/06/19 Ryanair 1 14.99 18:05 Minsk MSQ 11:45 Minsk MSQ B2972
+28/06/19 Ryanair 1 25.78 10:20 Moscow ZIAMoscow (Zhukovsky) ZIA 19:30 Moscow ZIAMoscow (Zhukovsky) ZIA
+17/04/19 Pobeda 1 50.11 10 Mo cow VKOMoscow (Vnukovo) VKO 19:30 Moscow ZIAMoscow (Zhukovsky) ZIA B2973
+17/04/19 Pobeda 1 45.09 08:10 Moscow VKOMoscow (Vnukovo) VKO 19:25 Berlin TXLBerlin (Tegel) TXL
+25/04/19 Ryanair 1 19.99 05 Be lin TXLBerlin (Tegel) TXL 19:25 Berlin TXLBerlin (Tegel) TXL U25908
+22/05/19 Ryanair 1 28.55 10 Mo cow VKOMoscow (Vnukovo) VKO 23:55 Moscow VKOMoscow (Vnukovo) VKO DP846
+22/05/19 Pobeda 1 50.11 08:10 Moscow VKOMoscow (Vnukovo) VKO 15:25 Lamezia Te SUF
+28/05/19 Belavia 1 35.00 30 La ezia Te SUF 15:25 Lamezia Te SUF EW854
+17/04/19 Belavia 1 37.44 10:55 Milan BGYMilan (Bergamo) BGY 10:20 Milan BGYMilan (Bergamo) BGY FR5093
+17/04/19 Belavia 1 33.00 35 Mo cow VKOMoscow (Vnukovo) VKO 15:20 Moscow VKOMoscow (Vnukovo) VKO DP806
+25/04/19 Belavia 1 39.43 15:15 St Petersb LED 10:00 St Petersb LED DP203
+30/05/19 Pobeda 1 45.09 11:25 Sochi AER 22:45 Moscow VKOMoscow (Vnukovo) VKO
+30/05/19 Eurowings 1 29.99 21:10 St Petersb LED 14:35 St Petersb LED DP306
+05/06/19 Ryanair 1 19.83 08:10 Moscow VKOMoscow (Vnukovo) VKO 16:30 Zadar ZAD
+19/05/19 Pobeda 1 50.11 40 Za ar ZAD 16:30 Zadar ZAD FR5282
+19/05/19 Pobeda 1 45.09 14:40 Zadar ZAD 23:25 Moscow VKOMoscow (Vnukovo) VKO
+23/05/19 Wizz Air 1 29.99 10 Mo cow VKOMoscow (Vnukovo) VKO 23:25 Moscow VKOMoscow (Vnukovo) VKO DP846
+17/04/19 Wizz Air 1 20.82 19:55 Cologne CGNCologne-Bonn CGN 10:25 Cologne CGNCologne-Bonn CGN DP819
+17/04/19 Pobeda 1 50.11 15 Ve ice VCEVenice (Marco Polo) VCE 21:25 Venice VCEVenice (Marco Polo) VCE EW814
+25/04/19 Pobeda 1 45.09 12:20 Bari BRI 07:40 Bari BRI U23305
