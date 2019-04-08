@@ -1,0 +1,541 @@
+Data Przewoznik Czy_przesiadka Cena Godzina_odlotu Miejsce_odlotu Godzina_przylotu Miejsce_przylotu
+13/05/19 Laudamotion 1 9.09 13:25 Krakow KRK 19:25 Madrid MAD
+13/05/19 Laudamotion 1 7.99 16:20 Vienna VIE 14:25 Vienna VIE OE1305
+21/05/19 Ryanair 1 8.99 19:25 Madrid MAD 12:50 Krakow KRK
+22/05/19 Ryanair 1 14.99 40 Wr claw WRO 12:50 Krakow KRK FR2426
+22/05/19 Ryanair 1 13.64 08:40 Wroclaw WRO 16:20 Barcelona GROBarcelona (Girona) GRO
+30/05/19 Ryanair 1 7.99 25 Ba celona GROBarcelona (Girona) GRO 16:20 Barcelona GROBarcelona (Girona) GRO FR9013
+22/05/19 Ryanair 1 12.99 10:45 Brussels CRLBrussels (Charleroi) CRL 08:25 Brussels CRLBrussels (Charleroi) CRL FR6901
+22/05/19 Ryanair 1 9.99 40 Wr claw WRO 12:25 Wroclaw WRO FR8372
+29/05/19 Ryanair 1 13.64 14:05 Malta MLA 11:15 Malta MLA FR3463
+22/05/19 Ryanair 1 7.99 06:25 Barcelona GROBarcelona (Girona) GRO 12:25 Wroclaw WRO
+22/05/19 Ryanair 1 12.99 10:45 Brussels CRLBrussels (Charleroi) CRL 08:25 Brussels CRLBrussels (Charleroi) CRL FR6901
+28/05/19 Ryanair 1 9.99 08:40 Wroclaw WRO 16:20 Barcelona GROBarcelona (Girona) GRO
+08/05/19 Ryanair 1 13.64 25 Ba celona GROBarcelona (Girona) GRO 16:20 Barcelona GROBarcelona (Girona) GRO FR9013
+08/05/19 Ryanair 1 7.99 06:25 Barcelona GROBarcelona (Girona) GRO 12:25 Wroclaw WRO
+14/05/19 Ryanair 1 12.99 15 Wa saw WMIWarsaw (Modlin) WMI 12:25 Wroclaw WRO FR8372
+18/05/19 Ryanair 1 9.99 06:50 Brussels CRLBrussels (Charleroi) CRL 11:20 Brussels CRLBrussels (Charleroi) CRL FR1058
+18/05/19 Ryanair 1 9.09 20 Ba celona REUBarcelona (Reus) REU 08:50 Barcelona REUBarcelona (Reus) REU FR2828
+23/05/19 Ryanair 1 12.99 06:55 Brussels CRLBrussels (Charleroi) CRL 22:25 Brussels CRLBrussels (Charleroi) CRL FR2829
+21/05/19 Ryanair 1 12.99 09:15 Warsaw WMIWarsaw (Modlin) WMI 16:40 Barcelona GROBarcelona (Girona) GRO
+21/05/19 Ryanair 1 9.99 14:50 Brussels CRLBrussels (Charleroi) CRL 11:20 Brussels CRLBrussels (Charleroi) CRL FR1058
+27/05/19 Ryanair 1 9.09 06:25 Barcelona GROBarcelona (Girona) GRO 20:15 Warsaw WMIWarsaw (Modlin) WMI
+10/05/19 Ryanair 1 12.99 40 Wa saw WMIWarsaw (Modlin) WMI 20:15 Warsaw WMIWarsaw (Modlin) WMI FR1055
+10/05/19 Ryanair 1 12.99 20:40 Warsaw WMIWarsaw (Modlin) WMI 10:40 Barcelona GROBarcelona (Girona) GRO
+14/05/19 Ryanair 1 9.99 45 Ba celona GROBarcelona (Girona) GRO 10:40 Barcelona GROBarcelona (Girona) GRO FR6902
+18/05/19 Ryanair 1 9.09 18:20 Brussels CRLBrussels (Charleroi) CRL 08:45 Brussels CRLBrussels (Charleroi) CRL FR6901
+18/05/19 Ryanair 1 12.99 40 Wa saw WMIWarsaw (Modlin) WMI 20:15 Warsaw WMIWarsaw (Modlin) WMI FR1055
+22/05/19 Ryanair 1 12.99 18:10 Brussels CRLBrussels (Charleroi) CRL 22:45 Brussels CRLBrussels (Charleroi) CRL FR1056
+17/05/19 Ryanair 1 9.99 20:20 Barcelona REUBarcelona (Reus) REU 08:50 Warsaw WMIWarsaw (Modlin) WMI
+17/05/19 Ryanair 1 9.09 06:55 Brussels CRLBrussels (Charleroi) CRL 22:25 Brussels CRLBrussels (Charleroi) CRL FR2829
+22/05/19 Ryanair 1 12.99 09:15 Warsaw WMIWarsaw (Modlin) WMI 10:55 Barcelona GROBarcelona (Girona) GRO
+18/05/19 Ryanair 1 12.99 25 Ba celona GROBarcelona (Girona) GRO 10:55 Barcelona GROBarcelona (Girona) GRO FR6902
+18/05/19 Ryanair 1 9.99 06:25 Barcelona GROBarcelona (Girona) GRO 20:15 Warsaw WMIWarsaw (Modlin) WMI
+23/05/19 Ryanair 1 9.09 15 Wa saw WMIWarsaw (Modlin) WMI 20:15 Warsaw WMIWarsaw (Modlin) WMI FR1055
+18/05/19 Ryanair 1 12.99 14:50 Brussels CRLBrussels (Charleroi) CRL 11:20 Brussels CRLBrussels (Charleroi) CRL FR1058
+18/05/19 Ryanair 1 12.99 25 Ba celona GROBarcelona (Girona) GRO 16:40 Barcelona GROBarcelona (Girona) GRO FR6902
+22/05/19 Ryanair 1 9.99 18:20 Brussels CRLBrussels (Charleroi) CRL 08:25 Brussels CRLBrussels (Charleroi) CRL FR6901
+17/05/19 Ryanair 1 9.09 09:15 Warsaw WMIWarsaw (Modlin) WMI 16:40 Barcelona GROBarcelona (Girona) GRO
+17/05/19 Ryanair 1 12.99 14:50 Brussels CRLBrussels (Charleroi) CRL 11:20 Brussels CRLBrussels (Charleroi) CRL FR1058
+23/05/19 Ryanair 1 12.99 06:25 Barcelona GROBarcelona (Girona) GRO 18:30 Warsaw WMIWarsaw (Modlin) WMI
+18/05/19 Ryanair 1 9.99 15 Wa saw WMIWarsaw (Modlin) WMI 18:30 Warsaw WMIWarsaw (Modlin) WMI FR1057
+18/05/19 Ryanair 1 9.09 09:15 Warsaw WMIWarsaw (Modlin) WMI 16:40 Barcelona GROBarcelona (Girona) GRO
+22/05/19 Ryanair 1 12.99 25 Ba celona GROBarcelona (Girona) GRO 16:40 Barcelona GROBarcelona (Girona) GRO FR6902
+18/05/19 Ryanair 1 12.99 18:20 Brussels CRLBrussels (Charleroi) CRL 08:25 Brussels CRLBrussels (Charleroi) CRL FR6901
+18/05/19 Ryanair 1 9.99 15 Wa saw WMIWarsaw (Modlin) WMI 20:15 Warsaw WMIWarsaw (Modlin) WMI FR1055
+22/05/19 Ryanair 1 9.09 14:50 Brussels CRLBrussels (Charleroi) CRL 11:20 Brussels CRLBrussels (Charleroi) CRL FR1058
+21/05/19 Ryanair 1 12.99 06:25 Barcelona GROBarcelona (Girona) GRO 18:30 Warsaw WMIWarsaw (Modlin) WMI
+21/05/19 Ryanair 1 12.99 16:35 Brussels CRLBrussels (Charleroi) CRL 08:25 Brussels CRLBrussels (Charleroi) CRL FR6901
+27/05/19 Ryanair 1 9.99 09:15 Warsaw WMIWarsaw (Modlin) WMI 16:40 Barcelona GROBarcelona (Girona) GRO
+18/05/19 Ryanair 1 9.09 25 Ba celona GROBarcelona (Girona) GRO 16:40 Barcelona GROBarcelona (Girona) GRO FR6902
+18/05/19 Ryanair 1 12.99 06:25 Barcelona GROBarcelona (Girona) GRO 18:30 Warsaw WMIWarsaw (Modlin) WMI
+23/05/19 Ryanair 1 12.99 15 Wa saw WMIWarsaw (Modlin) WMI 18:30 Warsaw WMIWarsaw (Modlin) WMI FR1057
+17/05/19 Ryanair 1 9.99 09:05 Brussels CRLBrussels (Charleroi) CRL 11:20 Brussels CRLBrussels (Charleroi) CRL FR1058
+17/05/19 Ryanair 1 9.09 25 Ba celona GROBarcelona (Girona) GRO 10:55 Barcelona GROBarcelona (Girona) GRO FR6902
+22/05/19 Ryanair 1 12.99 16:35 Brussels CRLBrussels (Charleroi) CRL 08:25 Brussels CRLBrussels (Charleroi) CRL FR6901
+16/05/19 Ryanair 1 12.99 20:40 Warsaw WMIWarsaw (Modlin) WMI 10:40 Barcelona GROBarcelona (Girona) GRO
+16/05/19 Ryanair 1 9.99 08:50 Brussels CRLBrussels (Charleroi) CRL 22:45 Brussels CRLBrussels (Charleroi) CRL FR1056
+21/05/19 Ryanair 1 9.09 06:45 Barcelona GROBarcelona (Girona) GRO 08:50 Warsaw WMIWarsaw (Modlin) WMI
+08/05/19 Ryanair 1 12.99 15 Wa saw WMIWarsaw (Modlin) WMI 08:50 Warsaw WMIWarsaw (Modlin) WMI FR1057
+08/05/19 Ryanair 1 12.99 09:15 Warsaw WMIWarsaw (Modlin) WMI 22:45 Barcelona GROBarcelona (Girona) GRO
+14/05/19 Ryanair 1 9.99 25 Ba celona GROBarcelona (Girona) GRO 22:45 Barcelona GROBarcelona (Girona) GRO FR6904
+10/05/19 Ryanair 1 9.09 18:20 Brussels CRLBrussels (Charleroi) CRL 08:25 Brussels CRLBrussels (Charleroi) CRL FR6901
+10/05/19 Ryanair 1 12.99 15 Wa saw WMIWarsaw (Modlin) WMI 20:15 Warsaw WMIWarsaw (Modlin) WMI FR1055
+14/05/19 Ryanair 1 12.99 14:50 Brussels CRLBrussels (Charleroi) CRL 11:20 Brussels CRLBrussels (Charleroi) CRL FR1058
+06/05/19 Ryanair 1 9.99 06:25 Barcelona GROBarcelona (Girona) GRO 18:30 Warsaw WMIWarsaw (Modlin) WMI
+06/05/19 Ryanair 1 9.09 16:35 Brussels CRLBrussels (Charleroi) CRL 08:25 Brussels CRLBrussels (Charleroi) CRL FR6901
+14/05/19 Ryanair 1 12.99 18:55 Warsaw WMIWarsaw (Modlin) WMI 09:05 Zaragoza ZAZ
+17/05/19 Ryanair 1 12.99 45 Za agoza ZAZ 09:05 Zaragoza ZAZ FR1382
+17/05/19 Ryanair 1 9.99 08:45 Zaragoza ZAZ 20:15 Warsaw WMIWarsaw (Modlin) WMI
+22/05/19 Ryanair 1 9.09 50 Wr claw WRO 20:15 Warsaw WMIWarsaw (Modlin) WMI FR1055
+10/05/19 Ryanair 1 12.99 06:50 Brussels CRLBrussels (Charleroi) CRL 14:30 Brussels CRLBrussels (Charleroi) CRL FR8373
+10/05/19 Ryanair 1 12.99 20 Ba celona REUBarcelona (Reus) REU 08:50 Barcelona REUBarcelona (Reus) REU FR2828
+14/05/19 Ryanair 1 9.99 10:45 Brussels CRLBrussels (Charleroi) CRL 22:25 Brussels CRLBrussels (Charleroi) CRL FR2829
+08/05/19 Ryanair 1 9.09 12:50 Wroclaw WRO 20:10 Barcelona REUBarcelona (Reus) REU
+08/05/19 Ryanair 1 12.99 18:10 Brussels CRLBrussels (Charleroi) CRL 14:30 Brussels CRLBrussels (Charleroi) CRL FR8373
+14/05/19 Ryanair 1 12.99 20:20 Barcelona REUBarcelona (Reus) REU 12:25 Wroclaw WRO
+08/05/19 Ryanair 1 9.99 50 Wr claw WRO 12:25 Wroclaw WRO FR8372
+08/05/19 Ryanair 1 9.09 12:50 Wroclaw WRO 19:55 Barcelona REUBarcelona (Reus) REU
+14/05/19 Ryanair 1 12.99 20 Ba celona REUBarcelona (Reus) REU 19:55 Barcelona REUBarcelona (Reus) REU FR2828
+06/05/19 Ryanair 1 12.99 10:45 Brussels CRLBrussels (Charleroi) CRL 22:25 Brussels CRLBrussels (Charleroi) CRL FR2829
+06/05/19 Ryanair 1 9.99 50 Wr claw WRO 12:25 Wroclaw WRO FR8372
+10/05/19 Ryanair 1 9.09 14:50 Brussels CRLBrussels (Charleroi) CRL 14:30 Brussels CRLBrussels (Charleroi) CRL FR8373
+17/05/19 Ryanair 1 12.99 18:25 Barcelona GROBarcelona (Girona) GRO 21:00 Wroclaw WRO
+17/05/19 Ryanair 1 12.99 40 Wa saw WMIWarsaw (Modlin) WMI 21:00 Wroclaw WRO FR9172
+22/05/19 Ryanair 1 9.99 18:10 Brussels CRLBrussels (Charleroi) CRL 22:45 Brussels CRLBrussels (Charleroi) CRL FR1056
+16/05/19 Ryanair 1 9.09 20:20 Barcelona REUBarcelona (Reus) REU 19:50 Warsaw WMIWarsaw (Modlin) WMI
+16/05/19 Ryanair 1 12.99 17:55 Brussels CRLBrussels (Charleroi) CRL 22:25 Brussels CRLBrussels (Charleroi) CRL FR2829
+21/05/19 Ryanair 1 12.99 20:15 Warsaw WMIWarsaw (Modlin) WMI 08:50 Barcelona REUBarcelona (Reus) REU
+16/05/19 Ryanair 1 9.99 20 Ba celona REUBarcelona (Reus) REU 08:50 Barcelona REUBarcelona (Reus) REU FR2828
+16/05/19 Ryanair 1 9.09 20:20 Barcelona REUBarcelona (Reus) REU 19:50 Warsaw WMIWarsaw (Modlin) WMI
+21/05/19 Ryanair 1 12.99 15 Wa saw WMIWarsaw (Modlin) WMI 19:50 Warsaw WMIWarsaw (Modlin) WMI FR1055
+18/05/19 Ryanair 1 22.98 06:50 Brussels CRLBrussels (Charleroi) CRL 11:20 Brussels CRLBrussels (Charleroi) CRL FR1058
+18/05/19 Ryanair 1 9.09 20 Ba celona REUBarcelona (Reus) REU 08:50 Barcelona REUBarcelona (Reus) REU FR2828
+23/05/19 Ryanair 1 12.99 17:55 Brussels CRLBrussels (Charleroi) CRL 22:25 Brussels CRLBrussels (Charleroi) CRL FR2829
+16/05/19 Ryanair 1 12.99 12:50 Wroclaw WRO 10:40 Barcelona GROBarcelona (Girona) GRO
+16/05/19 Ryanair 1 9.99 08:50 Brussels CRLBrussels (Charleroi) CRL 14:30 Brussels CRLBrussels (Charleroi) CRL FR8373
+21/05/19 Ryanair 1 9.09 06:25 Barcelona GROBarcelona (Girona) GRO 12:25 Wroclaw WRO
+13/05/19 Ryanair 1 12.99 50 Wr claw WRO 12:25 Wroclaw WRO FR8372
+13/05/19 Ryanair 1 12.99 12:50 Wroclaw WRO 16:40 Barcelona GROBarcelona (Girona) GRO
+21/05/19 Ryanair 1 9.99 25 Ba celona GROBarcelona (Girona) GRO 16:40 Barcelona GROBarcelona (Girona) GRO FR6902
+06/05/19 Ryanair 1 9.09 10:45 Brussels CRLBrussels (Charleroi) CRL 08:25 Brussels CRLBrussels (Charleroi) CRL FR6901
+06/05/19 Ryanair 1 12.99 55 Wa saw WMIWarsaw (Modlin) WMI 12:25 Wroclaw WRO FR8372
+14/05/19 Ryanair 1 12.99 07:05 Brussels CRLBrussels (Charleroi) CRL 21:00 Brussels CRLBrussels (Charleroi) CRL FR1058
+17/05/19 Ryanair 1 9.99 08:45 Zaragoza ZAZ 08:50 Warsaw WMIWarsaw (Modlin) WMI
+17/05/19 Ryanair 1 9.09 06:55 Brussels CRLBrussels (Charleroi) CRL 10:50 Brussels CRLBrussels (Charleroi) CRL FR1383
+21/05/19 Ryanair 1 12.99 20:40 Warsaw WMIWarsaw (Modlin) WMI 09:05 Zaragoza ZAZ
+18/05/19 Ryanair 1 12.99 45 Za agoza ZAZ 09:05 Zaragoza ZAZ FR1382
+18/05/19 Ryanair 1 9.99 08:45 Zaragoza ZAZ 20:15 Warsaw WMIWarsaw (Modlin) WMI
+23/05/19 Ryanair 1 9.09 15 Wa saw WMIWarsaw (Modlin) WMI 20:15 Warsaw WMIWarsaw (Modlin) WMI FR1055
+08/05/19 Ryanair 1 12.99 09:05 Brussels CRLBrussels (Charleroi) CRL 11:20 Brussels CRLBrussels (Charleroi) CRL FR1058
+08/05/19 Ryanair 1 12.99 25 Ba celona GROBarcelona (Girona) GRO 10:55 Barcelona GROBarcelona (Girona) GRO FR6902
+14/05/19 Ryanair 1 9.99 18:20 Brussels CRLBrussels (Charleroi) CRL 08:25 Brussels CRLBrussels (Charleroi) CRL FR6901
+17/05/19 Ryanair 1 9.09 20:40 Warsaw WMIWarsaw (Modlin) WMI 09:05 Zaragoza ZAZ
+17/05/19 Ryanair 1 12.99 07:05 Brussels CRLBrussels (Charleroi) CRL 22:45 Brussels CRLBrussels (Charleroi) CRL FR1056
+23/05/19 Ryanair 1 12.99 08:45 Zaragoza ZAZ 08:50 Warsaw WMIWarsaw (Modlin) WMI
+17/05/19 Ryanair 1 9.99 50 Wr claw WRO 08:50 Warsaw WMIWarsaw (Modlin) WMI FR1057
+17/05/19 Ryanair 1 9.09 12:50 Wroclaw WRO 08:20 Zaragoza ZAZ
+21/05/19 Ryanair 1 12.99 45 Za agoza ZAZ 08:20 Zaragoza ZAZ FR1382
+14/05/19 Ryanair 1 12.99 10:45 Brussels CRLBrussels (Charleroi) CRL 10:50 Brussels CRLBrussels (Charleroi) CRL FR1383
+14/05/19 Ryanair 1 9.99 50 Wr claw WRO 12:25 Wroclaw WRO FR8372
+21/05/19 Ryanair 1 9.09 08:50 Brussels CRLBrussels (Charleroi) CRL 14:30 Brussels CRLBrussels (Charleroi) CRL FR8373
+14/05/19 Ryanair 1 12.99 06:25 Barcelona GROBarcelona (Girona) GRO 12:25 Wroclaw WRO
+14/05/19 Ryanair 1 12.99 10:45 Brussels CRLBrussels (Charleroi) CRL 08:25 Brussels CRLBrussels (Charleroi) CRL FR6901
+21/05/19 Ryanair 1 9.99 12:50 Wroclaw WRO 16:40 Barcelona GROBarcelona (Girona) GRO
+14/05/19 Ryanair 1 9.09 25 Ba celona GROBarcelona (Girona) GRO 16:40 Barcelona GROBarcelona (Girona) GRO FR6902
+14/05/19 Ryanair 1 12.99 06:25 Barcelona GROBarcelona (Girona) GRO 12:25 Wroclaw WRO
+21/05/19 Ryanair 1 12.99 15 Wa saw WMIWarsaw (Modlin) WMI 12:25 Wroclaw WRO FR8372
+14/05/19 Ryanair 1 9.99 20:55 Brussels CRLBrussels (Charleroi) CRL 11:20 Brussels CRLBrussels (Charleroi) CRL FR1058
+14/05/19 Ryanair 1 9.09 25 Ba celona GROBarcelona (Girona) GRO 22:45 Barcelona GROBarcelona (Girona) GRO FR6904
+21/05/19 Ryanair 1 12.99 16:35 Brussels CRLBrussels (Charleroi) CRL 08:25 Brussels CRLBrussels (Charleroi) CRL FR6901
+18/05/19 Ryanair 0 12.99 20:15 Warsaw WMIWarsaw (Modlin) WMI 08:50 Barcelona REUBarcelona (Reus) REU
+23/05/19 Ryanair 1 9.99 20 Ba celona REUBarcelona (Reus) REU 08:50 Barcelona REUBarcelona (Reus) REU FR2828
+23/05/19 Ryanair 1 9.09 20:20 Barcelona REUBarcelona (Reus) REU 08:50 Warsaw WMIWarsaw (Modlin) WMI
+18/05/19 Ryanair 1 12.99 15 Wa saw WMIWarsaw (Modlin) WMI 08:50 Warsaw WMIWarsaw (Modlin) WMI FR1057
+22/05/19 Ryanair 1 12.99 14:50 Brussels CRLBrussels (Charleroi) CRL 11:20 Brussels CRLBrussels (Charleroi) CRL FR1058
+22/05/19 Ryanair 1 9.99 25 Ba celona GROBarcelona (Girona) GRO 16:40 Barcelona GROBarcelona (Girona) GRO FR6902
+18/05/19 Ryanair 1 9.09 18:20 Brussels CRLBrussels (Charleroi) CRL 08:25 Brussels CRLBrussels (Charleroi) CRL FR6901
+23/05/19 Ryanair 1 12.99 09:15 Warsaw WMIWarsaw (Modlin) WMI 16:40 Barcelona GROBarcelona (Girona) GRO
+23/05/19 Ryanair 1 12.99 14:50 Brussels CRLBrussels (Charleroi) CRL 11:20 Brussels CRLBrussels (Charleroi) CRL FR1058
+18/05/19 Ryanair 1 9.99 06:25 Barcelona GROBarcelona (Girona) GRO 20:15 Warsaw WMIWarsaw (Modlin) WMI
+22/05/19 Ryanair 1 9.09 10 Sz zecin SZZ 20:15 Warsaw WMIWarsaw (Modlin) WMI FR1055
+22/05/19 Ryanair 1 12.99 22:10 Szczecin SZZ 12:00 Madrid MAD
+13/05/19 Ryanair 1 12.99 15 Ma rid MAD 12:00 Madrid MAD FR5994
+21/05/19 Ryanair 1 9.99 18:50 London STNLondon (Stansted) STN 07:45 London STNLondon (Stansted) STN FR5993
+21/05/19 Ryanair 1 9.09 10 Sz zecin SZZ 21:45 Szczecin SZZ FR2466
+16/05/19 Ryanair 1 12.99 06:25 London STNLondon (Stansted) STN 23:05 London STNLondon (Stansted) STN FR2467
+21/05/19 Ryanair 1 12.99 10:35 Madrid MAD 21:45 Szczecin SZZ
+21/05/19 Ryanair 1 9.99 18:50 London STNLondon (Stansted) STN 12:05 London STNLondon (Stansted) STN FR5991
+16/05/19 Ryanair 1 9.09 22:10 Szczecin SZZ 12:00 Madrid MAD
+21/05/19 Ryanair 1 12.99 35 Ma rid MAD 12:00 Madrid MAD FR5994
+21/05/19 Ryanair 1 12.99 10:35 Madrid MAD 21:45 Szczecin SZZ
+08/05/19 Ryanair 1 9.99 10 Sz zecin SZZ 21:45 Szczecin SZZ FR2466
+13/05/19 Ryanair 1 9.09 06:25 London STNLondon (Stansted) STN 23:05 London STNLondon (Stansted) STN FR2467
+13/05/19 Ryanair 1 12.99 15 Ma rid MAD 10:00 Madrid MAD FR5992
+15/05/19 Ryanair 1 12.99 18:50 London STNLondon (Stansted) STN 07:45 London STNLondon (Stansted) STN FR5993
+22/05/19 Ryanair 1 9.99 20:55 Warsaw WMIWarsaw (Modlin) WMI 00:30 Madrid MAD
+22/05/19 Ryanair 1 13.05 40 Ma rid MAD 00:30 Madrid MAD FR1063
+15/05/19 Ryanair 1 10.44 16:35 Brussels CRLBrussels (Charleroi) CRL 09:00 Brussels CRLBrussels (Charleroi) CRL FR5462
+22/05/19 Ryanair 1 8.99 20:55 Warsaw WMIWarsaw (Modlin) WMI 00:30 Madrid MAD
+22/05/19 Ryanair 1 15.08 10 Ma rid MAD 00:30 Madrid MAD FR1063
+08/05/19 Ryanair 1 13.05 16:35 Brussels CRLBrussels (Charleroi) CRL 09:30 Brussels CRLBrussels (Charleroi) CRL FR5462
+13/05/19 Ryanair 1 10.44 20:55 Warsaw WMIWarsaw (Modlin) WMI 00:30 Madrid MAD
+13/05/19 Ryanair 1 8.99 40 Ma rid MAD 00:30 Madrid MAD FR1063
+08/05/19 Ryanair 1 15.08 18:20 Brussels CRLBrussels (Charleroi) CRL 09:00 Brussels CRLBrussels (Charleroi) CRL FR5462
+14/05/19 Ryanair 1 13.05 20:55 Warsaw WMIWarsaw (Modlin) WMI 00:30 Madrid MAD
+14/05/19 Ryanair 1 10.44 10 Ma rid MAD 00:30 Madrid MAD FR1063
+14/05/19 Ryanair 1 8.99 18:20 Brussels CRLBrussels (Charleroi) CRL 09:30 Brussels CRLBrussels (Charleroi) CRL FR5462
+20/05/19 Ryanair 1 15.08 13:25 Krakow KRK 08:50 Madrid MAD
+20/05/19 Ryanair 1 13.05 05:50 Vienna VIE 14:25 Vienna VIE OE1305
+14/05/19 Ryanair 1 10.44 19:25 Madrid MAD 12:50 Krakow KRK
+22/05/19 Ryanair 1 8.99 40 Wa saw WMIWarsaw (Modlin) WMI 12:50 Krakow KRK FR2426
+22/05/19 Ryanair 1 15.08 20:40 Warsaw WMIWarsaw (Modlin) WMI 09:05 Zaragoza ZAZ
+14/05/19 Ryanair 1 19.81 45 Za agoza ZAZ 09:05 Zaragoza ZAZ FR1382
+20/05/19 Ryanair 1 17.99 17:55 Brussels CRLBrussels (Charleroi) CRL 10:50 Brussels CRLBrussels (Charleroi) CRL FR1383
+20/05/19 Ryanair 1 9.99 55 Wa saw WMIWarsaw (Modlin) WMI 19:50 Warsaw WMIWarsaw (Modlin) WMI FR1055
+22/05/19 Ryanair 1 19.81 07:05 Brussels CRLBrussels (Charleroi) CRL 21:00 Brussels CRLBrussels (Charleroi) CRL FR1058
+30/05/19 Ryanair 1 17.99 08:45 Zaragoza ZAZ 19:50 Warsaw WMIWarsaw (Modlin) WMI
+30/05/19 Ryanair 1 9.99 17:55 Brussels CRLBrussels (Charleroi) CRL 10:50 Brussels CRLBrussels (Charleroi) CRL FR1383
+14/05/19 Ryanair 1 19.81 09:15 Warsaw WMIWarsaw (Modlin) WMI 19:10 Santander SDR
+22/05/19 Ryanair 1 17.99 15 Sa tander SDR 19:10 Santander SDR FR6057
+22/05/19 Ryanair 1 9.99 20:15 Santander SDR 08:50 Warsaw WMIWarsaw (Modlin) WMI
+07/05/19 Ryanair 1 19.81 15 Wa saw WMIWarsaw (Modlin) WMI 08:50 Warsaw WMIWarsaw (Modlin) WMI FR1057
+14/05/19 Ryanair 1 17.99 17:15 Brussels CRLBrussels (Charleroi) CRL 11:20 Brussels CRLBrussels (Charleroi) CRL FR1058
+14/05/19 Ryanair 1 9.99 35 Sa tander SDR 19:10 Santander SDR FR6057
+14/05/19 Laudamotion 1 9.09 16:35 Brussels CRLBrussels (Charleroi) CRL 21:25 Brussels CRLBrussels (Charleroi) CRL FR6058
+20/05/19 Wizz Air 1 14.99 09:15 Warsaw WMIWarsaw (Modlin) WMI 19:10 Santander SDR
+20/05/19 Ryanair 1 8.99 17:15 Brussels CRLBrussels (Charleroi) CRL 11:20 Brussels CRLBrussels (Charleroi) CRL FR1058
+14/05/19 Ryanair 1 14.99 19:35 Santander SDR 20:15 Warsaw WMIWarsaw (Modlin) WMI
+20/05/19 Ryanair 1 9.09 15 Wa saw WMIWarsaw (Modlin) WMI 20:15 Warsaw WMIWarsaw (Modlin) WMI FR1055
+20/05/19 Ryanair 1 12.99 09:15 Warsaw WMIWarsaw (Modlin) WMI 19:10 Santander SDR
+14/05/19 Ryanair 1 12.99 15 Sa tander SDR 19:10 Santander SDR FR6057
+22/05/19 Ryanair 1 13.86 18:20 Brussels CRLBrussels (Charleroi) CRL 22:05 Brussels CRLBrussels (Charleroi) CRL FR6058
+22/05/19 Ryanair 1 9.09 00 Kr kow KRK 20:15 Warsaw WMIWarsaw (Modlin) WMI FR1055
+08/05/19 Ryanair 1 12.99 06:00 Berlin TXLBerlin (Tegel) TXL 07:20 Berlin TXLBerlin (Tegel) TXL FR2696
+16/05/19 Ryanair 1 12.99 18:50 Alicante ALC 09:20 Krakow KRK
+16/05/19 Ryanair 1 13.86 08:00 Berlin TXLBerlin (Tegel) TXL 21:50 Berlin TXLBerlin (Tegel) TXL FR258
+14/05/19 Ryanair 1 9.09 09:15 Warsaw WMIWarsaw (Modlin) WMI 19:10 Santander SDR
+22/05/19 Ryanair 1 14.99 15 Sa tander SDR 19:10 Santander SDR FR6057
+22/05/19 Ryanair 1 14.99 20:15 Santander SDR 20:15 Warsaw WMIWarsaw (Modlin) WMI
+14/05/19 Ryanair 1 9.99 40 Wa saw WMIWarsaw (Modlin) WMI 20:15 Warsaw WMIWarsaw (Modlin) WMI FR1055
+21/05/19 Ryanair 1 9.09 17:15 Brussels CRLBrussels (Charleroi) CRL 22:45 Brussels CRLBrussels (Charleroi) CRL FR1056
+21/05/19 Ryanair 1 14.99 35 Sa tander SDR 19:10 Santander SDR FR6057
+10/05/19 Ryanair 1 14.99 18:20 Brussels CRLBrussels (Charleroi) CRL 21:25 Brussels CRLBrussels (Charleroi) CRL FR6058
+14/05/19 Ryanair 1 9.99 20:40 Warsaw WMIWarsaw (Modlin) WMI 19:10 Santander SDR
+14/05/19 Ryanair 1 9.09 17:15 Brussels CRLBrussels (Charleroi) CRL 22:45 Brussels CRLBrussels (Charleroi) CRL FR1056
+22/05/19 Ryanair 1 14.99 20:15 Santander SDR 08:50 Warsaw WMIWarsaw (Modlin) WMI
+30/05/19 Ryanair 1 14.99 50 Wr claw WRO 08:50 Warsaw WMIWarsaw (Modlin) WMI FR1057
+30/05/19 Ryanair 1 9.99 12:50 Wroclaw WRO 20:30 Palma Mall PMI
+10/05/19 Ryanair 1 9.09 30 Pa ma Mall PMI 20:30 Palma Mall PMI FR9339
+14/05/19 Ryanair 1 14.99 10:45 Brussels CRLBrussels (Charleroi) CRL 17:55 Brussels CRLBrussels (Charleroi) CRL FR9338
+14/05/19 Ryanair 1 14.99 15 Wa saw WMIWarsaw (Modlin) WMI 12:25 Wroclaw WRO FR8372
+11/05/19 Ryanair 1 9.99 17:15 Brussels CRLBrussels (Charleroi) CRL 11:20 Brussels CRLBrussels (Charleroi) CRL FR1058
+19/05/19 Ryanair 1 9.09 19:35 Santander SDR 18:30 Warsaw WMIWarsaw (Modlin) WMI
+19/05/19 Ryanair 1 14.99 16:35 Brussels CRLBrussels (Charleroi) CRL 21:25 Brussels CRLBrussels (Charleroi) CRL FR6058
+08/05/19 Ryanair 1 14.99 06:00 Krakow KRK 14:40 Alicante ALC
+16/05/19 Ryanair 1 9.99 50 Al cante ALC 14:40 Alicante ALC FR257
+16/05/19 Ryanair 1 9.09 18:50 Alicante ALC 09:20 Krakow KRK
+15/05/19 Ryanair 1 14.99 15 Wa saw WMIWarsaw (Modlin) WMI 09:20 Krakow KRK FR2697
+20/05/19 Ryanair 1 14.99 17:15 Brussels CRLBrussels (Charleroi) CRL 11:20 Brussels CRLBrussels (Charleroi) CRL FR1058
+20/05/19 Ryanair 1 9.99 15 Sa tander SDR 19:10 Santander SDR FR6057
+11/05/19 Ryanair 1 9.09 06:55 Brussels CRLBrussels (Charleroi) CRL 22:05 Brussels CRLBrussels (Charleroi) CRL FR6058
+19/05/19 Ryanair 1 14.99 20:40 Warsaw WMIWarsaw (Modlin) WMI 19:10 Santander SDR
+19/05/19 Ryanair 1 14.99 17:15 Brussels CRLBrussels (Charleroi) CRL 22:45 Brussels CRLBrussels (Charleroi) CRL FR1056
+07/05/19 Ryanair 1 9.99 20:15 Santander SDR 20:15 Warsaw WMIWarsaw (Modlin) WMI
+14/05/19 Ryanair 1 9.09 40 Wa saw WMIWarsaw (Modlin) WMI 20:15 Warsaw WMIWarsaw (Modlin) WMI FR1055
+14/05/19 Ryanair 1 14.99 20:40 Warsaw WMIWarsaw (Modlin) WMI 19:10 Santander SDR
+19/05/19 Ryanair 1 14.99 35 Sa tander SDR 19:10 Santander SDR FR6057
+27/05/19 Ryanair 1 9.99 16:35 Brussels CRLBrussels (Charleroi) CRL 21:25 Brussels CRLBrussels (Charleroi) CRL FR6058
+27/05/19 Ryanair 1 9.09 00 Kr kow KRK 18:30 Warsaw WMIWarsaw (Modlin) WMI FR1057
+10/05/19 Ryanair 1 14.99 06:00 Berlin TXLBerlin (Tegel) TXL 07:20 Berlin TXLBerlin (Tegel) TXL FR2696
+14/05/19 Ryanair 1 14.99 09:40 Alicante ALC 09:20 Krakow KRK
+14/05/19 Ryanair 1 9.99 08:00 Berlin TXLBerlin (Tegel) TXL 12:45 Berlin TXLBerlin (Tegel) TXL FR258
+06/05/19 Ryanair 1 9.09 09:15 Warsaw WMIWarsaw (Modlin) WMI 19:10 Santander SDR
+14/05/19 Ryanair 1 14.99 35 Sa tander SDR 19:10 Santander SDR FR6057
+14/05/19 Ryanair 1 14.99 19:35 Santander SDR 20:15 Warsaw WMIWarsaw (Modlin) WMI
+22/05/19 Ryanair 1 9.99 00 Kr kow KRK 20:15 Warsaw WMIWarsaw (Modlin) WMI FR1055
+28/05/19 Ryanair 1 9.09 11:35 Berlin TXLBerlin (Tegel) TXL 07:20 Berlin TXLBerlin (Tegel) TXL FR2696
+28/05/19 Ryanair 1 14.99 50 Al cante ALC 14:40 Alicante ALC FR257
+08/05/19 Ryanair 1 14.99 08:00 Berlin TXLBerlin (Tegel) TXL 21:50 Berlin TXLBerlin (Tegel) TXL FR258
+14/05/19 Ryanair 1 9.99 20:40 Warsaw WMIWarsaw (Modlin) WMI 20:25 Palma Mall PMI
+14/05/19 Ryanair 1 9.09 18:15 Brussels CRLBrussels (Charleroi) CRL 22:45 Brussels CRLBrussels (Charleroi) CRL FR1056
+15/05/19 Ryanair 1 14.99 15:30 Palma Mall PMI 19:50 Warsaw WMIWarsaw (Modlin) WMI
+20/05/19 Ryanair 1 14.99 15 Wa saw WMIWarsaw (Modlin) WMI 19:50 Warsaw WMIWarsaw (Modlin) WMI FR1055
+20/05/19 Ryanair 1 9.99 20:15 Warsaw WMIWarsaw (Modlin) WMI 20:30 Palma Mall PMI
+13/05/19 Ryanair 1 9.09 30 Pa ma Mall PMI 20:30 Palma Mall PMI FR9339
+21/05/19 Ryanair 1 14.99 06:55 Brussels CRLBrussels (Charleroi) CRL 17:55 Brussels CRLBrussels (Charleroi) CRL FR9338
+21/05/19 Ryanair 1 14.99 40 Wa saw WMIWarsaw (Modlin) WMI 08:50 Warsaw WMIWarsaw (Modlin) WMI FR1057
+13/05/19 Ryanair 1 9.99 18:15 Brussels CRLBrussels (Charleroi) CRL 22:45 Brussels CRLBrussels (Charleroi) CRL FR1056
+21/05/19 Ryanair 1 9.09 15:30 Palma Mall PMI 08:50 Warsaw WMIWarsaw (Modlin) WMI
+21/05/19 Ryanair 1 14.99 06:55 Brussels CRLBrussels (Charleroi) CRL 17:55 Brussels CRLBrussels (Charleroi) CRL FR9338
+13/05/19 Ryanair 1 14.99 19:10 Krakow KRK 16:15 Ibiza IBZ
+21/05/19 Ryanair 1 9.99 10 Ib za IBZ 16:15 Ibiza IBZ OE580
+21/05/19 Ryanair 1 9.09 17:10 Ibiza IBZ 12:50 Krakow KRK
+13/05/19 Ryanair 1 14.99 00 Kr kow KRK 12:50 Krakow KRK OE1304
+21/05/19 Ryanair 1 14.99 11:35 Berlin TXLBerlin (Tegel) TXL 07:20 Berlin TXLBerlin (Tegel) TXL FR2696
+21/05/19 Ryanair 1 9.99 40 Al cante ALC 14:40 Alicante ALC FR257
+13/05/19 Ryanair 1 9.09 08:00 Berlin TXLBerlin (Tegel) TXL 12:45 Berlin TXLBerlin (Tegel) TXL FR258
+21/05/19 Ryanair 1 14.99 09:15 Warsaw WMIWarsaw (Modlin) WMI 19:10 Santander SDR
+21/05/19 Ryanair 1 14.99 17:15 Brussels CRLBrussels (Charleroi) CRL 11:20 Brussels CRLBrussels (Charleroi) CRL FR1058
+12/05/19 Ryanair 1 9.99 20:15 Santander SDR 20:15 Warsaw WMIWarsaw (Modlin) WMI
+16/05/19 Ryanair 1 9.09 10 Kr kow KRK 20:15 Warsaw WMIWarsaw (Modlin) WMI FR1055
+16/05/19 Ryanair 1 14.99 19:10 Krakow KRK 16:15 Ibiza IBZ
+11/05/19 Ryanair 1 14.99 10 Ib za IBZ 16:15 Ibiza IBZ OE580
+16/05/19 Ryanair 1 9.99 20:45 Vienna VIE 19:55 Vienna VIE OE581
+16/05/19 Ryanair 1 9.09 00 Kr kow KRK 21:45 Krakow KRK OE1304
+08/05/19 Ryanair 1 14.99 15:10 Berlin TXLBerlin (Tegel) TXL 07:20 Berlin TXLBerlin (Tegel) TXL FR2696
+16/05/19 Ryanair 1 14.99 18:50 Alicante ALC 09:20 Krakow KRK
+16/05/19 Ryanair 1 9.99 08:00 Berlin TXLBerlin (Tegel) TXL 21:50 Berlin TXLBerlin (Tegel) TXL FR258
+19/05/19 Ryanair 1 9.09 22:40 Krakow KRK 07:25 Ibiza IBZ
+24/05/19 Ryanair 1 14.99 00 Ib za IBZ 07:25 Ibiza IBZ OE580
+24/05/19 Ryanair 1 14.99 08:00 Ibiza IBZ 12:50 Krakow KRK
+20/05/19 Ryanair 1 9.99 50 Wr claw WRO 12:50 Krakow KRK OE1304
+24/05/19 Ryanair 1 9.09 18:15 Brussels CRLBrussels (Charleroi) CRL 14:30 Brussels CRLBrussels (Charleroi) CRL FR8373
+24/05/19 Ryanair 1 14.99 30 Pa ma Mall PMI 20:25 Palma Mall PMI FR9339
+20/05/19 Ryanair 1 14.99 10:45 Brussels CRLBrussels (Charleroi) CRL 17:55 Brussels CRLBrussels (Charleroi) CRL FR9338
+24/05/19 Ryanair 1 9.99 12:50 Wroclaw WRO 20:30 Palma Mall PMI
+24/05/19 Laudamotion 1 9.09 18:20 Brussels CRLBrussels (Charleroi) CRL 14:30 Brussels CRLBrussels (Charleroi) CRL FR8373
+12/05/19 Laudamotion 1 14.99 15:30 Palma Mall PMI 12:25 Wroclaw WRO
+16/05/19 Laudamotion 1 14.99 50 Wr claw WRO 12:25 Wroclaw WRO FR8372
+16/05/19 Laudamotion 1 9.99 12:50 Wroclaw WRO 20:30 Palma Mall PMI
+12/05/19 Ryanair 1 9.09 30 Pa ma Mall PMI 20:30 Palma Mall PMI FR9339
+16/05/19 Ryanair 1 14.99 10:45 Brussels CRLBrussels (Charleroi) CRL 17:55 Brussels CRLBrussels (Charleroi) CRL FR9338
+16/05/19 Ryanair 1 14.99 00 Kr kow KRK 12:25 Wroclaw WRO FR8372
+08/05/19 Ryanair 1 9.99 11:35 Berlin TXLBerlin (Tegel) TXL 07:20 Berlin TXLBerlin (Tegel) TXL FR2696
+16/05/19 Ryanair 1 9.09 18:50 Alicante ALC 09:20 Krakow KRK
+16/05/19 Ryanair 1 14.99 08:00 Berlin TXLBerlin (Tegel) TXL 21:50 Berlin TXLBerlin (Tegel) TXL FR258
+12/05/19 Ryanair 1 14.99 09:15 Warsaw WMIWarsaw (Modlin) WMI 19:10 Santander SDR
+16/05/19 Ryanair 1 9.99 15 Sa tander SDR 19:10 Santander SDR FR6057
+16/05/19 Laudamotion 1 9.09 20:15 Santander SDR 08:50 Warsaw WMIWarsaw (Modlin) WMI
+19/05/19 Laudamotion 1 14.99 25 Kr kow KRK 08:50 Warsaw WMIWarsaw (Modlin) WMI FR1057
+24/05/19 Laudamotion 1 14.99 16:20 Vienna VIE 14:25 Vienna VIE OE1305
+24/05/19 Laudamotion 1 9.99 15 Ma rid MAD 19:25 Madrid MAD OE1306
+12/05/19 Ryanair 1 9.09 17:00 London STNLondon (Stansted) STN 07:45 London STNLondon (Stansted) STN FR5993
+16/05/19 Ryanair 1 14.99 13:25 Krakow KRK 19:25 Madrid MAD
+16/05/19 Ryanair 1 14.99 16:20 Vienna VIE 14:25 Vienna VIE OE1305
+12/05/19 Ryanair 1 9.99 10:35 Madrid MAD 20:25 Krakow KRK
+16/05/19 Laudamotion 1 9.09 25 Kr kow KRK 20:25 Krakow KRK FR2436
+16/05/19 Laudamotion 1 14.99 13:25 Krakow KRK 19:25 Madrid MAD
+08/05/19 Laudamotion 1 14.99 35 Ma rid MAD 19:25 Madrid MAD OE1306
+16/05/19 Laudamotion 1 9.99 16:50 London STNLondon (Stansted) STN 12:05 London STNLondon (Stansted) STN FR5991
+16/05/19 Ryanair 1 9.09 25 Kr kow KRK 20:15 Krakow KRK FR2434
+11/05/19 Ryanair 1 14.99 16:20 Vienna VIE 14:25 Vienna VIE OE1305
+16/05/19 Ryanair 1 14.99 06:15 Madrid MAD 20:15 Krakow KRK
+16/05/19 Ryanair 1 9.99 16:50 London STNLondon (Stansted) STN 07:45 London STNLondon (Stansted) STN FR5993
+21/05/19 Ryanair 1 9.09 13:25 Krakow KRK 19:25 Madrid MAD
+25/05/19 Ryanair 1 14.99 55 Ma rid MAD 19:25 Madrid MAD OE1306
+25/05/19 Ryanair 1 14.99 18:55 Madrid MAD 09:20 Krakow KRK
+21/05/19 Ryanair 1 9.99 00 Kr kow KRK 09:20 Krakow KRK FR2697
+25/05/19 Ryanair 1 9.09 16:05 Berlin TXLBerlin (Tegel) TXL 07:20 Berlin TXLBerlin (Tegel) TXL FR2696
+25/05/19 Ryanair 1 14.99 20 Pa ma Mall PMI 18:40 Palma Mall PMI FR218
+12/05/19 Ryanair 1 14.99 08:00 Berlin TXLBerlin (Tegel) TXL 10:15 Berlin TXLBerlin (Tegel) TXL U25800
+16/05/19 Ryanair 1 9.99 06:00 Krakow KRK 18:40 Palma Mall PMI
+16/05/19 Ryanair 1 9.09 16:05 Berlin TXLBerlin (Tegel) TXL 07:20 Berlin TXLBerlin (Tegel) TXL FR2696
+14/05/19 Ryanair 1 14.99 07:20 Palma Mall PMI 09:20 Krakow KRK
+22/05/19 Ryanair 1 14.99 00 Kr kow KRK 09:20 Krakow KRK FR2697
+22/05/19 Ryanair 1 9.99 06:00 Krakow KRK 18:35 Palma Mall PMI
+07/05/19 Ryanair 1 9.09 20 Pa ma Mall PMI 18:35 Palma Mall PMI FR263
+14/05/19 Ryanair 1 14.99 08:00 Berlin TXLBerlin (Tegel) TXL 10:15 Berlin TXLBerlin (Tegel) TXL U25800
+14/05/19 Ryanair 1 14.99 40 Kr kow KRK 09:20 Krakow KRK FR2697
+07/05/19 Ryanair 1 9.99 17:45 Vienna VIE 23:40 Vienna VIE OE1305
+14/05/19 Laudamotion 1 9.09 07:20 Palma Mall PMI 09:20 Krakow KRK
+14/05/19 Laudamotion 1 7.99 08:00 Berlin TXLBerlin (Tegel) TXL 10:15 Berlin TXLBerlin (Tegel) TXL U25800
+07/05/19 Ryanair 1 8.99 13:25 Krakow KRK 20:10 Palma Mall PMI
+14/05/19 Ryanair 1 23.20 20 Pa ma Mall PMI 20:10 Palma Mall PMI OE500
+14/05/19 Laudamotion 1 9.09 07:20 Palma Mall PMI 09:20 Krakow KRK
+07/05/19 Laudamotion 1 7.99 25 Kr kow KRK 09:20 Krakow KRK FR2697
+14/05/19 Ryanair 1 8.99 17:45 Vienna VIE 14:25 Vienna VIE OE1305
+14/05/19 Ryanair 1 23.20 20 Pa ma Mall PMI 20:05 Palma Mall PMI OE500
+07/05/19 Laudamotion 1 9.09 08:00 Berlin TXLBerlin (Tegel) TXL 10:15 Berlin TXLBerlin (Tegel) TXL U25800
+14/05/19 Laudamotion 1 7.99 22:40 Krakow KRK 15:45 Palma Mall PMI
+14/05/19 Ryanair 1 8.99 13:20 Vienna VIE 23:40 Vienna VIE OE1305
+07/05/19 Ryanair 1 23.20 07:20 Palma Mall PMI 09:20 Krakow KRK
+14/05/19 Laudamotion 1 9.09 40 Kr kow KRK 09:20 Krakow KRK FR2697
+14/05/19 Laudamotion 1 7.99 22:40 Krakow KRK 20:10 Palma Mall PMI
+07/05/19 Ryanair 1 8.99 20 Pa ma Mall PMI 20:10 Palma Mall PMI OE500
+14/05/19 Ryanair 1 23.20 08:00 Berlin TXLBerlin (Tegel) TXL 10:15 Berlin TXLBerlin (Tegel) TXL U25800
+14/05/19 Laudamotion 1 9.09 00 Kr kow KRK 09:20 Krakow KRK FR2697
+07/05/19 Laudamotion 1 7.99 06:15 Berlin TXLBerlin (Tegel) TXL 07:20 Berlin TXLBerlin (Tegel) TXL FR2696
+14/05/19 easyJet 1 10.77 07:20 Palma Mall PMI 09:20 Krakow KRK
+14/05/19 Ryanair 1 9.99 08:00 Berlin TXLBerlin (Tegel) TXL 10:15 Berlin TXLBerlin (Tegel) TXL U25800
+20/05/19 Ryanair 1 9.09 06:00 Krakow KRK 18:10 Palma Mall PMI
+24/05/19 Ryanair 1 14.99 20 Pa ma Mall PMI 18:10 Palma Mall PMI FR263
+24/05/19 easyJet 1 7.74 07:20 Palma Mall PMI 09:20 Krakow KRK
+20/05/19 Ryanair 1 9.99 00 Kr kow KRK 09:20 Krakow KRK FR2697
+24/05/19 Ryanair 1 9.09 20:40 Berlin TXLBerlin (Tegel) TXL 07:20 Berlin TXLBerlin (Tegel) TXL FR2696
+24/05/19 Ryanair 1 14.99 20 Pa ma Mall PMI 23:25 Palma Mall PMI U25817
+13/05/19 easyJet 1 7.74 08:00 Berlin TXLBerlin (Tegel) TXL 10:15 Berlin TXLBerlin (Tegel) TXL U25800
+21/05/19 Ryanair 1 9.99 06:00 Krakow KRK 23:25 Palma Mall PMI
+21/05/19 Ryanair 1 9.09 20:40 Berlin TXLBerlin (Tegel) TXL 07:20 Berlin TXLBerlin (Tegel) TXL FR2696
+11/05/19 Ryanair 1 14.99 07:20 Palma Mall PMI 09:20 Krakow KRK
+19/05/19 easyJet 1 7.74 00 Kr kow KRK 09:20 Krakow KRK FR2697
+19/05/19 Ryanair 1 9.99 06:00 Krakow KRK 23:25 Palma Mall PMI
+04/05/19 Laudamotion 1 9.09 20 Pa ma Mall PMI 23:25 Palma Mall PMI U25817
+09/05/19 Laudamotion 1 14.99 08:00 Berlin TXLBerlin (Tegel) TXL 10:15 Berlin TXLBerlin (Tegel) TXL U25800
+09/05/19 easyJet 1 7.74 00 Kr kow KRK 09:20 Krakow KRK FR2697
+04/05/19 Ryanair 1 9.99 20:40 Berlin TXLBerlin (Tegel) TXL 07:20 Berlin TXLBerlin (Tegel) TXL FR2696
+09/05/19 Laudamotion 1 9.09 07:20 Palma Mall PMI 09:20 Krakow KRK
+09/05/19 Laudamotion 1 14.99 08:00 Berlin TXLBerlin (Tegel) TXL 10:15 Berlin TXLBerlin (Tegel) TXL U25800
+07/05/19 easyJet 1 7.74 06:00 Krakow KRK 23:25 Palma Mall PMI
+15/05/19 Ryanair 1 9.99 20 Pa ma Mall PMI 23:25 Palma Mall PMI U25817
+15/05/19 Laudamotion 1 9.09 07:20 Palma Mall PMI 09:20 Krakow KRK
+14/05/19 Laudamotion 1 14.99 45 Wa saw WAW 09:20 Krakow KRK FR2697
+22/05/19 easyJet 1 7.74 20:55 Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL 08:45 Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL W61363
+22/05/19 Ryanair 1 9.99 40 Ba celona BCN 22:40 Barcelona BCN U21079
+11/05/19 Laudamotion 1 9.09 13:00 Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL 09:25 Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL U21076
+16/05/19 Laudamotion 1 14.99 06:45 Warsaw WAW 22:40 Barcelona BCN
+16/05/19 easyJet 1 7.74 20:55 Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL 08:45 Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL W61363
+11/05/19 Ryanair 1 9.99 07:40 Barcelona BCN 15:10 Warsaw WAW
+15/05/19 Laudamotion 1 9.09 00 Kr kow KRK 15:10 Warsaw WAW U21161
+15/05/19 Laudamotion 1 14.99 06:00 Krakow KRK 18:10 Palma Mall PMI
+07/05/19 easyJet 1 7.74 20 Pa ma Mall PMI 18:10 Palma Mall PMI FR263
+14/05/19 Ryanair 1 9.99 08:00 Berlin TXLBerlin (Tegel) TXL 12:10 Berlin TXLBerlin (Tegel) TXL U25802
+14/05/19 Ryanair 1 9.09 45 Gd nsk GDN 09:20 Krakow KRK FR2697
+07/05/19 Ryanair 1 14.99 11:35 Berlin TXLBerlin (Tegel) TXL 09:00 Berlin TXLBerlin (Tegel) TXL U25748
+14/05/19 easyJet 1 7.74 19:25 Alicante ALC 16:05 Gdansk GDN
+14/05/19 Ryanair 1 9.99 15:00 Berlin TXLBerlin (Tegel) TXL 22:30 Berlin TXLBerlin (Tegel) TXL U25624
+07/05/19 Ryanair 1 9.09 07:45 Gdansk GDN 18:35 Palma Mall PMI
+15/05/19 Ryanair 1 14.99 55 Pa ma Mall PMI 18:35 Palma Mall PMI FR263
+15/05/19 easyJet 1 7.74 23:55 Palma Mall PMI 22:00 Gdansk GDN
+11/05/19 Ryanair 1 9.99 45 Gd nsk GDN 22:00 Gdansk GDN FR2372
+16/05/19 Ryanair 1 9.09 16:00 Berlin TXLBerlin (Tegel) TXL 09:00 Berlin TXLBerlin (Tegel) TXL U25748
+16/05/19 easyJet 1 15.12 55 Pa ma Mall PMI 18:35 Palma Mall PMI FR263
+13/05/19 easyJet 1 7.74 11:10 London STNLondon (Stansted) STN 01:30 London STNLondon (Stansted) STN U23216
+17/05/19 Ryanair 1 9.99 07:45 Gdansk GDN 19:05 Palma Mall PMI
+17/05/19 Ryanair 1 9.09 16:20 Berlin TXLBerlin (Tegel) TXL 09:00 Berlin TXLBerlin (Tegel) TXL U25748
+11/05/19 easyJet 1 15.12 23:55 Palma Mall PMI 14:20 Gdansk GDN
+17/05/19 easyJet 1 7.74 45 Gd nsk GDN 14:20 Gdansk GDN FR2374
+17/05/19 Ryanair 1 9.99 07:45 Gdansk GDN 23:25 Palma Mall PMI
+13/05/19 Ryanair 1 9.09 55 Pa ma Mall PMI 23:25 Palma Mall PMI U25817
+17/05/19 easyJet 1 15.12 18:50 London STNLondon (Stansted) STN 01:30 London STNLondon (Stansted) STN U23216
+17/05/19 easyJet 1 7.74 45 Gd nsk GDN 22:00 Gdansk GDN FR2372
+18/05/19 Ryanair 1 9.99 16:20 Berlin TXLBerlin (Tegel) TXL 09:00 Berlin TXLBerlin (Tegel) TXL U25748
+22/05/19 Ryanair 1 9.09 23:55 Palma Mall PMI 22:00 Gdansk GDN
+22/05/19 easyJet 1 15.12 18:50 London STNLondon (Stansted) STN 01:30 London STNLondon (Stansted) STN U23216
+15/05/19 easyJet 1 7.74 07:45 Gdansk GDN 23:25 Palma Mall PMI
+22/05/19 Ryanair 1 9.99 55 Pa ma Mall PMI 23:25 Palma Mall PMI U25817
+22/05/19 Ryanair 1 9.09 23:55 Palma Mall PMI 22:00 Gdansk GDN
+14/05/19 easyJet 1 15.12 45 Gd nsk GDN 22:00 Gdansk GDN FR2372
+22/05/19 easyJet 1 7.74 20:40 Berlin TXLBerlin (Tegel) TXL 09:00 Berlin TXLBerlin (Tegel) TXL U25748
+22/05/19 Ryanair 1 9.99 55 Pa ma Mall PMI 23:25 Palma Mall PMI U25817
+15/05/19 Wizz Air 1 13.75 11:10 London STNLondon (Stansted) STN 01:30 London STNLondon (Stansted) STN U23216
+22/05/19 easyJet 1 4.38 07:45 Gdansk GDN 23:25 Palma Mall PMI
+22/05/19 easyJet 1 10.77 20:40 Berlin TXLBerlin (Tegel) TXL 09:00 Berlin TXLBerlin (Tegel) TXL U25748
+13/05/19 easyJet 1 13.81 23:55 Palma Mall PMI 14:20 Gdansk GDN
+17/05/19 Wizz Air 1 13.75 55 Wa saw WAW 14:20 Gdansk GDN FR2374
+17/05/19 easyJet 1 4.38 08:55 Warsaw WAW 23:25 Palma Mall PMI
+13/05/19 easyJet 1 10.77 10 Pa ma Mall PMI 23:25 Palma Mall PMI U25817
+17/05/19 easyJet 1 13.81 09:35 Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL 09:05 Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL U21056
+17/05/19 Ryanair 1 9.09 55 Wa saw WAW 11:35 Warsaw WAW W61364
+11/05/19 Ryanair 1 14.99 20:40 Berlin TXLBerlin (Tegel) TXL 10:10 Berlin TXLBerlin (Tegel) TXL U25742
+17/05/19 easyJet 1 9.76 07:10 Palma Mall PMI 11:35 Warsaw WAW
+17/05/19 Ryanair 1 9.99 09:35 Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL 09:05 Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL U21056
+15/05/19 easyJet 1 2.33 13:25 Krakow KRK 08:50 Madrid MAD
+22/05/19 Ryanair 1 14.99 55 Ma rid MAD 08:50 Madrid MAD W62845
+22/05/19 easyJet 1 6.23 18:55 Madrid MAD 09:20 Krakow KRK
+15/05/19 easyJet 1 20.68 00 Wa saw WAW 09:20 Krakow KRK FR2697
+23/05/19 easyJet 1 2.33 07:20 Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL 09:00 Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL W61363
+23/05/19 Ryanair 1 14.99 15 Me orca MAH 09:15 Menorca MAH U21093
+14/05/19 easyJet 1 9.76 11:00 Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL 12:15 Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL U21094
+22/05/19 Ryanair 1 17.40 07:45 Gdansk GDN 08:35 Palma Mall PMI
+22/05/19 easyJet 1 2.33 06:00 Berlin TXLBerlin (Tegel) TXL 09:00 Berlin TXLBerlin (Tegel) TXL U25748
+14/05/19 Ryanair 1 14.99 07:20 Palma Mall PMI 16:05 Gdansk GDN
+18/05/19 easyJet 1 9.76 45 Gd nsk GDN 16:05 Gdansk GDN U25747
+18/05/19 Ryanair 1 17.40 07:45 Gdansk GDN 18:40 Palma Mall PMI
+13/05/19 easyJet 1 2.33 20 Pa ma Mall PMI 18:40 Palma Mall PMI FR218
+18/05/19 easyJet 1 15.12 15:00 Berlin TXLBerlin (Tegel) TXL 10:15 Berlin TXLBerlin (Tegel) TXL U25800
+18/05/19 easyJet 1 9.76 45 Gd nsk GDN 16:05 Gdansk GDN U25747
+13/05/19 Ryanair 1 17.40 16:00 Berlin TXLBerlin (Tegel) TXL 09:00 Berlin TXLBerlin (Tegel) TXL U25748
+18/05/19 easyJet 1 2.33 07:20 Palma Mall PMI 16:05 Gdansk GDN
+18/05/19 easyJet 1 15.12 15:00 Berlin TXLBerlin (Tegel) TXL 10:10 Berlin TXLBerlin (Tegel) TXL U25800
+11/05/19 easyJet 1 9.76 07:45 Gdansk GDN 18:35 Palma Mall PMI
+18/05/19 Ryanair 1 17.40 20 Pa ma Mall PMI 18:35 Palma Mall PMI FR263
+18/05/19 easyJet 1 2.33 07:20 Palma Mall PMI 16:05 Gdansk GDN
+15/05/19 easyJet 1 15.12 45 Gd nsk GDN 16:05 Gdansk GDN U25747
+22/05/19 easyJet 1 9.76 16:05 Berlin TXLBerlin (Tegel) TXL 09:00 Berlin TXLBerlin (Tegel) TXL U25748
+22/05/19 Ryanair 1 17.40 20 Pa ma Mall PMI 18:40 Palma Mall PMI FR218
+14/05/19 easyJet 1 2.33 15:00 Berlin TXLBerlin (Tegel) TXL 10:15 Berlin TXLBerlin (Tegel) TXL U25800
+22/05/19 easyJet 1 15.12 07:45 Gdansk GDN 18:40 Palma Mall PMI
+22/05/19 easyJet 1 9.76 16:05 Berlin TXLBerlin (Tegel) TXL 09:00 Berlin TXLBerlin (Tegel) TXL U25748
+14/05/19 Ryanair 1 17.40 07:20 Palma Mall PMI 16:05 Gdansk GDN
+22/05/19 easyJet 1 2.33 45 Gd nsk GDN 16:05 Gdansk GDN U25747
+22/05/19 easyJet 1 15.12 07:45 Gdansk GDN 18:20 Madrid MAD
+14/05/19 easyJet 1 9.76 35 Ma rid MAD 18:20 Madrid MAD U25643
+22/05/19 Ryanair 1 17.40 18:50 London STNLondon (Stansted) STN 00:05 London STNLondon (Stansted) STN FR5997
+22/05/19 easyJet 1 2.33 45 Gd nsk GDN 22:00 Gdansk GDN FR2372
+14/05/19 easyJet 1 15.12 15:05 Berlin TXLBerlin (Tegel) TXL 09:00 Berlin TXLBerlin (Tegel) TXL U25748
+22/05/19 easyJet 1 9.76 22:35 Madrid MAD 14:20 Gdansk GDN
+22/05/19 Ryanair 1 17.40 11:10 London STNLondon (Stansted) STN 00:05 London STNLondon (Stansted) STN FR5997
+08/05/19 easyJet 1 9.32 07:45 Gdansk GDN 19:05 Palma Mall PMI
+16/05/19 easyJet 1 15.12 20 Pa ma Mall PMI 19:05 Palma Mall PMI U25815
+16/05/19 easyJet 1 4.21 07:20 Palma Mall PMI 16:05 Gdansk GDN
+08/05/19 Wizz Air 1 16.01 45 Gd nsk GDN 16:05 Gdansk GDN U25747
+16/05/19 easyJet 1 9.32 20:40 Berlin TXLBerlin (Tegel) TXL 09:00 Berlin TXLBerlin (Tegel) TXL U25748
+16/05/19 easyJet 1 15.12 20 Pa ma Mall PMI 23:25 Palma Mall PMI U25817
+21/05/19 easyJet 1 4.21 15:00 Berlin TXLBerlin (Tegel) TXL 10:15 Berlin TXLBerlin (Tegel) TXL U25800
+25/05/19 Wizz Air 1 16.01 08:55 Warsaw WAW 18:10 Palma Mall PMI
+25/05/19 Laudamotion 1 9.09 15:35 Berlin TXLBerlin (Tegel) TXL 10:10 Berlin TXLBerlin (Tegel) TXL U25742
+07/05/19 Wizz Air 1 14.99 07:10 Palma Mall PMI 11:35 Warsaw WAW
+15/05/19 easyJet 1 10.77 55 Wa saw WAW 11:35 Warsaw WAW W61364
+15/05/19 Ryanair 1 9.99 08:55 Warsaw WAW 18:40 Palma Mall PMI
+07/05/19 Wizz Air 1 20.74 10 Pa ma Mall PMI 18:40 Palma Mall PMI FR218
+15/05/19 easyJet 1 6.62 09:35 Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL 09:05 Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL U21056
+15/05/19 easyJet 1 8.75 55 Wa saw WAW 11:35 Warsaw WAW W61364
+14/05/19 easyJet 1 9.32 06:00 Berlin TXLBerlin (Tegel) TXL 10:10 Berlin TXLBerlin (Tegel) TXL U25742
+21/05/19 easyJet 1 2.33 07:10 Palma Mall PMI 11:35 Warsaw WAW
+21/05/19 Ryanair 1 14.99 09:35 Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL 09:05 Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL U21056
+14/05/19 easyJet 1 7.74 07:45 Gdansk GDN 18:10 Alicante ALC
+21/05/19 easyJet 1 20.68 25 Al cante ALC 18:10 Alicante ALC FR257
+21/05/19 easyJet 1 2.33 19:25 Alicante ALC 16:05 Gdansk GDN
+14/05/19 Ryanair 1 14.99 00 Wa saw WAW 16:05 Gdansk GDN U25747
+21/05/19 easyJet 1 7.74 06:00 Berlin TXLBerlin (Tegel) TXL 10:10 Berlin TXLBerlin (Tegel) TXL U25742
+21/05/19 easyJet 1 20.68 25 Al cante ALC 09:05 Alicante ALC FR257
+14/05/19 easyJet 1 2.33 08:10 Berlin TXLBerlin (Tegel) TXL 22:30 Berlin TXLBerlin (Tegel) TXL U25624
+21/05/19 Ryanair 1 14.99 10:00 Warsaw WAW 14:40 Alicante ALC
+21/05/19 easyJet 1 7.74 11:35 Berlin TXLBerlin (Tegel) TXL 11:10 Berlin TXLBerlin (Tegel) TXL U25742
+07/05/19 easyJet 1 20.68 19:25 Alicante ALC 09:20 Warsaw WAW
+15/05/19 easyJet 1 2.33 00 Wa saw WAW 09:20 Warsaw WAW U25741
+15/05/19 Ryanair 1 14.99 09:00 Warsaw WAW 14:40 Alicante ALC
+07/05/19 easyJet 1 7.74 25 Al cante ALC 14:40 Alicante ALC FR257
+14/05/19 easyJet 1 20.68 08:10 Berlin TXLBerlin (Tegel) TXL 22:30 Berlin TXLBerlin (Tegel) TXL U25624
+14/05/19 easyJet 1 2.33 55 Wa saw WAW 09:20 Warsaw WAW U25741
+07/05/19 Ryanair 1 14.99 20:40 Berlin TXLBerlin (Tegel) TXL 10:10 Berlin TXLBerlin (Tegel) TXL U25742
+14/05/19 easyJet 1 7.74 07:10 Palma Mall PMI 11:35 Warsaw WAW
+14/05/19 easyJet 1 20.68 09:35 Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL 09:05 Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL U21056
+07/05/19 easyJet 1 2.33 08:55 Warsaw WAW 23:25 Palma Mall PMI
+15/05/19 Ryanair 1 14.99 10 Pa ma Mall PMI 23:25 Palma Mall PMI U25817
+15/05/19 easyJet 1 7.74 07:10 Palma Mall PMI 11:35 Warsaw WAW
+07/05/19 easyJet 1 20.68 55 Wa saw WAW 11:35 Warsaw WAW W61364
+14/05/19 easyJet 1 2.33 20:40 Berlin TXLBerlin (Tegel) TXL 10:05 Berlin TXLBerlin (Tegel) TXL U25742
+14/05/19 easyJet 1 17.14 10 Pa ma Mall PMI 23:25 Palma Mall PMI U25817
+07/05/19 Ryanair 1 8.99 09:35 Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL 09:05 Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL U21056
+14/05/19 Ryanair 1 17.40 09:00 Warsaw WAW 18:35 Palma Mall PMI
+14/05/19 easyJet 1 2.33 16:00 Berlin TXLBerlin (Tegel) TXL 10:10 Berlin TXLBerlin (Tegel) TXL U25742
+11/05/19 easyJet 1 17.14 07:10 Palma Mall PMI 15:10 Warsaw WAW
+15/05/19 Ryanair 1 8.99 00 Wa saw WAW 15:10 Warsaw WAW U21161
+15/05/19 Ryanair 1 17.40 09:00 Warsaw WAW 18:35 Palma Mall PMI
+10/05/19 easyJet 1 2.33 10 Pa ma Mall PMI 18:35 Palma Mall PMI FR263
+16/05/19 easyJet 1 15.12 13:00 Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL 09:05 Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL U21056
+16/05/19 easyJet 1 7.74 00 Wa saw WAW 15:10 Warsaw WAW U21161
+09/05/19 easyJet 1 20.68 16:00 Berlin TXLBerlin (Tegel) TXL 11:10 Berlin TXLBerlin (Tegel) TXL U25742
+16/05/19 easyJet 1 2.33 07:10 Palma Mall PMI 15:10 Warsaw WAW
+16/05/19 easyJet 1 15.12 13:00 Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL 09:05 Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL U21056
+14/05/19 easyJet 1 7.74 10:00 Warsaw WAW 18:35 Palma Mall PMI
+20/05/19 easyJet 1 20.68 10 Pa ma Mall PMI 18:35 Palma Mall PMI FR263
+20/05/19 easyJet 1 9.32 07:10 Palma Mall PMI 14:55 Warsaw WAW
+14/05/19 Ryanair 1 14.99 55 Wa saw WAW 14:55 Warsaw WAW U21161
+21/05/19 easyJet 1 6.23 06:00 Berlin TXLBerlin (Tegel) TXL 10:10 Berlin TXLBerlin (Tegel) TXL U25742
+21/05/19 Wizz Air 1 16.01 10 Pa ma Mall PMI 08:35 Palma Mall PMI FR226
+14/05/19 easyJet 1 9.32 12:50 Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL 09:05 Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL U21056
+20/05/19 Ryanair 1 14.99 08:55 Warsaw WAW 18:10 Palma Mall PMI
+20/05/19 easyJet 1 6.23 15:35 Berlin TXLBerlin (Tegel) TXL 10:10 Berlin TXLBerlin (Tegel) TXL U25742
+14/05/19 Wizz Air 1 16.01 07:10 Palma Mall PMI 14:55 Warsaw WAW
+21/05/19 easyJet 1 9.32 55 Wa saw WAW 14:55 Warsaw WAW U21161
+21/05/19 Ryanair 1 14.99 08:55 Warsaw WAW 18:40 Palma Mall PMI
+14/05/19 easyJet 1 6.23 10 Pa ma Mall PMI 18:40 Palma Mall PMI FR218
+18/05/19 Wizz Air 1 16.01 12:50 Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL 09:05 Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL U21056
+18/05/19 easyJet 1 4.66 00 Wa saw WAW 14:55 Warsaw WAW U21161
+09/05/19 Ryanair 1 14.99 20:40 Berlin TXLBerlin (Tegel) TXL 10:10 Berlin TXLBerlin (Tegel) TXL U25742
+15/05/19 easyJet 1 6.23 07:10 Palma Mall PMI 15:10 Warsaw WAW
+15/05/19 easyJet 1 20.68 13:00 Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL 09:05 Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL U21056
+19/10/19 easyJet 1 9.32 06:45 Warsaw WAW 22:40 Barcelona BCN
+25/10/19 Ryanair 1 14.99 40 Ba celona BCN 22:40 Barcelona BCN U21079
+25/10/19 easyJet 1 6.23 07:40 Barcelona BCN 15:10 Warsaw WAW
+19/10/19 easyJet 1 16.13 45 Wa saw WAW 15:10 Warsaw WAW U21161
+25/10/19 easyJet 1 9.32 18:30 Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL 08:45 Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL W61363
+25/10/19 Ryanair 1 14.99 40 Ba celona BCN 20:10 Barcelona BCN U21077
+07/05/19 easyJet 1 6.23 13:00 Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL 09:25 Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL U21076
+13/05/19 easyJet 1 16.13 06:45 Warsaw WAW 20:10 Barcelona BCN
+13/05/19 easyJet 1 9.32 18:30 Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL 08:45 Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL W61363
+07/05/19 Ryanair 1 14.99 07:40 Barcelona BCN 15:10 Warsaw WAW
+13/05/19 easyJet 1 6.23 45 Wa saw WAW 15:10 Warsaw WAW U21161
+13/05/19 easyJet 1 16.13 06:45 Warsaw WAW 22:40 Barcelona BCN
+07/05/19 easyJet 1 9.32 40 Ba celona BCN 22:40 Barcelona BCN U21079
+13/05/19 easyJet 1 15.12 13:00 Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL 09:25 Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL U21076
+13/05/19 easyJet 1 6.23 00 Kr kow KRK 15:10 Warsaw WAW U21161
+07/05/19 Wizz Air 1 16.01 06:00 Berlin TXLBerlin (Tegel) TXL 07:20 Berlin TXLBerlin (Tegel) TXL FR2696
+13/05/19 easyJet 1 9.32 15:10 Alicante ALC 09:20 Krakow KRK
+13/05/19 easyJet 1 15.12 08:00 Berlin TXLBerlin (Tegel) TXL 18:15 Berlin TXLBerlin (Tegel) TXL U25624
+08/10/19 easyJet 1 6.23 06:00 Krakow KRK 14:40 Alicante ALC
+16/10/19 Wizz Air 1 16.01 10 Al cante ALC 14:40 Alicante ALC FR257
+16/10/19 easyJet 1 9.32 15:10 Alicante ALC 09:20 Krakow KRK

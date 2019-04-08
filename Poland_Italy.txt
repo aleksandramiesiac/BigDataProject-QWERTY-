@@ -1,0 +1,430 @@
+Data Przewoznik Czy_przesiadka Cena Godzina_odlotu Miejsce_odlotu Godzina_przylotu Miejsce_przylotu
+05/06/19 Ryanair 0 13.05 13:15 Katowice KTW 15:05 Milan BGYMilan (Bergamo) BGY
+12/06/19 Ryanair 0 12.99 11:00 Milan BGYMilan (Bergamo) BGY 12:50 Katowice KTW
+12/06/19 Ryanair 0 13.05 13:15 Katowice KTW 15:05 Milan BGYMilan (Bergamo) BGY
+19/06/19 Ryanair 0 12.99 11:00 Milan BGYMilan (Bergamo) BGY 12:50 Katowice KTW
+12/06/19 Ryanair 0 13.05 13:15 Katowice KTW 15:05 Milan BGYMilan (Bergamo) BGY
+16/06/19 Ryanair 0 12.99 15:10 Milan BGYMilan (Bergamo) BGY 17:00 Katowice KTW
+02/06/19 Ryanair 0 13.05 17:25 Katowice KTW 19:15 Milan BGYMilan (Bergamo) BGY
+09/06/19 Ryanair 0 12.99 15:10 Milan BGYMilan (Bergamo) BGY 17:00 Katowice KTW
+09/06/19 Ryanair 0 13.05 17:25 Katowice KTW 19:15 Milan BGYMilan (Bergamo) BGY
+16/06/19 Ryanair 0 12.99 15:10 Milan BGYMilan (Bergamo) BGY 17:00 Katowice KTW
+20/04/19 Ryanair 0 13.05 10:10 Krakow KRK 11:55 Rimini RMI
+27/04/19 Ryanair 0 12.99 12:20 Rimini RMI 14:05 Krakow KRK
+05/06/19 Ryanair 0 13.05 13:15 Katowice KTW 15:05 Milan BGYMilan (Bergamo) BGY
+09/06/19 Ryanair 0 12.99 15:10 Milan BGYMilan (Bergamo) BGY 17:00 Katowice KTW
+29/05/19 Ryanair 0 13.05 13:15 Katowice KTW 15:05 Milan BGYMilan (Bergamo) BGY
+05/06/19 Ryanair 0 12.99 11:00 Milan BGYMilan (Bergamo) BGY 12:50 Katowice KTW
+29/05/19 Ryanair 0 13.05 13:15 Katowice KTW 15:05 Milan BGYMilan (Bergamo) BGY
+02/06/19 Ryanair 0 12.99 15:10 Milan BGYMilan (Bergamo) BGY 17:00 Katowice KTW
+13/06/19 Wizz Air 0 13.75 12:45 Katowice KTW 14:30 Milan BGYMilan (Bergamo) BGY
+19/06/19 Ryanair 0 12.99 11:00 Milan BGYMilan (Bergamo) BGY 12:50 Katowice KTW
+04/06/19 Wizz Air 0 13.75 11:50 Katowice KTW 13:35 Milan BGYMilan (Bergamo) BGY
+09/06/19 Ryanair 0 12.99 15:10 Milan BGYMilan (Bergamo) BGY 17:00 Katowice KTW
+04/06/19 Wizz Air 0 13.75 11:50 Katowice KTW 13:35 Milan BGYMilan (Bergamo) BGY
+12/06/19 Ryanair 0 12.99 11:00 Milan BGYMilan (Bergamo) BGY 12:50 Katowice KTW
+09/06/19 Ryanair 0 13.05 17:25 Katowice KTW 19:15 Milan BGYMilan (Bergamo) BGY
+13/06/19 Wizz Air 0 14.99 15:00 Milan BGYMilan (Bergamo) BGY 16:40 Katowice KTW
+05/06/19 Ryanair 0 13.05 13:15 Katowice KTW 15:05 Milan BGYMilan (Bergamo) BGY
+13/06/19 Wizz Air 0 14.99 15:00 Milan BGYMilan (Bergamo) BGY 16:40 Katowice KTW
+14/01/20 Wizz Air 0 13.75 12:50 Krakow KRK 14:50 Bari BRI
+21/01/20 Wizz Air 0 14.99 15:25 Bari BRI 17:20 Krakow KRK
+07/01/20 Wizz Air 0 13.75 12:50 Krakow KRK 14:50 Bari BRI
+11/01/20 Wizz Air 0 14.99 15:25 Bari BRI 17:20 Krakow KRK
+14/01/20 Wizz Air 0 13.75 12:50 Krakow KRK 14:50 Bari BRI
+18/01/20 Wizz Air 0 14.99 15:25 Bari BRI 17:20 Krakow KRK
+03/03/20 Wizz Air 0 13.75 12:50 Krakow KRK 14:50 Bari BRI
+07/03/20 Wizz Air 0 14.99 15:25 Bari BRI 17:20 Krakow KRK
+24/05/19 Ryanair 0 15.15 18:50 Warsaw WMIWarsaw (Modlin) WMI 20:50 Rimini RMI
+31/05/19 Ryanair 0 14.99 21:15 Rimini RMI 23:15 Warsaw WMIWarsaw (Modlin) WMI
+21/01/20 Wizz Air 0 20.74 18:30 Krakow KRK 20:25 Turin TRN
+28/01/20 Wizz Air 0 9.99 21:00 Turin TRN 22:55 Krakow KRK
+14/01/20 Wizz Air 0 20.74 18:30 Krakow KRK 20:25 Turin TRN
+21/01/20 Wizz Air 0 9.99 21:00 Turin TRN 22:55 Krakow KRK
+30/06/19 Ryanair 0 13.05 17:25 Katowice KTW 19:15 Milan BGYMilan (Bergamo) BGY
+07/07/19 Ryanair 0 17.99 15:10 Milan BGYMilan (Bergamo) BGY 17:00 Katowice KTW
+12/10/19 Wizz Air 0 13.75 14:50 Gdansk GDN 17:00 Milan BGYMilan (Bergamo) BGY
+19/10/19 Ryanair 0 17.99 15:10 Milan BGYMilan (Bergamo) BGY 17:15 Gdansk GDN
+04/06/19 Ryanair 0 15.15 16:20 Poznan POZ 18:05 Milan BGYMilan (Bergamo) BGY
+11/06/19 Ryanair 0 16.82 14:10 Milan BGYMilan (Bergamo) BGY 15:55 Poznan POZ
+21/05/19 Wizz Air 0 17.48 06:15 Warsaw WAW 08:20 Milan BGYMilan (Bergamo) BGY
+29/05/19 Wizz Air 0 14.99 08:55 Milan BGYMilan (Bergamo) BGY 10:55 Warsaw WAW
+21/04/19 Wizz Air 0 23.08 11:15 Katowice KTW 12:55 Bologna BLQ
+29/04/19 Wizz Air 0 9.99 18:25 Bologna BLQ 20:05 Katowice KTW
+06/06/19 Wizz Air 0 20.74 12:45 Katowice KTW 14:30 Milan BGYMilan (Bergamo) BGY
+12/06/19 Ryanair 0 12.99 11:00 Milan BGYMilan (Bergamo) BGY 12:50 Katowice KTW
+20/05/19 Wizz Air 0 13.75 16:15 Katowice KTW 17:55 Bologna BLQ
+24/05/19 Wizz Air 0 19.99 18:25 Bologna BLQ 20:05 Katowice KTW
+20/05/19 Wizz Air 0 13.75 16:15 Katowice KTW 17:55 Bologna BLQ
+27/05/19 Wizz Air 0 19.99 18:25 Bologna BLQ 20:05 Katowice KTW
+03/03/20 Wizz Air 0 13.75 12:50 Krakow KRK 14:50 Bari BRI
+10/03/20 Wizz Air 0 19.99 15:25 Bari BRI 17:20 Krakow KRK
+07/01/20 Wizz Air 0 13.75 12:50 Krakow KRK 14:50 Bari BRI
+14/01/20 Wizz Air 0 19.99 15:25 Bari BRI 17:20 Krakow KRK
+21/04/19 Ryanair 0 26.07 18:45 Warsaw WMIWarsaw (Modlin) WMI 20:50 Milan BGYMilan (Bergamo) BGY
+29/04/19 Ryanair 0 7.99 22:05 Milan BGYMilan (Bergamo) BGY 00:05 Warsaw WMIWarsaw (Modlin) WMI
+22/10/19 Wizz Air 0 13.75 14:50 Gdansk GDN 17:00 Milan BGYMilan (Bergamo) BGY
+26/10/19 Ryanair 0 20.39 15:10 Milan BGYMilan (Bergamo) BGY 17:15 Gdansk GDN
+12/10/19 Wizz Air 0 13.75 14:50 Gdansk GDN 17:00 Milan BGYMilan (Bergamo) BGY
+17/10/19 Ryanair 0 20.39 10:15 Milan BGYMilan (Bergamo) BGY 12:20 Gdansk GDN
+22/10/19 Wizz Air 0 13.75 14:50 Gdansk GDN 17:00 Milan BGYMilan (Bergamo) BGY
+29/10/19 Ryanair 0 20.39 12:50 Milan BGYMilan (Bergamo) BGY 14:55 Gdansk GDN
+08/10/19 Wizz Air 0 13.75 14:50 Gdansk GDN 17:00 Milan BGYMilan (Bergamo) BGY
+15/10/19 Ryanair 0 20.39 09:30 Milan BGYMilan (Bergamo) BGY 11:35 Gdansk GDN
+08/10/19 Wizz Air 0 13.75 14:50 Gdansk GDN 17:00 Milan BGYMilan (Bergamo) BGY
+12/10/19 Ryanair 0 20.39 15:10 Milan BGYMilan (Bergamo) BGY 17:15 Gdansk GDN
+21/05/19 Wizz Air 0 17.48 06:15 Warsaw WAW 08:20 Milan BGYMilan (Bergamo) BGY
+25/05/19 Wizz Air 0 17.49 08:55 Milan BGYMilan (Bergamo) BGY 10:55 Warsaw WAW
+20/05/19 Laudamotion 1 9.09 13:25 Krakow KRK 07:40 Milan BGYMilan (Bergamo) BGY
+20/05/19 Laudamotion 1 7.99 06:10 Vienna VIE 14:25 Vienna VIE OE1305
+26/05/19 Laudamotion 1 7.99 07:55 Milan BGYMilan (Bergamo) BGY 12:50 Krakow KRK
+20/05/19 Laudamotion 1 9.99 25 Kr kow KRK 12:50 Krakow KRK OE1304
+20/05/19 Laudamotion 1 9.09 13:25 Krakow KRK 07:40 Milan BGYMilan (Bergamo) BGY
+26/05/19 Laudamotion 1 7.99 55 Mi an BGYMilan (Bergamo) BGY 07:40 Milan BGYMilan (Bergamo) BGY OE1318
+11/06/19 Laudamotion 0 7.99 20:45 Vienna VIE 09:25 Vienna VIE OE1319
+17/06/19 Laudamotion 0 9.99 07:00 Gdansk GDN 09:05 Milan BGYMilan (Bergamo) BGY
+15/10/19 Ryanair 0 17.71 20:30 Milan BGYMilan (Bergamo) BGY 22:30 Gdansk GDN
+19/10/19 Wizz Air 0 17.49 14:50 Gdansk GDN 17:00 Milan BGYMilan (Bergamo) BGY
+02/06/19 Wizz Air 0 17.48 15:10 Milan BGYMilan (Bergamo) BGY 17:15 Gdansk GDN
+08/06/19 Ryanair 0 17.99 17:25 Katowice KTW 19:15 Milan BGYMilan (Bergamo) BGY
+11/07/19 Ryanair 0 13.05 15:00 Milan BGYMilan (Bergamo) BGY 16:40 Katowice KTW
+17/07/19 Wizz Air 0 22.49 18:45 Warsaw WMIWarsaw (Modlin) WMI 20:50 Milan BGYMilan (Bergamo) BGY
+05/07/19 Ryanair 0 17.71 21:15 Milan BGYMilan (Bergamo) BGY 23:15 Warsaw WMIWarsaw (Modlin) WMI
+10/07/19 Ryanair 0 17.99 21:55 Warsaw WMIWarsaw (Modlin) WMI 23:59 Milan BGYMilan (Bergamo) BGY
+12/07/19 Ryanair 0 17.71 21:15 Milan BGYMilan (Bergamo) BGY 23:15 Warsaw WMIWarsaw (Modlin) WMI
+18/07/19 Ryanair 0 17.99 21:55 Warsaw WMIWarsaw (Modlin) WMI 23:59 Milan BGYMilan (Bergamo) BGY
+03/06/19 Ryanair 0 17.71 21:15 Milan BGYMilan (Bergamo) BGY 23:15 Warsaw WMIWarsaw (Modlin) WMI
+11/06/19 Ryanair 0 17.99 19:35 Warsaw WMIWarsaw (Modlin) WMI 21:40 Milan BGYMilan (Bergamo) BGY
+15/10/19 Ryanair 0 17.71 21:15 Milan BGYMilan (Bergamo) BGY 23:15 Warsaw WMIWarsaw (Modlin) WMI
+19/10/19 Ryanair 0 17.99 07:00 Gdansk GDN 09:05 Milan BGYMilan (Bergamo) BGY
+01/10/19 Ryanair 0 17.71 15:10 Milan BGYMilan (Bergamo) BGY 17:15 Gdansk GDN
+08/10/19 Ryanair 0 17.99 16:20 Poznan POZ 18:05 Milan BGYMilan (Bergamo) BGY
+03/08/19 Ryanair 0 17.71 14:10 Milan BGYMilan (Bergamo) BGY 15:55 Poznan POZ
+10/08/19 Ryanair 0 17.99 21:45 Poznan POZ 23:30 Milan BGYMilan (Bergamo) BGY
+08/10/19 Ryanair 0 17.71 19:35 Milan BGYMilan (Bergamo) BGY 21:20 Poznan POZ
+12/10/19 Ryanair 0 17.99 16:20 Poznan POZ 18:05 Milan BGYMilan (Bergamo) BGY
+13/07/19 Ryanair 0 17.71 19:35 Milan BGYMilan (Bergamo) BGY 21:20 Poznan POZ
+18/07/19 Ryanair 0 17.99 21:55 Warsaw WMIWarsaw (Modlin) WMI 23:59 Milan BGYMilan (Bergamo) BGY
+02/07/19 Ryanair 0 17.71 21:15 Milan BGYMilan (Bergamo) BGY 23:15 Warsaw WMIWarsaw (Modlin) WMI
+10/07/19 Ryanair 0 17.99 18:45 Warsaw WMIWarsaw (Modlin) WMI 20:50 Milan BGYMilan (Bergamo) BGY
+11/07/19 Ryanair 0 17.71 21:15 Milan BGYMilan (Bergamo) BGY 23:15 Warsaw WMIWarsaw (Modlin) WMI
+18/07/19 Ryanair 0 17.99 18:45 Warsaw WMIWarsaw (Modlin) WMI 20:50 Milan BGYMilan (Bergamo) BGY
+01/06/19 Ryanair 0 17.71 21:15 Milan BGYMilan (Bergamo) BGY 23:15 Warsaw WMIWarsaw (Modlin) WMI
+05/06/19 Ryanair 0 17.99 21:55 Warsaw WMIWarsaw (Modlin) WMI 23:59 Milan BGYMilan (Bergamo) BGY
+11/06/19 Ryanair 0 17.71 21:15 Milan BGYMilan (Bergamo) BGY 23:15 Warsaw WMIWarsaw (Modlin) WMI
+18/06/19 Ryanair 0 17.99 18:45 Warsaw WMIWarsaw (Modlin) WMI 20:50 Milan BGYMilan (Bergamo) BGY
+05/07/19 Ryanair 0 17.71 21:15 Milan BGYMilan (Bergamo) BGY 23:15 Warsaw WMIWarsaw (Modlin) WMI
+11/07/19 Ryanair 0 17.99 21:55 Warsaw WMIWarsaw (Modlin) WMI 23:59 Milan BGYMilan (Bergamo) BGY
+06/07/19 Ryanair 0 17.71 21:15 Milan BGYMilan (Bergamo) BGY 23:15 Warsaw WMIWarsaw (Modlin) WMI
+10/07/19 Ryanair 0 17.99 21:55 Warsaw WMIWarsaw (Modlin) WMI 23:59 Milan BGYMilan (Bergamo) BGY
+11/06/19 Ryanair 0 17.71 21:15 Milan BGYMilan (Bergamo) BGY 23:15 Warsaw WMIWarsaw (Modlin) WMI
+19/06/19 Ryanair 0 17.99 18:45 Warsaw WMIWarsaw (Modlin) WMI 20:50 Milan BGYMilan (Bergamo) BGY
+12/06/19 Ryanair 0 17.71 21:15 Milan BGYMilan (Bergamo) BGY 23:15 Warsaw WMIWarsaw (Modlin) WMI
+19/06/19 Ryanair 0 17.99 18:45 Warsaw WMIWarsaw (Modlin) WMI 20:50 Milan BGYMilan (Bergamo) BGY
+02/07/19 Ryanair 0 17.71 21:15 Milan BGYMilan (Bergamo) BGY 23:15 Warsaw WMIWarsaw (Modlin) WMI
+09/07/19 Ryanair 0 17.99 18:45 Warsaw WMIWarsaw (Modlin) WMI 20:50 Milan BGYMilan (Bergamo) BGY
+01/07/19 Ryanair 0 17.71 21:15 Milan BGYMilan (Bergamo) BGY 23:15 Warsaw WMIWarsaw (Modlin) WMI
+09/07/19 Ryanair 0 17.99 22:50 Warsaw WMIWarsaw (Modlin) WMI 00:55 Milan BGYMilan (Bergamo) BGY
+28/01/20 Ryanair 0 17.71 21:15 Milan BGYMilan (Bergamo) BGY 23:15 Warsaw WMIWarsaw (Modlin) WMI
+01/02/20 Ryanair 0 17.99 12:50 Krakow KRK 14:50 Bari BRI
+28/01/20 Wizz Air 0 20.74 15:25 Bari BRI 17:20 Krakow KRK
+04/02/20 Wizz Air 0 14.99 18:30 Krakow KRK 20:25 Turin TRN
+19/11/19 Wizz Air 0 20.74 21:00 Turin TRN 22:55 Krakow KRK
+26/11/19 Wizz Air 0 14.99 12:50 Krakow KRK 14:50 Bari BRI
+24/03/20 Wizz Air 0 20.74 15:25 Bari BRI 17:20 Krakow KRK
+28/03/20 Wizz Air 0 14.99 12:50 Krakow KRK 14:50 Bari BRI
+03/12/19 Wizz Air 0 20.74 15:25 Bari BRI 17:20 Krakow KRK
+07/12/19 Wizz Air 0 14.99 12:50 Krakow KRK 14:50 Bari BRI
+04/02/20 Wizz Air 0 20.74 15:25 Bari BRI 17:20 Krakow KRK
+11/02/20 Wizz Air 0 14.99 12:50 Krakow KRK 14:50 Bari BRI
+19/12/19 Wizz Air 0 20.74 15:25 Bari BRI 17:20 Krakow KRK
+24/12/19 Wizz Air 0 14.99 12:50 Krakow KRK 14:50 Bari BRI
+20/05/19 Wizz Air 1 13.75 15:25 Bari BRI 17:20 Krakow KRK
+20/05/19 Wizz Air 1 22.49 25 Kr kow KRK 17:20 Krakow KRK W65058
+25/05/19 Laudamotion 1 9.09 06:10 Vienna VIE 14:25 Vienna VIE OE1305
+18/05/19 Laudamotion 1 7.99 16:00 Milan BGYMilan (Bergamo) BGY 21:45 Krakow KRK
+18/05/19 Laudamotion 1 9.99 20:45 Vienna VIE 17:30 Vienna VIE OE1319
+26/05/19 Laudamotion 1 9.99 19:10 Krakow KRK 07:20 Milan BGYMilan (Bergamo) BGY
+18/05/19 Laudamotion 1 9.09 55 Mi an BGYMilan (Bergamo) BGY 07:20 Milan BGYMilan (Bergamo) BGY OE1318
+18/05/19 Laudamotion 1 9.99 07:55 Milan BGYMilan (Bergamo) BGY 12:50 Krakow KRK
+26/05/19 Laudamotion 1 7.99 10 Kr kow KRK 12:50 Krakow KRK OE1304
+19/05/19 Laudamotion 1 9.99 05:50 Vienna VIE 20:10 Vienna VIE OE1305
+19/05/19 Laudamotion 1 9.09 55 Mi an BGYMilan (Bergamo) BGY 07:20 Milan BGYMilan (Bergamo) BGY OE1318
+26/05/19 Laudamotion 1 9.99 20:45 Vienna VIE 09:25 Vienna VIE OE1319
+19/05/19 Laudamotion 1 7.99 22:40 Krakow KRK 09:00 Milan BGYMilan (Bergamo) BGY
+19/05/19 Laudamotion 1 9.99 07:30 Vienna VIE 23:40 Vienna VIE OE1305
+26/05/19 Laudamotion 1 9.09 07:55 Milan BGYMilan (Bergamo) BGY 12:50 Krakow KRK
+27/05/19 Laudamotion 1 9.99 40 Kr kow KRK 12:50 Krakow KRK OE1304
+27/05/19 Laudamotion 1 7.99 22:40 Krakow KRK 09:00 Milan BGYMilan (Bergamo) BGY
+04/06/19 Laudamotion 1 9.99 55 Mi an BGYMilan (Bergamo) BGY 09:00 Milan BGYMilan (Bergamo) BGY OE1318
+25/05/19 Laudamotion 1 9.09 20:45 Vienna VIE 09:25 Vienna VIE OE1319
+25/05/19 Laudamotion 1 9.99 25 Kr kow KRK 21:45 Krakow KRK OE1304
+30/05/19 Laudamotion 1 7.99 06:10 Vienna VIE 14:25 Vienna VIE OE1305
+25/05/19 Laudamotion 1 9.99 21:10 Milan BGYMilan (Bergamo) BGY 23:00 Krakow KRK
+25/05/19 Laudamotion 1 9.09 10 Kr kow KRK 23:00 Krakow KRK FR6876
+29/05/19 Laudamotion 1 7.99 05:50 Vienna VIE 20:10 Vienna VIE OE1305
+20/05/19 Ryanair 1 19.99 17:30 Milan BGYMilan (Bergamo) BGY 19:20 Krakow KRK
+20/05/19 Laudamotion 1 9.09 10 Kr kow KRK 19:20 Krakow KRK FR6876
+28/05/19 Laudamotion 1 7.99 05:50 Vienna VIE 20:10 Vienna VIE OE1305
+27/05/19 Ryanair 1 19.99 15:15 Milan BGYMilan (Bergamo) BGY 17:05 Krakow KRK
+27/05/19 Laudamotion 1 9.09 25 Kr kow KRK 17:05 Krakow KRK FR6876
+03/06/19 Laudamotion 1 7.99 06:10 Vienna VIE 14:25 Vienna VIE OE1305
+01/06/19 Ryanair 0 19.99 21:10 Milan BGYMilan (Bergamo) BGY 23:00 Krakow KRK
+08/06/19 Laudamotion 0 9.09 13:25 Krakow KRK 07:40 Milan BGYMilan (Bergamo) BGY
+20/05/19 Laudamotion 0 7.99 10 Mi an BGYMilan (Bergamo) BGY 07:40 Milan BGYMilan (Bergamo) BGY OE1318
+27/05/19 Ryanair 0 19.99 50 Gd nsk GDN 23:59 Krakow KRK FR6876
+09/05/19 Laudamotion 0 9.09 30 Mi an BGYMilan (Bergamo) BGY 17:00 Milan BGYMilan (Bergamo) BGY W61681
+16/05/19 Laudamotion 0 7.99 25 Wa saw WMIWarsaw (Modlin) WMI 19:30 Gdansk GDN W61682
+23/05/19 Ryanair 1 19.99 50 Pe cara PSR 18:25 Pescara PSR FR4260
+23/05/19 Wizz Air 1 17.48 18:50 Pescara PSR 20:50 Warsaw WMIWarsaw (Modlin) WMI
+29/05/19 Wizz Air 1 19.99 18:10 Warsaw WMIWarsaw (Modlin) WMI 20:10 Pescara PSR
+22/05/19 Ryanair 1 24.53 15:45 Pescara PSR 17:45 Warsaw WMIWarsaw (Modlin) WMI
+22/05/19 Ryanair 1 12.99 10 Ka owice KTW 17:45 Warsaw WMIWarsaw (Modlin) WMI FR4261
+29/05/19 Ryanair 1 24.53 10:00 Oslo TRFOslo (Torp) TRF 08:10 Oslo TRFOslo (Torp) TRF W61215
+04/06/19 Ryanair 0 12.99 11:00 Milan BGYMilan (Bergamo) BGY 12:50 Katowice KTW
+08/06/19 Wizz Air 0 9.09 07:00 Katowice KTW 12:25 Milan BGYMilan (Bergamo) BGY
+22/04/19 Ryanair 0 15.45 00 Mi an BGYMilan (Bergamo) BGY 12:25 Milan BGYMilan (Bergamo) BGY FR4558
+29/04/19 Ryanair 0 12.99 00 Gd nsk GDN 12:50 Katowice KTW FR5426
+26/10/19 Wizz Air 0 9.09 30 Mi an BGYMilan (Bergamo) BGY 09:05 Milan BGYMilan (Bergamo) BGY FR8311
+02/11/19 Ryanair 0 15.45 15 Ka owice KTW 19:30 Gdansk GDN W61682
+01/06/19 Ryanair 0 12.99 25 Bo ogna BLQ 17:55 Bologna BLQ W61159
+08/06/19 Ryanair 0 17.71 50 Gd nsk GDN 20:05 Katowice KTW W61160
+01/06/19 Wizz Air 0 19.99 00 Mi an BGYMilan (Bergamo) BGY 17:00 Milan BGYMilan (Bergamo) BGY W61681
+06/06/19 Wizz Air 0 27.74 50 Gd nsk GDN 12:05 Gdansk GDN FR8312
+21/05/19 Wizz Air 0 9.99 10 Mi an BGYMilan (Bergamo) BGY 17:00 Milan BGYMilan (Bergamo) BGY W61681
+27/05/19 Wizz Air 1 17.48 50 Gd nsk GDN 17:15 Gdansk GDN FR8312
+27/05/19 Ryanair 1 20.39 14:50 Gdansk GDN 17:00 Milan BGYMilan (Bergamo) BGY
+21/05/19 Wizz Air 1 17.48 10:15 Milan BGYMilan (Bergamo) BGY 12:20 Gdansk GDN
+27/05/19 Ryanair 1 20.39 18:45 Warsaw WMIWarsaw (Modlin) WMI 20:50 Milan BGYMilan (Bergamo) BGY
+27/05/19 Wizz Air 1 17.48 15 Mi an BGYMilan (Bergamo) BGY 20:50 Milan BGYMilan (Bergamo) BGY FR3899
+21/05/19 Ryanair 1 20.39 18:20 Brussels CRLBrussels (Charleroi) CRL 09:50 Brussels CRLBrussels (Charleroi) CRL FR4523
+27/05/19 Ryanair 1 13.05 18:45 Warsaw WMIWarsaw (Modlin) WMI 20:50 Milan BGYMilan (Bergamo) BGY
+27/05/19 Ryanair 1 14.99 15 Mi an BGYMilan (Bergamo) BGY 20:50 Milan BGYMilan (Bergamo) BGY FR3899
+21/05/19 Ryanair 1 9.99 06:55 Brussels CRLBrussels (Charleroi) CRL 09:50 Brussels CRLBrussels (Charleroi) CRL FR4523
+27/05/19 Ryanair 1 13.05 18:45 Warsaw WMIWarsaw (Modlin) WMI 20:50 Milan BGYMilan (Bergamo) BGY
+27/05/19 Ryanair 1 14.99 25 Mi an BGYMilan (Bergamo) BGY 20:50 Milan BGYMilan (Bergamo) BGY FR3899
+21/05/19 Ryanair 1 9.99 18:20 Brussels CRLBrussels (Charleroi) CRL 18:00 Brussels CRLBrussels (Charleroi) CRL FR4527
+28/05/19 Ryanair 1 13.05 18:45 Warsaw WMIWarsaw (Modlin) WMI 20:50 Milan BGYMilan (Bergamo) BGY
+28/05/19 Ryanair 1 14.99 25 Mi an BGYMilan (Bergamo) BGY 20:50 Milan BGYMilan (Bergamo) BGY FR3899
+25/05/19 Ryanair 1 9.99 06:55 Brussels CRLBrussels (Charleroi) CRL 18:00 Brussels CRLBrussels (Charleroi) CRL FR4527
+29/05/19 Ryanair 1 13.05 18:45 Warsaw WMIWarsaw (Modlin) WMI 20:50 Milan BGYMilan (Bergamo) BGY
+29/05/19 Ryanair 1 14.99 15 Mi an BGYMilan (Bergamo) BGY 20:50 Milan BGYMilan (Bergamo) BGY FR3899
+06/05/19 Ryanair 1 9.99 18:20 Brussels CRLBrussels (Charleroi) CRL 09:50 Brussels CRLBrussels (Charleroi) CRL FR4523
+14/05/19 Ryanair 1 13.05 19:10 Krakow KRK 07:20 Milan BGYMilan (Bergamo) BGY
+14/05/19 Ryanair 1 14.99 05:50 Vienna VIE 20:10 Vienna VIE OE1305
+20/05/19 Ryanair 1 9.99 09:55 Milan BGYMilan (Bergamo) BGY 16:30 Krakow KRK
+28/05/19 Laudamotion 1 9.09 25 Kr kow KRK 16:30 Krakow KRK OE1304
+28/05/19 Laudamotion 1 7.99 13:25 Krakow KRK 07:40 Milan BGYMilan (Bergamo) BGY
+28/05/19 Laudamotion 1 7.99 05 Mi an BGYMilan (Bergamo) BGY 07:40 Milan BGYMilan (Bergamo) BGY OE1318
+04/06/19 Laudamotion 0 12.99 15:30 Vienna VIE 09:35 Vienna VIE OE1319
+04/06/19 Laudamotion 0 9.09 13:25 Krakow KRK 07:40 Milan BGYMilan (Bergamo) BGY
+11/06/19 Laudamotion 0 7.99 05 Mi an BGYMilan (Bergamo) BGY 07:40 Milan BGYMilan (Bergamo) BGY OE1318
+04/06/19 Laudamotion 0 7.99 15:30 Vienna VIE 09:35 Vienna VIE OE1319
+12/06/19 Laudamotion 0 12.99 06:15 Warsaw WAW 08:20 Milan BGYMilan (Bergamo) BGY
+28/05/19 Laudamotion 0 9.09 08:55 Milan BGYMilan (Bergamo) BGY 10:55 Warsaw WAW
+05/06/19 Laudamotion 0 7.99 06:15 Warsaw WAW 08:20 Milan BGYMilan (Bergamo) BGY
+22/05/19 Laudamotion 0 7.99 08:55 Milan BGYMilan (Bergamo) BGY 10:55 Warsaw WAW
+29/05/19 Laudamotion 0 12.99 06:15 Warsaw WAW 08:20 Milan BGYMilan (Bergamo) BGY
+22/05/19 Wizz Air 0 23.08 08:55 Milan BGYMilan (Bergamo) BGY 10:55 Warsaw WAW
+30/05/19 Wizz Air 0 14.99 06:15 Warsaw WAW 08:20 Milan BGYMilan (Bergamo) BGY
+22/10/19 Wizz Air 0 23.08 08:55 Milan BGYMilan (Bergamo) BGY 10:55 Warsaw WAW
+29/10/19 Wizz Air 0 14.99 06:15 Warsaw WAW 08:20 Milan BGYMilan (Bergamo) BGY
+19/10/19 Wizz Air 0 23.08 08:55 Milan BGYMilan (Bergamo) BGY 10:55 Warsaw WAW
+24/10/19 Wizz Air 0 14.99 06:15 Warsaw WAW 08:20 Milan BGYMilan (Bergamo) BGY
+21/05/19 Wizz Air 0 23.08 08:55 Milan BGYMilan (Bergamo) BGY 10:55 Warsaw WAW
+25/05/19 Wizz Air 1 14.99 07:00 Gdansk GDN 09:05 Milan BGYMilan (Bergamo) BGY
+25/05/19 Wizz Air 1 23.08 50 Mi an BGYMilan (Bergamo) BGY 09:05 Milan BGYMilan (Bergamo) BGY FR8311
+21/05/19 Wizz Air 1 14.99 40 Gd nsk GDN 14:55 Gdansk GDN FR8312
+25/05/19 Wizz Air 1 23.08 15 Mi an BGYMilan (Bergamo) BGY 14:45 Milan BGYMilan (Bergamo) BGY FR8311
+25/05/19 Wizz Air 1 14.99 10:15 Milan BGYMilan (Bergamo) BGY 12:20 Gdansk GDN
+17/06/19 Ryanair 1 17.71 18:45 Warsaw WMIWarsaw (Modlin) WMI 20:50 Milan BGYMilan (Bergamo) BGY
+24/06/19 Ryanair 0 20.39 08:00 Milan BGYMilan (Bergamo) BGY 16:45 Warsaw WMIWarsaw (Modlin) WMI
+19/05/19 Ryanair 1 17.71 45 Wa saw WMIWarsaw (Modlin) WMI 16:45 Warsaw WMIWarsaw (Modlin) WMI FR4529
+19/05/19 Ryanair 1 20.39 18:45 Warsaw WMIWarsaw (Modlin) WMI 20:50 Milan BGYMilan (Bergamo) BGY
+25/05/19 Ryanair 1 13.05 08:00 Milan BGYMilan (Bergamo) BGY 23:25 Warsaw WMIWarsaw (Modlin) WMI
+15/05/19 Ryanair 1 14.99 15 Ka owice KTW 23:25 Warsaw WMIWarsaw (Modlin) WMI FR4529
+15/05/19 Ryanair 1 10.27 16:15 Katowice KTW 17:55 Bologna BLQ
+19/05/19 Ryanair 1 13.05 18:25 Bologna BLQ 20:05 Katowice KTW
+11/05/19 Ryanair 1 14.99 22:40 Krakow KRK 09:00 Milan BGYMilan (Bergamo) BGY
+11/05/19 Ryanair 1 10.27 07:30 Vienna VIE 23:40 Vienna VIE OE1305
+19/05/19 Wizz Air 1 13.75 16:00 Milan BGYMilan (Bergamo) BGY 21:45 Krakow KRK
+20/05/19 Wizz Air 1 24.99 05 Kr kow KRK 21:45 Krakow KRK OE1304
+20/05/19 Laudamotion 1 9.09 17:05 Krakow KRK 09:00 Milan BGYMilan (Bergamo) BGY
+25/05/19 Laudamotion 1 9.99 55 Mi an BGYMilan (Bergamo) BGY 09:00 Milan BGYMilan (Bergamo) BGY OE1318
+11/05/19 Laudamotion 1 9.99 11:50 Vienna VIE 09:25 Vienna VIE OE1319
+11/05/19 Laudamotion 1 9.99 10 Kr kow KRK 12:50 Krakow KRK OE1304
+19/05/19 Laudamotion 1 9.09 05:50 Vienna VIE 20:10 Vienna VIE OE1305
+15/05/19 Laudamotion 1 9.99 07:55 Milan BGYMilan (Bergamo) BGY 21:45 Krakow KRK
+15/05/19 Laudamotion 1 9.99 20:45 Vienna VIE 09:25 Vienna VIE OE1319
+19/05/19 Laudamotion 1 9.99 13:25 Krakow KRK 19:20 Pisa PSA
+18/05/19 Laudamotion 1 9.09 05 Pi a PSA 19:20 Pisa PSA OE530
+18/05/19 Laudamotion 1 9.99 20:05 Pisa PSA 21:45 Krakow KRK
+25/05/19 Laudamotion 1 9.99 10 Kr kow KRK 21:45 Krakow KRK OE1304
+11/05/19 Laudamotion 1 9.99 05:50 Vienna VIE 20:10 Vienna VIE OE1305
+11/05/19 Laudamotion 1 9.09 55 Mi an BGYMilan (Bergamo) BGY 07:20 Milan BGYMilan (Bergamo) BGY OE1318
+19/05/19 Laudamotion 1 9.99 11:50 Vienna VIE 09:25 Vienna VIE OE1319
+11/05/19 Laudamotion 1 9.99 17:05 Krakow KRK 09:00 Milan BGYMilan (Bergamo) BGY
+11/05/19 Laudamotion 1 9.99 07:30 Vienna VIE 18:05 Vienna VIE OE1305
+18/05/19 Laudamotion 1 9.09 07:55 Milan BGYMilan (Bergamo) BGY 21:45 Krakow KRK
+18/05/19 Laudamotion 1 9.99 10 Kr kow KRK 21:45 Krakow KRK OE1304
+18/05/19 Laudamotion 1 9.99 19:10 Krakow KRK 07:20 Milan BGYMilan (Bergamo) BGY
+26/05/19 Laudamotion 1 9.99 00 Mi an BGYMilan (Bergamo) BGY 07:20 Milan BGYMilan (Bergamo) BGY OE1318
+13/05/19 Laudamotion 1 9.09 20:45 Vienna VIE 17:30 Vienna VIE OE1319
+13/05/19 Laudamotion 1 9.99 10 Kr kow KRK 21:45 Krakow KRK OE1304
+18/05/19 Laudamotion 1 9.99 07:40 Vienna VIE 20:10 Vienna VIE OE1305
+11/05/19 Laudamotion 1 9.99 09:35 Bologna BLQ 12:50 Krakow KRK
+11/05/19 Laudamotion 1 9.09 11:50 Vienna VIE 10:55 Vienna VIE OE1303
+19/05/19 Laudamotion 1 9.99 19:10 Krakow KRK 09:00 Bologna BLQ
+18/05/19 Laudamotion 1 9.99 15 Bo ogna BLQ 09:00 Bologna BLQ OE1302
+18/05/19 Laudamotion 1 9.99 08:15 Bologna BLQ 21:45 Krakow KRK
+25/05/19 Laudamotion 1 9.09 10 Kr kow KRK 21:45 Krakow KRK OE1304
+18/05/19 Laudamotion 1 9.99 07:40 Vienna VIE 20:10 Vienna VIE OE1305
+18/05/19 Laudamotion 1 9.99 50 Bo ogna BLQ 09:00 Bologna BLQ OE1302
+26/05/19 Laudamotion 1 9.99 11:50 Vienna VIE 10:10 Vienna VIE OE1303
+21/05/19 Laudamotion 0 9.09 13:25 Krakow KRK 19:20 Pisa PSA
+29/05/19 Laudamotion 1 9.99 05 Pi a PSA 19:20 Pisa PSA OE530
+29/05/19 Laudamotion 1 9.99 20:05 Pisa PSA 21:45 Krakow KRK
+21/05/19 Laudamotion 1 9.99 10 Kr kow KRK 21:45 Krakow KRK OE1304
+29/05/19 Laudamotion 1 9.09 07:40 Vienna VIE 20:10 Vienna VIE OE1305
+29/05/19 Laudamotion 1 9.99 35 Bo ogna BLQ 09:00 Bologna BLQ OE1302
+21/05/19 Laudamotion 1 9.99 20:45 Vienna VIE 10:55 Vienna VIE OE1303
+29/05/19 Laudamotion 1 9.99 19:10 Krakow KRK 09:00 Bologna BLQ
+29/05/19 Laudamotion 1 9.09 07:40 Vienna VIE 20:10 Vienna VIE OE1305
+21/05/19 Laudamotion 1 9.99 08:15 Bologna BLQ 21:45 Krakow KRK
+29/05/19 Laudamotion 1 9.99 10 Kr kow KRK 21:45 Krakow KRK OE1304
+29/05/19 Laudamotion 1 9.99 19:10 Krakow KRK 09:00 Bologna BLQ
+21/05/19 Laudamotion 1 9.09 50 Bo ogna BLQ 09:00 Bologna BLQ OE1302
+29/05/19 Laudamotion 1 9.99 20:45 Vienna VIE 10:10 Vienna VIE OE1303
+29/05/19 Laudamotion 1 9.99 45 Wa saw WMIWarsaw (Modlin) WMI 21:45 Krakow KRK OE1304
+21/05/19 Laudamotion 1 9.99 50 Mi an BGYMilan (Bergamo) BGY 20:50 Milan BGYMilan (Bergamo) BGY FR3899
+29/05/19 Laudamotion 1 9.09 17:55 London STNLondon (Stansted) STN 13:00 London STNLondon (Stansted) STN FR4199
+29/05/19 Laudamotion 1 9.99 45 Wa saw WMIWarsaw (Modlin) WMI 21:10 Warsaw WMIWarsaw (Modlin) WMI FR2283
+21/05/19 Laudamotion 1 9.99 50 Mi an BGYMilan (Bergamo) BGY 20:50 Milan BGYMilan (Bergamo) BGY FR3899
+29/05/19 Laudamotion 1 9.99 08:55 London STNLondon (Stansted) STN 13:00 London STNLondon (Stansted) STN FR4199
+29/05/19 Laudamotion 1 9.09 45 Wa saw WMIWarsaw (Modlin) WMI 12:10 Warsaw WMIWarsaw (Modlin) WMI FR1021
+21/05/19 Laudamotion 1 9.99 30 Mi an BGYMilan (Bergamo) BGY 20:50 Milan BGYMilan (Bergamo) BGY FR3899
+29/05/19 Laudamotion 1 9.99 09:30 London STNLondon (Stansted) STN 07:40 London STNLondon (Stansted) STN FR4191
+29/05/19 Laudamotion 1 9.99 45 Wa saw WMIWarsaw (Modlin) WMI 12:45 Warsaw WMIWarsaw (Modlin) WMI FR1021
+21/05/19 Ryanair 1 13.05 30 Mi an BGYMilan (Bergamo) BGY 20:50 Milan BGYMilan (Bergamo) BGY FR3899
+29/05/19 Ryanair 1 8.99 08:55 London STNLondon (Stansted) STN 19:40 London STNLondon (Stansted) STN FR4197
+29/05/19 Ryanair 1 17.40 45 Wa saw WMIWarsaw (Modlin) WMI 12:10 Warsaw WMIWarsaw (Modlin) WMI FR1021
+16/06/19 Ryanair 1 13.05 30 Mi an BGYMilan (Bergamo) BGY 20:50 Milan BGYMilan (Bergamo) BGY FR3899
+20/06/19 Ryanair 0 8.99 12:00 London STNLondon (Stansted) STN 19:40 London STNLondon (Stansted) STN FR4197
+13/05/19 Ryanair 0 17.40 18:45 Warsaw WMIWarsaw (Modlin) WMI 20:50 Milan BGYMilan (Bergamo) BGY
+17/05/19 Ryanair 0 13.05 11:50 Milan BGYMilan (Bergamo) BGY 17:50 Warsaw WMIWarsaw (Modlin) WMI
+22/05/19 Ryanair 1 8.99 45 Wa saw WMIWarsaw (Modlin) WMI 17:50 Warsaw WMIWarsaw (Modlin) WMI FR2669
+22/05/19 Ryanair 1 17.40 18:45 Warsaw WMIWarsaw (Modlin) WMI 20:50 Milan BGYMilan (Bergamo) BGY
+29/05/19 Ryanair 1 13.05 06:30 Milan BGYMilan (Bergamo) BGY 21:10 Warsaw WMIWarsaw (Modlin) WMI
+22/05/19 Ryanair 1 8.99 45 Wa saw WMIWarsaw (Modlin) WMI 21:10 Warsaw WMIWarsaw (Modlin) WMI FR2283
+22/05/19 Ryanair 1 17.40 18:45 Warsaw WMIWarsaw (Modlin) WMI 20:50 Milan BGYMilan (Bergamo) BGY
+30/05/19 Ryanair 1 13.05 06:30 Milan BGYMilan (Bergamo) BGY 17:50 Warsaw WMIWarsaw (Modlin) WMI
+04/06/19 Ryanair 0 8.99 45 Wa saw WMIWarsaw (Modlin) WMI 17:50 Warsaw WMIWarsaw (Modlin) WMI FR2669
+08/06/19 Ryanair 0 17.40 30 Mi an BGYMilan (Bergamo) BGY 20:50 Milan BGYMilan (Bergamo) BGY FR3899
+06/05/19 Ryanair 0 13.05 11:40 London STNLondon (Stansted) STN 07:40 London STNLondon (Stansted) STN FR4191
+13/05/19 Ryanair 0 8.99 13:45 Gdansk GDN 09:00 Milan BGYMilan (Bergamo) BGY
+01/06/19 Ryanair 0 17.40 15 Mi an BGYMilan (Bergamo) BGY 09:00 Milan BGYMilan (Bergamo) BGY OE1318
+08/06/19 Ryanair 0 13.05 20 Kr kow KRK 12:20 Gdansk GDN FR8312
+15/05/19 Ryanair 0 8.99 30 Pe cara PSR 18:10 Pescara PSR FR3045
+21/05/19 Ryanair 1 17.40 40 Wa saw WAW 23:20 Krakow KRK FR3046
+21/05/19 Ryanair 1 13.05 18:40 Warsaw WAW 12:25 Milan BGYMilan (Bergamo) BGY
+12/09/19 Ryanair 1 8.99 55 Mi an BGYMilan (Bergamo) BGY 12:25 Milan BGYMilan (Bergamo) BGY FR4558
+17/09/19 Ryanair 0 17.40 40 Wa saw WAW 10:55 Warsaw WAW W61432
+17/09/19 Ryanair 0 13.05 10:00 Oslo TRFOslo (Torp) TRF 20:30 Oslo TRFOslo (Torp) TRF W61515
+21/09/19 Ryanair 0 8.99 08:55 Milan BGYMilan (Bergamo) BGY 10:55 Warsaw WAW
+17/06/19 Ryanair 0 17.40 16:20 Poznan POZ 18:05 Milan BGYMilan (Bergamo) BGY
+21/06/19 Wizz Air 0 9.09 19:35 Milan BGYMilan (Bergamo) BGY 21:20 Poznan POZ
+07/10/19 Laudamotion 0 9.99 20:15 Warsaw WMIWarsaw (Modlin) WMI 22:15 Rimini RMI
+11/10/19 Ryanair 0 20.39 22:40 Rimini RMI 00:40 Warsaw WMIWarsaw (Modlin) WMI
+14/10/19 Ryanair 0 24.53 21:45 Poznan POZ 23:30 Milan BGYMilan (Bergamo) BGY
+18/10/19 Ryanair 0 14.99 19:35 Milan BGYMilan (Bergamo) BGY 21:20 Poznan POZ
+09/06/19 Wizz Air 0 9.09 13:55 Krakow KRK 15:30 Venice TSFVenice (Treviso) TSF
+15/06/19 Ryanair 0 15.45 19:50 Venice TSFVenice (Treviso) TSF 12:50 Krakow KRK
+05/09/19 Wizz Air 0 14.99 40 Kr kow KRK 12:50 Krakow KRK FR2426
+12/09/19 Wizz Air 0 9.09 50 Mi an MXPMilan (Malpensa) MXP 20:30 Milan MXPMilan (Malpensa) MXP U22594
+08/10/19 Ryanair 0 15.45 45 Wa saw WMIWarsaw (Modlin) WMI 08:40 Krakow KRK U22593
+15/10/19 Wizz Air 0 14.99 15 Bo ogna BLQ 15:45 Bologna BLQ FR5718
+19/10/19 Ryanair 0 15.15 15 Wa saw WMIWarsaw (Modlin) WMI 09:15 Warsaw WMIWarsaw (Modlin) WMI FR5717
+26/10/19 Ryanair 0 24.47 15 Ri ini RMI 22:15 Rimini RMI FR6039
+12/09/19 Ryanair 0 15.15 15 Wr claw WRO 23:15 Warsaw WMIWarsaw (Modlin) WMI FR6040
+19/09/19 Ryanair 0 24.47 35 Mi an BGYMilan (Bergamo) BGY 16:55 Milan BGYMilan (Bergamo) BGY FR8845
+26/09/19 Ryanair 0 15.15 15 Wr claw WRO 23:15 Wroclaw WRO FR8844
+01/10/19 Ryanair 0 24.47 35 Mi an BGYMilan (Bergamo) BGY 16:55 Milan BGYMilan (Bergamo) BGY FR8845
+26/09/19 Ryanair 0 20.73 50 Wa saw WMIWarsaw (Modlin) WMI 23:15 Wroclaw WRO FR8844
+03/10/19 Ryanair 0 3.99 15 Bo ogna BLQ 00:50 Bologna BLQ FR5718
+28/09/19 Ryanair 0 14.99 40 Wa saw WMIWarsaw (Modlin) WMI 09:15 Warsaw WMIWarsaw (Modlin) WMI FR5717
+03/10/19 easyJet 0 9.32 15 Bo ogna BLQ 14:40 Bologna BLQ FR5718
+10/09/19 easyJet 0 12.73 15 Kr kow KRK 12:15 Warsaw WMIWarsaw (Modlin) WMI FR5717
+17/09/19 Ryanair 0 19.81 50 Mi an MXPMilan (Malpensa) MXP 11:05 Milan MXPMilan (Malpensa) MXP U22594
+10/09/19 Ryanair 0 19.99 55 Kr kow KRK 08:40 Krakow KRK U22593
+14/09/19 Ryanair 0 19.81 35 Mi an MXPMilan (Malpensa) MXP 14:40 Milan MXPMilan (Malpensa) MXP U22594
+19/09/19 Ryanair 0 19.99 40 Kr kow KRK 12:25 Krakow KRK U22593
+26/09/19 Ryanair 0 19.81 20 Mi an MXPMilan (Malpensa) MXP 20:30 Milan MXPMilan (Malpensa) MXP U22594
+19/09/19 Ryanair 0 19.99 40 Kr kow KRK 18:10 Krakow KRK U22593
+24/09/19 Ryanair 0 19.81 50 Mi an MXPMilan (Malpensa) MXP 20:30 Milan MXPMilan (Malpensa) MXP U22594
+03/10/19 Ryanair 0 19.99 40 Kr kow KRK 08:40 Krakow KRK U22593
+08/10/19 Ryanair 0 19.81 20 Mi an MXPMilan (Malpensa) MXP 20:30 Milan MXPMilan (Malpensa) MXP U22594
+07/09/19 Ryanair 0 19.99 55 Kr kow KRK 18:10 Krakow KRK U22593
+12/09/19 Ryanair 0 19.81 20 Mi an MXPMilan (Malpensa) MXP 14:40 Milan MXPMilan (Malpensa) MXP U22594
+07/09/19 Ryanair 0 19.99 15 Kr kow KRK 18:10 Krakow KRK U22593
+14/09/19 easyJet 0 6.99 50 Mi an MXPMilan (Malpensa) MXP 11:05 Milan MXPMilan (Malpensa) MXP U22594
+21/09/19 easyJet 0 15.25 15 Kr kow KRK 08:40 Krakow KRK U22593
+26/09/19 easyJet 0 8.16 35 Mi an MXPMilan (Malpensa) MXP 11:05 Milan MXPMilan (Malpensa) MXP U22594
+23/07/19 easyJet 0 17.27 40 Kr kow KRK 12:25 Krakow KRK U22593
+27/07/19 easyJet 1 9.32 20 Mi an MXPMilan (Malpensa) MXP 20:30 Milan MXPMilan (Malpensa) MXP U22594
+27/07/19 easyJet 1 17.27 16:20 Milan MXPMilan (Malpensa) MXP 18:10 Krakow KRK
+05/09/19 easyJet 1 9.32 18:40 Krakow KRK 20:30 Milan MXPMilan (Malpensa) MXP
+12/09/19 easyJet 0 18.79 06:50 Milan MXPMilan (Malpensa) MXP 08:40 Krakow KRK
+07/05/19 easyJet 1 9.32 18:40 Krakow KRK 20:30 Milan MXPMilan (Malpensa) MXP
+07/05/19 easyJet 1 18.79 50 Mi an MXPMilan (Malpensa) MXP 20:30 Milan MXPMilan (Malpensa) MXP U22594
+14/05/19 easyJet 1 9.32 55 Kr kow KRK 08:40 Krakow KRK U22593
+07/05/19 easyJet 1 18.79 20 Mi an MXPMilan (Malpensa) MXP 14:40 Milan MXPMilan (Malpensa) MXP U22594
+07/05/19 easyJet 1 17.48 16:20 Milan MXPMilan (Malpensa) MXP 18:10 Krakow KRK
+14/05/19 easyJet 1 12.73 12:55 Krakow KRK 14:40 Milan MXPMilan (Malpensa) MXP
+07/05/19 easyJet 1 17.48 10:35 Milan MXPMilan (Malpensa) MXP 12:25 Krakow KRK
+07/05/19 easyJet 1 12.73 55 Kr kow KRK 12:25 Krakow KRK U22593
+14/05/19 easyJet 1 9.32 20 Mi an MXPMilan (Malpensa) MXP 14:40 Milan MXPMilan (Malpensa) MXP U22594
+07/05/19 easyJet 1 22.32 40 Kr kow KRK 18:10 Krakow KRK U22593
+07/05/19 easyJet 1 9.32 18:40 Krakow KRK 20:30 Milan MXPMilan (Malpensa) MXP
+14/05/19 easyJet 1 23.33 21:30 Milan MXPMilan (Malpensa) MXP 21:45 Krakow KRK
+27/08/19 easyJet 1 9.32 40 Kr kow KRK 21:45 Krakow KRK OE1304
+27/08/19 easyJet 1 24.34 18:40 Krakow KRK 20:30 Milan MXPMilan (Malpensa) MXP
+31/08/19 easyJet 1 21.21 16:20 Milan MXPMilan (Malpensa) MXP 18:10 Krakow KRK
+27/08/19 easyJet 1 12.73 07:45 Gdansk GDN 19:35 Milan MXPMilan (Malpensa) MXP
+27/08/19 easyJet 1 21.21 17:55 Berlin TXLBerlin (Tegel) TXL 09:00 Berlin TXLBerlin (Tegel) TXL U25748
+03/09/19 easyJet 1 12.73 22:55 Milan MXPMilan (Malpensa) MXP 14:20 Gdansk GDN
+20/07/19 easyJet 0 11.65 45 Gd nsk GDN 14:20 Gdansk GDN FR2374
+27/07/19 easyJet 1 22.32 17:55 Berlin TXLBerlin (Tegel) TXL 09:00 Berlin TXLBerlin (Tegel) TXL U25748
+27/07/19 easyJet 1 4.66 10 Mi an MXPMilan (Malpensa) MXP 19:35 Milan MXPMilan (Malpensa) MXP FR8
+07/05/19 Wizz Air 1 14.99 11:10 London STNLondon (Stansted) STN 08:15 London STNLondon (Stansted) STN FR8728
+15/05/19 Laudamotion 1 14.99 07:45 Gdansk GDN 19:35 Milan MXPMilan (Malpensa) MXP
+15/05/19 easyJet 1 22.38 17:55 Berlin TXLBerlin (Tegel) TXL 09:00 Berlin TXLBerlin (Tegel) TXL U25748
+07/05/19 easyJet 1 12.73 07:10 Milan MXPMilan (Malpensa) MXP 22:00 Gdansk GDN
+15/05/19 easyJet 1 2.33 45 Gd nsk GDN 22:00 Gdansk GDN FR2372
+15/05/19 Ryanair 1 12.99 07:45 Gdansk GDN 19:35 Milan MXPMilan (Malpensa) MXP
+14/05/19 Ryanair 1 3.99 55 Mi an MXPMilan (Malpensa) MXP 19:35 Milan MXPMilan (Malpensa) MXP FR8
+18/05/19 Ryanair 1 17.40 18:50 London STNLondon (Stansted) STN 23:59 London STNLondon (Stansted) STN FR8737
+18/05/19 easyJet 1 2.33 50 Kr kow KRK 22:00 Gdansk GDN FR2372
+14/05/19 Ryanair 1 12.99 18:50 Stuttgart STR 10:25 Stuttgart STR OE2361
+18/05/19 Ryanair 1 3.99 19:05 Milan MXPMilan (Malpensa) MXP 20:55 Krakow KRK
+18/05/19 Ryanair 1 17.40 50 Kr kow KRK 20:55 Krakow KRK U22593
+14/05/19 easyJet 1 2.33 18:50 Stuttgart STR 10:25 Stuttgart STR OE2361
+18/05/19 Ryanair 1 12.99 06:50 Milan MXPMilan (Malpensa) MXP 08:40 Krakow KRK
+18/05/19 Ryanair 1 3.99 25 Kr kow KRK 08:40 Krakow KRK U22593
+10/05/19 Ryanair 1 17.40 30 Mi an MXPMilan (Malpensa) MXP 23:15 Milan MXPMilan (Malpensa) MXP U22594
+18/05/19 easyJet 1 2.33 20:45 Vienna VIE 22:55 Vienna VIE W62848
+18/05/19 Ryanair 1 12.99 45 Gd nsk GDN 21:45 Krakow KRK OE1304
+07/05/19 Ryanair 1 3.99 17:55 Berlin TXLBerlin (Tegel) TXL 09:00 Berlin TXLBerlin (Tegel) TXL U25748
+14/05/19 Ryanair 1 17.40 07:10 Milan MXPMilan (Malpensa) MXP 14:20 Gdansk GDN
+14/05/19 Laudamotion 1 15.15 11:10 London STNLondon (Stansted) STN 08:15 London STNLondon (Stansted) STN FR8728
+14/05/19 easyJet 1 9.06 07:45 Gdansk GDN 19:35 Milan MXPMilan (Malpensa) MXP
+21/05/19 easyJet 1 12.73 10 Mi an MXPMilan (Malpensa) MXP 19:35 Milan MXPMilan (Malpensa) MXP FR8
+21/05/19 Laudamotion 1 15.15 07:10 Milan MXPMilan (Malpensa) MXP 22:00 Gdansk GDN
+14/05/19 easyJet 1 9.06 45 Wa saw WAW 22:00 Gdansk GDN FR2372
+21/05/19 easyJet 1 12.73 13:15 Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL 08:45 Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL W61363
+21/05/19 easyJet 1 6.99 30 Ve ice VCEVenice (Marco Polo) VCE 14:25 Venice VCEVenice (Marco Polo) VCE U23364
+07/05/19 Wizz Air 1 14.99 12:50 Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL 08:45 Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL U23363
+14/05/19 Laudamotion 1 14.99 06:45 Warsaw WAW 14:25 Venice VCEVenice (Marco Polo) VCE
+14/05/19 easyJet 1 2.33 13:15 Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL 08:45 Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL W61363
+23/07/19 Ryanair 1 12.99 07:30 Venice VCEVenice (Marco Polo) VCE 14:55 Warsaw WAW
+30/07/19 Ryanair 1 4.99 45 Wa saw WAW 14:55 Warsaw WAW U21161
+30/07/19 Ryanair 1 17.40 06:45 Warsaw WAW 16:10 Venice VCEVenice (Marco Polo) VCE

@@ -1,0 +1,540 @@
+Data Przewoznik Czy_przesiadka Cena Godzina_odlotu Miejsce_odlotu Godzina_przylotu Miejsce_przylotu
+21/05/19 Ryanair 1 28.34 16:35 Wroclaw WRO 08:10 Tenerife S TFS
+21/05/19 Ryanair 1 16.99 06:00 Madrid MAD 19:50 Madrid MAD FR8305
+28/05/19 Ryanair 1 16.99 06:10 Tenerife S TFS 23:30 Wroclaw WRO
+21/05/19 Ryanair 1 22.98 50 Wr claw WRO 23:30 Wroclaw WRO FR8306
+21/05/19 Ryanair 1 18.83 07:50 Wroclaw WRO 00:05 Tenerife S TFS
+28/05/19 Ryanair 1 34.99 10 Te erife S TFS 00:05 Tenerife S TFS FR1514
+18/05/19 Ryanair 1 16.99 20:25 Madrid MAD 10:05 Madrid MAD FR2914
+18/05/19 Ryanair 1 22.98 55 Wa saw WMIWarsaw (Modlin) WMI 23:30 Wroclaw WRO FR8306
+26/05/19 Ryanair 1 19.81 06:05 Madrid MAD 00:30 Madrid MAD FR1063
+15/05/19 Ryanair 1 16.99 11:00 Tenerife S TFS 16:20 Warsaw WMIWarsaw (Modlin) WMI
+15/05/19 Ryanair 1 34.99 14:35 Cologne CGNCologne-Bonn CGN 16:35 Cologne CGNCologne-Bonn CGN FR1034
+21/05/19 Ryanair 1 24.47 10:20 Krakow KRK 13:05 Tenerife S TFS
+21/05/19 Ryanair 1 28.34 55 Te erife S TFS 13:05 Tenerife S TFS FR1972
+21/05/19 Ryanair 1 16.99 10:55 Tenerife S TFS 12:50 Krakow KRK
+27/05/19 Ryanair 1 36.71 35 Wr claw WRO 12:50 Krakow KRK FR2426
+18/05/19 Ryanair 1 14.99 06:00 Madrid MAD 19:50 Madrid MAD FR8305
+18/05/19 Ryanair 1 28.34 10 Te erife S TFS 08:10 Tenerife S TFS FR2913
+24/05/19 Ryanair 1 16.99 20:25 Madrid MAD 10:05 Madrid MAD FR2914
+18/05/19 Ryanair 1 29.20 20:55 Warsaw WMIWarsaw (Modlin) WMI 08:15 Tenerife S TFS
+18/05/19 Ryanair 1 22.98 06:05 Madrid MAD 00:30 Madrid MAD FR1063
+23/05/19 Ryanair 1 19.81 06:45 Tenerife S TFS 23:30 Warsaw WMIWarsaw (Modlin) WMI
+11/06/19 Ryanair 1 16.99 55 Wa saw WMIWarsaw (Modlin) WMI 23:30 Warsaw WMIWarsaw (Modlin) WMI FR4538
+11/06/19 Ryanair 1 16.99 20:55 Warsaw WMIWarsaw (Modlin) WMI 08:15 Tenerife S TFS
+17/06/19 Ryanair 1 43.85 20 Te erife S TFS 08:15 Tenerife S TFS FR2913
+13/05/19 Ryanair 1 19.81 20:10 Valencia VLC 10:25 Valencia VLC FR1971
+13/05/19 Ryanair 1 16.99 35 Wr claw WRO 23:30 Warsaw WMIWarsaw (Modlin) WMI FR4538
+17/05/19 Ryanair 1 16.99 06:00 Madrid MAD 19:50 Madrid MAD FR8305
+29/05/19 Ryanair 1 43.85 06:10 Tenerife S TFS 23:30 Wroclaw WRO
+29/05/19 Ryanair 1 23.77 20:25 Madrid MAD 10:05 Madrid MAD FR2914
+04/06/19 Ryanair 1 19.99 21:05 Warsaw WMIWarsaw (Modlin) WMI 12:45 Tenerife S TFS
+20/05/19 Ryanair 1 19.99 45 Te erife S TFS 12:45 Tenerife S TFS FR2913
+20/05/19 Ryanair 1 34.67 06:45 Tenerife S TFS 23:30 Warsaw WMIWarsaw (Modlin) WMI
+27/05/19 Ryanair 1 26.44 20 Kr kow KRK 23:30 Warsaw WMIWarsaw (Modlin) WMI FR4538
+20/05/19 Ryanair 1 16.99 10:55 Valencia VLC 13:25 Valencia VLC FR2229
+20/05/19 Ryanair 1 16.99 45 Te erife S TFS 13:05 Tenerife S TFS FR1972
+27/05/19 Ryanair 1 39.46 06:50 Valencia VLC 10:50 Valencia VLC FR1971
+13/05/19 Ryanair 1 24.71 21:05 Warsaw WMIWarsaw (Modlin) WMI 12:45 Tenerife S TFS
+13/05/19 Ryanair 1 16.99 10:45 Madrid MAD 00:40 Madrid MAD FR1063
+17/05/19 Ryanair 1 29.20 17:30 Tenerife S TFS 20:15 Warsaw WMIWarsaw (Modlin) WMI
+15/05/19 Ryanair 1 28.99 05 Wa saw WMIWarsaw (Modlin) WMI 20:15 Warsaw WMIWarsaw (Modlin) WMI FR1055
+15/05/19 Ryanair 1 30.24 21:05 Warsaw WMIWarsaw (Modlin) WMI 12:45 Tenerife S TFS
+21/05/19 Ryanair 1 16.99 30 Te erife S TFS 12:45 Tenerife S TFS FR2913
+29/05/19 Ryanair 1 43.85 06:55 Brussels CRLBrussels (Charleroi) CRL 22:45 Brussels CRLBrussels (Charleroi) CRL FR8179
+29/05/19 Ryanair 1 9.99 05 Wa saw WMIWarsaw (Modlin) WMI 08:50 Warsaw WMIWarsaw (Modlin) WMI FR1057
+05/06/19 Ryanair 1 30.24 10:45 Madrid MAD 00:40 Madrid MAD FR1063
+25/05/19 Ryanair 1 16.99 19:05 Tenerife S TFS 21:30 Warsaw WMIWarsaw (Modlin) WMI
+25/05/19 Ryanair 1 43.85 18:10 East Midla EMA 23:20 East Midla EMA FR3153
+29/05/19 Ryanair 1 9.99 10:20 Krakow KRK 13:05 Tenerife S TFS
+21/05/19 Ryanair 1 26.44 30 Te erife S TFS 13:05 Tenerife S TFS FR1972
+21/05/19 Ryanair 1 16.99 20:30 Tenerife S TFS 16:30 Krakow KRK
+27/05/19 Ryanair 1 28.99 20 Kr kow KRK 16:30 Krakow KRK OE1304
+18/05/19 Ryanair 1 29.17 10:55 Valencia VLC 13:25 Valencia VLC FR2229
+18/05/19 Ryanair 1 28.34 05 Te erife S TFS 13:05 Tenerife S TFS FR1972
+26/05/19 Ryanair 1 16.99 17:30 Milan BGYMilan (Bergamo) BGY 23:20 Milan BGYMilan (Bergamo) BGY FR8839
+29/05/19 Wizz Air 1 44.99 09:15 Warsaw WMIWarsaw (Modlin) WMI 10:00 Tenerife S TFS
+29/05/19 Laudamotion 1 12.99 06:25 Brussels CRLBrussels (Charleroi) CRL 11:20 Brussels CRLBrussels (Charleroi) CRL FR1058
+05/06/19 Ryanair 1 24.71 07:00 Tenerife S TFS 20:10 Warsaw WMIWarsaw (Modlin) WMI
+20/05/19 Ryanair 1 16.99 50 Wr claw WRO 20:10 Warsaw WMIWarsaw (Modlin) WMI FR6944
+20/05/19 Ryanair 1 43.85 07:50 Wroclaw WRO 00:05 Tenerife S TFS
+26/05/19 Ryanair 1 19.99 10 Te erife S TFS 00:05 Tenerife S TFS FR1514
+21/05/19 Ryanair 1 9.09 20:25 Madrid MAD 10:05 Madrid MAD FR2914
+21/05/19 Ryanair 1 43.85 55 Wa saw WMIWarsaw (Modlin) WMI 23:30 Wroclaw WRO FR8306
+29/05/19 Ryanair 1 16.99 06:05 Madrid MAD 00:30 Madrid MAD FR1063
+25/05/19 Ryanair 1 35.69 10:35 Tenerife S TFS 08:50 Warsaw WMIWarsaw (Modlin) WMI
+25/05/19 Ryanair 1 18.83 06:55 Brussels CRLBrussels (Charleroi) CRL 15:50 Brussels CRLBrussels (Charleroi) CRL FR8179
+29/05/19 Ryanair 1 34.99 07:25 Wroclaw WRO 12:45 Tenerife S TFS
+22/05/19 Ryanair 1 29.20 25 Te erife S TFS 12:45 Tenerife S TFS FR4753
+22/05/19 Ryanair 1 22.98 15:25 Tenerife S TFS 16:35 Wroclaw WRO
+29/05/19 Ryanair 1 19.81 05 Wa saw WMIWarsaw (Modlin) WMI 16:35 Wroclaw WRO FR8935
+11/06/19 Ryanair 1 16.99 10:45 Madrid MAD 00:40 Madrid MAD FR1063
+11/06/19 Ryanair 1 52.01 00 Te erife S TFS 12:45 Tenerife S TFS FR2913
+18/06/19 Ryanair 1 17.33 14:35 Cologne CGNCologne-Bonn CGN 16:35 Cologne CGNCologne-Bonn CGN FR1034
+19/05/19 Ryanair 1 19.81 18:45 Warsaw WMIWarsaw (Modlin) WMI 17:30 Tenerife S TFS
+19/05/19 Ryanair 1 33.65 13:55 Milan BGYMilan (Bergamo) BGY 20:50 Milan BGYMilan (Bergamo) BGY FR3899
+27/05/19 Ryanair 1 34.99 07:00 Tenerife S TFS 20:10 Warsaw WMIWarsaw (Modlin) WMI
+20/05/19 Ryanair 1 17.99 55 Wa saw WMIWarsaw (Modlin) WMI 20:10 Warsaw WMIWarsaw (Modlin) WMI FR6944
+20/05/19 Ryanair 1 30.24 20:55 Warsaw WMIWarsaw (Modlin) WMI 08:15 Tenerife S TFS
+28/05/19 Ryanair 1 16.99 00 Te erife S TFS 08:15 Tenerife S TFS FR2913
+20/05/19 Ryanair 1 34.99 17:05 Barcelona BCN 11:30 Barcelona BCN FR6377
+20/05/19 Ryanair 1 24.47 30 Wa saw WMIWarsaw (Modlin) WMI 20:10 Warsaw WMIWarsaw (Modlin) WMI FR6944
+24/05/19 Ryanair 1 13.05 12:45 Madrid MAD 12:05 Madrid MAD FR1063
+13/05/19 Ryanair 1 41.61 07:00 Tenerife S TFS 20:10 Warsaw WMIWarsaw (Modlin) WMI
+13/05/19 Ryanair 1 16.99 17:05 Barcelona BCN 11:30 Barcelona BCN FR6377
+20/05/19 Ryanair 1 35.69 16:35 Wroclaw WRO 08:10 Tenerife S TFS
+21/05/19 Ryanair 1 37.80 10 Te erife S TFS 08:10 Tenerife S TFS FR2913
+21/05/19 Ryanair 1 16.99 06:10 Tenerife S TFS 23:30 Wroclaw WRO
+27/05/19 Ryanair 1 16.99 45 Wr claw WRO 23:30 Wroclaw WRO FR8306
+21/05/19 Ryanair 1 35.69 06:25 Leeds LBA 08:00 Leeds LBA FR4108
+21/05/19 Ryanair 1 37.85 10 Te erife S TFS 11:00 Tenerife S TFS FR2492
+27/05/19 Ryanair 1 16.99 20:25 Madrid MAD 10:05 Madrid MAD FR2914
+22/05/19 Ryanair 1 16.99 21:05 Warsaw WMIWarsaw (Modlin) WMI 12:45 Tenerife S TFS
+22/05/19 Ryanair 1 35.69 10:45 Madrid MAD 00:40 Madrid MAD FR1063
+27/05/19 Ryanair 1 23.77 06:45 Tenerife S TFS 23:10 Warsaw WMIWarsaw (Modlin) WMI
+22/05/19 Ryanair 1 19.99 05 Wa saw WMIWarsaw (Modlin) WMI 23:10 Warsaw WMIWarsaw (Modlin) WMI FR4538
+22/05/19 Ryanair 1 29.20 21:05 Warsaw WMIWarsaw (Modlin) WMI 12:45 Tenerife S TFS
+27/05/19 Ryanair 1 34.67 45 Te erife S TFS 12:45 Tenerife S TFS FR2913
+01/10/19 Ryanair 1 17.71 20:10 Valencia VLC 10:50 Valencia VLC FR1971
+01/10/19 Ryanair 1 37.88 05 Wa saw WMIWarsaw (Modlin) WMI 23:30 Warsaw WMIWarsaw (Modlin) WMI FR4538
+08/10/19 Ryanair 1 29.20 10:45 Madrid MAD 00:40 Madrid MAD FR1063
+19/05/19 Ryanair 1 22.98 06:10 Tenerife S TFS 23:15 Warsaw WMIWarsaw (Modlin) WMI
+19/05/19 Ryanair 1 30.24 19:25 Sevilla SVQ 09:30 Sevilla SVQ FR1961
+27/05/19 Ryanair 1 16.99 18:45 Warsaw WMIWarsaw (Modlin) WMI 17:30 Tenerife S TFS
+19/05/19 Ryanair 1 16.99 30 Te erife S TFS 17:30 Tenerife S TFS FR8838
+19/05/19 Ryanair 1 43.85 17:30 Tenerife S TFS 08:50 Warsaw WMIWarsaw (Modlin) WMI
+27/05/19 Ryanair 1 30.24 45 Wa saw WMIWarsaw (Modlin) WMI 08:50 Warsaw WMIWarsaw (Modlin) WMI FR1057
+21/05/19 Ryanair 1 16.99 13:55 Milan BGYMilan (Bergamo) BGY 20:50 Milan BGYMilan (Bergamo) BGY FR3899
+21/05/19 Ryanair 1 16.99 30 Te erife S TFS 17:30 Tenerife S TFS FR8838
+28/05/19 Ryanair 1 43.85 18:20 Brussels CRLBrussels (Charleroi) CRL 22:45 Brussels CRLBrussels (Charleroi) CRL FR8179
+19/05/19 Ryanair 1 26.44 08:30 Warsaw WMIWarsaw (Modlin) WMI 14:55 Tenerife S TFS
+19/05/19 Ryanair 1 16.99 12:45 Madrid MAD 12:05 Madrid MAD FR1063
+27/05/19 Ryanair 1 16.99 17:30 Tenerife S TFS 20:15 Warsaw WMIWarsaw (Modlin) WMI
+19/05/19 Ryanair 1 47.67 30 Wa saw WMIWarsaw (Modlin) WMI 20:15 Warsaw WMIWarsaw (Modlin) WMI FR1055
+19/05/19 Ryanair 1 13.05 08:30 Warsaw WMIWarsaw (Modlin) WMI 14:55 Tenerife S TFS
+27/05/19 Ryanair 1 41.61 30 Te erife S TFS 14:55 Tenerife S TFS FR2913
+15/05/19 Ryanair 0 43.85 06:55 Brussels CRLBrussels (Charleroi) CRL 22:45 Brussels CRLBrussels (Charleroi) CRL FR8179
+19/05/19 Ryanair 1 9.99 12:55 Krakow KRK 17:15 Tenerife S TFS
+19/05/19 Ryanair 1 13.05 14:00 Lyon LYS 15:10 Lyon LYS U24480
+02/12/19 Ryanair 1 41.61 21:55 Tenerife S TFS 15:15 Krakow KRK
+09/12/19 Ryanair 1 43.85 25 Wa saw WMIWarsaw (Modlin) WMI 15:15 Krakow KRK U28513
+09/12/19 Ryanair 1 9.99 20:25 Warsaw WMIWarsaw (Modlin) WMI 20:45 Tenerife S TFS
+02/12/19 Ryanair 1 37.85 30 Te erife S TFS 20:45 Tenerife S TFS FR6376
+09/12/19 Ryanair 1 16.99 06:55 Brussels CRLBrussels (Charleroi) CRL 22:45 Brussels CRLBrussels (Charleroi) CRL FR8179
+09/12/19 Ryanair 1 43.85 25 Wa saw WMIWarsaw (Modlin) WMI 08:50 Warsaw WMIWarsaw (Modlin) WMI FR1057
+03/12/19 Ryanair 1 9.99 18:15 Barcelona BCN 23:35 Barcelona BCN FR6945
+07/12/19 Ryanair 1 37.85 17:30 Tenerife S TFS 20:15 Warsaw WMIWarsaw (Modlin) WMI
+07/12/19 Ryanair 1 16.99 18:20 Brussels CRLBrussels (Charleroi) CRL 22:45 Brussels CRLBrussels (Charleroi) CRL FR8179
+02/12/19 Ryanair 1 43.85 15:20 Wroclaw WRO 23:25 Tenerife S TFS
+09/12/19 Ryanair 1 9.99 10 Te erife S TFS 23:25 Tenerife S TFS FR3245
+09/12/19 easyJet 1 6.99 06:10 Tenerife S TFS 23:30 Wroclaw WRO
+01/12/19 easyJet 1 29.78 45 Wa saw WMIWarsaw (Modlin) WMI 23:30 Wroclaw WRO FR8306
+07/12/19 easyJet 1 27.44 06:25 Leeds LBA 08:20 Leeds LBA FR2204
+07/12/19 easyJet 1 26.98 30 Te erife S TFS 11:00 Tenerife S TFS FR2492
+03/12/19 Ryanair 1 38.30 06:55 Brussels CRLBrussels (Charleroi) CRL 22:45 Brussels CRLBrussels (Charleroi) CRL FR8179
+09/12/19 Ryanair 1 16.99 06:45 Warsaw WMIWarsaw (Modlin) WMI 11:00 Tenerife S TFS
+09/12/19 Ryanair 1 43.85 06:25 Leeds LBA 08:20 Leeds LBA FR2204
+02/12/19 Ryanair 1 9.99 17:30 Tenerife S TFS 20:15 Warsaw WMIWarsaw (Modlin) WMI
+09/12/19 Ryanair 1 38.30 55 Ka owice KTW 20:15 Warsaw WMIWarsaw (Modlin) WMI FR1055
+09/12/19 Ryanair 1 16.99 15:55 Katowice KTW 20:40 Tenerife S TFS
+03/12/19 Ryanair 1 43.85 06:00 Tenerife S TFS 00:30 Katowice KTW
+07/12/19 Ryanair 1 9.99 10 Wa saw WMIWarsaw (Modlin) WMI 00:30 Katowice KTW W61176
+07/12/19 Wizz Air 1 27.74 18:10 Warsaw WMIWarsaw (Modlin) WMI 10:45 Tenerife S TFS
+19/09/19 Ryanair 1 41.61 40 Te erife S TFS 10:45 Tenerife S TFS FR8166
+24/09/19 Ryanair 1 16.99 08:55 London STNLondon (Stansted) STN 17:15 London STNLondon (Stansted) STN FR8167
+24/09/19 Ryanair 1 22.98 10 Wa saw WMIWarsaw (Modlin) WMI 12:10 Warsaw WMIWarsaw (Modlin) WMI FR1021
+13/05/19 Ryanair 1 17.71 06:15 London STNLondon (Stansted) STN 19:50 London STNLondon (Stansted) STN FR2284
+21/05/19 Ryanair 1 37.88 12:40 Tenerife S TFS 17:20 Warsaw WMIWarsaw (Modlin) WMI
+21/05/19 Ryanair 1 43.85 14:05 London STNLondon (Stansted) STN 17:15 London STNLondon (Stansted) STN FR8167
+19/05/19 Ryanair 1 9.99 12:00 Warsaw WMIWarsaw (Modlin) WMI 10:45 Tenerife S TFS
+27/05/19 Ryanair 1 17.71 40 Te erife S TFS 10:45 Tenerife S TFS FR8166
+27/05/19 Ryanair 1 37.88 12:40 Tenerife S TFS 23:30 Warsaw WMIWarsaw (Modlin) WMI
+29/05/19 Ryanair 1 43.85 10 Wa saw WMIWarsaw (Modlin) WMI 23:30 Warsaw WMIWarsaw (Modlin) WMI FR2283
+04/06/19 Ryanair 1 9.99 06:15 London STNLondon (Stansted) STN 19:50 London STNLondon (Stansted) STN FR2284
+04/06/19 Wizz Air 1 53.38 40 Te erife S TFS 10:45 Tenerife S TFS FR8166
+12/05/19 Ryanair 1 16.99 20:15 London STNLondon (Stansted) STN 17:15 London STNLondon (Stansted) STN FR8167
+19/05/19 Wizz Air 1 39.99 18:10 Warsaw WMIWarsaw (Modlin) WMI 22:10 Tenerife S TFS
+19/05/19 Ryanair 1 25.91 17:40 London STNLondon (Stansted) STN 19:50 London STNLondon (Stansted) STN FR2284
+20/09/19 Ryanair 1 29.01 11:20 Tenerife S TFS 23:30 Warsaw WMIWarsaw (Modlin) WMI
+24/09/19 Ryanair 1 24.99 00 Wa saw WMIWarsaw (Modlin) WMI 23:30 Warsaw WMIWarsaw (Modlin) WMI FR2283
+24/09/19 Ryanair 1 30.77 12:00 Warsaw WMIWarsaw (Modlin) WMI 10:45 Tenerife S TFS
+08/06/19 Ryanair 1 25.91 40 Te erife S TFS 10:45 Tenerife S TFS FR8166
+13/06/19 Ryanair 1 29.01 20:15 London STNLondon (Stansted) STN 17:15 London STNLondon (Stansted) STN FR8167
+13/06/19 Ryanair 1 24.99 10 Wa saw WMIWarsaw (Modlin) WMI 23:30 Warsaw WMIWarsaw (Modlin) WMI FR2283
+15/05/19 Ryanair 1 30.77 06:15 London STNLondon (Stansted) STN 19:50 London STNLondon (Stansted) STN FR2284
+21/05/19 Ryanair 1 25.91 12:40 Tenerife S TFS 23:30 Warsaw WMIWarsaw (Modlin) WMI
+21/05/19 Ryanair 1 29.01 20:15 London STNLondon (Stansted) STN 17:15 London STNLondon (Stansted) STN FR8167
+01/10/19 Ryanair 1 24.99 12:00 Warsaw WMIWarsaw (Modlin) WMI 10:45 Tenerife S TFS
+06/10/19 Ryanair 1 30.77 20 Te erife S TFS 10:45 Tenerife S TFS FR8166
+06/10/19 Ryanair 1 25.91 11:20 Tenerife S TFS 23:30 Warsaw WMIWarsaw (Modlin) WMI
+11/05/19 Ryanair 1 29.01 40 Kr kow KRK 23:30 Warsaw WMIWarsaw (Modlin) WMI FR2283
+17/05/19 Ryanair 1 24.99 19:55 Milan MXPMilan (Malpensa) MXP 20:30 Milan MXPMilan (Malpensa) MXP U22594
+17/05/19 Ryanair 1 30.77 20 Te erife S TFS 23:25 Tenerife S TFS FR1811
+14/05/19 Ryanair 1 25.91 18:00 Geneva GVA 16:30 Geneva GVA U21542
+22/05/19 Ryanair 1 29.01 13:25 Krakow KRK 19:55 Tenerife S TFS
+22/05/19 Ryanair 1 24.99 15:35 Vienna VIE 14:25 Vienna VIE OE1305
+11/05/19 Ryanair 1 30.77 10:55 Tenerife S TFS 12:50 Krakow KRK
+19/05/19 Ryanair 1 25.91 20 Wr claw WRO 12:50 Krakow KRK FR2426
+19/05/19 Ryanair 1 29.01 15:20 Wroclaw WRO 23:25 Tenerife S TFS
+01/06/19 Ryanair 1 24.99 10 Te erife S TFS 23:25 Tenerife S TFS FR3245
+05/06/19 Ryanair 1 30.77 20:25 Madrid MAD 10:05 Madrid MAD FR2914
+05/06/19 Ryanair 1 25.91 20 Kr kow KRK 23:30 Wroclaw WRO FR8306
+11/05/19 Ryanair 1 29.01 10:55 Valencia VLC 13:25 Valencia VLC FR2229
+17/05/19 Ryanair 1 24.99 20:30 Tenerife S TFS 16:30 Krakow KRK
+17/05/19 Ryanair 1 30.77 15:30 Vienna VIE 02:30 Vienna VIE W62832
+15/05/19 Ryanair 1 25.91 14:10 Wroclaw WRO 23:45 Tenerife S TFS
+23/05/19 Ryanair 0 29.01 55 Te erife S TFS 23:45 Tenerife S TFS FR2546
+13/05/19 Ryanair 1 24.99 22:00 Paris BVAParis (Beauvais) BVA 20:00 Paris BVAParis (Beauvais) BVA FR1513
+13/05/19 Ryanair 1 30.77 20 Wa saw WAW 23:55 Wroclaw WRO FR8935
+19/05/19 easyJet 1 9.32 14:00 Lyon LYS 15:40 Lyon LYS W61355
+08/10/19 Ryanair 1 39.77 11:20 Tenerife S TFS 14:35 Warsaw WAW
+08/10/19 easyJet 1 21.38 12:15 Geneva GVA 16:30 Geneva GVA U21542
+16/10/19 easyJet 1 22.59 07:10 Katowice KTW 23:25 Tenerife S TFS
+14/05/19 Laudamotion 1 9.09 20 Te erife S TFS 23:25 Tenerife S TFS FR3245
+14/05/19 Wizz Air 1 49.99 13:20 Tenerife S TFS 01:30 Katowice KTW
+19/05/19 Ryanair 1 36.71 15 Kr kow KRK 01:30 Katowice KTW W61020
+21/05/19 Ryanair 1 14.99 06:20 Frankfurt FRA 14:50 Frankfurt FRA FR2427
+21/05/19 Wizz Air 1 30.07 55 Te erife S TFS 10:15 Tenerife S TFS FR1588
+26/05/19 Ryanair 1 28.99 11:15 Frankfurt FRA 16:35 Frankfurt FRA FR1589
+07/05/19 Ryanair 1 29.20 12:55 Krakow KRK 17:15 Tenerife S TFS
+07/05/19 Ryanair 1 22.98 14:00 Lyon LYS 15:10 Lyon LYS U24480
+11/05/19 Ryanair 1 24.71 22:10 Tenerife S TFS 21:00 Krakow KRK
+01/10/19 Ryanair 1 16.99 35 Wa saw WMIWarsaw (Modlin) WMI 21:00 Krakow KRK U28513
+01/10/19 Wizz Air 1 54.99 11:35 Warsaw WMIWarsaw (Modlin) WMI 16:30 Tenerife S TFS
+09/10/19 Laudamotion 1 14.99 06:45 Tenerife S TFS 23:30 Warsaw WMIWarsaw (Modlin) WMI
+12/05/19 Ryanair 1 17.71 35 Wr claw WRO 23:30 Warsaw WMIWarsaw (Modlin) WMI FR4538
+12/05/19 Ryanair 1 33.65 16:35 Wroclaw WRO 08:10 Tenerife S TFS
+19/05/19 Ryanair 1 37.27 25 Te erife S TFS 08:10 Tenerife S TFS FR2913
+05/05/19 Ryanair 1 23.40 14:40 Paris BVAParis (Beauvais) BVA 20:30 Paris BVAParis (Beauvais) BVA FR1513
+05/05/19 Wizz Air 1 20.74 25 Ka owice KTW 16:35 Wroclaw WRO FR8935
+11/05/19 easyJet 1 28.78 06:40 Cologne CGNCologne-Bonn CGN 17:10 Cologne CGNCologne-Bonn CGN W61099
+08/06/19 easyJet 1 21.38 06:00 Tenerife S TFS 00:30 Katowice KTW
+08/06/19 easyJet 1 23.93 21:40 Barcelona BCN 10:30 Barcelona BCN FR6377
+15/06/19 Wizz Air 1 9.09 10:20 Wroclaw WRO 08:15 Tenerife S TFS
+01/10/19 Ryanair 1 43.85 25 Te erife S TFS 08:15 Tenerife S TFS FR2913
+01/10/19 Ryanair 1 43.85 15:25 Tenerife S TFS 16:35 Wroclaw WRO
+07/10/19 Wizz Air 1 16.24 35 Wa saw WMIWarsaw (Modlin) WMI 16:35 Wroclaw WRO FR8935
+19/05/19 Ryanair 1 26.44 05 Te erife S TFS 16:30 Tenerife S TFS FR6121
+19/05/19 Ryanair 1 34.99 19:05 Tenerife S TFS 21:30 Warsaw WMIWarsaw (Modlin) WMI
+27/05/19 Ryanair 1 36.71 20 Kr kow KRK 21:30 Warsaw WMIWarsaw (Modlin) WMI FR4053
+22/05/19 Ryanair 0 14.99 10:55 Valencia VLC 13:25 Valencia VLC FR2229
+29/05/19 easyJet 1 6.99 12:55 Tenerife S TFS 19:15 Krakow KRK
+29/05/19 easyJet 1 29.78 15 Ka owice KTW 19:15 Krakow KRK FR4514
+18/05/19 easyJet 1 29.46 14:40 Bologna BLQ 17:55 Bologna BLQ W61159
+22/05/19 easyJet 1 29.32 06:00 Tenerife S TFS 00:30 Katowice KTW
+22/05/19 Ryanair 1 57.56 21:40 Barcelona BCN 10:30 Barcelona BCN FR6377
+19/11/19 Ryanair 1 16.99 12:55 Krakow KRK 17:15 Tenerife S TFS
+26/11/19 Ryanair 1 39.46 00 Te erife S TFS 17:15 Tenerife S TFS U24459
+26/11/19 Ryanair 1 39.75 07:00 Tenerife S TFS 19:05 Krakow KRK
+20/11/19 Ryanair 1 16.99 35 Wr claw WRO 19:05 Krakow KRK FR3053
+26/11/19 Ryanair 1 34.99 06:00 Madrid MAD 19:50 Madrid MAD FR8305
+26/11/19 Ryanair 1 22.43 55 Te erife S TFS 08:10 Tenerife S TFS FR2913
+09/11/19 Wizz Air 1 23.08 22:00 Paris BVAParis (Beauvais) BVA 20:00 Paris BVAParis (Beauvais) BVA FR1513
+13/11/19 Ryanair 1 34.99 16:35 Wroclaw WRO 08:10 Tenerife S TFS
+13/11/19 Ryanair 1 16.99 06:00 Madrid MAD 19:50 Madrid MAD FR8305
+20/11/19 Wizz Air 1 39.99 10:35 Tenerife S TFS 12:25 Wroclaw WRO
+26/11/19 Ryanair 1 42.56 15 Po nan POZ 12:25 Wroclaw WRO FR8372
+26/11/19 Ryanair 1 19.99 22:15 Poznan POZ 23:45 Tenerife S TFS
+19/11/19 Ryanair 1 34.99 10 Te erife S TFS 23:45 Tenerife S TFS FR4346
+26/11/19 Ryanair 1 17.99 06:45 Bristol BRS 15:15 Bristol BRS FR4754
+26/11/19 Ryanair 1 57.56 55 Kr kow KRK 10:00 Poznan POZ FR8216
+20/11/19 Ryanair 1 28.99 14:00 Lyon LYS 15:10 Lyon LYS U24480
+26/11/19 Ryanair 1 29.17 17:30 Tenerife S TFS 08:30 Krakow KRK
+26/11/19 Ryanair 1 28.34 06:30 Brussels CRLBrussels (Charleroi) CRL 22:45 Brussels CRLBrussels (Charleroi) CRL FR8179
+19/11/19 Ryanair 1 16.99 06:45 Wroclaw WRO 11:00 Tenerife S TFS
+26/11/19 Ryanair 1 71.39 55 Te erife S TFS 11:00 Tenerife S TFS FR2492
+26/11/19 Wizz Air 1 23.08 14:55 Tenerife S TFS 23:55 Wroclaw WRO
+15/10/19 Ryanair 1 36.71 10 Wr claw WRO 23:55 Wroclaw WRO FR8935
+22/10/19 Ryanair 1 16.99 19:00 Newcastle NCL 15:25 Newcastle NCL FR8309
+22/10/19 Wizz Air 1 39.99 10 Te erife S TFS 23:45 Tenerife S TFS FR2546
+21/05/19 easyJet 1 10.49 15:35 Bristol BRS 15:15 Bristol BRS FR4754
+27/05/19 easyJet 1 27.26 07:10 Katowice KTW 23:25 Tenerife S TFS
+27/05/19 Ryanair 1 25.20 19:45 Eindhoven EIN 09:05 Eindhoven EIN W61071
+07/05/19 Ryanair 1 36.71 06:15 Tenerife S TFS 19:10 Katowice KTW
+11/05/19 Ryanair 1 39.75 35 Wr claw WRO 19:10 Katowice KTW W61066
+11/05/19 Ryanair 1 16.99 16:35 Wroclaw WRO 08:10 Tenerife S TFS
+25/06/19 Ryanair 1 37.27 10 Te erife S TFS 08:10 Tenerife S TFS FR2913
+03/07/19 Ryanair 1 23.40 20:25 Madrid MAD 10:05 Madrid MAD FR2914
+03/07/19 Ryanair 1 28.34 10 Wr claw WRO 23:30 Wroclaw WRO FR8306
+14/05/19 Ryanair 1 16.99 19:00 Newcastle NCL 15:25 Newcastle NCL FR8309
+19/05/19 Ryanair 1 52.01 06:10 Tenerife S TFS 23:30 Wroclaw WRO
+19/05/19 Ryanair 1 20.39 20:25 Madrid MAD 10:05 Madrid MAD FR2914
+16/09/19 Ryanair 1 32.14 15:55 Katowice KTW 20:40 Tenerife S TFS
+24/09/19 Ryanair 1 33.65 07:00 Tenerife S TFS 00:30 Katowice KTW
+24/09/19 Ryanair 1 28.99 21:40 Barcelona BCN 11:30 Barcelona BCN FR6377
+16/06/19 Ryanair 1 23.20 15:20 Wroclaw WRO 23:25 Tenerife S TFS
+21/06/19 easyJet 1 6.99 25 Te erife S TFS 23:25 Tenerife S TFS FR3245
+21/06/19 easyJet 1 29.78 15:25 Tenerife S TFS 16:35 Wroclaw WRO
+08/06/19 Ryanair 1 43.85 20 Gd nsk GDN 16:35 Wroclaw WRO FR8935
+15/06/19 Ryanair 1 19.99 06:15 London STNLondon (Stansted) STN 23:40 London STNLondon (Stansted) STN FR2373
+15/06/19 Ryanair 1 24.05 20 Te erife S TFS 10:45 Tenerife S TFS FR8166
+13/05/19 Ryanair 1 33.65 09:25 London STNLondon (Stansted) STN 15:55 London STNLondon (Stansted) STN FR8167
+21/05/19 Ryanair 1 37.27 22:20 Gdansk GDN 10:45 Tenerife S TFS
+21/05/19 Ryanair 1 23.40 06:15 London STNLondon (Stansted) STN 23:40 London STNLondon (Stansted) STN FR2373
+20/11/19 Ryanair 1 33.05 11:20 Tenerife S TFS 12:35 Gdansk GDN
+28/11/19 Ryanair 1 33.65 20 Gd nsk GDN 12:35 Gdansk GDN FR2374
+28/11/19 Ryanair 1 28.99 10:20 Gdansk GDN 10:45 Tenerife S TFS
+16/06/19 Ryanair 1 23.20 20 Te erife S TFS 10:45 Tenerife S TFS FR8166
+24/06/19 Wizz Air 1 9.09 06:55 London STNLondon (Stansted) STN 15:55 London STNLondon (Stansted) STN FR8167
+24/06/19 Ryanair 1 43.85 20 Gd nsk GDN 10:05 Gdansk GDN FR2374
+17/09/19 Ryanair 1 51.20 06:15 London STNLondon (Stansted) STN 23:40 London STNLondon (Stansted) STN FR2373
+24/09/19 Wizz Air 1 14.99 11:20 Tenerife S TFS 21:55 Gdansk GDN
+24/09/19 Ryanair 1 28.67 18:45 London STNLondon (Stansted) STN 15:55 London STNLondon (Stansted) STN FR8167
+21/05/19 Ryanair 1 39.43 22:20 Gdansk GDN 10:45 Tenerife S TFS
+27/05/19 Ryanair 1 22.42 20 Te erife S TFS 10:45 Tenerife S TFS FR8166
+27/05/19 Ryanair 1 28.99 11:20 Tenerife S TFS 21:55 Gdansk GDN
+10/11/19 Ryanair 1 34.02 20 Gd nsk GDN 21:55 Gdansk GDN FR2372
+14/11/19 Ryanair 1 33.65 06:15 London STNLondon (Stansted) STN 23:40 London STNLondon (Stansted) STN FR2373
+14/11/19 Ryanair 1 29.20 20 Te erife S TFS 10:45 Tenerife S TFS FR8166
+09/11/19 Ryanair 1 22.98 18:45 London STNLondon (Stansted) STN 15:55 London STNLondon (Stansted) STN FR8167
+14/11/19 Wizz Air 1 48.71 22:20 Gdansk GDN 10:45 Tenerife S TFS
+14/11/19 Ryanair 1 16.99 06:15 London STNLondon (Stansted) STN 23:40 London STNLondon (Stansted) STN FR2373
+29/05/19 Wizz Air 1 54.99 11:20 Tenerife S TFS 21:55 Gdansk GDN
+04/06/19 Wizz Air 1 34.73 15 Kr kow KRK 21:55 Gdansk GDN FR2372
+04/06/19 Ryanair 1 28.99 09:15 Krakow KRK 15:30 Tenerife S TFS
+01/10/19 Ryanair 1 34.99 20 Te erife S TFS 15:30 Tenerife S TFS FR1811
+09/10/19 Ryanair 1 22.43 12:35 Paris CDGParis (Charles de Gaulle) CDG 16:30 Paris CDGParis (Charles de Gaulle) CDG U23858
+09/10/19 Ryanair 1 23.54 20 Wr claw WRO 14:45 Krakow KRK U23815
+01/10/19 Ryanair 1 29.01 19:45 Eindhoven EIN 17:00 Eindhoven EIN W61825
+09/10/19 Ryanair 1 43.85 06:10 Tenerife S TFS 23:30 Wroclaw WRO
+09/10/19 Ryanair 1 24.85 20:25 Madrid MAD 10:05 Madrid MAD FR2914
+29/05/19 Ryanair 1 23.54 11:45 Poznan POZ 23:25 Tenerife S TFS
+04/06/19 Ryanair 1 29.01 10 Te erife S TFS 23:25 Tenerife S TFS FR3245
+04/06/19 Ryanair 1 43.85 11:10 Tenerife S TFS 10:00 Poznan POZ
+15/06/19 Ryanair 1 24.85 20 Wr claw WRO 10:00 Poznan POZ FR8216
+21/06/19 Ryanair 1 23.54 19:45 Eindhoven EIN 17:00 Eindhoven EIN W61825
+21/06/19 Ryanair 1 29.01 25 Te erife S TFS 23:25 Tenerife S TFS FR3245
+16/06/19 Ryanair 1 43.85 14:40 Paris BVAParis (Beauvais) BVA 20:30 Paris BVAParis (Beauvais) BVA FR1513
+22/06/19 Ryanair 1 24.85 15:50 Katowice KTW 20:35 Tenerife S TFS
+22/06/19 Ryanair 1 23.54 00 Te erife S TFS 20:35 Tenerife S TFS W61179
+29/05/19 Ryanair 1 29.01 21:40 Barcelona BCN 10:30 Barcelona BCN FR6377
+05/06/19 Ryanair 1 43.85 15:15 Warsaw WAW 10:40 Tenerife S TFS
+05/06/19 Ryanair 1 24.85 07:15 Geneva GVA 17:40 Geneva GVA U21342
+01/10/19 Ryanair 1 23.54 11:20 Tenerife S TFS 14:35 Warsaw WAW
+09/10/19 Ryanair 1 29.01 00 Wa saw WAW 14:35 Warsaw WAW U21341
+09/10/19 Ryanair 1 43.85 07:00 Warsaw WAW 23:25 Tenerife S TFS
+17/09/19 Ryanair 1 24.85 30 Te erife S TFS 23:25 Tenerife S TFS FR3245
+24/09/19 Ryanair 1 23.54 21:15 Brussels CRLBrussels (Charleroi) CRL 22:45 Brussels CRLBrussels (Charleroi) CRL FR8179
+24/09/19 Ryanair 1 29.01 10 Ka owice KTW 23:15 Warsaw WAW W61382
+17/09/19 Ryanair 1 43.85 19:45 Eindhoven EIN 09:05 Eindhoven EIN W61071
+24/09/19 Ryanair 1 24.85 18:15 Tenerife S TFS 00:55 Katowice KTW
+24/09/19 Ryanair 1 23.54 21:25 Malaga AGP 21:40 Malaga AGP DY6370
+15/05/19 Ryanair 1 29.01 11:30 Warsaw WAW 19:55 Tenerife S TFS
+19/05/19 Ryanair 1 43.85 30 Te erife S TFS 19:55 Tenerife S TFS W62831
+19/05/19 Ryanair 1 24.85 20:30 Tenerife S TFS 14:40 Warsaw WAW
+15/06/19 easyJet 1 18.88 20 Gd nsk GDN 14:40 Warsaw WAW W61344
+23/06/19 Ryanair 1 39.77 06:15 London STNLondon (Stansted) STN 23:40 London STNLondon (Stansted) STN FR2373
+23/06/19 easyJet 1 13.30 55 Te erife S TFS 10:45 Tenerife S TFS FR8166
+09/11/19 easyJet 1 31.72 21:30 Vienna VIE 01:55 Vienna VIE W62832
+13/11/19 Wizz Air 1 27.74 07:00 Warsaw WAW 23:25 Tenerife S TFS
+13/11/19 Ryanair 1 41.61 19:45 Eindhoven EIN 09:00 Eindhoven EIN W61371
+08/10/19 Ryanair 1 29.20 17:30 Tenerife S TFS 23:15 Warsaw WAW
+16/10/19 Ryanair 1 22.98 55 Kr kow KRK 23:15 Warsaw WAW W61382
+16/10/19 Wizz Air 1 27.74 12:55 Krakow KRK 17:15 Tenerife S TFS
+11/05/19 Ryanair 1 41.61 20 Te erife S TFS 17:15 Tenerife S TFS U24459
+19/05/19 Ryanair 1 28.99 18:00 Geneva GVA 16:30 Geneva GVA U21542
+19/05/19 Ryanair 1 23.20 15 Wa saw WAW 20:00 Krakow KRK U21419
+18/06/19 Wizz Air 1 23.08 13:55 Milan BGYMilan (Bergamo) BGY 08:20 Milan BGYMilan (Bergamo) BGY W61431
+24/06/19 Ryanair 1 43.85 17:30 Tenerife S TFS 23:15 Warsaw WAW
+24/06/19 Ryanair 1 34.99 21:15 Brussels CRLBrussels (Charleroi) CRL 22:45 Brussels CRLBrussels (Charleroi) CRL FR8179
+12/05/19 Ryanair 1 19.99 07:30 Wroclaw WRO 22:10 Tenerife S TFS
+17/05/19 Wizz Air 1 65.03 20 Te erife S TFS 22:10 Tenerife S TFS FR8166
+17/05/19 Ryanair 1 16.99 14:20 Tenerife S TFS 16:50 Wroclaw WRO
+14/05/19 Wizz Air 1 39.99 35 Wr claw WRO 16:50 Wroclaw WRO FR8844
+21/05/19 easyJet 1 18.88 06:15 London STNLondon (Stansted) STN 07:55 London STNLondon (Stansted) STN FR8406
+21/05/19 easyJet 1 40.11 20 Te erife S TFS 10:45 Tenerife S TFS FR8166
+14/05/19 easyJet 1 21.38 15:10 Milan BGYMilan (Bergamo) BGY 19:45 Milan BGYMilan (Bergamo) BGY FR8839
+21/05/19 easyJet 1 23.93 07:25 Wroclaw WRO 12:45 Tenerife S TFS
+21/05/19 Wizz Air 1 20.74 08:35 Bristol BRS 08:45 Bristol BRS FR8213
+12/05/19 Ryanair 1 34.99 06:10 Tenerife S TFS 23:30 Wroclaw WRO
+16/05/19 Ryanair 1 43.85 55 Kr kow KRK 23:30 Wroclaw WRO FR8306
+16/05/19 Wizz Air 1 22.49 12:55 Krakow KRK 17:15 Tenerife S TFS
+19/11/19 Wizz Air 1 9.09 00 Te erife S TFS 17:15 Tenerife S TFS U24459
+23/11/19 Ryanair 1 43.85 16:15 Barcelona BCN 11:30 Barcelona BCN FR6377
+23/11/19 norwegian 1 44.27 55 Kr kow KRK 19:05 Krakow KRK FR3053
+09/11/19 Wizz Air 1 24.99 14:00 Lyon LYS 15:10 Lyon LYS U24480
+13/11/19 Wizz Air 1 17.48 17:55 Tenerife S TFS 09:15 Krakow KRK
+13/11/19 Wizz Air 1 49.99 07:05 Lyon LYS 23:10 Lyon LYS U24460
+09/11/19 Wizz Air 1 44.99 07:25 Wroclaw WRO 12:45 Tenerife S TFS
+13/11/19 Wizz Air 1 9.99 55 Te erife S TFS 12:45 Tenerife S TFS FR4753
+13/11/19 Ryanair 1 23.54 18:55 Tenerife S TFS 14:00 Wroclaw WRO
+20/11/19 Ryanair 1 29.01 35 Wa saw WAW 14:00 Wroclaw WRO FR4317
+28/11/19 Wizz Air 1 59.99 06:25 Brussels CRLBrussels (Charleroi) CRL 20:40 Brussels CRLBrussels (Charleroi) CRL W61381
+28/11/19 Wizz Air 1 9.99 30 Te erife S TFS 10:00 Tenerife S TFS FR8178
+20/11/19 Wizz Air 1 20.74 21:15 Brussels CRLBrussels (Charleroi) CRL 22:45 Brussels CRLBrussels (Charleroi) CRL FR8179
+28/11/19 Ryanair 1 34.99 07:00 Warsaw WAW 23:25 Tenerife S TFS
+28/11/19 Ryanair 1 52.01 19:45 Eindhoven EIN 09:00 Eindhoven EIN W61371
+20/11/19 Wizz Air 1 14.99 22:55 Tenerife S TFS 12:55 Warsaw WAW
+28/11/19 easyJet 1 25.87 35 Gd nsk GDN 12:55 Warsaw WAW W61358
+28/11/19 easyJet 1 35.34 06:35 Gdansk GDN 23:30 Tenerife S TFS
+19/11/19 easyJet 1 21.38 05 Te erife S TFS 23:30 Tenerife S TFS FR2562
+23/11/19 easyJet 1 22.59 10:15 Milan BGYMilan (Bergamo) BGY 23:20 Milan BGYMilan (Bergamo) BGY FR8839
+23/11/19 Wizz Air 1 17.48 55 Kr kow KRK 12:20 Gdansk GDN FR8312
+18/11/19 Ryanair 1 41.61 14:00 Lyon LYS 15:10 Lyon LYS U24480
+26/11/19 Ryanair 1 43.85 07:00 Tenerife S TFS 21:30 Krakow KRK
+26/11/19 Wizz Air 1 19.99 18:45 Barcelona BCN 11:30 Barcelona BCN FR6377
+15/11/19 Ryanair 1 25.91 09:15 Krakow KRK 17:50 Tenerife S TFS
+20/11/19 Ryanair 1 29.01 20 Te erife S TFS 17:50 Tenerife S TFS U22587
+20/11/19 Ryanair 1 43.85 11:20 Tenerife S TFS 20:00 Krakow KRK
+18/11/19 Ryanair 1 24.47 00 Kr kow KRK 20:00 Krakow KRK U21419
+26/11/19 Ryanair 1 25.91 13:55 Milan BGYMilan (Bergamo) BGY 20:45 Milan BGYMilan (Bergamo) BGY FR6877
+26/11/19 Ryanair 1 29.01 20 Te erife S TFS 17:30 Tenerife S TFS FR8838
+15/11/19 Ryanair 1 43.85 18:00 Geneva GVA 16:30 Geneva GVA U21542
+19/11/19 Ryanair 1 24.47 15:55 Katowice KTW 20:40 Tenerife S TFS
+19/11/19 Ryanair 1 19.81 00 Te erife S TFS 20:40 Tenerife S TFS W61179
+18/11/19 Ryanair 1 33.65 21:45 Barcelona BCN 10:30 Barcelona BCN FR6377
+26/11/19 Ryanair 1 19.99 11:45 Poznan POZ 23:25 Tenerife S TFS
+26/11/19 Ryanair 1 49.97 19:45 Eindhoven EIN 13:20 Eindhoven EIN W61925
+18/11/19 easyJet 1 6.99 14:55 Tenerife S TFS 17:20 Poznan POZ
+26/11/19 easyJet 1 29.78 35 Wr claw WRO 17:20 Poznan POZ W61922
+26/11/19 Ryanair 1 25.20 06:35 Wroclaw WRO 10:45 Tenerife S TFS
+18/11/19 Ryanair 1 43.85 20 Te erife S TFS 10:45 Tenerife S TFS FR8166
+26/11/19 easyJet 1 6.99 20:30 London STNLondon (Stansted) STN 15:55 London STNLondon (Stansted) STN FR8167
+26/11/19 easyJet 1 29.78 55 Kr kow KRK 23:30 Wroclaw WRO FR8407
+18/11/19 easyJet 1 14.31 14:00 Lyon LYS 15:10 Lyon LYS U24480
+26/11/19 easyJet 1 55.02 07:00 Tenerife S TFS 21:30 Krakow KRK
+26/11/19 Ryanair 1 19.81 18:45 Barcelona BCN 11:30 Barcelona BCN FR6377
+18/11/19 Ryanair 1 33.65 15:20 Wroclaw WRO 23:25 Tenerife S TFS
+26/11/19 Ryanair 1 45.89 55 Te erife S TFS 23:25 Tenerife S TFS FR3245
+26/11/19 Ryanair 1 24.47 14:55 Tenerife S TFS 23:55 Wroclaw WRO
+16/11/19 Wizz Air 1 13.75 10 Ka owice KTW 23:55 Wroclaw WRO FR8935
+20/11/19 Ryanair 1 43.85 19:45 Eindhoven EIN 09:05 Eindhoven EIN W61071
+20/11/19 Ryanair 1 43.85 15 Te erife S TFS 23:25 Tenerife S TFS FR3245
+15/11/19 Wizz Air 1 22.49 16:10 Santander SDR 10:20 Santander SDR FR2903
+19/11/19 Wizz Air 1 20.74 14:10 Wroclaw WRO 23:45 Tenerife S TFS
+19/11/19 Ryanair 1 34.99 19:00 Newcastle NCL 15:25 Newcastle NCL FR8309
+18/11/19 Volotea 1 41.11 11:40 Tenerife S TFS 00:55 Wroclaw WRO
+26/11/19 Wizz Air 1 27.49 35 Wr claw WRO 00:55 Wroclaw WRO W61808
+26/11/19 Ryanair 1 17.71 16:35 Wroclaw WRO 08:10 Tenerife S TFS
+18/11/19 Ryanair 1 42.61 10 Te erife S TFS 08:10 Tenerife S TFS FR2913
+26/11/19 Ryanair 1 43.85 20:25 Madrid MAD 10:05 Madrid MAD FR2914
+26/11/19 Ryanair 1 20.39 55 Wa saw WAW 23:30 Wroclaw WRO FR8306
+15/11/19 easyJet 1 6.99 06:25 London LTNLondon (Luton) LTN 07:30 London LTNLondon (Luton) LTN W61301
+20/11/19 easyJet 1 29.78 20:30 Tenerife S TFS 14:40 Warsaw WAW
+20/11/19 Ryanair 1 25.20 13:25 Vienna VIE 02:30 Vienna VIE W62832
+15/11/19 Vueling 1 39.99 14:10 Wroclaw WRO 23:45 Tenerife S TFS
+20/11/19 easyJet 1 23.54 00 Te erife S TFS 23:45 Tenerife S TFS FR2546
+20/11/19 easyJet 1 39.49 14:00 Tenerife S TFS 12:45 Wroclaw WRO
+01/10/19 easyJet 1 21.38 20 Gd nsk GDN 12:45 Wroclaw WRO FR1277
+08/10/19 easyJet 1 22.59 06:15 London STNLondon (Stansted) STN 23:40 London STNLondon (Stansted) STN FR2373
+08/10/19 Ryanair 1 19.81 40 Te erife S TFS 10:45 Tenerife S TFS FR8166
+15/06/19 Ryanair 1 43.85 11:30 London STNLondon (Stansted) STN 17:15 London STNLondon (Stansted) STN FR8157
+22/06/19 easyJet 1 21.38 10:20 Gdansk GDN 10:45 Tenerife S TFS
+22/06/19 easyJet 1 22.59 06:15 London STNLondon (Stansted) STN 11:40 London STNLondon (Stansted) STN FR2373
+11/05/19 Wizz Air 1 53.38 11:20 Tenerife S TFS 21:55 Gdansk GDN
+16/05/19 Ryanair 1 16.99 20 Gd nsk GDN 21:55 Gdansk GDN FR2372
+16/05/19 Wizz Air 1 54.99 10:20 Gdansk GDN 10:45 Tenerife S TFS
+08/10/19 Wizz Air 1 25.41 20 Te erife S TFS 10:45 Tenerife S TFS FR8166
+16/10/19 Ryanair 1 34.99 18:45 London STNLondon (Stansted) STN 15:55 London STNLondon (Stansted) STN FR8167
+16/10/19 Ryanair 1 34.99 20 Gd nsk GDN 21:55 Gdansk GDN FR2372
+01/10/19 Wizz Air 1 29.99 06:15 London STNLondon (Stansted) STN 23:40 London STNLondon (Stansted) STN FR2373
+07/10/19 Ryanair 1 25.91 11:20 Tenerife S TFS 10:15 Gdansk GDN
+07/10/19 Ryanair 1 29.01 07:05 London STNLondon (Stansted) STN 15:55 London STNLondon (Stansted) STN FR8167
+12/05/19 Ryanair 1 43.85 22:20 Gdansk GDN 10:45 Tenerife S TFS
+19/05/19 Ryanair 1 26.67 20 Te erife S TFS 10:45 Tenerife S TFS FR8166
+19/05/19 easyJet 1 10.49 11:20 Tenerife S TFS 21:55 Gdansk GDN
+08/05/19 easyJet 1 27.26 20 Gd nsk GDN 21:55 Gdansk GDN FR2372
+14/05/19 Ryanair 1 25.20 06:15 London STNLondon (Stansted) STN 23:40 London STNLondon (Stansted) STN FR2373
+14/05/19 Vueling 1 39.99 20 Te erife S TFS 10:45 Tenerife S TFS FR8166
+14/05/19 Wizz Air 1 27.74 18:45 London STNLondon (Stansted) STN 15:55 London STNLondon (Stansted) STN FR8167
+19/05/19 Ryanair 1 37.27 22:20 Gdansk GDN 10:45 Tenerife S TFS
+19/05/19 Ryanair 1 37.27 06:15 London STNLondon (Stansted) STN 23:40 London STNLondon (Stansted) STN FR2373
+12/05/19 Ryanair 1 23.40 12:40 Tenerife S TFS 21:55 Gdansk GDN
+19/05/19 Wizz Air 1 13.75 20 Gd nsk GDN 21:55 Gdansk GDN FR2372
+19/05/19 Ryanair 1 52.01 22:20 Gdansk GDN 10:45 Tenerife S TFS
+17/06/19 Ryanair 1 19.99 20 Te erife S TFS 10:45 Tenerife S TFS FR8166
+21/06/19 Wizz Air 1 39.99 09:25 London STNLondon (Stansted) STN 15:55 London STNLondon (Stansted) STN FR8167
+21/06/19 Ryanair 1 17.71 20 Gd nsk GDN 12:35 Gdansk GDN FR2374
+15/06/19 Ryanair 1 33.65 17:40 London STNLondon (Stansted) STN 23:40 London STNLondon (Stansted) STN FR2373
+19/06/19 Ryanair 1 37.27 11:20 Tenerife S TFS 21:55 Gdansk GDN
+19/06/19 Wizz Air 1 37.13 18:45 London STNLondon (Stansted) STN 15:55 London STNLondon (Stansted) STN FR8167
+08/10/19 Ryanair 1 39.75 22:20 Gdansk GDN 10:45 Tenerife S TFS
+13/10/19 Ryanair 1 16.99 20 Te erife S TFS 10:45 Tenerife S TFS FR8166
+13/10/19 Ryanair 1 29.20 11:20 Tenerife S TFS 21:55 Gdansk GDN
+15/06/19 Ryanair 1 39.97 20 Gd nsk GDN 21:55 Gdansk GDN FR2372
+21/06/19 Wizz Air 1 20.74 17:40 London STNLondon (Stansted) STN 23:40 London STNLondon (Stansted) STN FR2373
+21/06/19 Ryanair 1 50.19 20 Te erife S TFS 22:10 Tenerife S TFS FR8156
+17/06/19 Wizz Air 1 44.99 18:45 London STNLondon (Stansted) STN 15:55 London STNLondon (Stansted) STN FR8167
+24/06/19 Wizz Air 1 9.99 13:05 Gdansk GDN 22:10 Tenerife S TFS
+24/06/19 Ryanair 1 17.71 17:40 London STNLondon (Stansted) STN 14:25 London STNLondon (Stansted) STN FR2375
+19/05/19 Ryanair 1 33.65 11:20 Tenerife S TFS 21:55 Gdansk GDN
+27/05/19 Ryanair 1 38.34 20 Gd nsk GDN 21:55 Gdansk GDN FR2372
+27/05/19 Ryanair 1 36.22 22:20 Gdansk GDN 10:45 Tenerife S TFS
+08/10/19 Ryanair 1 23.54 20 Te erife S TFS 10:45 Tenerife S TFS FR8166
+12/10/19 Ryanair 1 29.01 18:45 London STNLondon (Stansted) STN 15:55 London STNLondon (Stansted) STN FR8167
+12/10/19 Ryanair 1 43.85 05 Gd nsk GDN 21:55 Gdansk GDN FR2372
+21/04/19 Ryanair 1 29.59 06:15 London STNLondon (Stansted) STN 14:25 London STNLondon (Stansted) STN FR2375
+28/04/19 Ryanair 1 23.54 11:20 Tenerife S TFS 21:55 Gdansk GDN
+28/04/19 Ryanair 1 29.01 18:45 London STNLondon (Stansted) STN 15:55 London STNLondon (Stansted) STN FR8167
+09/06/19 Ryanair 1 43.85 13:05 Gdansk GDN 10:45 Tenerife S TFS
+17/06/19 Ryanair 1 29.59 20 Te erife S TFS 10:45 Tenerife S TFS FR8166
+17/06/19 Ryanair 1 23.54 11:20 Tenerife S TFS 12:35 Gdansk GDN
+26/09/19 Ryanair 1 29.01 05 Gd nsk GDN 12:35 Gdansk GDN FR2374
+04/10/19 Ryanair 1 43.85 06:15 London STNLondon (Stansted) STN 14:25 London STNLondon (Stansted) STN FR2375
+04/10/19 Ryanair 1 29.59 20 Te erife S TFS 10:45 Tenerife S TFS FR8166
+17/09/19 Ryanair 1 23.54 18:45 London STNLondon (Stansted) STN 15:55 London STNLondon (Stansted) STN FR8167
+24/09/19 Ryanair 1 29.01 10:20 Gdansk GDN 10:45 Tenerife S TFS
+24/09/19 Ryanair 1 43.85 06:15 London STNLondon (Stansted) STN 11:40 London STNLondon (Stansted) STN FR2373
+17/06/19 Ryanair 1 29.59 11:20 Tenerife S TFS 10:05 Gdansk GDN
+22/06/19 Ryanair 1 23.54 20 Gd nsk GDN 10:05 Gdansk GDN FR2374
+22/06/19 Ryanair 1 29.01 22:20 Gdansk GDN 22:10 Tenerife S TFS
+08/10/19 Ryanair 1 43.85 20 Te erife S TFS 22:10 Tenerife S TFS FR8156
+12/10/19 Ryanair 1 29.59 09:25 London STNLondon (Stansted) STN 15:55 London STNLondon (Stansted) STN FR8167
+12/10/19 Ryanair 1 23.54 05 Gd nsk GDN 12:35 Gdansk GDN FR2374
+03/10/19 Ryanair 1 29.01 17:40 London STNLondon (Stansted) STN 14:25 London STNLondon (Stansted) STN FR2375
+08/10/19 Ryanair 1 43.85 11:20 Tenerife S TFS 12:35 Gdansk GDN
+08/10/19 Ryanair 1 29.59 09:25 London STNLondon (Stansted) STN 15:55 London STNLondon (Stansted) STN FR8167
+01/10/19 Ryanair 1 23.54 13:05 Gdansk GDN 22:10 Tenerife S TFS
+08/10/19 Ryanair 1 29.01 20 Te erife S TFS 22:10 Tenerife S TFS FR8166
+08/10/19 Ryanair 1 43.85 11:20 Tenerife S TFS 21:55 Gdansk GDN
+17/09/19 Ryanair 1 29.59 20 Gd nsk GDN 21:55 Gdansk GDN FR2372
+24/09/19 Ryanair 1 28.29 17:40 London STNLondon (Stansted) STN 23:40 London STNLondon (Stansted) STN FR2373
+24/09/19 Ryanair 1 29.01 20 Te erife S TFS 22:10 Tenerife S TFS FR8156
+05/09/19 Ryanair 1 43.85 06:55 London STNLondon (Stansted) STN 15:55 London STNLondon (Stansted) STN FR8167
+10/09/19 Ryanair 1 24.85 10:40 Gdansk GDN 22:10 Tenerife S TFS
+10/09/19 Ryanair 1 28.29 17:40 London STNLondon (Stansted) STN 12:00 London STNLondon (Stansted) STN FR2375
+17/06/19 Ryanair 1 29.01 11:20 Tenerife S TFS 21:55 Gdansk GDN
+21/06/19 Ryanair 1 43.85 55 Kr kow KRK 21:55 Gdansk GDN FR2372
+21/06/19 Ryanair 1 24.85 12:55 Krakow KRK 17:15 Tenerife S TFS
+13/05/19 Ryanair 1 28.29 30 Te erife S TFS 17:15 Tenerife S TFS U24459
+21/05/19 Ryanair 1 29.01 11:50 London LGWLondon (Gatwick) LGW 00:40 London LGWLondon (Gatwick) LGW DY2413
+21/05/19 Ryanair 1 43.85 35 Wa saw WAW 15:15 Krakow KRK U28513
+08/10/19 Ryanair 1 24.85 06:25 Brussels CRLBrussels (Charleroi) CRL 20:40 Brussels CRLBrussels (Charleroi) CRL W61381
+16/10/19 Ryanair 1 28.29 22:55 Tenerife S TFS 12:55 Warsaw WAW
+16/10/19 Ryanair 1 29.01 10:05 Bordeaux BOD 03:30 Bordeaux BOD V72421
+20/09/19 Ryanair 1 43.85 11:35 Warsaw WMIWarsaw (Modlin) WMI 16:30 Tenerife S TFS
+28/09/19 Ryanair 1 24.85 06:20 Tenerife S TFS 23:30 Warsaw WMIWarsaw (Modlin) WMI
+28/09/19 Ryanair 1 28.29 20:10 Valencia VLC 10:25 Valencia VLC FR1971
+21/10/19 Ryanair 1 29.01 09:15 Krakow KRK 15:30 Tenerife S TFS
+25/10/19 Ryanair 1 43.85 00 Te erife S TFS 15:30 Tenerife S TFS FR1811
+25/10/19 Ryanair 1 24.85 07:00 Tenerife S TFS 19:05 Krakow KRK
+20/05/19 Ryanair 1 28.29 55 Kr kow KRK 19:05 Krakow KRK FR3053
+27/05/19 Ryanair 1 29.01 14:00 Lyon LYS 15:10 Lyon LYS U24480
+27/05/19 Ryanair 1 43.85 30 Te erife S TFS 17:15 Tenerife S TFS U24459
+26/09/19 Ryanair 1 24.85 06:30 Brussels CRLBrussels (Charleroi) CRL 22:45 Brussels CRLBrussels (Charleroi) CRL FR8179
+03/10/19 Ryanair 1 28.29 15:55 Katowice KTW 20:40 Tenerife S TFS
+03/10/19 Ryanair 1 29.01 00 Te erife S TFS 20:40 Tenerife S TFS W61179
+26/08/19 Ryanair 1 43.85 21:40 Barcelona BCN 10:30 Barcelona BCN FR6377
+03/09/19 Ryanair 1 24.85 10:55 Katowice KTW 15:40 Tenerife S TFS
+03/09/19 Ryanair 1 28.29 50 Te erife S TFS 15:40 Tenerife S TFS W61179
+09/09/19 Ryanair 1 29.01 22:05 Bristol BRS 16:55 Bristol BRS MT1655
+14/09/19 Ryanair 1 43.85 15:25 Katowice KTW 23:05 Tenerife S TFS
+14/09/19 Ryanair 1 24.85 19:20 Cologne CGNCologne-Bonn CGN 17:10 Cologne CGNCologne-Bonn CGN W61099
+23/09/19 Ryanair 1 28.29 06:00 Tenerife S TFS 00:30 Katowice KTW
+28/09/19 Ryanair 1 29.01 30 Wr claw WRO 00:30 Katowice KTW W61176
+28/09/19 Ryanair 1 43.85 06:30 Wroclaw WRO 11:00 Tenerife S TFS
+17/06/19 Ryanair 1 24.85 14:55 Tenerife S TFS 23:55 Wroclaw WRO
+23/06/19 Ryanair 1 28.29 15 Wa saw WAW 23:55 Wroclaw WRO FR8935
+23/06/19 Ryanair 1 29.01 15:15 Warsaw WAW 10:40 Tenerife S TFS
+14/05/19 Ryanair 1 43.85 30 Te erife S TFS 10:40 Tenerife S TFS U21541
+21/05/19 Ryanair 1 24.85 21:15 Brussels CRLBrussels (Charleroi) CRL 22:45 Brussels CRLBrussels (Charleroi) CRL FR8179
+21/05/19 Ryanair 1 28.29 10 Ka owice KTW 23:15 Warsaw WAW W61382
+17/05/19 Ryanair 1 29.01 19:45 Eindhoven EIN 09:05 Eindhoven EIN W61071
+21/05/19 Ryanair 1 43.85 07:00 Tenerife S TFS 00:30 Katowice KTW
+21/05/19 Ryanair 1 24.85 21:40 Barcelona BCN 11:30 Barcelona BCN FR6377
+03/06/19 Ryanair 1 28.29 12:55 Krakow KRK 17:15 Tenerife S TFS
+07/06/19 Ryanair 1 29.01 10 Te erife S TFS 17:15 Tenerife S TFS U24459
+07/06/19 Ryanair 1 43.85 22:10 Tenerife S TFS 21:00 Krakow KRK
+28/08/19 Ryanair 1 24.85 10 Ka owice KTW 21:00 Krakow KRK U28513
+03/09/19 Ryanair 1 28.29 19:45 Eindhoven EIN 09:05 Eindhoven EIN W61071
+03/09/19 Ryanair 1 29.01 35 Te erife S TFS 23:25 Tenerife S TFS FR3245

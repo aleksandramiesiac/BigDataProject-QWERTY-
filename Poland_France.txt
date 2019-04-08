@@ -1,0 +1,476 @@
+Data Przewoznik Czy_przesiadka Cena Godzina_odlotu Miejsce_odlotu Godzina_przylotu Miejsce_przylotu
+08/09/19 Ryanair 0 5.16 19:30 Wroclaw WRO 21:35 Paris BVAParis (Beauvais) BVA
+12/09/19 Ryanair 0 22.43 14:40 Paris BVAParis (Beauvais) BVA 16:35 Wroclaw WRO
+05/09/19 Ryanair 0 10.47 12:10 Wroclaw WRO 14:15 Paris BVAParis (Beauvais) BVA
+10/09/19 Ryanair 0 19.99 10:20 Paris BVAParis (Beauvais) BVA 12:15 Wroclaw WRO
+05/09/19 Ryanair 0 10.47 12:10 Wroclaw WRO 14:15 Paris BVAParis (Beauvais) BVA
+12/09/19 Ryanair 0 22.43 14:40 Paris BVAParis (Beauvais) BVA 16:35 Wroclaw WRO
+18/06/19 Ryanair 0 17.71 07:50 Wroclaw WRO 09:55 Paris BVAParis (Beauvais) BVA
+25/06/19 Ryanair 0 17.99 10:20 Paris BVAParis (Beauvais) BVA 12:15 Wroclaw WRO
+09/06/19 Ryanair 0 17.71 19:30 Wroclaw WRO 21:35 Paris BVAParis (Beauvais) BVA
+13/06/19 Ryanair 0 17.99 14:40 Paris BVAParis (Beauvais) BVA 16:35 Wroclaw WRO
+27/05/19 Ryanair 0 17.71 06:30 Krakow KRK 09:10 Bordeaux BOD
+03/06/19 Ryanair 0 19.99 09:35 Bordeaux BOD 12:20 Krakow KRK
+10/05/19 Ryanair 1 9.09 20:40 Warsaw WMIWarsaw (Modlin) WMI 10:35 La Rochell LRH
+10/05/19 Ryanair 1 9.99 09:05 Brussels CRLBrussels (Charleroi) CRL 22:45 Brussels CRLBrussels (Charleroi) CRL FR1056
+14/05/19 Ryanair 1 9.99 08:45 La Rochell LRH 20:15 Warsaw WMIWarsaw (Modlin) WMI
+13/05/19 Ryanair 1 9.99 50 Wr claw WRO 20:15 Warsaw WMIWarsaw (Modlin) WMI FR1055
+13/05/19 Ryanair 1 9.09 12:50 Wroclaw WRO 08:20 La Rochell LRH
+21/05/19 Ryanair 1 9.99 45 La Rochell LRH 08:20 La Rochell LRH FR4071
+10/05/19 Ryanair 1 9.99 10:45 Brussels CRLBrussels (Charleroi) CRL 10:10 Brussels CRLBrussels (Charleroi) CRL FR4072
+10/05/19 Ryanair 1 9.99 40 Wa saw WMIWarsaw (Modlin) WMI 12:25 Wroclaw WRO FR8372
+14/05/19 Ryanair 1 9.09 09:05 Brussels CRLBrussels (Charleroi) CRL 22:45 Brussels CRLBrussels (Charleroi) CRL FR1056
+10/05/19 Ryanair 1 9.99 08:45 La Rochell LRH 19:50 Warsaw WMIWarsaw (Modlin) WMI
+10/05/19 Ryanair 1 9.99 17:55 Brussels CRLBrussels (Charleroi) CRL 10:10 Brussels CRLBrussels (Charleroi) CRL FR4072
+14/05/19 Ryanair 1 9.99 20:40 Warsaw WMIWarsaw (Modlin) WMI 10:35 La Rochell LRH
+17/05/19 Ryanair 1 9.09 45 La Rochell LRH 10:35 La Rochell LRH FR4071
+17/05/19 Ryanair 1 9.99 08:45 La Rochell LRH 08:50 Warsaw WMIWarsaw (Modlin) WMI
+21/05/19 Ryanair 1 9.99 50 Wr claw WRO 08:50 Warsaw WMIWarsaw (Modlin) WMI FR1057
+10/05/19 Ryanair 1 9.99 09:05 Brussels CRLBrussels (Charleroi) CRL 14:30 Brussels CRLBrussels (Charleroi) CRL FR8373
+10/05/19 Ryanair 1 9.09 45 La Rochell LRH 10:35 La Rochell LRH FR4071
+14/05/19 Ryanair 1 9.99 10:45 Brussels CRLBrussels (Charleroi) CRL 10:10 Brussels CRLBrussels (Charleroi) CRL FR4072
+05/06/19 Ryanair 0 9.99 12:50 Wroclaw WRO 10:35 La Rochell LRH
+12/06/19 Ryanair 0 9.99 45 La Rochell LRH 10:35 La Rochell LRH FR4071
+03/09/19 Ryanair 0 9.09 10:45 Brussels CRLBrussels (Charleroi) CRL 10:10 Brussels CRLBrussels (Charleroi) CRL FR4072
+10/09/19 Ryanair 0 9.99 18:20 Warsaw WMIWarsaw (Modlin) WMI 20:50 Marseille MRS
+13/05/19 Ryanair 0 9.99 21:15 Marseille MRS 23:45 Warsaw WMIWarsaw (Modlin) WMI
+17/05/19 Ryanair 0 9.99 07:50 Wroclaw WRO 09:55 Paris BVAParis (Beauvais) BVA
+21/05/19 Ryanair 0 19.81 10:20 Paris BVAParis (Beauvais) BVA 12:15 Wroclaw WRO
+28/05/19 Ryanair 0 19.99 13:20 Warsaw WAW 15:40 Lyon LYS
+20/06/19 Ryanair 0 19.81 16:15 Lyon LYS 18:30 Warsaw WAW
+27/06/19 Ryanair 0 19.99 07:50 Wroclaw WRO 09:55 Paris BVAParis (Beauvais) BVA
+20/06/19 Wizz Air 0 20.74 10:20 Paris BVAParis (Beauvais) BVA 12:15 Wroclaw WRO
+25/06/19 Wizz Air 0 19.99 12:10 Wroclaw WRO 14:15 Paris BVAParis (Beauvais) BVA
+21/04/19 Ryanair 0 18.83 14:40 Paris BVAParis (Beauvais) BVA 16:35 Wroclaw WRO
+25/04/19 Ryanair 0 22.43 12:10 Wroclaw WRO 14:15 Paris BVAParis (Beauvais) BVA
+10/05/19 Ryanair 1 23.54 10:20 Paris BVAParis (Beauvais) BVA 12:15 Wroclaw WRO
+10/05/19 Ryanair 1 17.99 40 Kr kow KRK 12:15 Wroclaw WRO FR8935
+15/05/19 Ryanair 1 23.54 30 Lo rdes LDELourdes-Tarbes LDE 10:25 Lourdes LDELourdes-Tarbes LDE FR3035
+14/05/19 Ryanair 1 17.99 40 Wa saw WMIWarsaw (Modlin) WMI 23:15 Krakow KRK FR3036
+14/05/19 Ryanair 1 24.05 20:40 Warsaw WMIWarsaw (Modlin) WMI 14:55 Marseille MRS
+19/05/19 Ryanair 1 17.99 15 Ma seille MRS 14:55 Marseille MRS FR6318
+10/05/19 Ryanair 1 9.09 15 Wa saw WMIWarsaw (Modlin) WMI 23:45 Warsaw WMIWarsaw (Modlin) WMI FR7008
+10/05/19 Ryanair 1 14.99 09:15 Warsaw WMIWarsaw (Modlin) WMI 08:10 Marseille MRS
+15/05/19 Ryanair 1 17.99 10 Ma seille MRS 08:10 Marseille MRS FR6318
+15/05/19 Ryanair 1 9.09 40 Wa saw WMIWarsaw (Modlin) WMI 11:40 Warsaw WMIWarsaw (Modlin) WMI FR7008
+15/05/19 Ryanair 1 14.99 20:40 Warsaw WMIWarsaw (Modlin) WMI 15:30 Marseille MRS
+19/05/19 Ryanair 1 17.99 15 Ma seille MRS 15:30 Marseille MRS FR6316
+08/05/19 Ryanair 1 9.09 15 Wa saw WMIWarsaw (Modlin) WMI 23:45 Warsaw WMIWarsaw (Modlin) WMI FR7008
+08/05/19 Ryanair 1 14.99 20:15 Warsaw WMIWarsaw (Modlin) WMI 08:55 Marseille MRS
+15/05/19 Ryanair 1 17.99 10 Ma seille MRS 08:55 Marseille MRS FR6316
+14/05/19 Ryanair 1 9.09 15 Wa saw WMIWarsaw (Modlin) WMI 11:40 Warsaw WMIWarsaw (Modlin) WMI FR7008
+14/05/19 Ryanair 1 14.99 09:15 Warsaw WMIWarsaw (Modlin) WMI 08:55 Marseille MRS
+19/05/19 Ryanair 1 17.99 15 Ma seille MRS 08:55 Marseille MRS FR6316
+15/05/19 Ryanair 1 9.09 40 Wa saw WMIWarsaw (Modlin) WMI 23:45 Warsaw WMIWarsaw (Modlin) WMI FR7008
+15/05/19 Ryanair 1 14.99 20:40 Warsaw WMIWarsaw (Modlin) WMI 08:10 Marseille MRS
+19/05/19 Ryanair 1 17.99 10 Ma seille MRS 08:10 Marseille MRS FR6318
+15/05/19 Ryanair 1 9.09 15 Wa saw WMIWarsaw (Modlin) WMI 11:40 Warsaw WMIWarsaw (Modlin) WMI FR7008
+15/05/19 Ryanair 1 14.99 09:15 Warsaw WMIWarsaw (Modlin) WMI 13:10 Marseille MRS
+19/05/19 Ryanair 1 17.99 10 Ma seille MRS 13:10 Marseille MRS FR6318
+15/05/19 Ryanair 1 9.09 15 Wa saw WMIWarsaw (Modlin) WMI 11:40 Warsaw WMIWarsaw (Modlin) WMI FR7008
+15/05/19 Ryanair 1 14.99 09:15 Warsaw WMIWarsaw (Modlin) WMI 08:55 Marseille MRS
+19/05/19 Ryanair 1 17.99 10 Ma seille MRS 08:55 Marseille MRS FR6316
+08/05/19 Ryanair 1 9.09 15 Wa saw WMIWarsaw (Modlin) WMI 11:40 Warsaw WMIWarsaw (Modlin) WMI FR7008
+08/05/19 Ryanair 1 14.99 20:15 Warsaw WMIWarsaw (Modlin) WMI 13:10 Marseille MRS
+15/05/19 Ryanair 1 17.99 10 Ma seille MRS 13:10 Marseille MRS FR6318
+14/05/19 Ryanair 1 9.09 15 Wa saw WMIWarsaw (Modlin) WMI 11:40 Warsaw WMIWarsaw (Modlin) WMI FR7008
+14/05/19 Ryanair 1 14.99 20:15 Warsaw WMIWarsaw (Modlin) WMI 08:55 Marseille MRS
+19/05/19 Ryanair 1 17.99 15 Ma seille MRS 08:55 Marseille MRS FR6316
+02/07/19 Ryanair 0 9.09 15 Wa saw WMIWarsaw (Modlin) WMI 23:45 Warsaw WMIWarsaw (Modlin) WMI FR7008
+07/07/19 Ryanair 0 14.99 18:55 Brussels CRLBrussels (Charleroi) CRL 11:20 Brussels CRLBrussels (Charleroi) CRL FR1058
+18/07/19 Ryanair 0 17.99 09:10 Marseille MRS 11:40 Warsaw WMIWarsaw (Modlin) WMI
+25/07/19 Ryanair 0 9.09 07:50 Wroclaw WRO 09:55 Paris BVAParis (Beauvais) BVA
+11/07/19 Ryanair 0 14.99 22:00 Paris BVAParis (Beauvais) BVA 23:55 Wroclaw WRO
+18/07/19 Ryanair 0 17.99 12:10 Wroclaw WRO 14:15 Paris BVAParis (Beauvais) BVA
+19/05/19 Ryanair 0 19.81 14:40 Paris BVAParis (Beauvais) BVA 16:35 Wroclaw WRO
+23/05/19 Ryanair 1 22.43 12:10 Wroclaw WRO 14:15 Paris BVAParis (Beauvais) BVA
+23/05/19 Ryanair 1 19.81 40 Pa is BVAParis (Beauvais) BVA 14:15 Paris BVAParis (Beauvais) BVA FR8934
+19/05/19 Ryanair 1 22.43 15 Wa saw WMIWarsaw (Modlin) WMI 16:35 Wroclaw WRO FR8935
+23/05/19 Ryanair 1 19.81 20 Ma seille MRS 08:45 Marseille MRS FR7007
+23/05/19 Ryanair 1 22.43 09:20 Marseille MRS 18:30 Warsaw WMIWarsaw (Modlin) WMI
+10/05/19 Ryanair 1 17.71 15 Wa saw WMIWarsaw (Modlin) WMI 18:30 Warsaw WMIWarsaw (Modlin) WMI FR1057
+17/05/19 Ryanair 0 14.99 20 Ma seille MRS 08:45 Marseille MRS FR7007
+01/10/19 Ryanair 0 9.99 18:20 Brussels CRLBrussels (Charleroi) CRL 11:05 Brussels CRLBrussels (Charleroi) CRL FR6315
+08/10/19 Ryanair 0 17.71 06:30 Krakow KRK 09:10 Bordeaux BOD
+19/10/19 Ryanair 0 14.99 09:35 Bordeaux BOD 12:20 Krakow KRK
+27/10/19 Ryanair 0 9.99 12:55 Krakow KRK 15:10 Lyon LYS
+20/10/19 Ryanair 0 17.71 10:15 Lyon LYS 12:25 Krakow KRK
+27/10/19 Ryanair 0 25.13 13:45 Warsaw WMIWarsaw (Modlin) WMI 16:05 Paris BVAParis (Beauvais) BVA
+27/06/19 easyJet 0 6.99 15:55 Paris BVAParis (Beauvais) BVA 18:10 Warsaw WMIWarsaw (Modlin) WMI
+04/07/19 easyJet 0 18.17 13:25 Warsaw WMIWarsaw (Modlin) WMI 15:45 Paris BVAParis (Beauvais) BVA
+18/11/19 Ryanair 0 23.54 15:55 Paris BVAParis (Beauvais) BVA 18:10 Warsaw WMIWarsaw (Modlin) WMI
+25/11/19 Ryanair 0 19.99 12:10 Wroclaw WRO 14:15 Paris BVAParis (Beauvais) BVA
+24/02/20 Ryanair 0 23.54 14:40 Paris BVAParis (Beauvais) BVA 16:35 Wroclaw WRO
+02/03/20 Ryanair 0 19.99 13:20 Warsaw WAW 15:40 Lyon LYS
+25/11/19 Ryanair 0 23.54 16:15 Lyon LYS 18:30 Warsaw WAW
+02/12/19 Ryanair 0 19.99 13:20 Warsaw WAW 15:40 Lyon LYS
+18/11/19 Wizz Air 0 13.75 16:15 Lyon LYS 18:30 Warsaw WAW
+22/11/19 Wizz Air 0 29.99 13:20 Warsaw WAW 15:40 Lyon LYS
+22/11/19 Wizz Air 0 13.75 16:15 Lyon LYS 18:30 Warsaw WAW
+29/11/19 Wizz Air 0 29.99 13:20 Warsaw WAW 15:40 Lyon LYS
+21/10/19 Wizz Air 0 13.75 16:15 Lyon LYS 18:30 Warsaw WAW
+28/10/19 Wizz Air 0 29.99 13:20 Warsaw WAW 15:40 Lyon LYS
+24/02/20 Wizz Air 0 13.75 16:15 Lyon LYS 18:30 Warsaw WAW
+28/02/20 Wizz Air 0 29.99 13:20 Warsaw WAW 15:40 Lyon LYS
+11/11/19 Wizz Air 0 13.75 16:15 Lyon LYS 18:30 Warsaw WAW
+15/11/19 Wizz Air 0 29.99 13:20 Warsaw WAW 15:40 Lyon LYS
+15/11/19 Wizz Air 0 13.75 16:15 Lyon LYS 18:30 Warsaw WAW
+22/11/19 Wizz Air 0 29.99 13:20 Warsaw WAW 15:40 Lyon LYS
+28/10/19 Wizz Air 0 13.75 16:15 Lyon LYS 18:30 Warsaw WAW
+01/11/19 Wizz Air 0 29.99 13:20 Warsaw WAW 15:40 Lyon LYS
+17/02/20 Wizz Air 0 13.75 16:15 Lyon LYS 18:30 Warsaw WAW
+24/02/20 Wizz Air 0 29.99 13:20 Warsaw WAW 15:40 Lyon LYS
+17/02/20 Wizz Air 0 13.75 16:15 Lyon LYS 18:30 Warsaw WAW
+21/02/20 Wizz Air 0 29.99 13:20 Warsaw WAW 15:40 Lyon LYS
+11/11/19 Wizz Air 0 13.75 16:15 Lyon LYS 18:30 Warsaw WAW
+18/11/19 Wizz Air 0 29.99 13:20 Warsaw WAW 15:40 Lyon LYS
+21/02/20 Wizz Air 0 13.75 16:15 Lyon LYS 18:30 Warsaw WAW
+28/02/20 Wizz Air 0 29.99 13:20 Warsaw WAW 15:40 Lyon LYS
+25/11/19 Wizz Air 0 13.75 16:15 Lyon LYS 18:30 Warsaw WAW
+29/11/19 Wizz Air 0 29.99 13:20 Warsaw WAW 15:40 Lyon LYS
+17/10/19 Wizz Air 0 13.75 16:15 Lyon LYS 18:30 Warsaw WAW
+22/10/19 Wizz Air 0 29.99 13:20 Warsaw WAW 15:40 Lyon LYS
+03/10/19 Wizz Air 0 13.75 16:15 Lyon LYS 18:30 Warsaw WAW
+08/10/19 Wizz Air 0 29.99 09:45 Krakow KRK 12:00 Lyon LYS
+17/05/19 Wizz Air 1 13.75 10:15 Lyon LYS 12:25 Krakow KRK
+17/05/19 Wizz Air 1 29.99 45 Kr kow KRK 12:25 Krakow KRK U24479
+25/05/19 easyJet 1 6.99 15 Ly n LYS 12:00 Lyon LYS U24480
+13/05/19 easyJet 1 19.18 50 Wr claw WRO 12:25 Krakow KRK U24479
+13/05/19 easyJet 1 8.16 12:50 Wroclaw WRO 10:35 La Rochell LRH
+18/05/19 easyJet 1 18.17 00 La Rochell LRH 10:35 La Rochell LRH FR4071
+10/05/19 Ryanair 1 9.09 18:45 Brussels CRLBrussels (Charleroi) CRL 12:25 Brussels CRLBrussels (Charleroi) CRL FR4072
+10/05/19 Ryanair 1 9.99 50 Wr claw WRO 20:25 Wroclaw WRO FR8372
+18/05/19 Ryanair 1 9.99 06:50 Brussels CRLBrussels (Charleroi) CRL 14:30 Brussels CRLBrussels (Charleroi) CRL FR8373
+27/05/19 Ryanair 0 14.99 11:00 La Rochell LRH 20:25 Wroclaw WRO
+31/05/19 Ryanair 1 9.09 50 Wr claw WRO 20:25 Wroclaw WRO FR8372
+31/05/19 Ryanair 1 9.99 12:50 Wroclaw WRO 10:35 La Rochell LRH
+16/05/19 Ryanair 1 9.99 00 La Rochell LRH 10:35 La Rochell LRH FR4071
+20/05/19 Ryanair 1 14.99 18:45 Brussels CRLBrussels (Charleroi) CRL 12:25 Brussels CRLBrussels (Charleroi) CRL FR4072
+20/05/19 Ryanair 1 9.09 50 Po nan POZ 20:25 Wroclaw WRO FR8372
+15/05/19 Ryanair 1 9.99 55 Pa is BVAParis (Beauvais) BVA 19:50 Paris BVAParis (Beauvais) BVA W61921
+21/05/19 Ryanair 1 9.99 12:10 Stockholm NYOStockholm (Skavsta) NYO 12:10 Stockholm NYOStockholm (Skavsta) NYO FR9504
+21/05/19 Ryanair 1 14.99 40 Wa saw WMIWarsaw (Modlin) WMI 13:40 Poznan POZ FR7238
+23/05/19 Wizz Air 1 13.75 11:55 Brussels CRLBrussels (Charleroi) CRL 22:45 Brussels CRLBrussels (Charleroi) CRL FR1056
+27/05/19 Ryanair 1 17.99 20:20 Rodez RDZ 08:50 Warsaw WMIWarsaw (Modlin) WMI
+27/05/19 Ryanair 1 12.84 06:55 Brussels CRLBrussels (Charleroi) CRL 21:55 Brussels CRLBrussels (Charleroi) CRL FR6262
+09/05/19 Ryanair 1 9.09 12:50 Wroclaw WRO 13:35 Carcassonn CCF
+13/05/19 Ryanair 1 12.99 45 Ca cassonn CCF 13:35 Carcassonn CCF FR8023
+13/05/19 Ryanair 1 12.99 13:45 Carcassonn CCF 12:25 Wroclaw WRO
+09/05/19 Ryanair 1 9.99 40 Wa saw WMIWarsaw (Modlin) WMI 12:25 Wroclaw WRO FR8372
+13/05/19 Ryanair 1 9.09 11:55 Brussels CRLBrussels (Charleroi) CRL 22:45 Brussels CRLBrussels (Charleroi) CRL FR1056
+13/05/19 Ryanair 1 12.99 20 Ro ez RDZ 13:25 Rodez RDZ FR6261
+09/05/19 Ryanair 1 12.99 18:20 Brussels CRLBrussels (Charleroi) CRL 21:55 Brussels CRLBrussels (Charleroi) CRL FR6262
+13/05/19 Ryanair 1 9.99 18:55 Warsaw WMIWarsaw (Modlin) WMI 13:25 Rodez RDZ
+13/05/19 Ryanair 1 9.09 11:55 Brussels CRLBrussels (Charleroi) CRL 21:00 Brussels CRLBrussels (Charleroi) CRL FR1058
+16/05/19 Ryanair 1 12.99 20:20 Rodez RDZ 20:15 Warsaw WMIWarsaw (Modlin) WMI
+21/05/19 Ryanair 1 12.99 55 Wa saw WMIWarsaw (Modlin) WMI 20:15 Warsaw WMIWarsaw (Modlin) WMI FR1055
+21/05/19 Ryanair 1 9.99 18:55 Warsaw WMIWarsaw (Modlin) WMI 13:25 Rodez RDZ
+23/05/19 Ryanair 1 9.09 20 Ro ez RDZ 13:25 Rodez RDZ FR6261
+27/05/19 Ryanair 1 12.99 06:55 Brussels CRLBrussels (Charleroi) CRL 21:55 Brussels CRLBrussels (Charleroi) CRL FR6262
+27/05/19 Ryanair 1 12.99 40 Wa saw WMIWarsaw (Modlin) WMI 08:50 Warsaw WMIWarsaw (Modlin) WMI FR1057
+09/05/19 Ryanair 1 9.99 11:55 Brussels CRLBrussels (Charleroi) CRL 22:45 Brussels CRLBrussels (Charleroi) CRL FR1056
+13/05/19 Ryanair 1 9.09 20:20 Rodez RDZ 08:50 Warsaw WMIWarsaw (Modlin) WMI
+13/05/19 Ryanair 1 12.99 06:55 Brussels CRLBrussels (Charleroi) CRL 21:55 Brussels CRLBrussels (Charleroi) CRL FR6262
+17/05/19 Ryanair 1 12.99 20:40 Warsaw WMIWarsaw (Modlin) WMI 13:55 Carcassonn CCF
+21/05/19 Ryanair 1 9.99 45 Ca cassonn CCF 13:55 Carcassonn CCF FR8023
+21/05/19 Ryanair 1 9.09 13:45 Carcassonn CCF 08:50 Warsaw WMIWarsaw (Modlin) WMI
+23/05/19 Ryanair 1 12.99 55 Wa saw WMIWarsaw (Modlin) WMI 08:50 Warsaw WMIWarsaw (Modlin) WMI FR1057
+27/05/19 Ryanair 1 12.99 11:55 Brussels CRLBrussels (Charleroi) CRL 21:00 Brussels CRLBrussels (Charleroi) CRL FR1058
+27/05/19 Ryanair 1 9.99 20 Ro ez RDZ 13:25 Rodez RDZ FR6261
+23/05/19 Ryanair 1 9.09 18:20 Brussels CRLBrussels (Charleroi) CRL 21:55 Brussels CRLBrussels (Charleroi) CRL FR6262
+27/05/19 Ryanair 1 12.99 20:40 Warsaw WMIWarsaw (Modlin) WMI 15:35 Bergerac EGC
+27/05/19 Ryanair 1 12.99 14:05 Brussels CRLBrussels (Charleroi) CRL 22:45 Brussels CRLBrussels (Charleroi) CRL FR1056
+14/05/19 Ryanair 1 9.99 12:10 Bergerac EGC 20:15 Warsaw WMIWarsaw (Modlin) WMI
+21/05/19 Ryanair 1 9.09 50 Wr claw WRO 20:15 Warsaw WMIWarsaw (Modlin) WMI FR1055
+21/05/19 Ryanair 1 12.99 12:50 Wroclaw WRO 13:10 Carcassonn CCF
+08/05/19 Ryanair 1 12.99 45 Ca cassonn CCF 13:10 Carcassonn CCF FR8023
+14/05/19 Ryanair 1 9.99 10:45 Brussels CRLBrussels (Charleroi) CRL 15:30 Brussels CRLBrussels (Charleroi) CRL FR8024
+14/05/19 Ryanair 1 9.09 40 Wa saw WMIWarsaw (Modlin) WMI 12:25 Wroclaw WRO FR8372
+16/05/19 Ryanair 1 12.99 11:55 Brussels CRLBrussels (Charleroi) CRL 22:45 Brussels CRLBrussels (Charleroi) CRL FR1056
+20/05/19 Ryanair 1 12.99 20:20 Rodez RDZ 08:50 Warsaw WMIWarsaw (Modlin) WMI
+20/05/19 Ryanair 1 9.99 06:55 Brussels CRLBrussels (Charleroi) CRL 21:55 Brussels CRLBrussels (Charleroi) CRL FR6262
+08/05/19 Ryanair 1 9.09 20:40 Warsaw WMIWarsaw (Modlin) WMI 15:35 Bergerac EGC
+14/05/19 Ryanair 1 12.99 10 Be gerac EGC 15:35 Bergerac EGC FR1218
+14/05/19 Ryanair 1 12.99 12:10 Bergerac EGC 20:15 Warsaw WMIWarsaw (Modlin) WMI
+09/05/19 Ryanair 1 9.99 40 Wa saw WMIWarsaw (Modlin) WMI 20:15 Warsaw WMIWarsaw (Modlin) WMI FR1055
+13/05/19 Ryanair 1 9.09 11:30 Brussels CRLBrussels (Charleroi) CRL 22:45 Brussels CRLBrussels (Charleroi) CRL FR1056
+13/05/19 Ryanair 1 12.99 45 Ca cassonn CCF 13:10 Carcassonn CCF FR8023
+15/05/19 Ryanair 1 12.99 18:20 Brussels CRLBrussels (Charleroi) CRL 15:30 Brussels CRLBrussels (Charleroi) CRL FR8024
+19/05/19 Ryanair 1 9.99 20:15 Warsaw WMIWarsaw (Modlin) WMI 13:35 Carcassonn CCF
+19/05/19 Ryanair 1 9.09 11:55 Brussels CRLBrussels (Charleroi) CRL 22:20 Brussels CRLBrussels (Charleroi) CRL FR1056
+23/05/19 Ryanair 1 12.99 13:45 Carcassonn CCF 19:50 Warsaw WMIWarsaw (Modlin) WMI
+27/05/19 Ryanair 1 12.99 40 Wa saw WMIWarsaw (Modlin) WMI 19:50 Warsaw WMIWarsaw (Modlin) WMI FR1055
+27/05/19 Ryanair 1 9.99 20:40 Warsaw WMIWarsaw (Modlin) WMI 13:25 Rodez RDZ
+16/05/19 Ryanair 1 9.09 20 Ro ez RDZ 13:25 Rodez RDZ FR6261
+20/05/19 Ryanair 1 12.99 18:20 Brussels CRLBrussels (Charleroi) CRL 21:55 Brussels CRLBrussels (Charleroi) CRL FR6262
+20/05/19 Ryanair 1 12.99 50 Wr claw WRO 20:15 Warsaw WMIWarsaw (Modlin) WMI FR1055
+09/05/19 Ryanair 1 9.99 11:55 Brussels CRLBrussels (Charleroi) CRL 14:30 Brussels CRLBrussels (Charleroi) CRL FR8373
+13/05/19 Ryanair 1 9.09 13:45 Carcassonn CCF 12:25 Wroclaw WRO
+13/05/19 Ryanair 1 12.99 10:45 Brussels CRLBrussels (Charleroi) CRL 15:30 Brussels CRLBrussels (Charleroi) CRL FR8024
+23/05/19 Ryanair 1 12.99 20:40 Warsaw WMIWarsaw (Modlin) WMI 13:25 Rodez RDZ
+27/05/19 Ryanair 1 9.99 20 Ro ez RDZ 13:25 Rodez RDZ FR6261
+27/05/19 Ryanair 1 9.09 20:20 Rodez RDZ 20:15 Warsaw WMIWarsaw (Modlin) WMI
+16/05/19 Ryanair 1 12.99 15 Wa saw WMIWarsaw (Modlin) WMI 20:15 Warsaw WMIWarsaw (Modlin) WMI FR1055
+20/05/19 Ryanair 1 12.99 11:55 Brussels CRLBrussels (Charleroi) CRL 22:20 Brussels CRLBrussels (Charleroi) CRL FR1056
+20/05/19 Ryanair 1 9.99 35 Ca cassonn CCF 13:35 Carcassonn CCF FR8023
+23/05/19 Ryanair 1 9.09 06:55 Brussels CRLBrussels (Charleroi) CRL 15:20 Brussels CRLBrussels (Charleroi) CRL FR8024
+27/05/19 Ryanair 1 12.99 18:55 Warsaw WMIWarsaw (Modlin) WMI 13:25 Rodez RDZ
+27/05/19 Ryanair 1 12.99 11:55 Brussels CRLBrussels (Charleroi) CRL 21:00 Brussels CRLBrussels (Charleroi) CRL FR1058
+08/05/19 Ryanair 1 9.99 20:20 Rodez RDZ 08:50 Warsaw WMIWarsaw (Modlin) WMI
+14/05/19 Ryanair 1 9.09 40 Wa saw WMIWarsaw (Modlin) WMI 08:50 Warsaw WMIWarsaw (Modlin) WMI FR1057
+14/05/19 Ryanair 1 12.99 20:40 Warsaw WMIWarsaw (Modlin) WMI 15:35 Bergerac EGC
+15/05/19 Ryanair 1 12.99 10 Be gerac EGC 15:35 Bergerac EGC FR1218
+22/05/19 Ryanair 1 9.99 06:55 Brussels CRLBrussels (Charleroi) CRL 13:40 Brussels CRLBrussels (Charleroi) CRL FR1219
+22/05/19 Ryanair 1 9.09 40 Wa saw WMIWarsaw (Modlin) WMI 08:50 Warsaw WMIWarsaw (Modlin) WMI FR1057
+15/05/19 Ryanair 1 12.99 14:05 Brussels CRLBrussels (Charleroi) CRL 22:45 Brussels CRLBrussels (Charleroi) CRL FR1056
+21/05/19 Ryanair 1 12.99 12:10 Bergerac EGC 08:50 Warsaw WMIWarsaw (Modlin) WMI
+21/05/19 Ryanair 1 9.99 06:55 Brussels CRLBrussels (Charleroi) CRL 13:40 Brussels CRLBrussels (Charleroi) CRL FR1219
+15/05/19 Ryanair 1 9.09 20:40 Warsaw WMIWarsaw (Modlin) WMI 15:35 Bergerac EGC
+22/05/19 Ryanair 1 12.99 10 Be gerac EGC 15:35 Bergerac EGC FR1218
+22/05/19 Ryanair 1 12.99 12:10 Bergerac EGC 08:50 Warsaw WMIWarsaw (Modlin) WMI
+14/05/19 Ryanair 1 9.99 40 Wa saw WMIWarsaw (Modlin) WMI 08:50 Warsaw WMIWarsaw (Modlin) WMI FR1057
+19/05/19 Ryanair 1 9.09 14:05 Brussels CRLBrussels (Charleroi) CRL 22:45 Brussels CRLBrussels (Charleroi) CRL FR1056
+19/05/19 Ryanair 1 12.99 10 Be gerac EGC 15:35 Bergerac EGC FR1218
+23/05/19 Ryanair 1 12.99 18:20 Brussels CRLBrussels (Charleroi) CRL 13:40 Brussels CRLBrussels (Charleroi) CRL FR1219
+27/05/19 Ryanair 1 9.99 18:55 Warsaw WMIWarsaw (Modlin) WMI 15:35 Bergerac EGC
+27/05/19 Ryanair 1 9.09 14:05 Brussels CRLBrussels (Charleroi) CRL 21:00 Brussels CRLBrussels (Charleroi) CRL FR1058
+09/05/19 Ryanair 1 12.99 12:10 Bergerac EGC 20:15 Warsaw WMIWarsaw (Modlin) WMI
+13/05/19 Ryanair 1 12.99 15 Wa saw WMIWarsaw (Modlin) WMI 20:15 Warsaw WMIWarsaw (Modlin) WMI FR1055
+13/05/19 Ryanair 1 9.99 09:15 Warsaw WMIWarsaw (Modlin) WMI 13:35 Carcassonn CCF
+08/05/19 Ryanair 1 9.09 45 Ca cassonn CCF 13:35 Carcassonn CCF FR8023
+14/05/19 Ryanair 1 12.99 17:55 Brussels CRLBrussels (Charleroi) CRL 15:30 Brussels CRLBrussels (Charleroi) CRL FR8024
+14/05/19 Ryanair 1 12.99 15 Wa saw WMIWarsaw (Modlin) WMI 19:50 Warsaw WMIWarsaw (Modlin) WMI FR1055
+16/05/19 Ryanair 1 9.99 11:55 Brussels CRLBrussels (Charleroi) CRL 22:20 Brussels CRLBrussels (Charleroi) CRL FR1056
+23/05/19 Ryanair 1 9.09 13:35 Carcassonn CCF 18:30 Warsaw WMIWarsaw (Modlin) WMI
+23/05/19 Ryanair 1 12.99 16:35 Brussels CRLBrussels (Charleroi) CRL 15:20 Brussels CRLBrussels (Charleroi) CRL FR8024
+08/05/19 Ryanair 1 12.99 20:15 Warsaw WMIWarsaw (Modlin) WMI 13:35 Carcassonn CCF
+15/05/19 Ryanair 1 9.99 45 Ca cassonn CCF 13:35 Carcassonn CCF FR8023
+15/05/19 Ryanair 1 9.09 13:45 Carcassonn CCF 08:50 Warsaw WMIWarsaw (Modlin) WMI
+15/05/19 Ryanair 1 12.99 15 Wa saw WMIWarsaw (Modlin) WMI 08:50 Warsaw WMIWarsaw (Modlin) WMI FR1057
+21/05/19 Ryanair 1 12.99 11:55 Brussels CRLBrussels (Charleroi) CRL 22:20 Brussels CRLBrussels (Charleroi) CRL FR1056
+21/05/19 Ryanair 1 9.99 35 Ca cassonn CCF 13:35 Carcassonn CCF FR8023
+15/05/19 Ryanair 1 9.09 18:20 Brussels CRLBrussels (Charleroi) CRL 15:20 Brussels CRLBrussels (Charleroi) CRL FR8024
+23/05/19 Ryanair 1 12.99 09:15 Warsaw WMIWarsaw (Modlin) WMI 13:10 Carcassonn CCF
+23/05/19 Ryanair 1 12.99 11:30 Brussels CRLBrussels (Charleroi) CRL 11:20 Brussels CRLBrussels (Charleroi) CRL FR1058
+15/05/19 Ryanair 1 9.99 13:35 Carcassonn CCF 08:50 Warsaw WMIWarsaw (Modlin) WMI
+20/05/19 Ryanair 1 9.09 55 Wa saw WMIWarsaw (Modlin) WMI 08:50 Warsaw WMIWarsaw (Modlin) WMI FR1057
+20/05/19 Ryanair 1 12.99 18:55 Warsaw WMIWarsaw (Modlin) WMI 15:35 Bergerac EGC
+09/05/19 Ryanair 1 12.99 10 Be gerac EGC 15:35 Bergerac EGC FR1218
+13/05/19 Ryanair 1 9.99 06:55 Brussels CRLBrussels (Charleroi) CRL 13:40 Brussels CRLBrussels (Charleroi) CRL FR1219
+13/05/19 Ryanair 1 9.09 55 Wa saw WMIWarsaw (Modlin) WMI 08:50 Warsaw WMIWarsaw (Modlin) WMI FR1057
+15/05/19 Ryanair 1 12.99 14:05 Brussels CRLBrussels (Charleroi) CRL 21:00 Brussels CRLBrussels (Charleroi) CRL FR1058
+23/05/19 Ryanair 1 12.99 12:10 Bergerac EGC 08:50 Warsaw WMIWarsaw (Modlin) WMI
+23/05/19 Ryanair 1 9.99 06:55 Brussels CRLBrussels (Charleroi) CRL 13:40 Brussels CRLBrussels (Charleroi) CRL FR1219
+16/05/19 Ryanair 1 9.09 09:15 Warsaw WMIWarsaw (Modlin) WMI 13:35 Carcassonn CCF
+22/05/19 Ryanair 1 12.99 45 Ca cassonn CCF 13:35 Carcassonn CCF FR8023
+22/05/19 Ryanair 1 12.99 13:45 Carcassonn CCF 08:50 Warsaw WMIWarsaw (Modlin) WMI
+15/05/19 Ryanair 1 9.99 40 Wa saw WMIWarsaw (Modlin) WMI 08:50 Warsaw WMIWarsaw (Modlin) WMI FR1057
+20/05/19 Ryanair 1 9.09 12:15 Brussels CRLBrussels (Charleroi) CRL 22:45 Brussels CRLBrussels (Charleroi) CRL FR1056
+20/05/19 Ryanair 1 12.99 00 Ca cassonn CCF 13:55 Carcassonn CCF FR8023
+15/05/19 Ryanair 1 12.99 16:35 Brussels CRLBrussels (Charleroi) CRL 15:45 Brussels CRLBrussels (Charleroi) CRL FR8024
+20/05/19 Ryanair 1 9.99 09:15 Warsaw WMIWarsaw (Modlin) WMI 13:35 Carcassonn CCF
+20/05/19 Ryanair 1 9.09 11:55 Brussels CRLBrussels (Charleroi) CRL 11:20 Brussels CRLBrussels (Charleroi) CRL FR1058
+15/05/19 Ryanair 1 12.99 13:35 Carcassonn CCF 18:30 Warsaw WMIWarsaw (Modlin) WMI
+20/05/19 Ryanair 1 12.99 15 Wa saw WMIWarsaw (Modlin) WMI 18:30 Warsaw WMIWarsaw (Modlin) WMI FR1057
+20/05/19 Ryanair 1 9.99 20:15 Warsaw WMIWarsaw (Modlin) WMI 13:35 Carcassonn CCF
+15/05/19 Ryanair 1 9.09 45 Ca cassonn CCF 13:35 Carcassonn CCF FR8023
+20/05/19 Ryanair 1 12.99 18:20 Brussels CRLBrussels (Charleroi) CRL 15:30 Brussels CRLBrussels (Charleroi) CRL FR8024
+20/05/19 Ryanair 1 12.99 15 Wa saw WMIWarsaw (Modlin) WMI 20:15 Warsaw WMIWarsaw (Modlin) WMI FR1055
+15/05/19 Ryanair 1 9.99 11:55 Brussels CRLBrussels (Charleroi) CRL 22:20 Brussels CRLBrussels (Charleroi) CRL FR1056
+20/05/19 Ryanair 1 9.09 14:00 Carcassonn CCF 18:30 Warsaw WMIWarsaw (Modlin) WMI
+20/05/19 Ryanair 1 12.99 16:35 Brussels CRLBrussels (Charleroi) CRL 15:45 Brussels CRLBrussels (Charleroi) CRL FR8024
+13/05/19 Ryanair 1 12.99 09:15 Warsaw WMIWarsaw (Modlin) WMI 12:20 Bordeaux BOD
+21/05/19 Ryanair 1 9.99 30 Bo deaux BOD 12:20 Bordeaux BOD FR1388
+21/05/19 Ryanair 1 9.09 14:30 Bordeaux BOD 08:50 Warsaw WMIWarsaw (Modlin) WMI
+15/05/19 Ryanair 1 12.99 55 Wa saw WMIWarsaw (Modlin) WMI 08:50 Warsaw WMIWarsaw (Modlin) WMI FR1057
+22/05/19 Ryanair 1 12.99 14:05 Brussels CRLBrussels (Charleroi) CRL 21:00 Brussels CRLBrussels (Charleroi) CRL FR1058
+22/05/19 Ryanair 1 9.99 10 Be gerac EGC 15:35 Bergerac EGC FR1218
+10/05/19 Ryanair 1 9.09 18:20 Brussels CRLBrussels (Charleroi) CRL 13:40 Brussels CRLBrussels (Charleroi) CRL FR1219
+14/05/19 Ryanair 1 12.99 20:15 Warsaw WMIWarsaw (Modlin) WMI 13:35 Carcassonn CCF
+14/05/19 Ryanair 1 12.99 11:55 Brussels CRLBrussels (Charleroi) CRL 22:20 Brussels CRLBrussels (Charleroi) CRL FR1056
+22/05/19 Ryanair 1 9.99 14:00 Carcassonn CCF 20:15 Warsaw WMIWarsaw (Modlin) WMI
+28/05/19 Ryanair 1 9.09 40 Wa saw WMIWarsaw (Modlin) WMI 20:15 Warsaw WMIWarsaw (Modlin) WMI FR1055
+28/05/19 Ryanair 1 12.99 20:40 Warsaw WMIWarsaw (Modlin) WMI 13:55 Carcassonn CCF
+08/05/19 Ryanair 1 12.99 35 Ca cassonn CCF 13:55 Carcassonn CCF FR8023
+15/05/19 Ryanair 1 9.99 18:20 Brussels CRLBrussels (Charleroi) CRL 15:20 Brussels CRLBrussels (Charleroi) CRL FR8024
+15/05/19 Ryanair 1 9.09 15 Wa saw WMIWarsaw (Modlin) WMI 20:15 Warsaw WMIWarsaw (Modlin) WMI FR1055
+06/05/19 Ryanair 1 12.99 10:45 Brussels CRLBrussels (Charleroi) CRL 22:20 Brussels CRLBrussels (Charleroi) CRL FR1056
+14/05/19 Ryanair 1 12.99 14:30 Bordeaux BOD 20:15 Warsaw WMIWarsaw (Modlin) WMI
+14/05/19 Ryanair 1 9.99 18:20 Brussels CRLBrussels (Charleroi) CRL 16:05 Brussels CRLBrussels (Charleroi) CRL FR1389
+14/05/19 Ryanair 1 9.09 09:15 Warsaw WMIWarsaw (Modlin) WMI 16:55 Bordeaux BOD
+22/05/19 Ryanair 1 12.99 30 Bo deaux BOD 16:55 Bordeaux BOD FR1388
+22/05/19 Ryanair 1 12.99 14:30 Bordeaux BOD 08:50 Warsaw WMIWarsaw (Modlin) WMI
+15/05/19 Ryanair 1 9.99 15 Wa saw WMIWarsaw (Modlin) WMI 08:50 Warsaw WMIWarsaw (Modlin) WMI FR1057
+22/05/19 Ryanair 1 9.09 10:45 Brussels CRLBrussels (Charleroi) CRL 11:20 Brussels CRLBrussels (Charleroi) CRL FR1058
+22/05/19 Ryanair 1 12.99 30 Bo deaux BOD 12:20 Bordeaux BOD FR1388
+08/05/19 Ryanair 1 12.99 18:20 Brussels CRLBrussels (Charleroi) CRL 16:05 Brussels CRLBrussels (Charleroi) CRL FR1389
+13/05/19 Ryanair 1 9.99 20:15 Warsaw WMIWarsaw (Modlin) WMI 12:20 Bordeaux BOD
+13/05/19 Ryanair 1 9.09 10:45 Brussels CRLBrussels (Charleroi) CRL 22:20 Brussels CRLBrussels (Charleroi) CRL FR1056
+15/05/19 Ryanair 1 12.99 14:30 Bordeaux BOD 08:50 Warsaw WMIWarsaw (Modlin) WMI
+23/05/19 Ryanair 1 12.99 15 Wa saw WMIWarsaw (Modlin) WMI 08:50 Warsaw WMIWarsaw (Modlin) WMI FR1057
+23/05/19 Ryanair 1 9.99 09:15 Warsaw WMIWarsaw (Modlin) WMI 16:55 Bordeaux BOD
+14/05/19 Ryanair 1 9.09 30 Bo deaux BOD 16:55 Bordeaux BOD FR1388
+22/05/19 Ryanair 1 12.99 18:20 Brussels CRLBrussels (Charleroi) CRL 16:05 Brussels CRLBrussels (Charleroi) CRL FR1389
+22/05/19 Ryanair 1 12.99 50 Wr claw WRO 20:15 Warsaw WMIWarsaw (Modlin) WMI FR1055
+15/05/19 Ryanair 1 9.99 11:40 Brussels CRLBrussels (Charleroi) CRL 14:30 Brussels CRLBrussels (Charleroi) CRL FR8373
+23/05/19 Ryanair 1 9.09 13:45 Carcassonn CCF 12:25 Wroclaw WRO
+23/05/19 Ryanair 1 12.99 10:45 Brussels CRLBrussels (Charleroi) CRL 15:30 Brussels CRLBrussels (Charleroi) CRL FR8024
+15/05/19 Ryanair 1 12.99 20:15 Warsaw WMIWarsaw (Modlin) WMI 12:20 Bordeaux BOD
+23/05/19 Ryanair 1 9.99 20 Bo deaux BOD 12:20 Bordeaux BOD FR1388
+23/05/19 Ryanair 1 9.09 17:20 Bordeaux BOD 20:15 Warsaw WMIWarsaw (Modlin) WMI
+08/05/19 Ryanair 1 12.99 50 Wr claw WRO 20:15 Warsaw WMIWarsaw (Modlin) WMI FR1055
+13/05/19 Ryanair 1 12.99 11:30 Brussels CRLBrussels (Charleroi) CRL 14:30 Brussels CRLBrussels (Charleroi) CRL FR8373
+13/05/19 Ryanair 1 9.99 45 Ca cassonn CCF 13:10 Carcassonn CCF FR8023
+06/10/19 Ryanair 1 9.09 10:45 Brussels CRLBrussels (Charleroi) CRL 15:30 Brussels CRLBrussels (Charleroi) CRL FR8024
+13/10/19 Ryanair 0 12.99 12:50 Wroclaw WRO 13:35 Carcassonn CCF
+27/10/19 Ryanair 0 12.99 45 Ca cassonn CCF 13:35 Carcassonn CCF FR8023
+03/11/19 Ryanair 0 9.99 10:45 Brussels CRLBrussels (Charleroi) CRL 15:30 Brussels CRLBrussels (Charleroi) CRL FR8024
+17/05/19 Ryanair 1 9.09 09:15 Warsaw WMIWarsaw (Modlin) WMI 12:20 Bordeaux BOD
+17/05/19 Ryanair 1 12.99 10:45 Brussels CRLBrussels (Charleroi) CRL 11:20 Brussels CRLBrussels (Charleroi) CRL FR1058
+21/05/19 Ryanair 1 12.99 17:20 Bordeaux BOD 18:30 Warsaw WMIWarsaw (Modlin) WMI
+17/05/19 Ryanair 1 9.99 50 Wr claw WRO 18:30 Warsaw WMIWarsaw (Modlin) WMI FR1057
+17/05/19 Ryanair 1 9.09 12:50 Wroclaw WRO 13:20 Carcassonn CCF
+21/05/19 Ryanair 1 12.99 45 Ca cassonn CCF 13:20 Carcassonn CCF FR8023
+17/05/19 Ryanair 1 12.99 10:45 Brussels CRLBrussels (Charleroi) CRL 15:30 Brussels CRLBrussels (Charleroi) CRL FR8024
+17/05/19 Ryanair 1 9.99 40 Wa saw WMIWarsaw (Modlin) WMI 12:25 Wroclaw WRO FR8372
+21/05/19 Ryanair 1 9.09 15:20 Brussels CRLBrussels (Charleroi) CRL 22:45 Brussels CRLBrussels (Charleroi) CRL FR1056
+17/05/19 Ryanair 1 12.99 17:20 Bordeaux BOD 18:30 Warsaw WMIWarsaw (Modlin) WMI
+17/05/19 Ryanair 1 12.99 16:35 Brussels CRLBrussels (Charleroi) CRL 18:55 Brussels CRLBrussels (Charleroi) CRL FR1389
+21/05/19 Ryanair 1 9.99 20:15 Warsaw WMIWarsaw (Modlin) WMI 12:20 Bordeaux BOD
+08/09/19 Ryanair 0 9.09 20 Bo deaux BOD 12:20 Bordeaux BOD FR1388
+15/09/19 Ryanair 0 12.99 16:35 Brussels CRLBrussels (Charleroi) CRL 18:55 Brussels CRLBrussels (Charleroi) CRL FR1389
+15/05/19 Ryanair 0 12.99 09:15 Warsaw WMIWarsaw (Modlin) WMI 12:20 Bordeaux BOD
+19/05/19 Ryanair 0 9.99 30 Bo deaux BOD 12:20 Bordeaux BOD FR1388
+20/05/19 Ryanair 0 9.09 06:55 Brussels CRLBrussels (Charleroi) CRL 16:05 Brussels CRLBrussels (Charleroi) CRL FR1389
+24/05/19 Ryanair 0 12.99 09:15 Warsaw WMIWarsaw (Modlin) WMI 16:55 Bordeaux BOD
+08/10/19 Ryanair 0 12.99 45 Bo deaux BOD 16:55 Bordeaux BOD FR1388
+15/10/19 Ryanair 0 9.99 18:20 Brussels CRLBrussels (Charleroi) CRL 14:20 Brussels CRLBrussels (Charleroi) CRL FR1389
+10/05/19 Ryanair 1 9.09 20:40 Warsaw WMIWarsaw (Modlin) WMI 16:55 Bordeaux BOD
+10/05/19 Ryanair 1 12.99 15:20 Brussels CRLBrussels (Charleroi) CRL 22:45 Brussels CRLBrussels (Charleroi) CRL FR1056
+14/05/19 Ryanair 1 12.99 17:20 Bordeaux BOD 20:15 Warsaw WMIWarsaw (Modlin) WMI
+10/05/19 Ryanair 1 9.99 15 Wa saw WMIWarsaw (Modlin) WMI 20:15 Warsaw WMIWarsaw (Modlin) WMI FR1055
+10/05/19 Ryanair 1 9.09 20:15 Warsaw WMIWarsaw (Modlin) WMI 12:20 Bordeaux BOD
+14/05/19 Ryanair 1 12.99 45 Bo deaux BOD 12:20 Bordeaux BOD FR1388
+10/05/19 Ryanair 1 12.99 16:35 Brussels CRLBrussels (Charleroi) CRL 14:20 Brussels CRLBrussels (Charleroi) CRL FR1389
+10/05/19 Ryanair 1 9.99 15 Wa saw WMIWarsaw (Modlin) WMI 18:30 Warsaw WMIWarsaw (Modlin) WMI FR1057
+14/05/19 Ryanair 1 9.09 10:45 Brussels CRLBrussels (Charleroi) CRL 22:20 Brussels CRLBrussels (Charleroi) CRL FR1056
+10/05/19 Ryanair 1 12.99 12:45 Bordeaux BOD 20:15 Warsaw WMIWarsaw (Modlin) WMI
+10/05/19 Ryanair 1 12.99 18:20 Brussels CRLBrussels (Charleroi) CRL 14:20 Brussels CRLBrussels (Charleroi) CRL FR1389
+14/05/19 Ryanair 1 9.99 09:15 Warsaw WMIWarsaw (Modlin) WMI 12:20 Bordeaux BOD
+17/05/19 Ryanair 1 9.09 30 Bo deaux BOD 12:20 Bordeaux BOD FR1388
+17/05/19 Ryanair 1 12.99 14:30 Bordeaux BOD 20:15 Warsaw WMIWarsaw (Modlin) WMI
+21/05/19 Ryanair 1 12.99 30 Wr claw WRO 20:15 Warsaw WMIWarsaw (Modlin) WMI FR1055
+17/05/19 Ryanair 1 9.99 00 Pa is BVAParis (Beauvais) BVA 21:35 Paris BVAParis (Beauvais) BVA FR8934
+17/05/19 Ryanair 1 9.09 22:00 Paris BVAParis (Beauvais) BVA 23:55 Wroclaw WRO
+21/05/19 Ryanair 1 12.99 18:40 Wroclaw WRO 20:45 Paris BVAParis (Beauvais) BVA
+08/05/19 Ryanair 1 12.99 21:10 Paris BVAParis (Beauvais) BVA 23:05 Wroclaw WRO
+08/05/19 Ryanair 1 9.99 15 Wa saw WMIWarsaw (Modlin) WMI 23:05 Wroclaw WRO FR8935
+14/05/19 Ryanair 1 9.09 09:05 Brussels CRLBrussels (Charleroi) CRL 11:20 Brussels CRLBrussels (Charleroi) CRL FR1058
+13/05/19 Ryanair 1 12.99 08:45 La Rochell LRH 20:15 Warsaw WMIWarsaw (Modlin) WMI
+13/05/19 Ryanair 1 12.99 18:20 Brussels CRLBrussels (Charleroi) CRL 10:10 Brussels CRLBrussels (Charleroi) CRL FR4072
+21/05/19 Ryanair 1 9.99 09:15 Warsaw WMIWarsaw (Modlin) WMI 10:35 La Rochell LRH
+15/05/19 Ryanair 1 9.09 45 La Rochell LRH 10:35 La Rochell LRH FR4071
+15/05/19 Ryanair 1 12.99 08:45 La Rochell LRH 08:50 Warsaw WMIWarsaw (Modlin) WMI
+22/05/19 Ryanair 1 12.99 40 Wa saw WMIWarsaw (Modlin) WMI 08:50 Warsaw WMIWarsaw (Modlin) WMI FR1057
+14/05/19 Ryanair 1 9.99 09:05 Brussels CRLBrussels (Charleroi) CRL 22:45 Brussels CRLBrussels (Charleroi) CRL FR1056
+14/05/19 Ryanair 1 9.09 45 La Rochell LRH 10:35 La Rochell LRH FR4071
+21/05/19 Ryanair 1 12.99 06:55 Brussels CRLBrussels (Charleroi) CRL 10:10 Brussels CRLBrussels (Charleroi) CRL FR4072
+14/05/19 Ryanair 1 12.99 20:40 Warsaw WMIWarsaw (Modlin) WMI 10:35 La Rochell LRH
+14/05/19 Ryanair 1 9.99 09:05 Brussels CRLBrussels (Charleroi) CRL 22:45 Brussels CRLBrussels (Charleroi) CRL FR1056
+22/05/19 Ryanair 1 9.09 08:45 La Rochell LRH 20:15 Warsaw WMIWarsaw (Modlin) WMI
+14/05/19 Ryanair 1 12.99 30 Wr claw WRO 20:15 Warsaw WMIWarsaw (Modlin) WMI FR1055
+14/05/19 Ryanair 1 12.99 19:30 Wroclaw WRO 21:35 Paris BVAParis (Beauvais) BVA
+21/05/19 Ryanair 1 9.99 22:00 Paris BVAParis (Beauvais) BVA 23:55 Wroclaw WRO
+08/05/19 Ryanair 1 9.09 18:20 Warsaw WMIWarsaw (Modlin) WMI 20:50 Marseille MRS
+08/05/19 Ryanair 1 12.99 10 Ma seille MRS 20:50 Marseille MRS FR7007
+15/05/19 Ryanair 1 12.99 30 Kr kow KRK 11:40 Warsaw WMIWarsaw (Modlin) WMI FR7008
+12/05/19 Ryanair 1 9.99 35 Bo deaux BOD 09:10 Bordeaux BOD FR7258
+12/05/19 Ryanair 1 9.09 09:35 Bordeaux BOD 12:20 Krakow KRK
+17/05/19 Ryanair 1 12.99 12:55 Krakow KRK 15:10 Lyon LYS
+19/05/19 Ryanair 1 12.99 10:15 Lyon LYS 12:25 Krakow KRK
+19/05/19 Ryanair 1 9.99 40 Wa saw WMIWarsaw (Modlin) WMI 12:25 Krakow KRK U24479
+24/05/19 Ryanair 1 17.71 09:05 Brussels CRLBrussels (Charleroi) CRL 22:45 Brussels CRLBrussels (Charleroi) CRL FR1056
+27/05/19 Ryanair 0 27.53 17:05 La Rochell LRH 17:50 Warsaw WMIWarsaw (Modlin) WMI
+31/05/19 Ryanair 0 17.71 40 Wa saw WMIWarsaw (Modlin) WMI 17:50 Warsaw WMIWarsaw (Modlin) WMI FR2669
+24/09/19 Ryanair 0 27.53 09:05 Brussels CRLBrussels (Charleroi) CRL 22:45 Brussels CRLBrussels (Charleroi) CRL FR1056
+29/09/19 Ryanair 0 15.96 17:05 La Rochell LRH 12:45 Warsaw WMIWarsaw (Modlin) WMI
+15/10/19 Ryanair 0 9.99 50 Wr claw WRO 12:45 Warsaw WMIWarsaw (Modlin) WMI FR1021
+22/10/19 Ryanair 0 9.99 09:05 Brussels CRLBrussels (Charleroi) CRL 14:30 Brussels CRLBrussels (Charleroi) CRL FR8373
+26/09/19 Ryanair 0 9.99 17:05 La Rochell LRH 22:25 Wroclaw WRO
+01/10/19 Ryanair 0 15.96 40 Wa saw WMIWarsaw (Modlin) WMI 22:25 Wroclaw WRO FR8405
+24/09/19 Ryanair 0 9.99 09:05 Brussels CRLBrussels (Charleroi) CRL 22:45 Brussels CRLBrussels (Charleroi) CRL FR1056
+01/10/19 Ryanair 0 9.99 17:05 La Rochell LRH 21:10 Warsaw WMIWarsaw (Modlin) WMI
+08/10/19 Ryanair 0 9.99 40 Wa saw WMIWarsaw (Modlin) WMI 21:10 Warsaw WMIWarsaw (Modlin) WMI FR2283
+13/10/19 Ryanair 0 15.96 14:35 London STNLondon (Stansted) STN 23:10 London STNLondon (Stansted) STN FR2284
+01/10/19 Ryanair 0 9.99 08:45 La Rochell LRH 20:15 Warsaw WMIWarsaw (Modlin) WMI
+06/10/19 Ryanair 0 9.99 40 Wa saw WMIWarsaw (Modlin) WMI 20:15 Warsaw WMIWarsaw (Modlin) WMI FR1055
+05/09/19 Ryanair 0 9.99 14:35 London STNLondon (Stansted) STN 23:10 London STNLondon (Stansted) STN FR2284
+10/09/19 Ryanair 0 15.96 08:45 La Rochell LRH 08:50 Warsaw WMIWarsaw (Modlin) WMI
+17/10/19 Ryanair 0 9.99 35 Wa saw WMIWarsaw (Modlin) WMI 08:50 Warsaw WMIWarsaw (Modlin) WMI FR1057
+24/10/19 Ryanair 0 9.99 12:30 London STNLondon (Stansted) STN 23:05 London STNLondon (Stansted) STN FR2284
+09/05/19 Ryanair 1 9.99 08:45 La Rochell LRH 19:50 Warsaw WMIWarsaw (Modlin) WMI
+09/05/19 Ryanair 1 5.16 17:55 Brussels CRLBrussels (Charleroi) CRL 10:10 Brussels CRLBrussels (Charleroi) CRL FR4072
+15/05/19 Ryanair 1 40.79 22:30 Warsaw WMIWarsaw (Modlin) WMI 16:40 La Rochell LRH
+09/05/19 Ryanair 1 28.34 45 La Rochell LRH 16:40 La Rochell LRH FR8746
+09/05/19 Ryanair 1 17.99 08:45 La Rochell LRH 20:15 Warsaw WMIWarsaw (Modlin) WMI
+15/05/19 Ryanair 1 28.34 35 Wa saw WAW 20:15 Warsaw WMIWarsaw (Modlin) WMI FR1055
+14/05/19 Ryanair 1 17.99 10:45 Brussels CRLBrussels (Charleroi) CRL 20:40 Brussels CRLBrussels (Charleroi) CRL W61381
+14/05/19 easyJet 1 10.49 10 Bo deaux BOD 12:20 Bordeaux BOD FR1388
+22/05/19 easyJet 1 18.17 55 Wa saw WMIWarsaw (Modlin) WMI 13:10 Warsaw WAW W61358
+16/10/19 Ryanair 0 9.09 14:05 London STNLondon (Stansted) STN 08:25 London STNLondon (Stansted) STN FR1022
+23/10/19 Ryanair 0 9.99 08:45 La Rochell LRH 20:15 Warsaw WMIWarsaw (Modlin) WMI
+10/09/19 Ryanair 0 9.99 35 Wa saw WAW 20:15 Warsaw WMIWarsaw (Modlin) WMI FR1055
+15/09/19 Ryanair 1 17.40 15:20 Brussels CRLBrussels (Charleroi) CRL 20:40 Brussels CRLBrussels (Charleroi) CRL W61381
+15/09/19 Ryanair 1 9.09 10 Bo deaux BOD 16:55 Bordeaux BOD FR1388
+12/05/19 Ryanair 1 9.99 55 Wa saw WMIWarsaw (Modlin) WMI 13:10 Warsaw WAW W61358
+16/05/19 Ryanair 1 9.99 14:05 London STNLondon (Stansted) STN 08:25 London STNLondon (Stansted) STN FR1022
+16/05/19 Ryanair 1 17.40 45 La Rochell LRH 16:40 La Rochell LRH FR8746
+19/05/19 Ryanair 1 9.09 06:55 Brussels CRLBrussels (Charleroi) CRL 10:10 Brussels CRLBrussels (Charleroi) CRL FR4072
+24/05/19 Ryanair 1 9.99 18:35 Warsaw WAW 12:20 Bordeaux BOD
+24/05/19 Ryanair 1 9.99 10:45 Brussels CRLBrussels (Charleroi) CRL 20:40 Brussels CRLBrussels (Charleroi) CRL W61381
+10/09/19 Ryanair 1 17.40 10:10 Bordeaux BOD 13:10 Warsaw WAW
+15/09/19 Ryanair 0 9.09 22:40 Krakow KRK 11:30 Nice NCE
+10/09/19 Ryanair 0 9.99 20 Ni e NCE 11:30 Nice NCE W62849
+17/09/19 Ryanair 0 9.99 17:40 Vienna VIE 22:50 Vienna VIE W62850
+19/10/19 Ryanair 0 17.40 22:40 Krakow KRK 11:30 Nice NCE
+25/10/19 Ryanair 0 15.15 20 Ni e NCE 11:30 Nice NCE W62849
+16/10/19 Ryanair 0 11.60 17:40 Vienna VIE 22:50 Vienna VIE W62850
+24/10/19 Ryanair 0 9.99 06:30 Krakow KRK 09:10 Bordeaux BOD
+03/09/19 Ryanair 0 9.99 09:35 Bordeaux BOD 12:20 Krakow KRK
+10/09/19 Ryanair 0 15.15 12:55 Krakow KRK 15:10 Lyon LYS
+17/09/19 Ryanair 0 11.60 14:00 Lyon LYS 16:10 Krakow KRK
+24/09/19 Ryanair 0 9.99 12:55 Krakow KRK 15:10 Lyon LYS
+10/05/19 Ryanair 1 9.99 10:15 Lyon LYS 12:25 Krakow KRK
+10/05/19 Ryanair 1 15.15 45 Kr kow KRK 12:25 Krakow KRK U24479
+15/05/19 Ryanair 1 11.60 15 Ly n LYS 12:00 Lyon LYS U24480
+09/05/19 Ryanair 1 9.99 55 Kr kow KRK 12:25 Krakow KRK U24479
+09/05/19 Ryanair 1 9.99 12:55 Krakow KRK 15:10 Lyon LYS
+15/05/19 Ryanair 1 15.15 10:15 Lyon LYS 12:25 Krakow KRK
+09/05/19 Ryanair 1 11.60 12:55 Krakow KRK 15:10 Lyon LYS
+09/05/19 Ryanair 1 9.99 00 Ly n LYS 15:10 Lyon LYS U24480
+15/05/19 Ryanair 1 9.99 55 Kr kow KRK 16:10 Krakow KRK U24479
+17/05/19 Wizz Air 1 13.75 00 Ly n LYS 15:10 Lyon LYS U24480
+17/05/19 Ryanair 1 12.99 14:00 Lyon LYS 16:10 Krakow KRK
+22/05/19 Wizz Air 1 19.99 09:45 Krakow KRK 12:00 Lyon LYS
+08/10/19 Ryanair 1 15.15 10:15 Lyon LYS 12:25 Krakow KRK
+08/10/19 Ryanair 1 11.60 45 Kr kow KRK 12:25 Krakow KRK U24479
+16/10/19 Ryanair 1 9.99 05 Ly n LYS 12:00 Lyon LYS U24480
+18/06/19 Ryanair 1 9.99 00 Wa saw WAW 09:15 Krakow KRK U24479
+18/06/19 Wizz Air 1 13.75 16:00 Warsaw WAW 07:30 Bordeaux BOD
+24/06/19 Ryanair 1 12.99 10 Bo deaux BOD 07:30 Bordeaux BOD U21101
+19/10/19 Wizz Air 0 19.99 00 Wa saw WAW 13:10 Warsaw WAW W61358
+23/10/19 Ryanair 0 15.15 19:20 Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL 18:00 Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL U21162
+15/10/19 Ryanair 0 11.60 10:10 Bordeaux BOD 13:10 Warsaw WAW
+23/10/19 Ryanair 0 9.99 06:45 Warsaw WAW 16:40 Bordeaux BOD
+08/10/19 Ryanair 1 9.99 10 Bo deaux BOD 16:40 Bordeaux BOD U21103
+08/10/19 Wizz Air 1 13.75 10:10 Bordeaux BOD 13:10 Warsaw WAW
+15/10/19 Ryanair 1 12.99 15:10 Krakow KRK 17:25 Paris CDGParis (Charles de Gaulle) CDG
+08/10/19 Wizz Air 1 19.99 12:35 Paris CDGParis (Charles de Gaulle) CDG 14:45 Krakow KRK
+08/10/19 Laudamotion 1 9.09 55 Kr kow KRK 14:45 Krakow KRK U23815
+14/10/19 Wizz Air 1 9.99 40 Ly n LYS 15:10 Lyon LYS U24480
+29/09/19 Wizz Air 0 14.99 22:40 Copenhagen CPH 19:45 Copenhagen CPH U24425
+05/10/19 Laudamotion 0 12.99 22:40 Krakow KRK 11:30 Nice NCE
+29/09/19 Laudamotion 0 9.09 55 Ni e NCE 11:30 Nice NCE W62849
+07/10/19 Wizz Air 0 9.99 08:00 Berlin TXLBerlin (Tegel) TXL 16:10 Berlin TXLBerlin (Tegel) TXL U25762
+19/10/19 Wizz Air 0 14.99 22:40 Krakow KRK 11:30 Nice NCE
+24/10/19 Laudamotion 0 12.99 45 Ni e NCE 11:30 Nice NCE W62849
