@@ -1,0 +1,1183 @@
+Data; Przewoznik; Czy_przesiadka; Cena; Godzina_odlotu; Kraj_odlotu; Miejsce_odlotu; Godzina_przylotu; Miejsce_przylotu
+.99; 19:50; Germany; Venice TSFVenice (Treviso) TSF; 21:10; Frankfurt FRA
+02/05/19; Ryanair; 0; 4.99; 18:15; Germany; Bremen BRE; 19:50; Stockholm NYOStockholm (Skavsta) NYO
+07/05/19; Ryanair; 0; 4.68; 12:10; Germany; Stockholm NYOStockholm (Skavsta) NYO; 13:45; Bremen BRE
+01/05/19; Ryanair; 0; 4.99; 17:30; Germany; Dusseldorf NRNDusseldorf (Weeze) NRN; 17:40; London STNLondon (Stansted) STN
+08/05/19; Ryanair; 0; 5.77; 14:55; Germany; London STNLondon (Stansted) STN; 17:05; Dusseldorf NRNDusseldorf (Weeze) NRN
+14/05/19; Ryanair; 0; 7.01; 08:45; Germany; Frankfurt HHNFrankfurt (Hahn) HHN; 10:35; Barcelona GROBarcelona (Girona) GRO
+21/05/19; Ryanair; 0; 3.99; 06:25; Germany; Barcelona GROBarcelona (Girona) GRO; 08:20; Frankfurt HHNFrankfurt (Hahn) HHN
+13/05/19; Ryanair; 0; 3.99; 20:05; Germany; Frankfurt HHNFrankfurt (Hahn) HHN; 21:35; Pula PUY
+20/05/19; Ryanair; 0; 7.01; 22:00; Germany; Pula PUY; 23:30; Frankfurt HHNFrankfurt (Hahn) HHN
+08/05/19; Ryanair; 0; 4.99; 06:05; Germany; Frankfurt HHNFrankfurt (Hahn) HHN; 07:55; Pescara PSR
+14/05/19; Ryanair; 0; 7.01; 15:50; Germany; Pescara PSR; 17:45; Frankfurt HHNFrankfurt (Hahn) HHN
+04/05/19; Ryanair; 0; 4.99; 11:00; Germany; Frankfurt FRA; 12:30; Rijeka RJK
+11/05/19; Ryanair; 0; 7.01; 12:55; Germany; Rijeka RJK; 14:25; Frankfurt FRA
+13/05/19; Ryanair; 0; 4.99; 15:20; Germany; Frankfurt FRA; 17:15; Barcelona GROBarcelona (Girona) GRO
+17/05/19; Ryanair; 0; 8.99; 20:05; Germany; Barcelona GROBarcelona (Girona) GRO; 22:00; Frankfurt FRA
+07/05/19; Laudamotion; 0; 7.01; 20:00; Germany; Stuttgart STR; 21:15; Bologna BLQ
+15/05/19; Laudamotion; 0; 7.01; 21:25; Germany; Bologna BLQ; 22:40; Stuttgart STR
+07/05/19; Laudamotion; 0; 7.01; 11:05; Germany; Stuttgart STR; 12:10; Milan BGYMilan (Bergamo) BGY
+14/05/19; Laudamotion; 0; 7.01; 12:35; Germany; Milan BGYMilan (Bergamo) BGY; 13:40; Stuttgart STR
+21/05/19; Ryanair; 0; 7.01; 19:00; Germany; Frankfurt FRA; 20:20; Milan BGYMilan (Bergamo) BGY
+29/05/19; Ryanair; 0; 7.01; 20:45; Germany; Milan BGYMilan (Bergamo) BGY; 22:05; Frankfurt FRA
+15/05/19; Ryanair; 0; 7.99; 09:55; Germany; Dusseldorf NRNDusseldorf (Weeze) NRN; 12:00; Barcelona GROBarcelona (Girona) GRO
+22/05/19; Ryanair; 0; 7.99; 07:20; Germany; Barcelona GROBarcelona (Girona) GRO; 09:30; Dusseldorf NRNDusseldorf (Weeze) NRN
+15/05/19; Ryanair; 0; 7.99; 08:55; Germany; Bremen BRE; 10:40; Milan BGYMilan (Bergamo) BGY
+22/05/19; Ryanair; 0; 7.99; 06:45; Germany; Milan BGYMilan (Bergamo) BGY; 08:30; Bremen BRE
+18/05/19; Ryanair; 0; 7.01; 19:40; Germany; Frankfurt HHNFrankfurt (Hahn) HHN; 22:05; Santiago D SCQ
+23/05/19; Ryanair; 0; 8.99; 16:10; Germany; Santiago D SCQ; 18:30; Frankfurt HHNFrankfurt (Hahn) HHN
+15/05/19; Ryanair; 0; 7.99; 16:25; Germany; Bremen BRE; 16:50; London STNLondon (Stansted) STN
+22/05/19; Ryanair; 0; 9.24; 13:35; Germany; London STNLondon (Stansted) STN; 16:00; Bremen BRE
+28/04/19; Ryanair; 0; 7.99; 11:05; Germany; Berlin SXFBerlin (Schonefeld) SXF; 12:15; Billund BLL
+05/05/19; Ryanair; 0; 9.78; 12:40; Germany; Billund BLL; 13:50; Berlin SXFBerlin (Schonefeld) SXF
+20/05/19; Ryanair; 0; 4.99; 17:55; Germany; Frankfurt FRA; 19:25; Pula PUY
+24/05/19; Ryanair; 0; 12.99; 13:10; Germany; Pula PUY; 14:40; Frankfurt FRA
+16/05/19; Ryanair; 0; 8.99; 06:30; Germany; Frankfurt HHNFrankfurt (Hahn) HHN; 08:25; Alghero AHO
+23/05/19; Ryanair; 0; 8.99; 08:50; Germany; Alghero AHO; 10:50; Frankfurt HHNFrankfurt (Hahn) HHN
+22/05/19; Ryanair; 0; 8.99; 08:15; Germany; Frankfurt FRA; 11:10; Sevilla SVQ
+28/05/19; Ryanair; 0; 8.99; 11:40; Germany; Sevilla SVQ; 14:35; Frankfurt FRA
+01/05/19; Ryanair; 0; 8.99; 13:30; Germany; Frankfurt HHNFrankfurt (Hahn) HHN; 14:35; Farranfore KIR
+08/05/19; Ryanair; 0; 8.99; 15:00; Germany; Farranfore KIR; 18:00; Frankfurt HHNFrankfurt (Hahn) HHN
+16/05/19; Ryanair; 0; 8.99; 20:10; Germany; Frankfurt HHNFrankfurt (Hahn) HHN; 22:00; Marrakech RAK
+23/05/19; Ryanair; 0; 9.15; 14:10; Germany; Marrakech RAK; 19:45; Frankfurt HHNFrankfurt (Hahn) HHN
+25/05/19; Ryanair; 0; 4.99; 12:50; Germany; Berlin SXFBerlin (Schonefeld) SXF; 14:00; Brno BRQ
+01/06/19; Ryanair; 0; 13.19; 14:25; Germany; Brno BRQ; 15:35; Berlin SXFBerlin (Schonefeld) SXF
+21/05/19; Ryanair; 0; 8.99; 07:20; Germany; Frankfurt HHNFrankfurt (Hahn) HHN; 09:25; Bari BRI
+28/05/19; Ryanair; 0; 9.99; 09:50; Germany; Bari BRI; 12:00; Frankfurt HHNFrankfurt (Hahn) HHN
+20/05/19; Ryanair; 0; 8.99; 18:25; Germany; Frankfurt HHNFrankfurt (Hahn) HHN; 20:30; Palma Mall PMI
+28/05/19; Ryanair; 0; 9.99; 21:05; Germany; Palma Mall PMI; 23:20; Frankfurt HHNFrankfurt (Hahn) HHN
+31/05/19; Ryanair; 0; 9.99; 09:05; Germany; Berlin SXFBerlin (Schonefeld) SXF; 10:35; Budapest BUD
+08/06/19; Wizz Air; 0; 9.34; 20:05; Germany; Budapest BUD; 21:35; Berlin SXFBerlin (Schonefeld) SXF
+30/05/19; Wizz Air; 0; 9.99; 15:15; Germany; Dortmund DTM; 17:10; Debrecen DEB
+06/06/19; Wizz Air; 0; 9.34; 07:10; Germany; Debrecen DEB; 09:15; Dortmund DTM
+22/05/19; Ryanair; 0; 9.99; 10:40; Germany; Nuernberg NUE; 12:05; Budapest BUD
+28/05/19; Ryanair; 0; 9.56; 12:30; Germany; Budapest BUD; 13:55; Nuernberg NUE
+07/05/19; Ryanair; 0; 9.99; 19:10; Germany; Dusseldorf NRNDusseldorf (Weeze) NRN; 21:05; Stockholm NYOStockholm (Skavsta) NYO
+11/05/19; Ryanair; 0; 9.84; 10:05; Germany; Stockholm NYOStockholm (Skavsta) NYO; 12:05; Dusseldorf NRNDusseldorf (Weeze) NRN
+30/04/19; Ryanair; 0; 9.99; 09:40; Germany; Memmingen FMM; 11:50; Stockholm NYOStockholm (Skavsta) NYO
+07/05/19; Ryanair; 0; 9.84; 12:15; Germany; Stockholm NYOStockholm (Skavsta) NYO; 14:25; Memmingen FMM
+21/05/19; Ryanair; 0; 9.99; 11:30; Germany; Nuernberg NUE; 13:40; Crotone CRV
+25/05/19; Ryanair; 0; 9.99; 14:05; Germany; Crotone CRV; 16:15; Nuernberg NUE
+09/05/19; Ryanair; 0; 9.99; 06:05; Germany; Berlin TXLBerlin (Tegel) TXL; 07:45; Milan MXPMilan (Malpensa) MXP
+15/05/19; Ryanair; 0; 9.99; 20:10; Germany; Milan MXPMilan (Malpensa) MXP; 21:50; Berlin TXLBerlin (Tegel) TXL
+15/05/19; Ryanair; 0; 9.99; 14:35; Germany; Berlin SXFBerlin (Schonefeld) SXF; 16:10; Venice TSFVenice (Treviso) TSF
+22/05/19; Ryanair; 0; 9.99; 16:35; Germany; Venice TSFVenice (Treviso) TSF; 18:10; Berlin SXFBerlin (Schonefeld) SXF
+06/05/19; Laudamotion; 0; 9.99; 17:05; Germany; Duesseldor DUS; 19:30; Palma Mall PMI
+14/05/19; Laudamotion; 0; 9.99; 08:55; Germany; Palma Mall PMI; 11:25; Duesseldor DUS
+15/05/19; Ryanair; 0; 9.99; 07:25; Germany; Berlin TXLBerlin (Tegel) TXL; 08:55; Luxembourg LUX
+22/05/19; Ryanair; 0; 9.99; 09:30; Germany; Luxembourg LUX; 11:00; Berlin TXLBerlin (Tegel) TXL
+15/05/19; Ryanair; 0; 9.99; 19:45; Germany; Frankfurt HHNFrankfurt (Hahn) HHN; 22:40; Malaga AGP
+22/05/19; Ryanair; 0; 9.99; 16:25; Germany; Malaga AGP; 19:20; Frankfurt HHNFrankfurt (Hahn) HHN
+16/05/19; Laudamotion; 0; 9.99; 11:05; Germany; Stuttgart STR; 12:15; Verona VRN
+21/05/19; Laudamotion; 0; 9.99; 16:05; Germany; Verona VRN; 17:15; Stuttgart STR
+22/05/19; Laudamotion; 0; 9.99; 12:20; Germany; Duesseldor DUS; 14:00; Milan BGYMilan (Bergamo) BGY
+26/05/19; Laudamotion; 0; 9.99; 08:35; Germany; Milan BGYMilan (Bergamo) BGY; 10:15; Duesseldor DUS
+21/05/19; Ryanair; 0; 9.99; 18:10; Germany; Dusseldorf NRNDusseldorf (Weeze) NRN; 20:05; Zadar ZAD
+28/05/19; Ryanair; 0; 9.99; 20:30; Germany; Zadar ZAD; 22:25; Dusseldorf NRNDusseldorf (Weeze) NRN
+13/05/19; Ryanair; 0; 9.99; 21:10; Germany; Cologne CGNCologne-Bonn CGN; 22:55; Bordeaux BOD
+20/05/19; Ryanair; 0; 9.99; 19:00; Germany; Bordeaux BOD; 20:45; Cologne CGNCologne-Bonn CGN
+14/05/19; Ryanair; 0; 9.99; 12:30; Germany; Cologne CGNCologne-Bonn CGN; 13:55; Milan BGYMilan (Bergamo) BGY
+22/05/19; Ryanair; 0; 9.99; 20:15; Germany; Milan BGYMilan (Bergamo) BGY; 21:45; Cologne CGNCologne-Bonn CGN
+22/05/19; Ryanair; 0; 9.99; 12:00; Germany; Cologne CGNCologne-Bonn CGN; 13:40; Bologna BLQ
+30/05/19; Ryanair; 0; 9.99; 08:15; Germany; Bologna BLQ; 09:55; Cologne CGNCologne-Bonn CGN
+26/07/19; Laudamotion; 0; 9.99; 14:30; Germany; Stuttgart STR; 15:40; Venice TSFVenice (Treviso) TSF
+03/08/19; Laudamotion; 0; 9.99; 16:10; Germany; Venice TSFVenice (Treviso) TSF; 17:20; Stuttgart STR
+16/05/19; Ryanair; 0; 9.99; 09:30; Germany; Dusseldorf NRNDusseldorf (Weeze) NRN; 11:35; Rome CIARome (Ciampino) CIA
+23/05/19; Ryanair; 0; 9.99; 06:50; Germany; Rome CIARome (Ciampino) CIA; 09:05; Dusseldorf NRNDusseldorf (Weeze) NRN
+22/05/19; Ryanair; 0; 9.99; 10:05; Germany; Berlin SXFBerlin (Schonefeld) SXF; 12:45; Riga RIX
+28/05/19; Ryanair; 0; 9.99; 13:10; Germany; Riga RIX; 13:50; Berlin SXFBerlin (Schonefeld) SXF
+15/05/19; Wizz Air; 0; 9.99; 08:45; Germany; Dortmund DTM; 11:35; Klaipeda PLQKlaipeda-Palanga PLQ
+22/05/19; Wizz Air; 0; 9.99; 12:05; Germany; Klaipeda PLQKlaipeda-Palanga PLQ; 13:00; Dortmund DTM
+22/05/19; Ryanair; 0; 9.99; 15:30; Germany; Berlin SXFBerlin (Schonefeld) SXF; 17:15; Banja Luka BNX
+29/05/19; Ryanair; 0; 9.99; 17:40; Germany; Banja Luka BNX; 19:25; Berlin SXFBerlin (Schonefeld) SXF
+07/05/19; Ryanair; 0; 9.99; 16:55; Germany; Berlin TXLBerlin (Tegel) TXL; 19:15; Brindisi BDS
+14/05/19; Ryanair; 0; 9.99; 19:45; Germany; Brindisi BDS; 22:05; Berlin TXLBerlin (Tegel) TXL
+21/05/19; Ryanair; 0; 9.99; 19:00; Germany; Memmingen FMM; 20:15; Zadar ZAD
+28/05/19; Ryanair; 0; 9.99; 20:40; Germany; Zadar ZAD; 21:55; Memmingen FMM
+15/05/19; Ryanair; 0; 9.99; 12:25; Germany; Dusseldorf NRNDusseldorf (Weeze) NRN; 14:30; Pescara PSR
+22/05/19; Ryanair; 0; 9.99; 09:50; Germany; Pescara PSR; 12:00; Dusseldorf NRNDusseldorf (Weeze) NRN
+15/05/19; Ryanair; 0; 9.99; 10:40; Germany; Frankfurt HHNFrankfurt (Hahn) HHN; 12:45; Barcelona REUBarcelona (Reus) REU
+22/05/19; Ryanair; 0; 9.99; 13:10; Germany; Barcelona REUBarcelona (Reus) REU; 15:25; Frankfurt HHNFrankfurt (Hahn) HHN
+03/05/19; Laudamotion; 0; 9.99; 05:55; Germany; Stuttgart STR; 07:20; Marseille MRS
+10/05/19; Laudamotion; 0; 9.99; 07:50; Germany; Marseille MRS; 09:15; Stuttgart STR
+09/05/19; Ryanair; 0; 9.99; 11:50; Germany; Cologne CGNCologne-Bonn CGN; 13:20; Venice TSFVenice (Treviso) TSF
+14/05/19; Ryanair; 0; 9.99; 13:55; Germany; Venice TSFVenice (Treviso) TSF; 15:30; Cologne CGNCologne-Bonn CGN
+04/05/19; Laudamotion; 0; 9.99; 06:50; Germany; Stuttgart STR; 08:10; Pula PUY
+09/05/19; Laudamotion; 0; 9.99; 12:25; Germany; Pula PUY; 13:45; Stuttgart STR
+23/05/19; Laudamotion; 0; 9.99; 19:35; Germany; Stuttgart STR; 21:00; Nice NCE
+28/05/19; Laudamotion; 0; 9.99; 21:05; Germany; Nice NCE; 22:30; Stuttgart STR
+05/05/19; Laudamotion; 0; 9.99; 15:35; Germany; Munich MUC; 17:45; Palma Mall PMI
+09/05/19; Laudamotion; 0; 9.99; 18:20; Germany; Palma Mall PMI; 20:25; Munich MUC
+25/05/19; Laudamotion; 0; 9.99; 21:45; Germany; Stuttgart STR; 23:00; Vienna VIE
+29/05/19; Laudamotion; 0; 9.99; 06:45; Germany; Vienna VIE; 08:00; Stuttgart STR
+21/05/19; Ryanair; 0; 9.99; 06:00; Germany; Memmingen FMM; 07:25; Banja Luka BNX
+25/05/19; Ryanair; 0; 9.99; 20:50; Germany; Banja Luka BNX; 22:15; Memmingen FMM
+16/05/19; Ryanair; 0; 9.99; 20:45; Germany; Dusseldorf NRNDusseldorf (Weeze) NRN; 22:40; Pisa PSA
+23/05/19; Ryanair; 0; 9.99; 18:25; Germany; Pisa PSA; 20:20; Dusseldorf NRNDusseldorf (Weeze) NRN
+01/05/19; Ryanair; 0; 9.99; 07:20; Germany; Nuernberg NUE; 08:50; Pisa PSA
+08/05/19; Ryanair; 0; 9.99; 09:15; Germany; Pisa PSA; 10:45; Nuernberg NUE
+24/05/19; Ryanair; 0; 9.99; 12:20; Germany; Nuernberg NUE; 13:35; Milan BGYMilan (Bergamo) BGY
+31/05/19; Ryanair; 0; 9.99; 10:40; Germany; Milan BGYMilan (Bergamo) BGY; 11:55; Nuernberg NUE
+02/05/19; Ryanair; 0; 10.00; 17:20; Germany; Cologne CGNCologne-Bonn CGN; 18:35; Berlin SXFBerlin (Schonefeld) SXF
+08/05/19; Ryanair; 0; 10.00; 19:00; Germany; Berlin SXFBerlin (Schonefeld) SXF; 20:15; Cologne CGNCologne-Bonn CGN
+08/05/19; Ryanair; 0; 10.00; 19:00; Germany; Berlin SXFBerlin (Schonefeld) SXF; 20:15; Cologne CGNCologne-Bonn CGN
+14/05/19; Ryanair; 0; 10.00; 17:40; Germany; Cologne CGNCologne-Bonn CGN; 18:55; Berlin SXFBerlin (Schonefeld) SXF
+22/05/19; Ryanair; 0; 9.99; 11:00; Germany; Memmingen FMM; 13:05; Fez FEZ
+29/05/19; Ryanair; 0; 10.08; 05:30; Germany; Fez FEZ; 10:35; Memmingen FMM
+22/05/19; Ryanair; 0; 9.99; 08:00; Germany; Dusseldorf NRNDusseldorf (Weeze) NRN; 09:05; Tangier TNG
+29/05/19; Ryanair; 0; 10.08; 09:30; Germany; Tangier TNG; 14:35; Dusseldorf NRNDusseldorf (Weeze) NRN
+09/05/19; Ryanair; 0; 9.99; 19:35; Germany; Dusseldorf NRNDusseldorf (Weeze) NRN; 20:55; Fez FEZ
+16/05/19; Ryanair; 0; 10.08; 14:50; Germany; Fez FEZ; 19:10; Dusseldorf NRNDusseldorf (Weeze) NRN
+22/05/19; Ryanair; 0; 9.99; 07:00; Germany; Dusseldorf NRNDusseldorf (Weeze) NRN; 08:15; Oujda OUD
+29/05/19; Ryanair; 0; 10.08; 08:40; Germany; Oujda OUD; 13:50; Dusseldorf NRNDusseldorf (Weeze) NRN
+06/05/19; Ryanair; 0; 9.99; 15:15; Germany; Hamburg HAM; 16:40; Oslo TRFOslo (Torp) TRF
+13/05/19; Ryanair; 0; 10.34; 17:05; Germany; Oslo TRFOslo (Torp) TRF; 18:30; Hamburg HAM
+21/05/19; Ryanair; 0; 9.99; 15:45; Germany; Dortmund DTM; 16:05; London STNLondon (Stansted) STN
+28/05/19; Ryanair; 0; 11.55; 13:00; Germany; London STNLondon (Stansted) STN; 15:20; Dortmund DTM
+22/05/19; Ryanair; 0; 9.99; 13:10; Germany; Karlsruhe FKBKarlsruhe-Baden Baden FKB; 13:40; London STNLondon (Stansted) STN
+28/05/19; Ryanair; 0; 11.55; 13:50; Germany; London STNLondon (Stansted) STN; 16:15; Karlsruhe FKBKarlsruhe-Baden Baden FKB
+15/05/19; Ryanair; 0; 9.99; 15:10; Germany; Cologne CGNCologne-Bonn CGN; 15:50; Bristol BRS
+22/05/19; Ryanair; 0; 11.55; 12:10; Germany; Bristol BRS; 14:45; Cologne CGNCologne-Bonn CGN
+14/05/19; Ryanair; 0; 9.99; 22:35; Germany; Nuernberg NUE; 23:25; London STNLondon (Stansted) STN
+21/05/19; Ryanair; 0; 11.55; 19:30; Germany; London STNLondon (Stansted) STN; 22:10; Nuernberg NUE
+07/05/19; Ryanair; 0; 9.99; 15:15; Germany; Memmingen FMM; 15:55; London STNLondon (Stansted) STN
+15/05/19; Ryanair; 0; 11.55; 12:05; Germany; London STNLondon (Stansted) STN; 14:50; Memmingen FMM
+23/05/19; Ryanair; 0; 9.99; 07:45; Germany; Cologne CGNCologne-Bonn CGN; 08:25; Manchester MAN
+29/05/19; Ryanair; 0; 11.55; 09:00; Germany; Manchester MAN; 11:35; Cologne CGNCologne-Bonn CGN
+02/05/19; Ryanair; 0; 9.99; 14:35; Germany; Dusseldorf NRNDusseldorf (Weeze) NRN; 15:15; Edinburgh EDI
+09/05/19; Ryanair; 0; 11.55; 11:30; Germany; Edinburgh EDI; 14:10; Dusseldorf NRNDusseldorf (Weeze) NRN
+17/05/19; Ryanair; 0; 9.99; 21:55; Germany; Cologne CGNCologne-Bonn CGN; 22:15; London STNLondon (Stansted) STN
+23/05/19; Ryanair; 0; 11.55; 07:40; Germany; London STNLondon (Stansted) STN; 10:05; Cologne CGNCologne-Bonn CGN
+22/05/19; Ryanair; 0; 12.99; 15:40; Germany; Frankfurt FRA; 18:20; Madrid MAD
+30/05/19; Ryanair; 0; 8.99; 19:25; Germany; Madrid MAD; 21:55; Frankfurt FRA
+13/05/19; Ryanair; 0; 7.01; 10:30; Germany; Frankfurt FRA; 12:50; Valencia VLC
+21/05/19; Ryanair; 0; 14.99; 14:00; Germany; Valencia VLC; 16:20; Frankfurt FRA
+21/05/19; Laudamotion; 0; 9.99; 09:40; Germany; Stuttgart STR; 11:15; Copenhagen CPH
+28/05/19; Laudamotion; 0; 12.86; 11:40; Germany; Copenhagen CPH; 13:15; Stuttgart STR
+12/05/19; Ryanair; 0; 12.99; 16:30; Germany; Nuernberg NUE; 18:50; Zadar ZAD
+16/05/19; Ryanair; 0; 9.99; 09:45; Germany; Zadar ZAD; 12:05; Nuernberg NUE
+15/05/19; Ryanair; 0; 9.99; 11:20; Germany; Berlin SXFBerlin (Schonefeld) SXF; 13:35; Toulouse TLS
+20/05/19; Ryanair; 0; 12.99; 20:05; Germany; Toulouse TLS; 22:20; Berlin SXFBerlin (Schonefeld) SXF
+06/05/19; Ryanair; 0; 8.99; 08:10; Germany; Frankfurt FRA; 10:30; Palma Mall PMI
+14/05/19; Ryanair; 0; 14.99; 09:45; Germany; Palma Mall PMI; 12:10; Frankfurt FRA
+21/05/19; Ryanair; 0; 8.99; 18:00; Germany; Frankfurt FRA; 19:40; Pisa PSA
+25/05/19; Ryanair; 0; 14.99; 16:20; Germany; Pisa PSA; 17:50; Frankfurt FRA
+09/06/19; Wizz Air; 0; 14.99; 16:15; Germany; Dortmund DTM; 17:35; Wroclaw WRO
+16/06/19; Wizz Air; 0; 9.11; 07:10; Germany; Wroclaw WRO; 08:40; Dortmund DTM
+10/05/19; Ryanair; 0; 8.99; 11:45; Germany; Frankfurt HHNFrankfurt (Hahn) HHN; 12:55; Fez FEZ
+17/05/19; Ryanair; 0; 15.35; 06:00; Germany; Fez FEZ; 11:20; Frankfurt HHNFrankfurt (Hahn) HHN
+16/05/19; Laudamotion; 0; 14.99; 12:10; Germany; Duesseldor DUS; 14:05; Stockholm NYOStockholm (Skavsta) NYO
+23/05/19; Laudamotion; 0; 9.84; 14:40; Germany; Stockholm NYOStockholm (Skavsta) NYO; 16:35; Duesseldor DUS
+18/06/19; Wizz Air; 0; 14.99; 16:20; Germany; Friedrichs FDH; 17:55; Tuzla TZL
+25/06/19; Wizz Air; 0; 10.22; 14:05; Germany; Tuzla TZL; 15:50; Friedrichs FDH
+16/05/19; Ryanair; 0; 12.99; 07:00; Germany; Dusseldorf NRNDusseldorf (Weeze) NRN; 08:05; Nador NDR
+23/05/19; Ryanair; 0; 12.85; 08:30; Germany; Nador NDR; 13:35; Dusseldorf NRNDusseldorf (Weeze) NRN
+20/05/19; Ryanair; 0; 12.99; 15:50; Germany; Dusseldorf NRNDusseldorf (Weeze) NRN; 17:10; Rabat RBA
+24/05/19; Ryanair; 0; 12.85; 16:25; Germany; Rabat RBA; 21:45; Dusseldorf NRNDusseldorf (Weeze) NRN
+05/10/19; Laudamotion; 0; 12.99; 06:30; Germany; Duesseldor DUS; 08:00; Copenhagen CPH
+09/10/19; Laudamotion; 0; 12.86; 14:50; Germany; Copenhagen CPH; 16:20; Duesseldor DUS
+16/05/19; Ryanair; 0; 12.99; 14:00; Germany; Cologne CGNCologne-Bonn CGN; 15:25; Copenhagen CPH
+22/05/19; Ryanair; 0; 12.86; 15:50; Germany; Copenhagen CPH; 17:20; Cologne CGNCologne-Bonn CGN
+15/05/19; Ryanair; 0; 12.99; 11:45; Germany; Dusseldorf NRNDusseldorf (Weeze) NRN; 13:55; Faro FAO
+22/05/19; Ryanair; 0; 12.99; 07:15; Germany; Faro FAO; 11:20; Dusseldorf NRNDusseldorf (Weeze) NRN
+16/05/19; Ryanair; 0; 12.99; 06:20; Germany; Berlin SXFBerlin (Schonefeld) SXF; 07:50; Brussels BRU
+23/05/19; Ryanair; 0; 12.99; 08:15; Germany; Brussels BRU; 09:40; Berlin SXFBerlin (Schonefeld) SXF
+08/05/19; Ryanair; 0; 12.99; 11:45; Germany; Berlin SXFBerlin (Schonefeld) SXF; 13:55; Bari BRI
+15/05/19; Ryanair; 0; 12.99; 14:20; Germany; Bari BRI; 16:35; Berlin SXFBerlin (Schonefeld) SXF
+08/05/19; Ryanair; 0; 12.99; 10:50; Germany; Dusseldorf NRNDusseldorf (Weeze) NRN; 13:30; Alicante ALC
+15/05/19; Ryanair; 0; 12.99; 07:45; Germany; Alicante ALC; 10:25; Dusseldorf NRNDusseldorf (Weeze) NRN
+14/05/19; Ryanair; 0; 12.99; 17:50; Germany; Karlsruhe FKBKarlsruhe-Baden Baden FKB; 19:50; Palma Mall PMI
+22/05/19; Ryanair; 0; 12.99; 20:50; Germany; Palma Mall PMI; 22:55; Karlsruhe FKBKarlsruhe-Baden Baden FKB
+16/05/19; Ryanair; 0; 12.99; 08:20; Germany; Frankfurt FRA; 10:30; Brindisi BDS
+23/05/19; Ryanair; 0; 12.99; 10:55; Germany; Brindisi BDS; 13:05; Frankfurt FRA
+22/05/19; Ryanair; 0; 12.99; 20:50; Germany; Karlsruhe FKBKarlsruhe-Baden Baden FKB; 22:45; Cagliari CAG
+29/05/19; Ryanair; 0; 12.99; 18:30; Germany; Cagliari CAG; 20:25; Karlsruhe FKBKarlsruhe-Baden Baden FKB
+15/05/19; Ryanair; 0; 12.99; 20:25; Germany; Memmingen FMM; 22:20; Brindisi BDS
+22/05/19; Ryanair; 0; 12.99; 18:05; Germany; Brindisi BDS; 20:00; Memmingen FMM
+14/05/19; Ryanair; 0; 12.99; 06:00; Germany; Berlin TXLBerlin (Tegel) TXL; 08:20; Alghero AHO
+21/05/19; Ryanair; 0; 12.99; 08:55; Germany; Alghero AHO; 11:15; Berlin TXLBerlin (Tegel) TXL
+21/05/19; Ryanair; 0; 12.99; 07:05; Germany; Berlin SXFBerlin (Schonefeld) SXF; 08:50; Milan BGYMilan (Bergamo) BGY
+29/05/19; Ryanair; 0; 12.99; 09:15; Germany; Milan BGYMilan (Bergamo) BGY; 10:55; Berlin SXFBerlin (Schonefeld) SXF
+22/05/19; Ryanair; 0; 12.99; 13:50; Germany; Frankfurt HHNFrankfurt (Hahn) HHN; 15:40; Rome CIARome (Ciampino) CIA
+29/05/19; Ryanair; 0; 12.99; 11:30; Germany; Rome CIARome (Ciampino) CIA; 13:25; Frankfurt HHNFrankfurt (Hahn) HHN
+15/05/19; Ryanair; 0; 12.99; 13:50; Germany; Bremen BRE; 16:10; Barcelona GROBarcelona (Girona) GRO
+21/05/19; Ryanair; 0; 12.99; 11:05; Germany; Barcelona GROBarcelona (Girona) GRO; 13:25; Bremen BRE
+21/05/19; Ryanair; 0; 12.99; 12:00; Germany; Frankfurt HHNFrankfurt (Hahn) HHN; 14:25; Lamezia Te SUF
+28/05/19; Ryanair; 0; 12.99; 09:10; Germany; Lamezia Te SUF; 11:35; Frankfurt HHNFrankfurt (Hahn) HHN
+16/05/19; Ryanair; 0; 12.99; 20:50; Germany; Dusseldorf NRNDusseldorf (Weeze) NRN; 23:10; Cagliari CAG
+23/05/19; Ryanair; 0; 12.99; 18:05; Germany; Cagliari CAG; 20:25; Dusseldorf NRNDusseldorf (Weeze) NRN
+07/05/19; Ryanair; 0; 12.99; 12:50; Germany; Karlsruhe FKBKarlsruhe-Baden Baden FKB; 14:20; Zadar ZAD
+14/05/19; Ryanair; 0; 12.99; 14:45; Germany; Zadar ZAD; 16:20; Karlsruhe FKBKarlsruhe-Baden Baden FKB
+20/05/19; Ryanair; 0; 12.99; 19:05; Germany; Dusseldorf NRNDusseldorf (Weeze) NRN; 20:55; Ancona AOI
+24/05/19; Ryanair; 0; 12.99; 15:20; Germany; Ancona AOI; 17:15; Dusseldorf NRNDusseldorf (Weeze) NRN
+15/05/19; Ryanair; 0; 12.99; 18:05; Germany; Berlin SXFBerlin (Schonefeld) SXF; 19:55; Pisa PSA
+22/05/19; Ryanair; 0; 12.99; 15:45; Germany; Pisa PSA; 17:40; Berlin SXFBerlin (Schonefeld) SXF
+15/05/19; Ryanair; 0; 12.99; 07:50; Germany; Karlsruhe FKBKarlsruhe-Baden Baden FKB; 09:55; Lamezia Te SUF
+22/05/19; Ryanair; 0; 12.99; 10:20; Germany; Lamezia Te SUF; 12:35; Karlsruhe FKBKarlsruhe-Baden Baden FKB
+14/05/19; Ryanair; 0; 12.99; 06:30; Germany; Karlsruhe FKBKarlsruhe-Baden Baden FKB; 08:50; Malta MLA
+21/05/19; Ryanair; 0; 12.99; 09:15; Germany; Malta MLA; 12:00; Karlsruhe FKBKarlsruhe-Baden Baden FKB
+08/05/19; Ryanair; 0; 12.99; 18:30; Germany; Nuernberg NUE; 20:25; Bari BRI
+15/05/19; Ryanair; 0; 12.99; 20:50; Germany; Bari BRI; 22:45; Nuernberg NUE
+15/05/19; Ryanair; 0; 12.99; 06:40; Germany; Frankfurt HHNFrankfurt (Hahn) HHN; 09:00; Trapani TPS
+22/05/19; Ryanair; 0; 12.99; 09:25; Germany; Trapani TPS; 11:50; Frankfurt HHNFrankfurt (Hahn) HHN
+22/05/19; Ryanair; 0; 12.99; 17:00; Germany; Dusseldorf NRNDusseldorf (Weeze) NRN; 19:35; Palermo PMO
+29/05/19; Ryanair; 0; 12.99; 20:00; Germany; Palermo PMO; 22:40; Dusseldorf NRNDusseldorf (Weeze) NRN
+17/05/19; Ryanair; 0; 12.99; 11:00; Germany; Berlin TXLBerlin (Tegel) TXL; 13:35; Lamezia Te SUF
+24/05/19; Ryanair; 0; 12.99; 07:55; Germany; Lamezia Te SUF; 10:35; Berlin TXLBerlin (Tegel) TXL
+09/05/19; Ryanair; 0; 12.99; 17:20; Germany; Dusseldorf NRNDusseldorf (Weeze) NRN; 19:40; Palma Mall PMI
+14/05/19; Ryanair; 0; 12.99; 13:35; Germany; Palma Mall PMI; 16:00; Dusseldorf NRNDusseldorf (Weeze) NRN
+19/06/19; Ryanair; 0; 12.99; 08:00; Germany; Berlin TXLBerlin (Tegel) TXL; 09:20; Krakow KRK
+26/06/19; Ryanair; 0; 13.08; 06:00; Germany; Krakow KRK; 07:20; Berlin TXLBerlin (Tegel) TXL
+23/05/19; Ryanair; 0; 12.99; 08:20; Germany; Hamburg HAM; 09:55; Krakow KRK
+28/05/19; Ryanair; 0; 13.08; 06:20; Germany; Krakow KRK; 07:55; Hamburg HAM
+24/05/19; Ryanair; 0; 12.99; 14:45; Germany; Nuernberg NUE; 16:15; Krakow KRK
+31/05/19; Ryanair; 0; 13.08; 16:40; Germany; Krakow KRK; 18:05; Nuernberg NUE
+14/05/19; Ryanair; 0; 9.99; 15:45; Germany; Dusseldorf NRNDusseldorf (Weeze) NRN; 16:25; Edinburgh EDI
+22/05/19; Ryanair; 1; 11.55; 06:50; Edinburgh EDI; 17:05; Dusseldorf NRNDusseldorf (Weeze) NRN
+22/05/19; Ryanair; 1; 5.77; 14:55; Germany; London STNLondon (Stansted) STN; 08:25; London STNLondon (Stansted) STN FR8882
+22/05/19; Ryanair; 1; 9.99; 07:05; Germany; Frankfurt FRA; 07:40; London STNLondon (Stansted) STN
+29/05/19; Ryanair; 0; 17.33; 08:05; Germany; London STNLondon (Stansted) STN; 10:40; Frankfurt FRA
+08/05/19; Ryanair; 0; 7.99; 16:25; Germany; Bremen BRE; 16:50; London STNLondon (Stansted) STN
+16/05/19; Ryanair; 1; 15.02; 08:30; London STNLondon (Stansted) STN; 17:50; Bremen BRE
+16/05/19; Ryanair; 1; 4.68; 16:15; Germany; Stockholm NYOStockholm (Skavsta) NYO; 11:45; Stockholm NYOStockholm (Skavsta) NYO FR52
+27/06/19; Wizz Air; 1; 17.49; 11:50; Germany; Memmingen FMM; 13:20; Tuzla TZL
+02/07/19; Wizz Air; 0; 10.22; 09:45; Germany; Tuzla TZL; 11:20; Memmingen FMM
+29/04/19; Ryanair; 0; 9.99; 19:00; Germany; Cologne CGNCologne-Bonn CGN; 21:15; Palma Mall PMI
+07/05/19; Ryanair; 0; 17.99; 08:50; Germany; Palma Mall PMI; 11:10; Cologne CGNCologne-Bonn CGN
+24/04/19; Laudamotion; 0; 9.99; 10:20; Germany; Stuttgart STR; 11:50; Zadar ZAD
+02/05/19; Laudamotion; 0; 17.99; 08:45; Germany; Zadar ZAD; 10:15; Stuttgart STR
+21/05/19; Ryanair; 0; 12.99; 10:35; Germany; Hamburg HAM; 12:20; Venice TSFVenice (Treviso) TSF
+26/05/19; Ryanair; 0; 14.99; 09:40; Germany; Venice TSFVenice (Treviso) TSF; 11:25; Hamburg HAM
+30/04/19; Ryanair; 0; 12.99; 17:15; Germany; Memmingen FMM; 18:30; Edinburgh EDI
+07/05/19; Ryanair; 0; 15.02; 13:35; Germany; Edinburgh EDI; 16:50; Memmingen FMM
+09/05/19; Ryanair; 0; 12.99; 10:40; Germany; Berlin SXFBerlin (Schonefeld) SXF; 12:00; Belfast BFS
+16/05/19; Ryanair; 0; 15.02; 06:55; Germany; Belfast BFS; 10:15; Berlin SXFBerlin (Schonefeld) SXF
+22/05/19; Ryanair; 0; 12.99; 09:55; Germany; Berlin SXFBerlin (Schonefeld) SXF; 10:55; London STNLondon (Stansted) STN
+29/05/19; Ryanair; 0; 15.02; 21:00; Germany; London STNLondon (Stansted) STN; 23:50; Berlin SXFBerlin (Schonefeld) SXF
+26/06/19; Ryanair; 0; 12.99; 15:20; Germany; Dortmund DTM; 17:00; Krakow KRK
+03/07/19; Ryanair; 0; 15.18; 13:10; Germany; Krakow KRK; 14:55; Dortmund DTM
+29/04/19; Ryanair; 1; 7.99; 20:30; Berlin SXFBerlin (Schonefeld) SXF; 23:10; London STNLondon (Stansted) STN
+29/04/19; Ryanair; 1; 5.22; 22:35; Germany; Billund BLL; 21:40; Billund BLL FR1704
+07/05/19; Ryanair; 1; 15.02; 19:20; Germany; London STNLondon (Stansted) STN; 22:10; Berlin SXFBerlin (Schonefeld) SXF
+01/05/19; Ryanair; 0; 12.99; 22:25; Germany; Berlin SXFBerlin (Schonefeld) SXF; 23:25; London STNLondon (Stansted) STN
+05/05/19; Ryanair; 1; 5.77; 05:55; London STNLondon (Stansted) STN; 13:50; Berlin SXFBerlin (Schonefeld) SXF
+05/05/19; Ryanair; 1; 9.78; 12:40; Germany; Billund BLL; 08:30; Billund BLL FR9769
+29/04/19; Ryanair; 1; 7.99; 20:30; Germany; Berlin SXFBerlin (Schonefeld) SXF; 23:10; London STNLondon (Stansted) STN
+05/05/19; Ryanair; 1; 5.22; 55 Lo; don STNLondon (Stansted) STN; 23:10; London STNLondon (Stansted) STN FR5179
+05/05/19; Ryanair; 1; 5.77; 05:55; Germany; London STNLondon (Stansted) STN; 13:50; Berlin SXFBerlin (Schonefeld) SXF
+05/06/19; Ryanair; 1; 9.78; 15 Do; Germany; tmund DTM; 13:50; Berlin SXFBerlin (Schonefeld) SXF FR1705
+12/06/19; Wizz Air; 0; 14.99; 15 Ka; Germany; owice KTW; 18:45; Katowice KTW W61098
+15/01/20; Wizz Air; 0; 13.78; 50 Br; Germany; men BRE; 07:55; Dortmund DTM W61091
+19/01/20; Wizz Air; 0; 14.99; 45 Gd; Germany; nsk GDN; 18:15; Gdansk GDN W61670
+11/06/19; Wizz Air; 0; 13.78; 45 Co; Germany; ogne CGNCologne-Bonn CGN; 20:15; Bremen BRE W61669
+18/06/19; Wizz Air; 0; 14.99; 25 Ka; Germany; owice KTW; 19:20; Katowice KTW W61100
+07/05/19; Wizz Air; 0; 13.78; 10 Fr; Germany; nkfurt FRA; 17:10; Cologne CGNCologne-Bonn CGN W61099
+15/05/19; Ryanair; 0; 8.99; 45 Fa; Germany; o FAO; 17:20; Faro FAO FR4160
+08/05/19; Ryanair; 0; 19.99; 10 Co; Germany; ogne CGNCologne-Bonn CGN; 21:50; Frankfurt FRA FR4170
+15/05/19; Ryanair; 1; 9.99; 45 Br; stol BRS; 15:50; Bristol BRS FR1590
+15/05/19; Ryanair; 1; 9.24; 06:45; Germany; Bristol BRS; 15:45; Cologne CGNCologne-Bonn CGN
+18/05/19; Ryanair; 1; 9.99; 00 Be; Germany; lin TXLBerlin (Tegel) TXL; 15:45; Cologne CGNCologne-Bonn CGN FR1603
+24/05/19; Ryanair; 0; 9.99; 50 Pu; Germany; a PUY; 07:35; Pula PUY FR50
+13/05/19; easyJet; 0; 3.05; 20 St; Germany; ttgart STR; 15:40; Berlin TXLBerlin (Tegel) TXL U25828
+17/05/19; Laudamotion; 0; 9.99; 45 Pa; Germany; ma Mall PMI; 17:20; Palma Mall PMI OE2480
+14/05/19; easyJet; 0; 4.21; 50 Be; Germany; lin SXFBerlin (Schonefeld) SXF; 09:05; Stuttgart STR U23501
+19/05/19; easyJet; 0; 16.13; 00 Lu; Germany; embourg LUX; 15:20; Luxembourg LUX U24573
+14/05/19; easyJet; 0; 1.68; 15 Be; Germany; lin SXFBerlin (Schonefeld) SXF; 18:30; Berlin SXFBerlin (Schonefeld) SXF U24574
+21/05/19; easyJet; 0; 11.59; 55 Ba; Germany; el-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL; 07:50; Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL U24631
+18/05/19; easyJet; 0; 6.52; 00 Be; Germany; lin TXLBerlin (Tegel) TXL; 22:30; Berlin SXFBerlin (Schonefeld) SXF U24638
+23/05/19; easyJet; 0; 16.13; 45 Gd; Germany; nsk GDN; 07:05; Gdansk GDN U25747
+07/05/19; easyJet; 0; 2.34; 55 Be; Germany; lin TXLBerlin (Tegel) TXL; 18:00; Berlin TXLBerlin (Tegel) TXL U25748
+14/05/19; easyJet; 0; 16.13; 40 Za; Germany; ar ZAD; 15:45; Zadar ZAD U25763
+14/05/19; easyJet; 0; 3.05; 10 Be; Germany; lin TXLBerlin (Tegel) TXL; 18:25; Berlin TXLBerlin (Tegel) TXL U25764
+22/05/19; Ryanair; 0; 12.99; 25 Al; Germany; cante ALC; 18:15; Alicante ALC FR257
+01/05/19; easyJet; 0; 6.23; 30 Be; Germany; lin TXLBerlin (Tegel) TXL; 22:30; Berlin TXLBerlin (Tegel) TXL U25624
+08/05/19; easyJet; 0; 18.15; 55 Aa; Germany; hus AAR; 11:45; Aarhus AAR U25677
+22/05/19; easyJet; 0; 1.40; 15 Be; Germany; lin SXFBerlin (Schonefeld) SXF; 14:10; Berlin TXLBerlin (Tegel) TXL U25678
+27/05/19; easyJet; 0; 11.59; 55 Mi; Germany; an MXPMilan (Malpensa) MXP; 09:05; Milan MXPMilan (Malpensa) MXP U24673
+17/10/19; easyJet; 0; 8.18; 05 St; Germany; ttgart STR; 22:40; Berlin SXFBerlin (Schonefeld) SXF U24676
+25/10/19; easyJet; 0; 9.06; 15 Ve; Germany; ice VCEVenice (Marco Polo) VCE; 18:20; Venice VCEVenice (Marco Polo) VCE U23390
+08/05/19; easyJet; 0; 10.71; 00 Be; Germany; lin TXLBerlin (Tegel) TXL; 16:35; Stuttgart STR U23389
+15/05/19; Ryanair; 0; 12.99; 20 Pa; Germany; ma Mall PMI; 18:35; Palma Mall PMI FR263
+07/05/19; easyJet; 0; 7.74; 15 Be; Germany; lin TXLBerlin (Tegel) TXL; 10:10; Berlin TXLBerlin (Tegel) TXL U25800
+14/05/19; easyJet; 0; 16.13; 55 He; Germany; sinki HEL; 10:15; Helsinki HEL U25731
+16/05/19; easyJet; 0; 6.23; 10 Ha; Germany; burg HAM; 22:00; Berlin TXLBerlin (Tegel) TXL U25734
+21/05/19; easyJet; 0; 16.13; 10 Ba; Germany; el-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL; 22:35; Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL U21028
+16/05/19; easyJet; 0; 6.52; 00 Be; Germany; lin TXLBerlin (Tegel) TXL; 20:40; Hamburg HAM U21027
+20/05/19; easyJet; 0; 16.13; 00 Ba; Germany; el-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL; 18:35; Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL U24637
+15/05/19; easyJet; 1; 6.52; 55 Be; lin SXFBerlin (Schonefeld) SXF; 20:35; Berlin TXLBerlin (Tegel) TXL U24640
+15/05/19; Ryanair; 1; 12.99; 09:55; Germany; Berlin SXFBerlin (Schonefeld) SXF; 21:10; Luxembourg LUX
+19/05/19; Ryanair; 1; 8.10; 00 Lu; Germany; embourg LUX; 21:10; Luxembourg LUX FR2860
+14/05/19; easyJet; 0; 1.68; 30 Be; Germany; lin TXLBerlin (Tegel) TXL; 18:30; Berlin SXFBerlin (Schonefeld) SXF U24574
+21/05/19; easyJet; 0; 13.61; 50 Os; Germany; o OSLOslo (Gardermoen) OSL; 09:15; Oslo OSLOslo (Gardermoen) OSL U25777
+15/09/19; easyJet; 0; 9.48; 10 Be; Germany; lin SXFBerlin (Schonefeld) SXF; 11:35; Berlin TXLBerlin (Tegel) TXL U25778
+21/09/19; easyJet; 0; 9.06; 50 Sa; Germany; zburg SZG; 20:30; Salzburg SZG U24795
+07/05/19; easyJet; 0; 14.27; 25 Be; Germany; lin TXLBerlin (Tegel) TXL; 12:10; Berlin SXFBerlin (Schonefeld) SXF U24796
+15/05/19; Ryanair; 0; 12.99; 00 Na; Germany; les NAP; 18:40; Naples NAP FR329
+15/05/19; easyJet; 0; 10.71; 45 Be; Germany; lin TXLBerlin (Tegel) TXL; 19:20; Berlin TXLBerlin (Tegel) TXL U25758
+22/05/19; easyJet; 0; 16.13; 25 Co; Germany; enhagen CPH; 11:55; Copenhagen CPH U25683
+07/05/19; easyJet; 0; 8.16; 50 St; Germany; ttgart STR; 13:30; Berlin TXLBerlin (Tegel) TXL U25684
+14/05/19; easyJet; 0; 9.06; 20 Mi; Germany; an MXPMilan (Malpensa) MXP; 19:55; Milan MXPMilan (Malpensa) MXP U22572
+14/05/19; easyJet; 0; 15.25; 55 Be; Germany; lin TXLBerlin (Tegel) TXL; 18:20; Stuttgart STR U22571
+22/05/19; easyJet; 0; 16.13; 00 Ve; Germany; ice VCEVenice (Marco Polo) VCE; 22:40; Venice VCEVenice (Marco Polo) VCE U24657
+21/06/19; easyJet; 0; 8.18; 15 Be; Germany; lin TXLBerlin (Tegel) TXL; 08:40; Berlin TXLBerlin (Tegel) TXL U24654
+29/06/19; easyJet; 0; 16.13; 55 Wa; Germany; saw WAW; 08:15; Warsaw WAW U25741
+17/05/19; easyJet; 0; 9.34; 45 Ha; Germany; burg HAM; 10:05; Berlin TXLBerlin (Tegel) TXL U25742
+22/05/19; easyJet; 0; 13.61; 50 Ge; Germany; eva GVA; 15:35; Geneva GVA U21458
+16/05/19; easyJet; 0; 12.07; 40 Be; Germany; lin TXLBerlin (Tegel) TXL; 15:35; Hamburg HAM U21457
+21/05/19; easyJet; 0; 20.68; 55 In; Germany; sbruck INN; 09:10; Innsbruck INN U25745
+04/09/19; easyJet; 0; 5.18; 00 Dr; Germany; sden DRS; 14:25; Berlin TXLBerlin (Tegel) TXL U25746
+11/09/19; easyJet; 0; 13.61; 10 Ba; Germany; el-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL; 21:20; Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL U21204
+07/05/19; easyJet; 1; 12.28; 30 Be; lin TXLBerlin (Tegel) TXL; 19:30; Dresden DRS U21203
+07/05/19; easyJet; 1; 13.61; 07:30; Germany; Berlin TXLBerlin (Tegel) TXL; 19:20; Gdansk GDN
+11/05/19; Wizz Air; 1; 10.34; 45 Gd; Germany; nsk GDN; 19:20; Gdansk GDN W61784
+23/05/19; easyJet; 0; 2.34; 30 Be; Germany; lin TXLBerlin (Tegel) TXL; 09:00; Berlin TXLBerlin (Tegel) TXL U25748
+30/05/19; easyJet; 0; 18.15; 15 Ge; Germany; ova GOA; 12:40; Genova GOA U25785
+16/05/19; easyJet; 1; 8.18; 05 Be; lin TXLBerlin (Tegel) TXL; 15:25; Berlin TXLBerlin (Tegel) TXL U25786
+16/05/19; Ryanair; 1; 9.99; 06:05; Germany; Berlin TXLBerlin (Tegel) TXL; 21:10; Copenhagen CPH
+22/05/19; easyJet; 1; 8.18; 25 Co; Germany; enhagen CPH; 21:10; Copenhagen CPH U22655
+24/09/19; easyJet; 0; 8.16; 35 Ha; Germany; burg HAM; 13:30; Berlin TXLBerlin (Tegel) TXL U25684
+02/10/19; easyJet; 0; 9.06; 30 Ma; Germany; chester MAN; 16:15; Manchester MAN U21842
+16/05/19; easyJet; 1; 17.52; 00 Be; lin TXLBerlin (Tegel) TXL; 15:05; Hamburg HAM U21841
+16/05/19; easyJet; 1; 16.13; 15:00; Germany; Berlin TXLBerlin (Tegel) TXL; 19:50; Aarhus AAR
+22/05/19; Ryanair; 1; 9.11; 55 Aa; Germany; hus AAR; 19:50; Aarhus AAR FR1690
+15/05/19; easyJet; 0; 1.40; 55 Be; Germany; lin TXLBerlin (Tegel) TXL; 14:10; Berlin TXLBerlin (Tegel) TXL U25678
+21/05/19; easyJet; 0; 18.15; 50 Go; Germany; eborg GOTGoteborg (Landvetter) GOT; 14:15; Goteborg GOTGoteborg (Landvetter) GOT U25721
+08/05/19; easyJet; 0; 8.79; 05 Be; Germany; lin SXFBerlin (Schonefeld) SXF; 16:10; Berlin TXLBerlin (Tegel) TXL U25722
+13/05/19; easyJet; 0; 17.14; 35 Co; Germany; enhagen CPH; 08:10; Copenhagen CPH U24553
+01/06/19; easyJet; 0; 10.19; 15 Be; Germany; lin TXLBerlin (Tegel) TXL; 22:40; Berlin SXFBerlin (Schonefeld) SXF U24558
+05/06/19; easyJet; 0; 16.13; 15 Bu; Germany; apest BUD; 08:55; Budapest BUD U25651
+15/05/19; easyJet; 1; 11.22; 15 Be; lin SXFBerlin (Schonefeld) SXF; 10:45; Berlin TXLBerlin (Tegel) TXL U25652
+15/05/19; easyJet; 1; 11.59; 06:15; Germany; Berlin SXFBerlin (Schonefeld) SXF; 20:10; Budapest BUD
+21/05/19; easyJet; 1; 6.52; 05 Bu; Germany; apest BUD; 20:10; Budapest BUD U21235
+11/07/19; Wizz Air; 0; 9.34; 25 Be; Germany; lin TXLBerlin (Tegel) TXL; 21:35; Berlin SXFBerlin (Schonefeld) SXF W62315
+16/07/19; easyJet; 0; 18.15; 00 Gr; Germany; z GRZ; 07:45; Graz GRZ U25727
+18/10/19; easyJet; 0; 9.73; 00 Be; Germany; lin SXFBerlin (Schonefeld) SXF; 18:25; Berlin TXLBerlin (Tegel) TXL U25728
+25/10/19; easyJet; 0; 13.61; 55 Bo; Germany; deaux BOD; 17:30; Bordeaux BOD U24366
+02/05/19; easyJet; 0; 14.39; 15 Ha; Germany; burg HAM; 14:25; Berlin SXFBerlin (Schonefeld) SXF U24365
+07/05/19; easyJet; 0; 13.61; 30 Bo; Germany; deaux BOD; 17:25; Bordeaux BOD U21764
+21/05/19; easyJet; 0; 14.39; 15 Be; Germany; lin SXFBerlin (Schonefeld) SXF; 14:40; Hamburg HAM U21763
+27/05/19; easyJet; 0; 11.59; 30 Ge; Germany; eva GVA; 11:10; Geneva GVA U21592
+15/05/19; easyJet; 0; 16.50; 10 Be; Germany; lin TXLBerlin (Tegel) TXL; 11:15; Berlin SXFBerlin (Schonefeld) SXF U21591
+20/05/19; easyJet; 0; 16.13; 00 St; Germany; ckholm ARNStockholm (Arlanda) ARN; 09:55; Stockholm ARNStockholm (Arlanda) ARN U25881
+20/05/19; easyJet; 1; 12.14; 30 Be; lin TXLBerlin (Tegel) TXL; 11:40; Berlin TXLBerlin (Tegel) TXL U25882
+20/05/19; easyJet; 1; 20.68; 06:30; Germany; Berlin TXLBerlin (Tegel) TXL; 19:25; Pula PUY
+24/05/19; Ryanair; 1; 4.99; 50 Pu; Germany; a PUY; 19:25; Pula PUY FR4258
+09/05/19; easyJet; 0; 3.05; 10 Be; Germany; lin SXFBerlin (Schonefeld) SXF; 15:40; Berlin TXLBerlin (Tegel) TXL U25828
+16/05/19; easyJet; 0; 13.61; 00 Ni; Germany; e NCE; 16:25; Nice NCE U24545
+18/08/19; easyJet; 0; 15.24; 55 Be; Germany; lin SXFBerlin (Schonefeld) SXF; 19:00; Berlin SXFBerlin (Schonefeld) SXF U24546
+23/08/19; easyJet; 0; 20.68; 10 Tu; Germany; in TRN; 09:00; Turin TRN U24587
+11/05/19; easyJet; 0; 8.18; 50 Do; Germany; tmund DTM; 16:05; Berlin SXFBerlin (Schonefeld) SXF U24588
+15/05/19; easyJet; 0; 11.59; 35 Lo; Germany; don LTNLondon (Luton) LTN; 22:10; London LTNLondon (Luton) LTN U22176
+09/09/19; easyJet; 0; 17.52; 40 Be; Germany; lin SXFBerlin (Schonefeld) SXF; 16:55; Dortmund DTM U22175
+16/09/19; easyJet; 0; 11.59; 10 Li; Germany; erpool LPL; 22:50; Liverpool LPL U27224
+27/04/19; Ryanair; 0; 4.01; 15:25; Greece; Mikonos JMK; 16:55; Paphos PFO
+02/05/19; Ryanair; 0; 4.01; 15:25; Greece; Paphos PFO; 16:55; Mikonos JMK
+03/05/19; Ryanair; 0; 3.99; 20:40; Greece; Kefalonia EFL; 22:05; London STNLondon (Stansted) STN
+10/05/19; Ryanair; 0; 19.64; 14:50; Greece; London STNLondon (Stansted) STN; 20:15; Kefalonia EFL
+21/05/19; Ryanair; 0; 12.99; 11:55; Greece; Kalamata KLX; 13:15; Milan BGYMilan (Bergamo) BGY
+28/05/19; Ryanair; 0; 12.99; 08:10; Greece; Milan BGYMilan (Bergamo) BGY; 11:30; Kalamata KLX
+14/05/19; Ryanair; 0; 12.99; 23:55; Greece; Corfu CFU; 00:40; Bologna BLQ
+21/05/19; Ryanair; 0; 12.99; 20:45; Greece; Bologna BLQ; 23:30; Corfu CFU
+07/05/19; Ryanair; 0; 14.99; 16:00; Greece; Athens ATH; 18:30; Billund BLL
+14/05/19; Ryanair; 0; 14.60; 18:55; Greece; Billund BLL; 23:15; Athens ATH
+08/05/19; Ryanair; 0; 14.99; 10:10; Greece; Kefalonia EFL; 11:55; Berlin TXLBerlin (Tegel) TXL
+15/05/19; Ryanair; 0; 14.99; 06:00; Greece; Berlin TXLBerlin (Tegel) TXL; 09:45; Kefalonia EFL
+06/05/19; Laudamotion; 0; 14.99; 15:00; Greece; Kalamata KLX; 16:00; Vienna VIE
+13/05/19; Laudamotion; 0; 14.99; 11:15; Greece; Vienna VIE; 14:20; Kalamata KLX
+15/05/19; Ryanair; 0; 14.99; 19:45; Greece; Corfu CFU; 21:10; Frankfurt FRA
+21/05/19; Ryanair; 0; 14.99; 15:30; Greece; Frankfurt FRA; 18:50; Corfu CFU
+12/06/19; Ryanair; 0; 14.99; 13:35; Greece; Athens ATH; 14:55; Sofia SOF
+18/06/19; Ryanair; 0; 14.99; 11:15; Greece; Sofia SOF; 12:35; Athens ATH
+07/05/19; Ryanair; 0; 14.99; 17:00; Greece; Kefalonia EFL; 18:10; Milan BGYMilan (Bergamo) BGY
+14/05/19; Ryanair; 0; 14.99; 13:30; Greece; Milan BGYMilan (Bergamo) BGY; 16:35; Kefalonia EFL
+29/05/19; Ryanair; 0; 12.99; 23:25; Greece; Thessaloni SKG; 00:25; Bologna BLQ
+05/06/19; Ryanair; 0; 17.99; 20:05; Greece; Bologna BLQ; 23:00; Thessaloni SKG
+29/04/19; Ryanair; 0; 12.99; 15:05; Greece; Thessaloni SKG; 15:50; Malta MLA
+06/05/19; Ryanair; 0; 17.99; 11:55; Greece; Malta MLA; 14:40; Thessaloni SKG
+07/05/19; Ryanair; 0; 4.99; 19:55; Greece; Kefalonia EFL; 21:35; Frankfurt FRA
+14/05/19; Ryanair; 0; 26.10; 15:50; Greece; Frankfurt FRA; 19:30; Kefalonia EFL
+17/05/19; Wizz Air; 0; 14.99; 21:30; Greece; Thessaloni SKG; 22:25; Vienna VIE
+22/05/19; Wizz Air; 0; 17.49; 18:05; Greece; Vienna VIE; 20:55; Thessaloni SKG
+14/05/19; Ryanair; 0; 14.99; 22:35; Greece; Thessaloni SKG; 23:15; Budapest BUD
+18/05/19; Ryanair; 0; 17.80; 10:55; Greece; Budapest BUD; 13:35; Thessaloni SKG
+23/07/19; Ryanair; 0; 16.99; 23:15; Greece; Athens ATH; 00:05; Santorini JTR
+31/07/19; Ryanair; 0; 16.99; 00:35; Greece; Santorini JTR; 01:25; Athens ATH
+17/07/19; Ryanair; 0; 16.99; 00:35; Greece; Santorini JTR; 01:25; Athens ATH
+23/07/19; Ryanair; 0; 16.99; 23:15; Greece; Athens ATH; 00:05; Santorini JTR
+29/05/19; Ryanair; 0; 14.99; 18:30; Greece; Thessaloni SKG; 20:00; Berlin SXFBerlin (Schonefeld) SXF
+05/06/19; Ryanair; 0; 19.99; 20:25; Greece; Berlin SXFBerlin (Schonefeld) SXF; 23:55; Thessaloni SKG
+07/06/19; Ryanair; 0; 24.99; 07:50; Greece; Thessaloni SKG; 09:05; Warsaw WMIWarsaw (Modlin) WMI
+14/06/19; Ryanair; 0; 10.01; 09:30; Greece; Warsaw WMIWarsaw (Modlin) WMI; 12:45; Thessaloni SKG
+18/05/19; Ryanair; 0; 17.99; 18:50; Greece; Athens ATH; 20:25; Lodz LCJ
+25/05/19; Ryanair; 0; 17.75; 20:50; Greece; Lodz LCJ; 00:30; Athens ATH
+28/05/19; Ryanair; 0; 12.99; 18:05; Greece; Thessaloni SKG; 19:45; Frankfurt HHNFrankfurt (Hahn) HHN
+01/06/19; Ryanair; 0; 22.98; 17:55; Greece; Frankfurt HHNFrankfurt (Hahn) HHN; 21:30; Thessaloni SKG
+16/06/19; Ryanair; 0; 17.99; 22:15; Greece; Kalamata KLX; 23:50; Sofia SOF
+23/06/19; Ryanair; 0; 17.99; 20:20; Greece; Sofia SOF; 21:50; Kalamata KLX
+13/05/19; Ryanair; 0; 17.99; 06:30; Greece; Athens ATH; 07:20; Palermo PMO
+20/05/19; Ryanair; 0; 17.99; 07:45; Greece; Palermo PMO; 10:35; Athens ATH
+15/05/19; Ryanair; 0; 17.99; 13:15; Greece; Thessaloni SKG; 15:05; Bremen BRE
+22/05/19; Ryanair; 0; 17.99; 15:30; Greece; Bremen BRE; 19:20; Thessaloni SKG
+09/05/19; Ryanair; 0; 17.99; 18:50; Greece; Thessaloni SKG; 21:00; Goteborg GOTGoteborg (Landvetter) GOT
+13/05/19; Ryanair; 0; 19.69; 18:35; Greece; Goteborg GOTGoteborg (Landvetter) GOT; 22:45; Thessaloni SKG
+29/05/19; Ryanair; 0; 17.99; 07:50; Greece; Thessaloni SKG; 08:55; Milan BGYMilan (Bergamo) BGY
+05/06/19; Ryanair; 0; 19.99; 09:20; Greece; Milan BGYMilan (Bergamo) BGY; 12:25; Thessaloni SKG
+24/05/19; Ryanair; 0; 19.99; 09:35; Greece; Athens ATH; 11:25; Poznan POZ
+31/05/19; Ryanair; 0; 19.85; 11:50; Greece; Poznan POZ; 15:35; Athens ATH
+04/10/19; Ryanair; 0; 19.97; 15:25; Greece; Chania CHQ; 16:45; Thessaloni SKG
+11/10/19; Ryanair; 0; 19.97; 13:40; Greece; Thessaloni SKG; 15:00; Chania CHQ
+08/10/19; Ryanair; 0; 19.99; 09:55; Greece; Thessaloni SKG; 10:45; Rome CIARome (Ciampino) CIA
+12/10/19; Ryanair; 0; 19.99; 06:45; Greece; Rome CIARome (Ciampino) CIA; 09:30; Thessaloni SKG
+02/06/19; Ryanair; 0; 19.99; 21:05; Greece; Thessaloni SKG; 21:45; Naples NAP
+09/06/19; Ryanair; 0; 19.99; 22:10; Greece; Naples NAP; 00:50; Thessaloni SKG
+28/05/19; Laudamotion; 0; 14.99; 13:40; Greece; Kos KGS; 15:10; Vienna VIE
+04/06/19; Laudamotion; 0; 24.99; 09:30; Greece; Vienna VIE; 13:05; Kos KGS
+28/05/19; Ryanair; 0; 19.99; 09:10; Greece; Thessaloni SKG; 11:20; Paris BVAParis (Beauvais) BVA
+04/06/19; Ryanair; 0; 19.99; 11:45; Greece; Paris BVAParis (Beauvais) BVA; 15:35; Thessaloni SKG
+24/09/19; Ryanair; 0; 19.99; 17:50; Greece; Chania CHQ; 19:15; Paphos PFO
+28/09/19; Ryanair; 0; 19.99; 19:15; Greece; Paphos PFO; 20:50; Chania CHQ
+03/06/19; Ryanair; 0; 19.99; 14:25; Greece; Athens ATH; 15:00; Catania CTA
+10/06/19; Ryanair; 0; 19.99; 15:25; Greece; Catania CTA; 18:00; Athens ATH
+15/05/19; Laudamotion; 0; 19.99; 23:00; Greece; Mikonos JMK; 00:20; Vienna VIE
+22/05/19; Laudamotion; 0; 19.99; 19:10; Greece; Vienna VIE; 22:25; Mikonos JMK
+15/05/19; Ryanair; 0; 19.99; 20:50; Greece; Chania CHQ; 23:15; Frankfurt HHNFrankfurt (Hahn) HHN
+22/05/19; Ryanair; 0; 19.99; 16:15; Greece; Frankfurt HHNFrankfurt (Hahn) HHN; 20:25; Chania CHQ
+17/05/19; Wizz Air; 0; 14.99; 21:30; Greece; Thessaloni SKG; 22:25; Vienna VIE
+21/05/19; Laudamotion; 1; 7.99; 06:10; Vienna VIE; 11:50; Thessaloni SKG
+21/05/19; Ryanair; 1; 17.99; 08:45; Greece; Milan BGYMilan (Bergamo) BGY; 07:40; Milan BGYMilan (Bergamo) BGY OE1318
+15/05/19; Ryanair; 1; 14.68; 23:25; Greece; Thessaloni SKG; 00:25; Bologna BLQ
+22/05/19; Laudamotion; 1; 9.99; 15:45; Bologna BLQ; 20:55; Thessaloni SKG
+22/05/19; Wizz Air; 1; 17.49; 18:05; Greece; Vienna VIE; 17:05; Vienna VIE OE1303
+10/05/19; Ryanair; 1; 3.99; 20:40; Greece; Kefalonia EFL; 22:05; London STNLondon (Stansted) STN
+14/05/19; Ryanair; 1; 23.57; 08:05; London STNLondon (Stansted) STN; 16:35; Kefalonia EFL
+14/05/19; Ryanair; 1; 14.99; 13:30; Greece; Milan BGYMilan (Bergamo) BGY; 11:05; Milan BGYMilan (Bergamo) BGY FR4192
+28/05/19; Ryanair; 1; 9.99; 23:00; Greece; Corfu CFU; 23:45; Bratislava BTS
+04/06/19; Ryanair; 0; 32.63; 19:50; Greece; Bratislava BTS; 22:35; Corfu CFU
+02/05/19; Ryanair; 0; 17.99; 16:30; Greece; Corfu CFU; 17:10; Budapest BUD
+09/05/19; Ryanair; 0; 24.73; 13:20; Greece; Budapest BUD; 16:00; Corfu CFU
+18/06/19; Ryanair; 0; 19.99; 21:00; Greece; Athens ATH; 21:50; Malta MLA
+22/06/19; Ryanair; 0; 22.98; 16:25; Greece; Malta MLA; 19:10; Athens ATH
+12/06/19; Ryanair; 1; 17.99; 08:40; Athens ATH; 00:25; Sofia SOF
+12/06/19; Wizz Air; 1; 9.99; 21:55; Greece; Bratislava BTS; 09:50; Bratislava BTS FR1246
+18/06/19; Ryanair; 1; 14.99; 11:15; Greece; Sofia SOF; 12:35; Athens ATH
+28/05/19; Ryanair; 0; 17.99; 09:35; Greece; Athens ATH; 11:10; Memmingen FMM
+01/06/19; Ryanair; 0; 24.99; 20:25; Greece; Memmingen FMM; 23:59; Athens ATH
+29/05/19; Ryanair; 0; 17.99; 20:55; Greece; Thessaloni SKG; 22:55; Brussels CRLBrussels (Charleroi) CRL
+04/06/19; Ryanair; 0; 24.99; 16:00; Greece; Brussels CRLBrussels (Charleroi) CRL; 19:45; Thessaloni SKG
+02/05/19; Ryanair; 0; 4.99; 16:55; Greece; Corfu CFU; 18:20; Warsaw WMIWarsaw (Modlin) WMI
+06/05/19; Ryanair; 0; 38.37; 09:20; Greece; Warsaw WMIWarsaw (Modlin) WMI; 12:40; Corfu CFU
+22/05/19; Ryanair; 0; 22.02; 15:55; Greece; Athens ATH; 17:40; Bucharest OTPBucharest (Otopeni) OTP
+29/05/19; Ryanair; 0; 22.02; 13:45; Greece; Bucharest OTPBucharest (Otopeni) OTP; 15:30; Athens ATH
+22/05/19; Ryanair; 0; 17.99; 12:30; Greece; Corfu CFU; 14:15; Brussels CRLBrussels (Charleroi) CRL
+26/05/19; Ryanair; 0; 26.10; 17:05; Greece; Brussels CRLBrussels (Charleroi) CRL; 20:45; Corfu CFU
+15/05/19; Ryanair; 0; 19.99; 21:50; Greece; Athens ATH; 23:25; Milan BGYMilan (Bergamo) BGY
+21/05/19; Ryanair; 0; 24.47; 17:10; Greece; Milan BGYMilan (Bergamo) BGY; 20:35; Athens ATH
+29/04/19; Wizz Air; 0; 29.99; 16:45; Greece; Thessaloni SKG; 18:25; Iasi IAS
+03/05/19; Wizz Air; 0; 14.51; 14:25; Greece; Iasi IAS; 16:10; Thessaloni SKG
+26/05/19; Wizz Air; 0; 24.99; 10:25; Greece; Athens ATH; 11:55; Katowice KTW
+02/06/19; Ryanair; 0; 19.85; 20:40; Greece; Katowice KTW; 00:05; Athens ATH
+06/06/19; Ryanair; 1; 19.99; 18:50; Thessaloni SKG; 23:15; Warsaw WMIWarsaw (Modlin) WMI
+06/06/19; Ryanair; 1; 14.99; 21:15; Greece; Milan BGYMilan (Bergamo) BGY; 19:55; Milan BGYMilan (Bergamo) BGY FR4775
+11/06/19; Ryanair; 1; 10.01; 08:45; Greece; Warsaw WMIWarsaw (Modlin) WMI; 12:00; Thessaloni SKG
+25/05/19; Ryanair; 1; 17.99; 14:00; Thessaloni SKG; 21:35; Berlin SXFBerlin (Schonefeld) SXF
+25/05/19; Wizz Air; 1; 9.34; 20:05; Greece; Budapest BUD; 14:40; Budapest BUD FR5251
+31/05/19; Ryanair; 1; 17.99; 20:15; Greece; Berlin SXFBerlin (Schonefeld) SXF; 23:45; Thessaloni SKG
+07/06/19; Ryanair; 0; 17.99; 19:50; Greece; Thessaloni SKG; 20:40; Bratislava BTS
+14/06/19; Ryanair; 0; 27.53; 21:05; Greece; Bratislava BTS; 23:55; Thessaloni SKG
+17/05/19; Laudamotion; 1; 14.99; 15:50; Corfu CFU; 19:25; Bologna BLQ
+17/05/19; Laudamotion; 1; 17.94; 18:05; Greece; Vienna VIE; 16:45; Vienna VIE OE1035
+21/05/19; Ryanair; 1; 12.99; 20:45; Greece; Bologna BLQ; 23:30; Corfu CFU
+12/09/19; Ryanair; 0; 22.98; 20:05; Greece; Athens ATH; 21:05; Rome CIARome (Ciampino) CIA
+19/09/19; Ryanair; 0; 22.98; 06:15; Greece; Rome CIARome (Ciampino) CIA; 09:10; Athens ATH
+01/06/19; Ryanair; 0; 22.98; 09:15; Greece; Chania CHQ; 10:50; Sofia SOF
+08/06/19; Ryanair; 0; 22.98; 07:15; Greece; Sofia SOF; 08:50; Chania CHQ
+20/09/19; Ryanair; 0; 22.98; 09:50; Greece; Thessaloni SKG; 11:45; Paphos PFO
+26/09/19; Ryanair; 0; 22.98; 19:20; Greece; Paphos PFO; 21:20; Thessaloni SKG
+28/05/19; Ryanair; 0; 12.99; 11:55; Greece; Kalamata KLX; 13:15; Milan BGYMilan (Bergamo) BGY
+02/06/19; Wizz Air; 1; 14.99; 09:20; Milan BGYMilan (Bergamo) BGY; 21:50; Kalamata KLX
+02/06/19; Ryanair; 1; 17.99; 20:20; Greece; Sofia SOF; 12:20; Sofia SOF W64352
+06/06/19; Ryanair; 1; 22.99; 16:25; Greece; Athens ATH; 18:35; Karlsruhe FKBKarlsruhe-Baden Baden FKB
+13/06/19; Ryanair; 0; 22.99; 19:00; Greece; Karlsruhe FKBKarlsruhe-Baden Baden FKB; 22:50; Athens ATH
+06/05/19; Ryanair; 0; 26.10; 21:55; Greece; Thessaloni SKG; 23:50; Barcelona GROBarcelona (Girona) GRO
+10/05/19; Ryanair; 0; 19.99; 12:55; Greece; Barcelona GROBarcelona (Girona) GRO; 16:35; Thessaloni SKG
+20/05/19; Ryanair; 0; 23.65; 11:00; Greece; Thessaloni SKG; 12:35; Karlsruhe FKBKarlsruhe-Baden Baden FKB
+27/05/19; Ryanair; 0; 23.65; 07:00; Greece; Karlsruhe FKBKarlsruhe-Baden Baden FKB; 10:35; Thessaloni SKG
+28/05/19; Ryanair; 0; 14.99; 22:35; Greece; Thessaloni SKG; 23:15; Budapest BUD
+05/06/19; Ryanair; 1; 12.49; 08:10; Budapest BUD; 23:55; Thessaloni SKG
+05/06/19; Ryanair; 1; 19.99; 20:25; Greece; Berlin SXFBerlin (Schonefeld) SXF; 09:40; Berlin SXFBerlin (Schonefeld) SXF FR197
+14/05/19; Ryanair; 1; 17.99; 18:00; Greece; Mikonos JMK; 19:25; Bologna BLQ
+22/05/19; Laudamotion; 1; 9.99; 15:45; Bologna BLQ; 22:25; Mikonos JMK
+22/05/19; Laudamotion; 1; 19.99; 19:10; Greece; Vienna VIE; 17:05; Vienna VIE OE1303
+28/05/19; Ryanair; 1; 17.99; 12:15; Greece; Thessaloni SKG; 13:20; Milan BGYMilan (Bergamo) BGY
+05/06/19; Ryanair; 1; 9.99; 06:45; Milan BGYMilan (Bergamo) BGY; 19:20; Thessaloni SKG
+05/06/19; Ryanair; 1; 19.99; 15:30; Greece; Bremen BRE; 08:30; Bremen BRE FR5217
+08/05/19; Volotea; 1; 19.00; 19:20; Greece; Mikonos JMK; 20:05; Athens ATH
+14/05/19; Volotea; 0; 29.00; 07:35; Greece; Athens ATH; 08:25; Mikonos JMK
+28/05/19; Volotea; 0; 29.00; 17:10; Greece; Athens ATH; 18:00; Mikonos JMK
+05/06/19; Volotea; 0; 19.00; 17:50; Greece; Mikonos JMK; 18:35; Athens ATH
+21/05/19; Ryanair; 1; 17.99; 12:15; Thessaloni SKG; 15:50; Budapest BUD
+21/05/19; Ryanair; 1; 12.99; 14:20; Greece; Milan BGYMilan (Bergamo) BGY; 13:20; Milan BGYMilan (Bergamo) BGY FR4775
+25/05/19; Ryanair; 1; 17.80; 10:55; Greece; Budapest BUD; 13:35; Thessaloni SKG
+07/06/19; Ryanair; 0; 28.99; 19:05; Greece; Thessaloni SKG; 21:15; Stockholm NYOStockholm (Skavsta) NYO
+14/06/19; Ryanair; 1; 9.84; 06:35; Stockholm NYOStockholm (Skavsta) NYO; 12:45; Thessaloni SKG
+14/06/19; Ryanair; 1; 10.01; 09:30; Greece; Warsaw WMIWarsaw (Modlin) WMI; 08:05; Warsaw WMIWarsaw (Modlin) WMI FR7011
+09/10/19; easyJet; 1; 13.68; 10:25; Greece; Mikonos JMK; 12:05; Milan MXPMilan (Malpensa) MXP
+16/10/19; easyJet; 0; 15.25; 06:00; Greece; Milan MXPMilan (Malpensa) MXP; 09:35; Mikonos JMK
+11/05/19; easyJet; 0; 13.68; 23:00; Greece; Corfu CFU; 23:55; Milan MXPMilan (Malpensa) MXP
+15/05/19; easyJet; 0; 15.25; 12:15; Greece; Milan MXPMilan (Malpensa) MXP; 15:10; Corfu CFU
+22/05/19; Ryanair; 0; 24.47; 17:50; Greece; Chania CHQ; 19:45; Bucharest OTPBucharest (Otopeni) OTP
+29/05/19; Ryanair; 0; 24.47; 15:05; Greece; Bucharest OTPBucharest (Otopeni) OTP; 17:00; Chania CHQ
+14/05/19; Ryanair; 0; 17.99; 20:10; Greece; Thessaloni SKG; 22:10; Brussels CRLBrussels (Charleroi) CRL
+21/05/19; Ryanair; 1; 12.99; 06:20; Brussels CRLBrussels (Charleroi) CRL; 11:50; Thessaloni SKG
+21/05/19; Ryanair; 1; 17.99; 08:45; Greece; Milan BGYMilan (Bergamo) BGY; 07:50; Milan BGYMilan (Bergamo) BGY FR4522
+23/05/19; Ryanair; 1; 19.99; 06:30; Greece; Athens ATH; 22:10; Billund BLL
+28/05/19; Ryanair; 0; 15.02; 55 Bi; Greece; lund BLL; 22:10; Billund BLL FR5178
+24/05/19; Ryanair; 0; 14.60; 35 Th; Greece; ssaloni SKG; 23:15; Athens ATH FR4935
+29/05/19; Ryanair; 1; 23.65; 45 Ma; ta MLA; 10:20; Malta MLA FR8293
+29/05/19; Ryanair; 1; 12.99; 12:45; Greece; Malta MLA; 23:00; Thessaloni SKG
+10/10/19; Ryanair; 1; 12.99; 10 Th; Greece; ssaloni SKG; 23:00; Thessaloni SKG FR9974
+17/10/19; Ryanair; 0; 24.99; 30 Kr; Greece; kow KRK; 18:10; Krakow KRK FR2778
+02/10/19; Ryanair; 0; 24.75; 15 At; Greece; ens ATH; 16:30; Thessaloni SKG FR2777
+09/10/19; Ryanair; 0; 24.99; 10 Rz; Greece; szow RZERzeszow-Jasionka RZE; 15:45; Rzeszow RZERzeszow-Jasionka RZE FR4899
+07/06/19; Ryanair; 0; 24.75; 00 At; Greece; ens ATH; 19:40; Athens ATH FR4900
+14/06/19; Ryanair; 0; 24.99; 15 Ma; Greece; rakech RAK; 14:20; Marrakech RAK FR5118
+18/09/19; Ryanair; 0; 24.87; 25 Co; Greece; fu CFU; 12:35; Athens ATH FR5119
+25/09/19; Ryanair; 0; 24.99; 20 Pi; Greece; a PSA; 21:10; Pisa PSA FR2729
+22/10/19; Ryanair; 0; 24.99; 25 Th; Greece; ssaloni SKG; 20:00; Corfu CFU FR2728
+28/10/19; Ryanair; 0; 24.99; 00 Me; Greece; mingen FMM; 13:35; Memmingen FMM FR1879
+30/04/19; Ryanair; 0; 24.99; 50 Co; Greece; fu CFU; 19:10; Thessaloni SKG FR1878
+07/05/19; Ryanair; 0; 35.08; 25 Lo; Greece; don SENLondon (Southend) SEN; 19:50; London SENLondon (Southend) SEN FR2710
+16/10/19; Ryanair; 0; 15.02; 45 Th; Greece; ssaloni SKG; 18:25; Corfu CFU FR2709
+20/10/19; Ryanair; 0; 19.97; 50 Ch; Greece; nia CHQ; 21:05; Chania CHQ FR5335
+06/05/19; Ryanair; 0; 30.49; 55 Co; Greece; fu CFU; 23:10; Thessaloni SKG FR5336
+13/05/19; Ryanair; 0; 22.98; 55 Co; Greece; ogne CGNCologne-Bonn CGN; 21:30; Cologne CGNCologne-Bonn CGN FR8055
+22/05/19; Ryanair; 1; 27.73; 50 Th; ssaloni SKG; 19:25; Corfu CFU FR8056
+22/05/19; Ryanair; 1; 17.99; 07:50; Greece; Thessaloni SKG; 21:45; Cologne CGNCologne-Bonn CGN
+29/05/19; Ryanair; 1; 9.99; 00 Co; Greece; ogne CGNCologne-Bonn CGN; 21:45; Cologne CGNCologne-Bonn CGN FR5531
+29/05/19; Ryanair; 0; 9.99; 20:05; Greece; Bologna BLQ; 13:40; Bologna BLQ FR1602
+05/06/19; Ryanair; 1; 12.99; 18:30; Thessaloni SKG; 20:00; Berlin SXFBerlin (Schonefeld) SXF
+05/06/19; Ryanair; 1; 14.99; 25 Be; Greece; lin SXFBerlin (Schonefeld) SXF; 20:00; Berlin SXFBerlin (Schonefeld) SXF FR1147
+29/05/19; Ryanair; 1; 17.99; 20:05; Greece; Bologna BLQ; 13:10; Bologna BLQ FR136
+05/06/19; Ryanair; 0; 17.99; 07:50; Greece; Thessaloni SKG; 11:25; Vienna VIE
+31/05/19; Ryanair; 1; 17.99; 15 Vi; nna VIE; 11:25; Vienna VIE OE1319
+31/05/19; Laudamotion; 1; 7.99; 18:15; Greece; Vienna VIE; 21:05; Thessaloni SKG
+05/06/19; Wizz Air; 1; 24.99; 07:50; Greece; Thessaloni SKG; 23:59; Milan BGYMilan (Bergamo) BGY
+28/05/19; Ryanair; 0; 17.99; 20 Mi; Greece; an BGYMilan (Bergamo) BGY; 23:59; Milan BGYMilan (Bergamo) BGY FR3899
+02/06/19; Ryanair; 0; 13.08; 55 He; Greece; aklion HER; 12:25; Thessaloni SKG FR4774
+14/05/19; Ryanair; 0; 19.99; 30 Vi; Greece; nna VIE; 09:35; Vienna VIE OE9125
+21/05/19; Laudamotion; 0; 14.99; 20 Co; Greece; fu CFU; 07:55; Heraklion HER OE9124
+19/05/19; Laudamotion; 0; 36.71; 50 Du; Greece; sseldor DUS; 18:55; Duesseldor DUS OE161
+26/05/19; Laudamotion; 0; 31.81; 40 Pr; Greece; veza PVKPreveza-Lefkas PVK; 16:25; Corfu CFU OE160
+17/06/19; Laudamotion; 0; 19.99; 15 Be; Greece; lin TXLBerlin (Tegel) TXL; 13:30; Berlin TXLBerlin (Tegel) TXL U25672
+23/06/19; easyJet; 0; 13.68; 35 At; Greece; ens ATH; 10:55; Preveza PVKPreveza-Lefkas PVK U25671
+15/05/19; easyJet; 0; 18.15; 30 Bu; Greece; apest BUD; 23:35; Budapest BUD FR1242
+21/05/19; Ryanair; 1; 22.98; 00 Co; fu CFU; 09:30; Athens ATH FR1243
+21/05/19; Ryanair; 1; 28.97; 20:00; Greece; Corfu CFU; 21:15; London STNLondon (Stansted) STN
+29/10/19; Ryanair; 1; 19.99; 07:30; Greece; London STNLondon (Stansted) STN; 18:50; Corfu CFU
+05/11/19; Ryanair; 0; 17.33; 55 Th; Greece; ssaloni SKG; 18:50; Corfu CFU FR4164
+26/04/19; Ryanair; 0; 14.99; 40 Ei; Greece; dhoven EIN; 19:00; Eindhoven EIN FR1818
+03/05/19; Ryanair; 0; 22.98; 25 Co; Greece; fu CFU; 23:30; Thessaloni SKG FR1819
+07/05/19; Ryanair; 0; 29.57; 40 Po; Greece; nan POZ; 17:45; Poznan POZ FR8071
+14/05/19; Ryanair; 0; 26.10; 30 Rh; Greece; des RHO; 16:00; Corfu CFU FR8072
+05/06/19; Ryanair; 0; 26.49; 35 Ro; Greece; e FCORome (Fiumicino) FCO; 20:05; Rome FCORome (Fiumicino) FCO FR5367
+12/06/19; Ryanair; 0; 37.63; 40 At; Greece; ens ATH; 18:05; Rhodes RHO FR5366
+28/05/19; Ryanair; 1; 14.99; 15 Br; tislava BTS; 09:50; Bratislava BTS FR1246
+28/05/19; Ryanair; 1; 17.99; 10:15; Greece; Bratislava BTS; 13:25; Athens ATH
+05/06/19; Ryanair; 1; 34.67; 09:10; Greece; Thessaloni SKG; 14:20; Bologna BLQ
+24/05/19; Ryanair; 0; 19.99; 05 Bo; Greece; ogna BLQ; 14:20; Bologna BLQ FR4304
+31/05/19; Ryanair; 0; 14.99; 05 At; Greece; ens ATH; 23:00; Thessaloni SKG FR9974
+15/05/19; Ryanair; 1; 17.99; 05 Wr; claw WRO; 15:40; Wroclaw WRO FR4936
+15/05/19; Ryanair; 1; 19.99; 16:05; Greece; Wroclaw WRO; 19:40; Athens ATH
+22/05/19; Ryanair; 1; 33.11; 13:15; Greece; Thessaloni SKG; 16:50; London STNLondon (Stansted) STN
+19/10/19; Ryanair; 0; 17.99; 00 Lo; Greece; don STNLondon (Stansted) STN; 16:50; London STNLondon (Stansted) STN FR3676
+26/10/19; Ryanair; 0; 7.99; 15:30; Greece; Bremen BRE; 10:25; Bremen BRE FR9509
+01/05/19; Ryanair; 0; 9.24; 11:20; Greece; Santorini JTR; 13:05; Milan MXPMilan (Malpensa) MXP
+05/05/19; Ryanair; 0; 17.99; 07:00; Greece; Milan MXPMilan (Malpensa) MXP; 10:40; Santorini JTR
+16/10/19; easyJet; 0; 18.23; 11:55; Greece; Rhodes RHO; 14:55; Stockholm NYOStockholm (Skavsta) NYO
+23/10/19; easyJet; 0; 15.25; 14:15; Greece; Stockholm NYOStockholm (Skavsta) NYO; 19:05; Rhodes RHO
+01/06/19; Ryanair; 0; 24.99; 07:00; Greece; Athens ATH; 08:50; London STNLondon (Stansted) STN
+08/06/19; Ryanair; 0; 28.58; 18:20; Greece; London STNLondon (Stansted) STN; 23:59; Athens ATH
+14/05/19; Ryanair; 0; 24.99; 18:45; Greece; Kalamata KLX; 20:30; London STNLondon (Stansted) STN
+21/05/19; Ryanair; 0; 28.89; 12:45; Greece; London STNLondon (Stansted) STN; 18:20; Kalamata KLX
+24/10/19; Ryanair; 0; 24.99; 13:00; Greece; Corfu CFU; 14:25; Birmingham BHX
+30/10/19; Ryanair; 0; 28.89; 07:10; Greece; Birmingham BHX; 12:25; Corfu CFU
+28/04/19; Ryanair; 0; 19.99; 21:45; Greece; Athens ATH; 23:30; Warsaw WMIWarsaw (Modlin) WMI
+05/05/19; Ryanair; 0; 33.95; 19:40; Greece; Warsaw WMIWarsaw (Modlin) WMI; 23:20; Athens ATH
+05/05/19; Ryanair; 0; 29.57; 09:30; Greece; Rhodes RHO; 11:10; Vienna VIE
+12/05/19; Ryanair; 0; 24.75; 05:30; Greece; Vienna VIE; 09:05; Rhodes RHO
+30/04/19; Laudamotion; 0; 29.37; 08:50; Greece; Corfu CFU; 09:40; Vienna VIE
+07/05/19; Laudamotion; 1; 24.99; 05:30; Vienna VIE; 08:20; Corfu CFU
+07/05/19; Laudamotion; 1; 39.46; 25 Ch; Greece; nia CHQ; 08:20; Corfu CFU OE1034
+29/05/19; Laudamotion; 1; 14.99; 50 Ma; Greece; chester MAN; 22:50; Manchester MAN FR2822
+05/06/19; Ryanair; 0; 19.99; 15:10; Greece; Brussels CRLBrussels (Charleroi) CRL; 10:15; Brussels CRLBrussels (Charleroi) CRL FR3238
+23/05/19; Ryanair; 0; 11.55; 09:45; Greece; Athens ATH; 11:10; Bologna BLQ
+28/05/19; Ryanair; 0; 22.99; 11:35; Greece; Bologna BLQ; 14:45; Athens ATH
+30/05/19; Ryanair; 0; 17.99; 21:00; Greece; Thessaloni SKG; 22:55; Dusseldorf NRNDusseldorf (Weeze) NRN
+06/06/19; Ryanair; 0; 36.71; 16:50; Greece; Dusseldorf NRNDusseldorf (Weeze) NRN; 20:35; Thessaloni SKG
+02/06/19; Ryanair; 0; 19.99; 09:45; Greece; Athens ATH; 10:45; Rhodes RHO
+06/06/19; Ryanair; 0; 34.87; 15:40; Greece; Rhodes RHO; 16:45; Athens ATH
+22/05/19; Volotea; 0; 35.97; 10:15; Greece; Rhodes RHO; 11:20; Athens ATH
+29/05/19; Volotea; 1; 19.00; 14:15; Athens ATH; 15:15; Rhodes RHO
+29/05/19; Volotea; 1; 19.00; 40 At; Greece; ens ATH; 15:15; Rhodes RHO V74266
+18/05/19; Volotea; 1; 35.97; 30 Ro; Greece; e CIARome (Ciampino) CIA; 10:35; Rome CIARome (Ciampino) CIA FR1199
+22/05/19; Ryanair; 0; 17.99; 13:45; Greece; Bucharest OTPBucharest (Otopeni) OTP; 09:35; Bucharest OTPBucharest (Otopeni) OTP FR3956
+26/05/19; Ryanair; 0; 14.99; 14:00; Greece; Thessaloni SKG; 19:45; Brussels CRLBrussels (Charleroi) CRL
+03/06/19; Ryanair; 0; 22.02; 45 Br; Greece; ssels CRLBrussels (Charleroi) CRL; 19:45; Brussels CRLBrussels (Charleroi) CRL W62283
+28/04/19; Ryanair; 0; 17.99; 20 At; Greece; ens ATH; 20:30; Thessaloni SKG FR6446
+02/05/19; Wizz Air; 0; 9.34; 30 Te; Greece;  Aviv-Y TLVTel Aviv-Yafo (Ben Gurion) TLV; 09:25; Tel Aviv-Y TLVTel Aviv-Yafo (Ben Gurion) TLV FR2823
+16/05/19; Ryanair; 1; 27.73; 25 Co; fu CFU; 23:50; Athens ATH FR2824
+16/05/19; Ryanair; 1; 24.47; 12:25; Greece; Corfu CFU; 13:45; East Midla EMA
+22/05/19; Ryanair; 1; 30.59; 09:10; Greece; East Midla EMA; 14:25; Corfu CFU
+09/05/19; Ryanair; 0; 14.99; 10:50; Greece; Thessaloni SKG; 15:25; Bari BRI
+16/05/19; Ryanair; 0; 40.31; 45 Ba; Greece; i BRI; 15:25; Bari BRI FR5214
+06/07/19; Ryanair; 0; 12.99; 18:05; Greece; Vienna VIE; 14:20; Vienna VIE W62822
+13/07/19; Ryanair; 0; 9.99; 18:55; Greece; Mikonos JMK; 21:00; Frankfurt FRA
+06/06/19; Wizz Air; 0; 14.99; 14:35; Greece; Frankfurt FRA; 18:30; Mikonos JMK
+11/06/19; Wizz Air; 0; 17.49; 15:05; Greece; Rhodes RHO; 16:10; Catania CTA
+23/05/19; Ryanair; 0; 27.73; 11:15; Greece; Catania CTA; 14:20; Rhodes RHO
+27/05/19; Ryanair; 0; 27.73; 14:40; Greece; Thessaloni SKG; 16:30; Hamburg HAM
+21/04/19; Ryanair; 0; 24.99; 15:20; Greece; Hamburg HAM; 19:10; Thessaloni SKG
+28/04/19; Ryanair; 0; 30.59; 11:55; Greece; Athens ATH; 14:00; Frankfurt FRA
+31/05/19; Ryanair; 0; 22.99; 06:50; Greece; Frankfurt FRA; 10:45; Athens ATH
+07/06/19; Ryanair; 0; 32.63; 15:40; Greece; Chania CHQ; 18:00; Bristol BRS
+20/06/19; Ryanair; 0; 17.99; 09:15; Greece; Bristol BRS; 15:15; Chania CHQ
+27/06/19; Ryanair; 0; 37.63; 09:45; Greece; Athens ATH; 11:15; Genova GOA
+05/06/19; Ryanair; 0; 38.34; 06:00; Greece; Genova GOA; 09:20; Athens ATH
+09/06/19; Ryanair; 1; 17.33; 21:35; Athens ATH; 23:05; Verona VRN
+09/06/19; Volotea; 1; 29.00; 50 Ve; Greece; ona VRN; 23:05; Verona VRN V71693
+07/06/19; Volotea; 1; 26.72; 50 At; Greece; ens ATH; 21:10; Athens ATH V71692
+14/06/19; Volotea; 0; 29.00; 10 Mi; Greece; an BGYMilan (Bergamo) BGY; 23:25; Milan BGYMilan (Bergamo) BGY FR1260
+02/10/19; Volotea; 0; 26.72; 20:40; Greece; Katowice KTW; 17:00; Katowice KTW FR5426
+09/10/19; Ryanair; 0; 22.99; 19:20; Greece; Athens ATH; 19:55; Bari BRI
+05/12/19; Ryanair; 0; 12.99; 17:10; Greece; Bari BRI; 19:40; Athens ATH
+12/12/19; Ryanair; 0; 19.85; 08:20; Greece; Thessaloni SKG; 10:15; Copenhagen CPH
+20/06/19; Volotea; 0; 30.83; 10:40; Greece; Copenhagen CPH; 14:35; Thessaloni SKG
+27/06/19; Volotea; 0; 26.72; 11:25; Greece; Athens ATH; 13:55; Brussels CRLBrussels (Charleroi) CRL
+26/06/19; Ryanair; 0; 28.99; 06:50; Greece; Brussels CRLBrussels (Charleroi) CRL; 11:00; Athens ATH
+03/07/19; Ryanair; 0; 28.93; 19:45; Greece; Zakinthos ZTH; 20:25; Palermo PMO
+16/10/19; Ryanair; 0; 28.99; 16:50; Greece; Palermo PMO; 19:20; Zakinthos ZTH
+22/10/19; Ryanair; 0; 28.99; 19:50; Greece; Athens ATH; 20:45; Heraklion HER
+15/05/19; Volotea; 0; 29.00; 21:10; Greece; Heraklion HER; 22:05; Athens ATH
+22/05/19; Volotea; 0; 29.00; 10:00; Greece; Athens ATH; 11:45; Larnaca LCA
+14/05/19; Volotea; 0; 39.05; 07:30; Greece; Larnaca LCA; 09:15; Athens ATH
+19/05/19; Volotea; 0; 19.00; 21:50; Greece; Thessaloni SKG; 23:10; Stuttgart STR
+02/10/19; Blue Air; 0; 29.99; 17:55; Greece; Stuttgart STR; 21:10; Thessaloni SKG
+06/10/19; Blue Air; 0; 29.99; 11:25; Greece; Thessaloni SKG; 12:35; Munich MUC
+23/10/19; Eurowings; 0; 29.99; 05:50; Greece; Munich MUC; 08:55; Thessaloni SKG
+30/10/19; Eurowings; 0; 29.99; 14:15; Greece; Athens ATH; 16:05; London LTNLondon (Luton) LTN
+08/05/19; Eurowings; 1; 29.99; 22:40; London LTNLondon (Luton) LTN; 04:25; Athens ATH
+08/05/19; Eurowings; 1; 29.99; 00 At; Greece; ens ATH; 04:25; Athens ATH W64469
+14/05/19; Ryanair; 1; 28.99; 30 Kr; Greece; kow KRK; 20:25; Krakow KRK FR2610
+27/05/19; Wizz Air; 0; 31.20; 50 Co; Greece; fu CFU; 14:55; Athens ATH FR2611
+04/06/19; Ryanair; 0; 30.59; 20:10; Greece; Milan MXPMilan (Malpensa) MXP; 16:45; Milan MXPMilan (Malpensa) MXP U22948
+27/10/19; Ryanair; 0; 30.73; 06:00; Greece; Berlin TXLBerlin (Tegel) TXL; 09:25; Corfu CFU
+31/10/19; easyJet; 0; 13.68; 18:05; Greece; Athens ATH; 20:05; Berlin SXFBerlin (Schonefeld) SXF
+08/05/19; Ryanair; 1; 9.99; 17:00; Berlin SXFBerlin (Schonefeld) SXF; 20:55; Athens ATH
+08/05/19; Ryanair; 1; 17.99; 40 At; Greece; ens ATH; 20:55; Athens ATH U24613
+12/05/19; Ryanair; 1; 19.99; 30 Nu; Greece; rnberg NUE; 12:25; Nuernberg NUE FR6441
+09/10/19; easyJet; 1; 23.20; 50 Co; fu CFU; 10:15; Athens ATH FR6440
+09/10/19; Ryanair; 1; 34.67; 15:50; Greece; Corfu CFU; 22:55; Vienna VIE
+16/10/19; Ryanair; 1; 28.99; 30 Vi; Greece; nna VIE; 22:55; Vienna VIE W62848
+27/10/19; easyJet; 0; 13.68; 35 Mi; Greece; onos JMK; 08:20; Corfu CFU OE1034
+04/11/19; Wizz Air; 0; 14.99; 14:15; Greece; Geneva GVA; 12:30; Geneva GVA U21578
+22/08/19; Laudamotion; 0; 14.99; 15:15; Greece; Manchester MAN; 21:20; Mikonos JMK
+29/08/19; easyJet; 0; 16.21; 15:25; Greece; Thessaloni SKG; 17:50; Tel Aviv-Y TLVTel Aviv-Yafo (Ben Gurion) TLV
+07/05/19; easyJet; 1; 9.86; 20:45; Tel Aviv-Y TLVTel Aviv-Yafo (Ben Gurion) TLV; 23:10; Thessaloni SKG
+07/05/19; easyJet; 1; 18.69; 55 Co; Greece; fu CFU; 23:10; Thessaloni SKG FR5526
+15/05/19; Ryanair; 1; 35.69; 40 Be; Greece; lin TXLBerlin (Tegel) TXL; 12:45; Berlin TXLBerlin (Tegel) TXL U25936
+08/05/19; Ryanair; 0; 29.57; 35 Ke; Greece; alonia EFL; 10:15; Corfu CFU U25935
+14/05/19; easyJet; 1; 20.75; 18:50; Manchester MAN; 13:20; Manchester MAN U21992
+14/05/19; easyJet; 1; 25.22; 00 Be; Greece; lin TXLBerlin (Tegel) TXL; 21:45; Berlin TXLBerlin (Tegel) TXL U21895
+30/05/19; easyJet; 1; 13.68; 35 Co; Greece; fu CFU; 09:45; Kefalonia EFL FR355
+04/06/19; easyJet; 1; 17.52; 30 Lo; don LTNLondon (Luton) LTN; 14:45; London LTNLondon (Luton) LTN U22372
+04/06/19; Ryanair; 1; 14.99; 15:30; Greece; London LTNLondon (Luton) LTN; 23:30; Corfu CFU
+11/10/19; easyJet; 1; 18.23; 30 Th; Greece; ssaloni SKG; 23:30; Corfu CFU FR5154
+15/10/19; Ryanair; 0; 15.02; 30 Ba; Greece; el-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL; 18:00; Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL U21110
+16/05/19; Ryanair; 1; 12.99; 19:30; Budapest BUD; 12:10; Budapest BUD U21233
+16/05/19; easyJet; 1; 18.23; 10 Mi; Greece; onos JMK; 22:10; Thessaloni SKG FR5250
+22/05/19; easyJet; 1; 9.18; 35 Lo; Greece; don LTNLondon (Luton) LTN; 16:05; London LTNLondon (Luton) LTN U22188
+30/06/19; Ryanair; 0; 19.28; 25 Mi; Greece; onos JMK; 13:30; Mikonos JMK U22187
+08/07/19; easyJet; 0; 25.30; 21:30; Greece; Milan MXPMilan (Malpensa) MXP; 12:05; Milan MXPMilan (Malpensa) MXP U22952
+09/10/19; easyJet; 1; 23.36; 19:10; Vienna VIE; 22:25; Mikonos JMK
+09/10/19; easyJet; 1; 13.68; 05 Co; Greece; fu CFU; 22:25; Mikonos JMK OE1068
+15/10/19; Wizz Air; 1; 14.99; 40 Na; Greece; les NAP; 10:15; Naples NAP U24844
+18/06/19; Laudamotion; 0; 19.99; 25 Mi; Greece; onos JMK; 17:45; Corfu CFU U24843
+25/06/19; easyJet; 0; 18.23; 17:25; Greece; Milan MXPMilan (Malpensa) MXP; 12:05; Milan MXPMilan (Malpensa) MXP U22952
+15/05/19; easyJet; 1; 31.41; 07:35; London LTNLondon (Luton) LTN; 13:30; Mikonos JMK
+15/05/19; easyJet; 1; 13.68; 45 Ka; Greece; amata KLX; 13:30; Mikonos JMK U22187
+21/05/19; easyJet; 1; 12.73; 05 Ma; Greece; chester MAN; 14:50; Manchester MAN U21900
+03/05/19; easyJet; 0; 23.36; 50 Co; Greece; fu CFU; 12:00; Kalamata KLX U21899
+08/05/19; easyJet; 1; 25.30; 21:50; Milan MXPMilan (Malpensa) MXP; 16:45; Milan MXPMilan (Malpensa) MXP U22948
+08/05/19; easyJet; 1; 24.53; 30 Lo; Greece; don STNLondon (Stansted) STN; 22:55; London STNLondon (Stansted) STN FR8737
+15/05/19; easyJet; 1; 13.68; 15:30; Greece; Frankfurt FRA; 10:05; Frankfurt FRA FR1687
+22/05/19; Ryanair; 1; 4.99; 14:30; Mikonos JMK; 16:25; London LGWLondon (Gatwick) LGW
+22/05/19; Ryanair; 1; 17.33; 55 Lo; Greece; don LGWLondon (Gatwick) LGW; 16:25; London LGWLondon (Gatwick) LGW U28156
+29/04/19; Ryanair; 1; 14.99; 19:10; Greece; Vienna VIE; 10:05; Vienna VIE U28955
+04/05/19; easyJet; 0; 13.68; 15:40; Greece; Mikonos JMK; 22:55; London STNLondon (Stansted) STN
+22/08/19; easyJet; 0; 17.52; 35 Lo; Greece; don STNLondon (Stansted) STN; 22:55; London STNLondon (Stansted) STN FR8737
+29/08/19; Laudamotion; 1; 19.99; 19:10; Vienna VIE; 11:40; Vienna VIE OE1315
+29/08/19; easyJet; 1; 14.69; 45 Ko; Greece;  KGS; 22:25; Mikonos JMK OE1068
+07/05/19; Ryanair; 1; 4.99; 30 Be; Greece; lin TXLBerlin (Tegel) TXL; 15:50; Berlin TXLBerlin (Tegel) TXL FR252
+14/05/19; Laudamotion; 0; 11.55; 55 Co; Greece; fu CFU; 17:50; Kos KGS U25789
+08/05/19; Laudamotion; 1; 19.99; 05 Be; lin TXLBerlin (Tegel) TXL; 12:45; Berlin TXLBerlin (Tegel) TXL U25936
+08/05/19; Ryanair; 1; 12.99; 06:05; Greece; Berlin TXLBerlin (Tegel) TXL; 14:55; Corfu CFU
+14/05/19; easyJet; 1; 38.35; 00 Co; Greece; fu CFU; 14:55; Corfu CFU U22947
+15/05/19; easyJet; 1; 20.75; 45 Be; lin SXFBerlin (Schonefeld) SXF; 13:30; Berlin SXFBerlin (Schonefeld) SXF U24732
+15/05/19; Ryanair; 1; 17.99; 07:45; Greece; Berlin SXFBerlin (Schonefeld) SXF; 11:20; Corfu CFU
+21/05/19; easyJet; 1; 12.73; 15:50; Greece; Corfu CFU; 22:40; Berlin SXFBerlin (Schonefeld) SXF
+09/05/19; easyJet; 0; 25.30; 45 Be; Greece; lin SXFBerlin (Schonefeld) SXF; 22:40; Berlin SXFBerlin (Schonefeld) SXF U24676
+15/05/19; easyJet; 1; 26.74; 10 Ke; alonia EFL; 11:20; Corfu CFU U24731
+15/05/19; easyJet; 1; 13.68; 10:10; Greece; Kefalonia EFL; 18:45; Frankfurt FRA
+18/10/19; easyJet; 1; 11.72; 50 Fr; Greece; nkfurt FRA; 18:45; Frankfurt FRA U25553
+23/10/19; easyJet; 0; 26.74; 30 Co; Greece; fu CFU; 19:30; Kefalonia EFL FR4366
+30/05/19; Ryanair; 0; 14.99; 10 Bu; Greece; apest BUD; 17:10; Budapest BUD FR8053
+05/06/19; easyJet; 1; 24.21; 12:15; Milan MXPMilan (Malpensa) MXP; 07:55; Milan MXPMilan (Malpensa) MXP W62333
+05/06/19; Ryanair; 1; 12.99; 30 Mi; Greece; onos JMK; 15:10; Corfu CFU U22947
+30/07/19; Ryanair; 1; 17.99; 05 Lo; Greece; don LGWLondon (Gatwick) LGW; 16:25; London LGWLondon (Gatwick) LGW U28156
+06/08/19; Wizz Air; 0; 19.03; 05 Th; Greece; ssaloni SKG; 13:50; Mikonos JMK U28155
+03/05/19; easyJet; 0; 15.25; 20 Na; Greece; les NAP; 21:45; Naples NAP FR1370
+07/05/19; easyJet; 1; 16.21; 18:15; Vienna VIE; 10:00; Vienna VIE U24851
+07/05/19; easyJet; 1; 36.20; 50 At; Greece; ens ATH; 21:05; Thessaloni SKG W62839
+17/10/19; Ryanair; 1; 14.99; 10 Be; Greece; lin TXLBerlin (Tegel) TXL; 14:55; Berlin TXLBerlin (Tegel) TXL U25938
+22/10/19; easyJet; 0; 12.73; 10 Mi; Greece; onos JMK; 12:05; Athens ATH U25937
+07/05/19; Wizz Air; 1; 24.99; 10 Lo; don LTNLondon (Luton) LTN; 16:05; London LTNLondon (Luton) LTN U22188
+07/05/19; easyJet; 1; 27.82; 07:10; Greece; London LTNLondon (Luton) LTN; 14:55; Mikonos JMK
+14/05/19; easyJet; 1; 25.22; 25 He; Greece; aklion HER; 14:55; Mikonos JMK U22953
+16/10/19; easyJet; 0; 13.68; 00 Mi; Greece; an MXPMilan (Malpensa) MXP; 12:15; Milan MXPMilan (Malpensa) MXP U22962
+20/10/19; easyJet; 0; 22.19; 35 Ke; Greece; alonia EFL; 09:45; Heraklion HER U22961
+14/05/19; easyJet; 1; 17.27; 18:30; Manchester MAN; 13:20; Manchester MAN U21992
+14/05/19; easyJet; 1; 37.92; 20 Br; Greece; ssels CRLBrussels (Charleroi) CRL; 20:55; Brussels CRLBrussels (Charleroi) CRL FR3222
+21/05/19; easyJet; 1; 15.25; 13:30; Greece; Milan BGYMilan (Bergamo) BGY; 07:50; Milan BGYMilan (Bergamo) BGY FR4522
+18/05/19; easyJet; 1; 13.68; 22:00; Preveza PVKPreveza-Lefkas PVK; 23:40; Manchester MAN
+18/05/19; Ryanair; 1; 11.55; 25 Ma; Greece; chester MAN; 23:40; Manchester MAN U21994
+26/05/19; Ryanair; 1; 12.99; 00 Co; Greece; fu CFU; 21:55; Preveza PVKPreveza-Lefkas PVK U21993
+11/05/19; Ryanair; 0; 14.99; 17:10; Greece; Berlin TXLBerlin (Tegel) TXL; 11:30; Berlin TXLBerlin (Tegel) TXL FR55
+15/05/19; easyJet; 1; 35.90; 15:30; Frankfurt FRA; 18:50; Corfu CFU
+15/05/19; easyJet; 1; 17.52; 25 Mi; Greece; onos JMK; 18:50; Corfu CFU FR4164
+24/09/19; Ryanair; 1; 17.99; 13:35; Greece; Milan MXPMilan (Malpensa) MXP; 12:05; Milan MXPMilan (Malpensa) MXP U22952
+01/10/19; easyJet; 0; 20.68; 10:25; Greece; Bordeaux BOD; 14:55; Mikonos JMK
+08/05/19; Ryanair; 1; 14.99; 21:35; Corfu CFU; 23:05; Berlin SXFBerlin (Schonefeld) SXF
+08/05/19; easyJet; 1; 18.23; 15 Be; Greece; lin SXFBerlin (Schonefeld) SXF; 23:05; Berlin SXFBerlin (Schonefeld) SXF U24732
+15/05/19; easyJet; 1; 12.73; 12:15; Greece; Milan MXPMilan (Malpensa) MXP; 09:05; Milan MXPMilan (Malpensa) MXP U24673
+24/08/19; Ryanair; 0; 22.98; 14:00; Greece; Athens ATH; 14:45; Naples NAP
+29/08/19; easyJet; 0; 25.30; 10:35; Greece; Naples NAP; 13:20; Athens ATH
+07/05/19; easyJet; 1; 13.61; 15:50; Corfu CFU; 22:40; Berlin SXFBerlin (Schonefeld) SXF
+07/05/19; easyJet; 1; 15.25; 20:55; Greece; Milan MXPMilan (Malpensa) MXP; 16:45; Milan MXPMilan (Malpensa) MXP U22948
+15/05/19; easyJet; 1; 34.39; 07:15; Greece; Berlin SXFBerlin (Schonefeld) SXF; 15:10; Corfu CFU
+14/10/19; easyJet; 1; 19.80; 30 Rh; des RHO; 15:10; Corfu CFU U22947
+14/10/19; easyJet; 1; 13.68; 16:30; Greece; Rhodes RHO; 18:30; Milan MXPMilan (Malpensa) MXP
+19/10/19; easyJet; 1; 11.72; 06:00; Greece; Milan MXPMilan (Malpensa) MXP; 09:50; Rhodes RHO
+28/05/19; easyJet; 1; 13.61; 13:35; Corfu CFU; 19:55; Milan MXPMilan (Malpensa) MXP
+28/05/19; easyJet; 1; 15.25; 18:50; Greece; Stuttgart STR; 14:50; Stuttgart STR EW2619
+04/06/19; Blue Panorama; 1; 39.04; 12:15; Greece; Milan MXPMilan (Malpensa) MXP; 15:10; Corfu CFU
+19/10/19; easyJet; 1; 15.25; 14:25; Athens ATH; 22:30; Naples NAP
+19/10/19; Eurowings; 1; 29.99; 21:25; Greece; Catania CTA; 15:00; Catania CTA FR5104
+23/10/19; easyJet; 1; 9.06; 10:35; Greece; Naples NAP; 13:20; Athens ATH
+04/10/19; easyJet; 0; 15.25; 16:00; Greece; Athens ATH; 21:35; Berlin SXFBerlin (Schonefeld) SXF
+09/10/19; Ryanair; 1; 24.99; 00 Be; lin SXFBerlin (Schonefeld) SXF; 21:35; Berlin SXFBerlin (Schonefeld) SXF W62315
+09/10/19; easyJet; 1; 12.73; 17:00; Greece; Berlin SXFBerlin (Schonefeld) SXF; 20:55; Athens ATH
+08/05/19; easyJet; 1; 17.27; 07:00; Greece; Athens ATH; 13:05; Milan MXPMilan (Malpensa) MXP
+14/05/19; Wizz Air; 1; 22.49; 55 Mi; an MXPMilan (Malpensa) MXP; 13:05; Milan MXPMilan (Malpensa) MXP U22960
+14/05/19; Wizz Air; 1; 9.34; 10:55; Greece; Milan MXPMilan (Malpensa) MXP; 14:25; Athens ATH
+12/06/19; easyJet; 1; 23.20; 11:45; Greece; Athens ATH; 12:20; Catania CTA
+19/06/19; Ryanair; 0; 21.59; 07:00; Greece; Catania CTA; 14:25; Athens ATH
+09/05/19; easyJet; 0; 18.23; 50 Co; Greece; fu CFU; 14:25; Athens ATH U22607
+14/05/19; easyJet; 0; 15.25; 19:40; Greece; Milan MXPMilan (Malpensa) MXP; 16:45; Milan MXPMilan (Malpensa) MXP U22948
+09/07/19; Ryanair; 0; 8.85; 20:40; Poland; Krakow KRK; 21:55; Szczecin SZZ
+16/07/19; Ryanair; 0; 8.85; 22:20; Poland; Szczecin SZZ; 23:35; Krakow KRK
+13/06/19; Ryanair; 0; 8.85; 08:10; Poland; Gdansk GDN; 09:15; Wroclaw WRO
+18/06/19; Ryanair; 0; 8.85; 06:40; Poland; Wroclaw WRO; 07:45; Gdansk GDN
+18/07/19; Ryanair; 0; 8.85; 09:00; Poland; Szczecin SZZ; 10:15; Krakow KRK
+25/07/19; Ryanair; 0; 8.85; 07:20; Poland; Krakow KRK; 08:35; Szczecin SZZ
+16/05/19; Ryanair; 0; 8.85; 06:40; Poland; Wroclaw WRO; 07:45; Gdansk GDN
+23/05/19; Ryanair; 0; 8.85; 08:10; Poland; Gdansk GDN; 09:15; Wroclaw WRO
+08/05/19; Ryanair; 0; 8.85; 22:30; Poland; Gdansk GDN; 23:40; Krakow KRK
+15/05/19; Ryanair; 0; 8.85; 20:50; Poland; Krakow KRK; 22:05; Gdansk GDN
+08/05/19; Ryanair; 0; 8.85; 20:50; Poland; Krakow KRK; 22:05; Gdansk GDN
+13/05/19; Ryanair; 0; 8.85; 22:30; Poland; Gdansk GDN; 23:40; Krakow KRK
+20/06/19; Ryanair; 0; 9.11; 18:40; Poland; Gdansk GDN; 19:50; Aarhus AAR
+27/06/19; Ryanair; 0; 9.78; 20:15; Poland; Aarhus AAR; 21:20; Gdansk GDN
+20/06/19; Ryanair; 0; 9.11; 18:10; Poland; Poznan POZ; 19:30; Billund BLL
+27/06/19; Ryanair; 0; 9.78; 19:55; Poland; Billund BLL; 21:15; Poznan POZ
+11/06/19; Ryanair; 0; 9.11; 08:25; Poland; Poznan POZ; 09:55; Stockholm NYOStockholm (Skavsta) NYO
+18/06/19; Ryanair; 0; 9.84; 06:30; Poland; Stockholm NYOStockholm (Skavsta) NYO; 08:00; Poznan POZ
+31/05/19; Ryanair; 0; 9.11; 08:30; Poland; Warsaw WMIWarsaw (Modlin) WMI; 10:00; Stockholm NYOStockholm (Skavsta) NYO
+08/06/19; Ryanair; 0; 9.84; 14:30; Poland; Stockholm NYOStockholm (Skavsta) NYO; 16:00; Warsaw WMIWarsaw (Modlin) WMI
+19/06/19; Ryanair; 0; 9.11; 19:45; Poland; Warsaw WMIWarsaw (Modlin) WMI; 21:15; Goteborg GOTGoteborg (Landvetter) GOT
+26/06/19; Ryanair; 0; 9.84; 21:40; Poland; Goteborg GOTGoteborg (Landvetter) GOT; 23:15; Warsaw WMIWarsaw (Modlin) WMI
+21/05/19; Ryanair; 0; 9.11; 08:10; Poland; Gdansk GDN; 09:25; Stockholm NYOStockholm (Skavsta) NYO
+27/05/19; Ryanair; 0; 9.84; 06:55; Poland; Stockholm NYOStockholm (Skavsta) NYO; 08:10; Gdansk GDN
+13/12/19; Wizz Air; 0; 9.11; 14:20; Poland; Gdansk GDN; 17:35; Kharkov HRK
+20/12/19; Wizz Air; 0; 9.90; 18:05; Poland; Kharkov HRK; 19:30; Gdansk GDN
+16/02/20; Wizz Air; 0; 9.11; 12:40; Poland; Gdansk GDN; 15:00; Lviv LWO
+23/02/20; Wizz Air; 0; 9.90; 15:30; Poland; Lviv LWO; 15:45; Gdansk GDN
+11/02/20; Wizz Air; 0; 9.11; 06:00; Poland; Katowice KTW; 08:00; Lviv LWO
+18/02/20; Wizz Air; 0; 9.90; 12:00; Poland; Lviv LWO; 11:55; Katowice KTW
+14/03/20; Wizz Air; 0; 9.11; 11:30; Poland; Wroclaw WRO; 13:40; Lviv LWO
+19/03/20; Wizz Air; 0; 9.90; 14:10; Poland; Lviv LWO; 14:20; Wroclaw WRO
+26/01/20; Wizz Air; 0; 9.11; 18:20; Poland; Wroclaw WRO; 21:40; Kharkov HRK
+02/02/20; Wizz Air; 0; 9.90; 22:10; Poland; Kharkov HRK; 23:25; Wroclaw WRO
+29/01/20; Wizz Air; 0; 9.11; 13:55; Poland; Krakow KRK; 17:00; Turku TKU
+05/02/20; Wizz Air; 0; 9.99; 17:35; Poland; Turku TKU; 18:40; Krakow KRK
+04/06/19; Wizz Air; 0; 9.11; 11:50; Poland; Katowice KTW; 13:35; Milan BGYMilan (Bergamo) BGY
+11/06/19; Wizz Air; 0; 9.99; 14:05; Poland; Milan BGYMilan (Bergamo) BGY; 15:45; Katowice KTW
+20/05/19; Laudamotion; 0; 9.11; 13:25; Poland; Krakow KRK; 14:25; Vienna VIE
+26/05/19; Laudamotion; 0; 9.99; 20:45; Poland; Vienna VIE; 21:45; Krakow KRK
+22/05/19; Ryanair; 0; 9.11; 12:50; Poland; Wroclaw WRO; 14:30; Brussels CRLBrussels (Charleroi) CRL
+29/05/19; Ryanair; 0; 9.99; 10:45; Poland; Brussels CRLBrussels (Charleroi) CRL; 12:25; Wroclaw WRO
+06/06/19; Wizz Air; 0; 9.11; 10:30; Poland; Gdansk GDN; 12:25; Eindhoven EIN
+12/06/19; Wizz Air; 0; 9.99; 13:00; Poland; Eindhoven EIN; 14:45; Gdansk GDN
+30/05/19; Ryanair; 0; 9.11; 20:40; Poland; Warsaw WMIWarsaw (Modlin) WMI; 22:45; Brussels CRLBrussels (Charleroi) CRL
+06/06/19; Ryanair; 0; 9.99; 16:35; Poland; Brussels CRLBrussels (Charleroi) CRL; 18:30; Warsaw WMIWarsaw (Modlin) WMI
+18/06/19; Ryanair; 0; 9.11; 19:40; Poland; Bydgoszcz BZG; 22:30; Kiev KBPKiev (Borispol) KBP
+25/06/19; Ryanair; 0; 9.99; 18:10; Poland; Kiev KBPKiev (Borispol) KBP; 19:00; Bydgoszcz BZG
+22/06/19; Wizz Air; 0; 9.11; 07:00; Poland; Gdansk GDN; 09:25; Turku TKU
+26/06/19; Wizz Air; 0; 9.99; 13:45; Poland; Turku TKU; 14:10; Gdansk GDN
+06/03/20; Wizz Air; 0; 9.11; 13:45; Poland; Gdansk GDN; 15:15; Vienna VIE
+13/03/20; Wizz Air; 0; 9.99; 21:30; Poland; Vienna VIE; 23:00; Gdansk GDN
+07/11/19; Wizz Air; 0; 9.11; 06:35; Poland; Krakow KRK; 08:30; Eindhoven EIN
+12/11/19; Wizz Air; 0; 9.99; 09:05; Poland; Eindhoven EIN; 10:55; Krakow KRK
+06/06/19; Wizz Air; 0; 9.11; 11:45; Poland; Poznan POZ; 13:20; Eindhoven EIN
+13/06/19; Wizz Air; 0; 9.99; 09:40; Poland; Eindhoven EIN; 11:10; Poznan POZ
+19/06/19; Ryanair; 0; 9.11; 12:10; Poland; Wroclaw WRO; 14:05; Oslo TRFOslo (Torp) TRF
+26/06/19; Ryanair; 0; 10.34; 14:30; Poland; Oslo TRFOslo (Torp) TRF; 16:20; Wroclaw WRO
+12/06/19; Ryanair; 0; 9.11; 06:40; Poland; Warsaw WMIWarsaw (Modlin) WMI; 08:30; Oslo TRFOslo (Torp) TRF
+18/06/19; Ryanair; 0; 10.34; 14:45; Poland; Oslo TRFOslo (Torp) TRF; 16:25; Warsaw WMIWarsaw (Modlin) WMI
+19/06/19; Wizz Air; 0; 9.11; 07:00; Poland; Katowice KTW; 09:00; Oslo TRFOslo (Torp) TRF
+24/06/19; Wizz Air; 0; 10.34; 13:10; Poland; Oslo TRFOslo (Torp) TRF; 15:05; Katowice KTW
+22/05/19; Wizz Air; 0; 9.11; 18:40; Poland; Warsaw WAW; 20:30; Oslo TRFOslo (Torp) TRF
+26/05/19; Wizz Air; 0; 10.34; 21:05; Poland; Oslo TRFOslo (Torp) TRF; 23:00; Warsaw WAW
+13/05/19; Wizz Air; 0; 9.11; 10:50; Poland; Poznan POZ; 12:30; Oslo TRFOslo (Torp) TRF
+20/05/19; Wizz Air; 0; 10.34; 08:35; Poland; Oslo TRFOslo (Torp) TRF; 10:10; Poznan POZ
+23/05/19; Wizz Air; 0; 9.11; 15:35; Poland; Gdansk GDN; 17:05; Oslo OSLOslo (Gardermoen) OSL
+31/05/19; Wizz Air; 0; 10.34; 17:55; Poland; Oslo OSLOslo (Gardermoen) OSL; 19:25; Gdansk GDN
+05/06/19; Wizz Air; 0; 9.11; 07:00; Poland; Gdansk GDN; 08:50; Haugesund HAU
+10/06/19; Wizz Air; 0; 10.34; 13:35; Poland; Haugesund HAU; 15:15; Gdansk GDN
+04/06/19; Ryanair; 0; 9.11; 13:40; Poland; Gdansk GDN; 15:10; Oslo TRFOslo (Torp) TRF
+09/06/19; Wizz Air; 0; 10.34; 08:35; Poland; Oslo TRFOslo (Torp) TRF; 09:55; Gdansk GDN
+15/05/19; Wizz Air; 0; 9.11; 12:45; Poland; Katowice KTW; 14:30; Stockholm NYOStockholm (Skavsta) NYO
+22/05/19; Wizz Air; 0; 10.42; 15:00; Poland; Stockholm NYOStockholm (Skavsta) NYO; 16:40; Katowice KTW
+20/05/19; Wizz Air; 0; 9.11; 11:30; Poland; Wroclaw WRO; 13:10; Stockholm NYOStockholm (Skavsta) NYO
+27/05/19; Wizz Air; 0; 10.42; 13:40; Poland; Stockholm NYOStockholm (Skavsta) NYO; 15:15; Wroclaw WRO
+26/05/19; Wizz Air; 0; 9.11; 06:10; Poland; Katowice KTW; 07:35; Malmo MMX
+02/06/19; Wizz Air; 0; 10.42; 13:50; Poland; Malmo MMX; 15:10; Katowice KTW
+29/06/19; Ryanair; 0; 15.18; 06:05; Poland; Krakow KRK; 08:00; Goteborg GOTGoteborg (Landvetter) GOT
+06/07/19; Ryanair; 0; 4.41; 08:25; Poland; Goteborg GOTGoteborg (Landvetter) GOT; 10:15; Krakow KRK
+14/01/20; Wizz Air; 0; 9.11; 15:50; Poland; Gdansk GDN; 17:10; Billund BLL
+21/01/20; Wizz Air; 0; 10.58; 17:40; Poland; Billund BLL; 18:55; Gdansk GDN
+30/05/19; Ryanair; 0; 9.11; 06:00; Poland; Krakow KRK; 07:20; Berlin TXLBerlin (Tegel) TXL
+05/06/19; Ryanair; 0; 12.99; 08:00; Poland; Berlin TXLBerlin (Tegel) TXL; 09:20; Krakow KRK
+02/09/19; Ryanair; 0; 11.44; 09:45; Poland; Krakow KRK; 12:50; Kharkov HRK
+09/09/19; Ryanair; 0; 11.99; 13:25; Poland; Kharkov HRK; 14:30; Krakow KRK
+18/06/19; Wizz Air; 0; 13.78; 07:10; Poland; Katowice KTW; 09:05; Eindhoven EIN
+25/06/19; Wizz Air; 0; 9.99; 13:55; Poland; Eindhoven EIN; 15:40; Katowice KTW
+28/05/19; Ryanair; 0; 9.11; 18:45; Poland; Warsaw WMIWarsaw (Modlin) WMI; 20:50; Milan BGYMilan (Bergamo) BGY
+05/06/19; Ryanair; 0; 14.99; 21:15; Poland; Milan BGYMilan (Bergamo) BGY; 23:15; Warsaw WMIWarsaw (Modlin) WMI
+16/06/19; Wizz Air; 0; 9.11; 07:10; Poland; Wroclaw WRO; 08:40; Dortmund DTM
+20/06/19; Wizz Air; 0; 14.99; 16:15; Poland; Dortmund DTM; 17:35; Wroclaw WRO
+25/05/19; Ryanair; 0; 13.08; 17:25; Poland; Olsztyn SZYOlsztyn-Mazury SZY; 18:50; London STNLondon (Stansted) STN
+30/05/19; Ryanair; 0; 11.55; 13:35; Poland; London STNLondon (Stansted) STN; 17:00; Olsztyn SZYOlsztyn-Mazury SZY
+18/06/19; Ryanair; 0; 3.95; 22:10; Poland; Szczecin SZZ; 23:05; London STNLondon (Stansted) STN
+23/06/19; Ryanair; 0; 20.79; 19:20; Poland; London STNLondon (Stansted) STN; 22:15; Szczecin SZZ
+22/05/19; Wizz Air; 0; 9.11; 14:55; Poland; Gdansk GDN; 16:55; Aalesund AES
+27/05/19; Wizz Air; 0; 16.61; 20:30; Poland; Aalesund AES; 22:25; Gdansk GDN
+22/05/19; Wizz Air; 0; 9.11; 10:30; Poland; Szczecin SZZ; 12:05; Stavanger SVG
+29/05/19; Wizz Air; 0; 16.61; 08:25; Poland; Stavanger SVG; 10:00; Szczecin SZZ
+29/05/19; Wizz Air; 0; 9.11; 11:25; Poland; Szczecin SZZ; 13:15; Bergen BGO
+02/06/19; Wizz Air; 0; 16.61; 09:10; Poland; Bergen BGO; 10:55; Szczecin SZZ
+06/06/19; Ryanair; 0; 13.08; 15:40; Poland; Gdansk GDN; 16:45; Vaxjo VXO
+13/06/19; Ryanair; 0; 12.81; 17:10; Poland; Vaxjo VXO; 18:15; Gdansk GDN
+12/06/19; Ryanair; 0; 13.08; 07:00; Poland; Poznan POZ; 10:00; Kiev KBPKiev (Borispol) KBP
+19/06/19; Ryanair; 0; 12.99; 10:35; Poland; Kiev KBPKiev (Borispol) KBP; 11:35; Poznan POZ
+18/06/19; Ryanair; 0; 13.08; 16:20; Poland; Poznan POZ; 18:05; Milan BGYMilan (Bergamo) BGY
+25/06/19; Ryanair; 0; 12.99; 14:10; Poland; Milan BGYMilan (Bergamo) BGY; 15:55; Poznan POZ
+16/05/19; Ryanair; 0; 13.08; 06:20; Poland; Krakow KRK; 07:55; Hamburg HAM
+23/05/19; Ryanair; 0; 12.99; 08:20; Poland; Hamburg HAM; 09:55; Krakow KRK
+12/06/19; Ryanair; 0; 13.08; 06:30; Poland; Warsaw WMIWarsaw (Modlin) WMI; 08:35; Lviv LWO
+19/06/19; Ryanair; 0; 12.99; 09:00; Poland; Lviv LWO; 09:05; Warsaw WMIWarsaw (Modlin) WMI
+17/07/19; Ryanair; 0; 13.08; 09:40; Poland; Warsaw WMIWarsaw (Modlin) WMI; 12:20; Kiev KBPKiev (Borispol) KBP
+24/07/19; Ryanair; 0; 12.99; 12:55; Poland; Kiev KBPKiev (Borispol) KBP; 13:35; Warsaw WMIWarsaw (Modlin) WMI
+19/06/19; Ryanair; 0; 13.08; 13:10; Poland; Krakow KRK; 14:55; Dortmund DTM
+26/06/19; Ryanair; 0; 12.99; 15:20; Poland; Dortmund DTM; 17:00; Krakow KRK
+17/05/19; Ryanair; 0; 13.08; 13:45; Poland; Krakow KRK; 15:50; Oslo TRFOslo (Torp) TRF
+25/05/19; Ryanair; 0; 13.48; 15:50; Poland; Oslo TRFOslo (Torp) TRF; 17:50; Krakow KRK
+15/05/19; Ryanair; 0; 9.11; 13:10; Poland; Krakow KRK; 15:10; Lviv LWO
+22/05/19; Ryanair; 0; 17.94; 15:35; Poland; Lviv LWO; 15:35; Krakow KRK
+13/06/19; Wizz Air; 0; 17.51; 18:40; Poland; Warsaw WAW; 19:55; Vienna VIE
+19/06/19; Wizz Air; 0; 9.99; 13:25; Poland; Vienna VIE; 14:40; Warsaw WAW
+28/05/19; Ryanair; 0; 13.08; 15:15; Poland; Krakow KRK; 16:50; Malmo MMX
+04/06/19; Ryanair; 0; 14.81; 17:15; Poland; Malmo MMX; 18:50; Krakow KRK
+21/05/19; Wizz Air; 0; 13.78; 09:30; Poland; Gdansk GDN; 10:30; Malmo MMX
+26/05/19; Wizz Air; 0; 14.24; 11:00; Poland; Malmo MMX; 11:55; Gdansk GDN
+27/05/19; Wizz Air; 0; 13.78; 16:20; Poland; Gdansk GDN; 17:35; Goteborg GOTGoteborg (Landvetter) GOT
+02/06/19; Wizz Air; 0; 14.24; 18:05; Poland; Goteborg GOTGoteborg (Landvetter) GOT; 19:20; Gdansk GDN
+27/05/19; Wizz Air; 0; 13.78; 16:00; Poland; Wroclaw WRO; 17:35; Goteborg GOTGoteborg (Landvetter) GOT
+03/06/19; Wizz Air; 0; 14.24; 18:05; Poland; Goteborg GOTGoteborg (Landvetter) GOT; 19:35; Wroclaw WRO
+24/06/19; Wizz Air; 0; 13.78; 19:50; Poland; Warsaw WAW; 21:05; Malmo MMX
+28/06/19; Wizz Air; 0; 14.24; 21:40; Poland; Malmo MMX; 22:55; Warsaw WAW
+28/05/19; Wizz Air; 0; 13.78; 09:45; Poland; Warsaw WAW; 11:25; Stockholm NYOStockholm (Skavsta) NYO
+04/06/19; Wizz Air; 0; 14.24; 12:00; Poland; Stockholm NYOStockholm (Skavsta) NYO; 13:30; Warsaw WAW
+04/06/19; Wizz Air; 0; 13.78; 11:30; Poland; Warsaw WAW; 13:05; Goteborg GOTGoteborg (Landvetter) GOT
+08/06/19; Wizz Air; 0; 14.24; 13:40; Poland; Goteborg GOTGoteborg (Landvetter) GOT; 15:10; Warsaw WAW
+28/10/19; Wizz Air; 0; 17.51; 19:40; Poland; Krakow KRK; 21:30; Billund BLL
+04/11/19; Wizz Air; 0; 10.58; 22:05; Poland; Billund BLL; 23:55; Krakow KRK
+14/05/19; Ryanair; 0; 13.08; 06:55; Poland; Warsaw WMIWarsaw (Modlin) WMI; 08:25; London STNLondon (Stansted) STN
+21/05/19; Ryanair; 0; 15.02; 12:00; Poland; London STNLondon (Stansted) STN; 15:15; Warsaw WMIWarsaw (Modlin) WMI
+06/06/19; Ryanair; 0; 13.08; 09:30; Poland; Gdansk GDN; 10:45; London STNLondon (Stansted) STN
+12/06/19; Ryanair; 0; 15.02; 11:10; Poland; London STNLondon (Stansted) STN; 14:20; Gdansk GDN
+22/06/19; Ryanair; 0; 15.18; 06:25; Poland; Warsaw WMIWarsaw (Modlin) WMI; 08:25; Eindhoven EIN
+26/06/19; Ryanair; 0; 12.99; 16:10; Poland; Eindhoven EIN; 17:55; Warsaw WMIWarsaw (Modlin) WMI
+27/05/19; Wizz Air; 1; 9.11; 06:25; Wroclaw WRO; 15:45; Gdansk GDN
+27/05/19; Ryanair; 1; 10.34; 14:15; Poland; Oslo TRFOslo (Torp) TRF; 08:15; Oslo TRFOslo (Torp) TRF W61879
+04/06/19; Ryanair; 1; 8.85; 08:10; Poland; Gdansk GDN; 09:15; Wroclaw WRO
+21/05/19; Ryanair; 1; 8.85; 06:40; Wroclaw WRO; 15:10; Oslo TRFOslo (Torp) TRF
+21/05/19; Ryanair; 1; 9.11; 13:40; Poland; Gdansk GDN; 07:45; Gdansk GDN FR4105
+27/05/19; Ryanair; 1; 10.34; 08:50; Poland; Oslo TRFOslo (Torp) TRF; 10:40; Wroclaw WRO
+13/06/19; Ryanair; 0; 8.85; 08:10; Poland; Gdansk GDN; 09:15; Wroclaw WRO
+19/06/19; Wizz Air; 1; 9.11; 06:25; Wroclaw WRO; 16:45; Gdansk GDN
+19/06/19; Ryanair; 1; 10.34; 15:15; Poland; Oslo TRFOslo (Torp) TRF; 08:15; Oslo TRFOslo (Torp) TRF W61879
+08/05/19; Ryanair; 1; 8.85; 20:50; Poland; Krakow KRK; 22:05; Gdansk GDN
+14/05/19; Wizz Air; 1; 9.11; 06:30; Gdansk GDN; 17:40; Krakow KRK
+14/05/19; Ryanair; 1; 10.34; 15:40; Poland; Oslo TRFOslo (Torp) TRF; 08:00; Oslo TRFOslo (Torp) TRF W61743
+23/05/19; Ryanair; 1; 8.85; 06:40; Poland; Wroclaw WRO; 07:45; Gdansk GDN
+31/05/19; Wizz Air; 1; 9.11; 06:30; Gdansk GDN; 10:40; Wroclaw WRO
+31/05/19; Ryanair; 1; 10.34; 08:50; Poland; Oslo TRFOslo (Torp) TRF; 08:00; Oslo TRFOslo (Torp) TRF W61743
+15/05/19; Wizz Air; 1; 9.11; 06:30; Poland; Gdansk GDN; 16:20; Wroclaw WRO
+23/05/19; Ryanair; 0; 10.34; 40 Wr; Poland; claw WRO; 16:20; Wroclaw WRO FR4128
+06/06/19; Ryanair; 1; 8.85; 40 Wr; claw WRO; 07:45; Gdansk GDN FR4105
+06/06/19; Ryanair; 1; 8.85; 06:40; Poland; Wroclaw WRO; 16:40; Stockholm NYOStockholm (Skavsta) NYO
+10/06/19; Wizz Air; 1; 9.11; 40 St; Poland; ckholm NYOStockholm (Skavsta) NYO; 16:40; Stockholm NYOStockholm (Skavsta) NYO W61733
+14/05/19; Wizz Air; 1; 10.42; 40 Gd; nsk GDN; 15:15; Wroclaw WRO W61872
+14/05/19; Wizz Air; 1; 13.78; 10:40; Poland; Gdansk GDN; 15:45; Stockholm NYOStockholm (Skavsta) NYO
+20/05/19; Ryanair; 1; 4.99; 55 St; Poland; ckholm NYOStockholm (Skavsta) NYO; 15:45; Stockholm NYOStockholm (Skavsta) NYO FR3794
+22/06/19; Ryanair; 0; 9.84; 35 Wa; Poland; saw WAW; 08:10; Gdansk GDN FR8451
+26/06/19; Wizz Air; 0; 13.78; 15 Br; Poland; ssels CRLBrussels (Charleroi) CRL; 20:40; Brussels CRLBrussels (Charleroi) CRL W61381
+08/01/20; Wizz Air; 0; 14.99; 45 Gd; Poland; nsk GDN; 23:15; Warsaw WAW W61382
+15/01/20; Wizz Air; 0; 13.78; 50 Br; Poland; men BRE; 20:15; Bremen BRE W61669
+13/06/19; Wizz Air; 0; 14.99; 15 Ka; Poland; owice KTW; 18:15; Gdansk GDN W61670
+17/06/19; Wizz Air; 0; 13.78; 40 Do; Poland; tmund DTM; 07:55; Dortmund DTM W61091
+14/01/20; Wizz Air; 0; 14.99; 50 Kr; Poland; kow KRK; 10:10; Katowice KTW W61092
+21/01/20; Wizz Air; 0; 13.78; 25 Ba; Poland; i BRI; 14:50; Bari BRI W65057
+05/06/19; Wizz Air; 0; 14.99; 20 Wr; Poland; claw WRO; 17:20; Krakow KRK W65058
+11/06/19; Wizz Air; 0; 13.78; 30 Ei; Poland; dhoven EIN; 17:00; Eindhoven EIN W61825
+26/06/19; Wizz Air; 0; 14.99; 00 Wa; Poland; saw WAW; 19:00; Wroclaw WRO W61826
+03/07/19; Wizz Air; 0; 13.78; 45 Ei; Poland; dhoven EIN; 09:00; Eindhoven EIN W61371
+27/05/19; Wizz Air; 0; 14.99; 15 Ka; Poland; owice KTW; 11:35; Warsaw WAW W61372
+31/05/19; Wizz Air; 0; 13.78; 25 Bo; Poland; ogna BLQ; 17:55; Bologna BLQ W61159
+18/05/19; Wizz Air; 1; 14.99; 25 Gd; nsk GDN; 20:05; Katowice KTW W61160
+18/05/19; Ryanair; 1; 9.11; 08:25; Poland; Gdansk GDN; 13:35; Bremen BRE
+25/05/19; Ryanair; 1; 4.68; 40 Br; Poland; men BRE; 13:35; Bremen BRE FR3795
+22/06/19; Wizz Air; 0; 14.99; 40 Gd; Poland; nsk GDN; 14:05; Gdansk GDN W61670
+29/06/19; Wizz Air; 0; 9.11; 45 Kr; Poland; stiansa KRS; 17:10; Kristiansa KRS W61769
+28/05/19; Wizz Air; 0; 19.75; 25 Gd; Poland; nsk GDN; 19:10; Gdansk GDN W61770
+04/06/19; Wizz Air; 0; 9.11; 50 Be; Poland; gen BGO; 08:20; Bergen BGO W61745
+24/05/19; Wizz Air; 0; 19.75; 30 Wa; Poland; saw WMIWarsaw (Modlin) WMI; 10:35; Gdansk GDN W61746
+28/05/19; Ryanair; 1; 9.11; 40 Me; mingen FMM; 16:15; Memmingen FMM FR5025
+28/05/19; Ryanair; 1; 9.99; 09:40; Poland; Memmingen FMM; 15:10; Warsaw WMIWarsaw (Modlin) WMI
+24/05/19; Ryanair; 1; 9.84; 15 Wa; Poland; saw WMIWarsaw (Modlin) WMI; 15:10; Warsaw WMIWarsaw (Modlin) WMI FR7011
+28/05/19; Ryanair; 0; 9.11; 14:55; Poland; Brussels CRLBrussels (Charleroi) CRL; 11:20; Brussels CRLBrussels (Charleroi) CRL FR1058
+17/05/19; Ryanair; 1; 9.99; 13:40; Stockholm NYOStockholm (Skavsta) NYO; 15:10; Warsaw WMIWarsaw (Modlin) WMI
+17/05/19; Ryanair; 1; 9.84; 30 Wa; Poland; saw WMIWarsaw (Modlin) WMI; 15:10; Warsaw WMIWarsaw (Modlin) WMI FR7011
+22/05/19; Ryanair; 1; 9.11; 12:20; Poland; Stockholm NYOStockholm (Skavsta) NYO; 10:00; Stockholm NYOStockholm (Skavsta) NYO FR7012
+24/03/20; Ryanair; 0; 9.84; 06:55; Poland; Brussels CRLBrussels (Charleroi) CRL; 08:50; Warsaw WMIWarsaw (Modlin) WMI
+28/03/20; Ryanair; 0; 9.99; 10:20; Poland; Katowice KTW; 13:25; Kharkov HRK
+14/05/19; Wizz Air; 0; 13.78; 13:55; Poland; Kharkov HRK; 15:05; Katowice KTW
+21/05/19; Wizz Air; 1; 15.19; 10:40; Gdansk GDN; 12:10; Bremen BRE
+21/05/19; Wizz Air; 1; 13.78; 10 Br; Poland; men BRE; 12:10; Bremen BRE W61669
+21/05/19; Ryanair; 1; 4.99; 17:15; Poland; Stockholm NYOStockholm (Skavsta) NYO; 15:45; Stockholm NYOStockholm (Skavsta) NYO FR3794
+25/05/19; Wizz Air; 1; 10.42; 08:10; Gdansk GDN; 13:45; Bremen BRE
+25/05/19; Ryanair; 1; 9.11; 12:10; Poland; Stockholm NYOStockholm (Skavsta) NYO; 09:25; Stockholm NYOStockholm (Skavsta) NYO FR8452
+26/04/19; Ryanair; 1; 4.68; 14:00; Poland; Bremen BRE; 18:20; Gdansk GDN
+30/04/19; Ryanair; 1; 4.99; 15 Gd; nsk GDN; 18:20; Gdansk GDN W61734
+30/04/19; Wizz Air; 1; 10.42; 06:15; Poland; Gdansk GDN; 07:25; Stockholm NYOStockholm (Skavsta) NYO
+17/06/19; Wizz Air; 1; 17.51; 06:45; Poland; Stockholm NYOStockholm (Skavsta) NYO; 12:55; Gdansk GDN
+25/06/19; Ryanair; 0; 6.02; 20 Gd; Poland; nsk GDN; 12:55; Gdansk GDN FR2374
+15/05/19; Ryanair; 0; 5.77; 10 Lo; Poland; don LGWLondon (Gatwick) LGW; 20:50; London LGWLondon (Gatwick) LGW W61619
+20/05/19; Wizz Air; 1; 13.78; 50 Wr; claw WRO; 01:20; Gdansk GDN W61620
+20/05/19; Wizz Air; 1; 15.60; 12:50; Poland; Wroclaw WRO; 14:30; Brussels CRLBrussels (Charleroi) CRL
+07/05/19; Ryanair; 1; 9.11; 10:15; Poland; Brussels CRLBrussels (Charleroi) CRL; 15:15; Wroclaw WRO
+14/05/19; Ryanair; 0; 9.99; 25 Wa; Poland; saw WAW; 15:15; Wroclaw WRO W61872
+13/05/19; Wizz Air; 0; 10.42; 45 Bi; Poland; lund BLL; 14:10; Billund BLL W61525
+20/05/19; Wizz Air; 0; 13.78; 25 Kr; Poland; kow KRK; 16:20; Warsaw WAW W61526
+06/06/19; Wizz Air; 0; 15.94; 40 Co; Poland; enhagen CPH; 22:15; Copenhagen CPH FR2724
+12/06/19; Ryanair; 0; 15.18; 45 Po; Poland; nan POZ; 00:30; Krakow KRK FR2725
+08/06/19; Ryanair; 0; 14.60; 55 Lo; Poland; don LTNLondon (Luton) LTN; 17:55; London LTNLondon (Luton) LTN W61901
+15/06/19; Wizz Air; 0; 13.78; 30 Ol; Poland; ztyn SZYOlsztyn-Mazury SZY; 15:55; Poznan POZ W61902
+30/05/19; Wizz Air; 0; 16.17; 35 Lo; Poland; don LTNLondon (Luton) LTN; 18:00; London LTNLondon (Luton) LTN W62181
+06/06/19; Wizz Air; 0; 13.78; 20 Gd; Poland; nsk GDN; 16:00; Olsztyn SZYOlsztyn-Mazury SZY W62182
+10/03/20; Wizz Air; 0; 16.17; 10 Do; Poland; caster DSADoncaster-Sheffield DSA; 20:40; Doncaster DSADoncaster-Sheffield DSA W61615
+17/03/20; Wizz Air; 0; 13.78; 55 Kr; Poland; kow KRK; 00:15; Gdansk GDN W61616
+22/05/19; Wizz Air; 0; 16.17; 05 Bi; Poland; mingham BHX; 18:30; Birmingham BHX W65017
+28/05/19; Wizz Air; 0; 13.78; 30 Kr; Poland; kow KRK; 22:35; Krakow KRK W65018
+12/08/19; Wizz Air; 0; 16.17; 00 St; Poland; ckholm NYOStockholm (Skavsta) NYO; 16:20; Stockholm NYOStockholm (Skavsta) NYO FR9716
+19/08/19; Ryanair; 0; 15.18; 40 Wr; Poland; claw WRO; 16:50; Krakow KRK FR708
+25/07/19; Ryanair; 0; 14.81; 05 Ki; Poland; v KBPKiev (Borispol) KBP; 17:30; Kiev KBPKiev (Borispol) KBP FR7182
+31/07/19; Ryanair; 0; 15.18; 15 Wa; Poland; saw WMIWarsaw (Modlin) WMI; 18:55; Wroclaw WRO FR7183
+14/05/19; Ryanair; 0; 14.99; 35 Co; Poland; ogne CGNCologne-Bonn CGN; 18:05; Cologne CGNCologne-Bonn CGN FR1405
+21/05/19; Ryanair; 0; 15.18; 50 Kr; Poland; kow KRK; 16:20; Warsaw WMIWarsaw (Modlin) WMI FR1404
+02/08/19; Ryanair; 0; 14.99; 50 St; Poland; ttgart STR; 10:25; Stuttgart STR OE2361
+09/08/19; Laudamotion; 0; 15.18; 30 Wa; Poland; saw WMIWarsaw (Modlin) WMI; 08:25; Krakow KRK OE2360
+06/06/19; Laudamotion; 0; 14.99; 40 Me; Poland; mingen FMM; 16:15; Memmingen FMM FR5025
+13/06/19; Ryanair; 0; 15.18; 45 Gd; Poland; nsk GDN; 18:25; Warsaw WMIWarsaw (Modlin) WMI FR5026
+09/06/19; Ryanair; 0; 14.99; 15 Mi; Poland; an BGYMilan (Bergamo) BGY; 09:50; Milan BGYMilan (Bergamo) BGY FR8311
+15/06/19; Ryanair; 0; 15.18; 20 Kr; Poland; kow KRK; 12:20; Gdansk GDN FR8312
+16/05/19; Ryanair; 0; 14.99; 00 Ki; Poland; v KBPKiev (Borispol) KBP; 16:55; Kiev KBPKiev (Borispol) KBP FR7262
+21/05/19; Ryanair; 0; 15.18; 35 Gd; Poland; nsk GDN; 23:35; Krakow KRK FR7263
+08/06/19; Ryanair; 0; 14.99; 15 Tr; Poland; ndheim TRD; 21:30; Trondheim TRD W61761
+13/06/19; Wizz Air; 0; 13.78; 25 Gd; Poland; nsk GDN; 23:55; Gdansk GDN W61762
+15/05/19; Wizz Air; 0; 16.61; 45 Tr; Poland; mso TOS; 20:10; Tromso TOS W61771
+19/05/19; Wizz Air; 0; 13.78; 10 Lu; Poland; lin LUZ; 23:20; Gdansk GDN W61772
+29/06/19; Wizz Air; 0; 16.61; 35 Os; Poland; o TRFOslo (Torp) TRF; 14:15; Oslo TRFOslo (Torp) TRF W62079
+04/07/19; Wizz Air; 0; 13.78; 45 Sz; Poland; zecin SZZ; 11:35; Lublin LUZ W62080
+29/05/19; Wizz Air; 0; 16.61; 45 Os; Poland; o TRFOslo (Torp) TRF; 12:10; Oslo TRFOslo (Torp) TRF W62159
+05/06/19; Wizz Air; 0; 13.78; 25 Po; Poland; nan POZ; 10:10; Szczecin SZZ W62160
+14/01/20; Wizz Air; 0; 16.61; 55 Lo; Poland; don STNLondon (Stansted) STN; 10:30; London STNLondon (Stansted) STN FR2337
+18/01/20; Ryanair; 0; 13.08; 30 Kr; Poland; kow KRK; 09:00; Poznan POZ FR2336
+24/07/19; Ryanair; 0; 17.33; 00 Tu; Poland; in TRN; 20:25; Turin TRN W65063
+31/07/19; Wizz Air; 0; 20.78; 45 Lu; Poland; lin LUZ; 22:55; Krakow KRK W65064
+14/02/20; Wizz Air; 1; 9.99; 55 Ki; v IEVKiev (Zhuliany) IEV; 17:05; Kiev IEVKiev (Zhuliany) IEV W66292
+14/02/20; Wizz Air; 1; 13.78; 13:55; Poland; Kiev IEVKiev (Zhuliany) IEV; 14:15; Lublin LUZ
+21/02/20; Wizz Air; 1; 17.51; 11:00; Poland; Krakow KRK; 19:30; Gdansk GDN
+30/05/19; Ryanair; 1; 11.44; 25 Gd; nsk GDN; 19:30; Gdansk GDN W61636
+30/05/19; Wizz Air; 1; 9.90; 16:25; Poland; Gdansk GDN; 17:35; Krakow KRK
+05/06/19; Ryanair; 1; 10.14; 12:45; Poland; Gdansk GDN; 23:05; Manchester MAN
+21/02/20; Ryanair; 0; 9.11; 10 Ma; Poland; chester MAN; 23:05; Manchester MAN FR3227
+28/02/20; Ryanair; 1; 1.58; 25 Gd; nsk GDN; 22:25; Gdansk GDN FR704
+28/02/20; Ryanair; 1; 20.79; 16:25; Poland; Gdansk GDN; 17:35; Krakow KRK
+25/04/19; Ryanair; 1; 10.14; 11:00; Poland; Krakow KRK; 19:30; Gdansk GDN
+01/05/19; Ryanair; 1; 11.44; 50 Gd; nsk GDN; 19:30; Gdansk GDN W61636
+01/05/19; Wizz Air; 1; 9.90; 15:50; Poland; Gdansk GDN; 17:10; Billund BLL
+22/05/19; Wizz Air; 1; 20.78; 10:20; Poland; Billund BLL; 22:00; Gdansk GDN
+30/05/19; Ryanair; 1; 5.22; 25 Wa; saw WMIWarsaw (Modlin) WMI; 22:00; Gdansk GDN FR2372
+30/05/19; Ryanair; 1; 5.77; 19:25; Poland; Warsaw WMIWarsaw (Modlin) WMI; 21:30; Milan BGYMilan (Bergamo) BGY
+28/05/19; Ryanair; 1; 9.11; 15:55; Poland; Milan BGYMilan (Bergamo) BGY; 20:15; Warsaw WMIWarsaw (Modlin) WMI
+05/06/19; Ryanair; 0; 12.99; 15 Wa; Poland; saw WAW; 20:15; Warsaw WMIWarsaw (Modlin) WMI FR1055
+11/06/19; Ryanair; 0; 9.99; 55 Mi; Poland; an BGYMilan (Bergamo) BGY; 08:20; Milan BGYMilan (Bergamo) BGY W61431
+19/06/19; Wizz Air; 0; 17.51; 50 Wr; Poland; claw WRO; 10:55; Warsaw WAW W61432
+29/05/19; Wizz Air; 0; 14.99; 35 Lo; Poland; don STNLondon (Stansted) STN; 23:59; London STNLondon (Stansted) STN FR8406
+05/06/19; Ryanair; 0; 15.18; 10 Gd; Poland; nsk GDN; 11:30; Wroclaw WRO FR8405
+06/06/19; Ryanair; 0; 17.33; 25 Le; Poland; ds LBA; 22:30; Leeds LBA FR1504
+13/06/19; Ryanair; 0; 15.18; 20 By; Poland; goszcz BZG; 20:45; Gdansk GDN FR1503
+06/06/19; Ryanair; 0; 17.33; 45 Lo; Poland; don STNLondon (Stansted) STN; 11:30; London STNLondon (Stansted) STN FR2463
+11/06/19; Ryanair; 0; 15.18; 50 Ka; Poland; owice KTW; 09:55; Bydgoszcz BZG FR2462
+12/06/19; Ryanair; 0; 17.33; 50 Lo; Poland; don STNLondon (Stansted) STN; 23:10; London STNLondon (Stansted) STN FR8267
+19/06/19; Ryanair; 0; 15.18; 25 By; Poland; goszcz BZG; 11:05; Katowice KTW FR8266
+28/05/19; Ryanair; 1; 17.33; 50 Lo; don LTNLondon (Luton) LTN; 22:35; London LTNLondon (Luton) LTN FR1641
+28/05/19; Ryanair; 1; 15.18; 17:50; Poland; London LTNLondon (Luton) LTN; 21:00; Bydgoszcz BZG
+05/06/19; Ryanair; 1; 17.33; 06:10; Poland; Katowice KTW; 22:40; Milan BGYMilan (Bergamo) BGY
+08/05/19; Wizz Air; 1; 9.11; 00 Mi; an BGYMilan (Bergamo) BGY; 22:40; Milan BGYMilan (Bergamo) BGY FR4558
+08/05/19; Ryanair; 1; 13.48; 11:00; Poland; Milan BGYMilan (Bergamo) BGY; 12:50; Katowice KTW
+15/05/19; Ryanair; 1; 9.99; 06:15; Poland; Gdansk GDN; 14:05; Krakow KRK
+06/06/19; Wizz Air; 1; 9.11; 50 Kr; kow KRK; 14:05; Krakow KRK FR9715
+06/06/19; Ryanair; 1; 14.81; 20:50; Poland; Krakow KRK; 22:05; Gdansk GDN
+11/06/19; Ryanair; 1; 8.85; 06:40; Poland; Wroclaw WRO; 12:25; Eindhoven EIN
+30/05/19; Ryanair; 0; 8.85; 30 Ei; Poland; dhoven EIN; 12:25; Eindhoven EIN W61641
+03/06/19; Wizz Air; 0; 9.11; 15 Kr; Poland; kow KRK; 19:00; Wroclaw WRO W61826
+02/05/19; Wizz Air; 1; 14.99; 15 Fr; nkfurt FRA; 14:50; Frankfurt FRA FR2427
+02/05/19; Ryanair; 1; 13.08; 14:15; Poland; Frankfurt FRA; 15:50; Krakow KRK
+09/05/19; Ryanair; 1; 19.99; 06:30; Poland; Gdansk GDN; 10:35; Warsaw WMIWarsaw (Modlin) WMI
+17/05/19; Wizz Air; 0; 9.11; 40 Wa; Poland; saw WMIWarsaw (Modlin) WMI; 10:35; Warsaw WMIWarsaw (Modlin) WMI FR4529
+24/05/19; Ryanair; 0; 5.12; 14:40; Poland; Oslo TRFOslo (Torp) TRF; 08:30; Oslo TRFOslo (Torp) TRF FR4528
+29/06/19; Ryanair; 0; 9.11; 14:50; Poland; Krakow KRK; 16:15; Nuernberg NUE
+04/07/19; Ryanair; 0; 10.34; 14:45; Poland; Nuernberg NUE; 16:15; Krakow KRK
+18/06/19; Ryanair; 0; 20.77; 15:25; Poland; Katowice KTW; 17:10; Cologne CGNCologne-Bonn CGN
+22/06/19; Ryanair; 0; 12.99; 17:45; Poland; Cologne CGNCologne-Bonn CGN; 19:20; Katowice KTW
+05/06/19; Wizz Air; 0; 13.78; 06:40; Poland; Gdansk GDN; 08:15; Dortmund DTM
+12/06/19; Wizz Air; 1; 19.99; 08:40; Dortmund DTM; 10:10; Gdansk GDN
+12/06/19; Wizz Air; 1; 13.78; 45 Wa; Poland; saw WAW; 10:10; Gdansk GDN W61662
+23/05/19; Wizz Air; 1; 19.99; 00 Ma; Poland; mo MMX; 21:05; Malmo MMX W61509
+31/05/19; Wizz Air; 1; 13.78; 13:25; Vienna VIE; 09:40; Vienna VIE W62856
+31/05/19; Wizz Air; 1; 10.42; 30 Gd; Poland; nsk GDN; 14:40; Warsaw WAW W61344
+15/05/19; Wizz Air; 1; 9.99; 00 Ma; Poland; mo MMX; 10:30; Malmo MMX W61739
+22/05/19; Wizz Air; 0; 13.78; 13:50; Poland; Vienna VIE; 09:40; Vienna VIE W62856
+22/05/19; Wizz Air; 1; 10.42; 06:40; Warsaw WMIWarsaw (Modlin) WMI; 20:55; London STNLondon (Stansted) STN
+22/05/19; Wizz Air; 1; 9.99; 19:55; Poland; Oslo TRFOslo (Torp) TRF; 08:30; Oslo TRFOslo (Torp) TRF FR4528
+30/05/19; Ryanair; 1; 9.11; 09:30; Poland; London STNLondon (Stansted) STN; 12:45; Warsaw WMIWarsaw (Modlin) WMI
+13/06/19; Ryanair; 0; 10.34; 13:20; Poland; Gdansk GDN; 20:55; London STNLondon (Stansted) STN
+18/06/19; Ryanair; 0; 15.02; 50 Lo; Poland; don STNLondon (Stansted) STN; 20:55; London STNLondon (Stansted) STN FR33
+30/05/19; Ryanair; 0; 9.11; 35 Gd; Poland; nsk GDN; 22:00; Gdansk GDN FR2372
+06/06/19; Ryanair; 0; 10.34; 40 Lo; Poland; don LTNLondon (Luton) LTN; 15:55; London LTNLondon (Luton) LTN W61609
+23/05/19; Ryanair; 0; 15.02; 55 Ka; Poland; owice KTW; 11:50; Gdansk GDN W61602
+30/05/19; Wizz Air; 0; 13.78; 05 Br; Poland; stol BRS; 21:30; Bristol BRS W61019
+02/06/19; Wizz Air; 0; 20.79; 20 Lu; Poland; lin LUZ; 01:30; Katowice KTW W61020
+10/06/19; Wizz Air; 0; 13.78; 55 Lo; Poland; don LTNLondon (Luton) LTN; 00:10; London LTNLondon (Luton) LTN W62065
+27/05/19; Wizz Air; 1; 20.79; 10 Ka; owice KTW; 09:30; Lublin LUZ W62068
+27/05/19; Wizz Air; 1; 13.78; 06:10; Poland; Katowice KTW; 08:45; Kiev IEVKiev (Zhuliany) IEV
+03/06/19; Wizz Air; 1; 20.79; 14:55; Poland; Kiev IEVKiev (Zhuliany) IEV; 15:30; Katowice KTW
+29/05/19; Wizz Air; 0; 17.51; 06:25; Poland; Wroclaw WRO; 18:05; Manchester MAN
+05/06/19; Wizz Air; 0; 17.51; 10 Ma; Poland; chester MAN; 18:05; Manchester MAN FR3227
+18/05/19; Wizz Air; 0; 9.11; 55 Kr; Poland; kow KRK; 00:25; Wroclaw WRO FR8308
+26/05/19; Ryanair; 1; 2.93; 55 Ve; ice TSFVenice (Treviso) TSF; 15:30; Venice TSFVenice (Treviso) TSF FR3037
+26/05/19; Ryanair; 1; 23.11; 15:55; Poland; Venice TSFVenice (Treviso) TSF; 17:30; Krakow KRK
+27/05/19; Ryanair; 1; 15.18; 10:40; Poland; Krakow KRK; 12:15; Malmo MMX
+03/06/19; Ryanair; 0; 20.33; 08:00; Poland; Malmo MMX; 21:45; Krakow KRK
+30/05/19; Ryanair; 0; 15.18; 40 Wa; Poland; saw WAW; 21:45; Krakow KRK OE1304
+04/06/19; Wizz Air; 0; 10.42; 55 Be; Poland; gen BGO; 10:55; Bergen BGO W61519
+05/06/19; Laudamotion; 0; 9.99; 10 Gd; Poland; nsk GDN; 19:05; Warsaw WAW W61520
+09/06/19; Wizz Air; 0; 13.78; 30 St; Poland; vanger SVG; 07:55; Stavanger SVG W61747
+25/06/19; Wizz Air; 0; 21.84; 40 Gd; Poland; nsk GDN; 15:05; Gdansk GDN W61748
+02/07/19; Wizz Air; 0; 13.78; 35 Bo; Poland; o BOO; 15:05; Bodo BOO W61787
+11/05/19; Wizz Air; 0; 21.84; 00 Kr; Poland; kow KRK; 17:50; Gdansk GDN W61788
+18/05/19; Wizz Air; 0; 13.78; 10 Mi; Poland; an BGYMilan (Bergamo) BGY; 20:45; Milan BGYMilan (Bergamo) BGY FR6877
+05/08/19; Wizz Air; 0; 21.84; 50 Lo; Poland; z LCJ; 23:00; Krakow KRK FR6876
+09/08/19; Ryanair; 0; 17.75; 50 At; Poland; ens ATH; 00:30; Athens ATH FR4812
+31/05/19; Ryanair; 0; 17.99; 45 Gd; Poland; nsk GDN; 20:25; Lodz LCJ FR4811
+07/06/19; Ryanair; 0; 17.75; 00 Ki; Poland; v KBPKiev (Borispol) KBP; 09:35; Kiev KBPKiev (Borispol) KBP FR7239
+06/05/19; Ryanair; 0; 17.99; 30 Wr; Poland; claw WRO; 17:50; Gdansk GDN FR7240
+10/05/19; Ryanair; 0; 17.75; 35 Mi; Poland; an BGYMilan (Bergamo) BGY; 21:10; Milan BGYMilan (Bergamo) BGY FR8845
+14/05/19; Ryanair; 0; 17.99; 50 Kr; Poland; kow KRK; 23:15; Wroclaw WRO FR8844
+18/05/19; Ryanair; 0; 17.75; 50 Pr; Poland; gue PRG; 13:55; Prague PRG FR4070
+07/06/19; Ryanair; 0; 17.99; 45 Gd; Poland; nsk GDN; 20:00; Krakow KRK FR4069
+12/06/19; Ryanair; 0; 22.68; 00 Be; Poland; lin TXLBerlin (Tegel) TXL; 09:00; Berlin TXLBerlin (Tegel) TXL U25748
+20/05/19; Ryanair; 0; 13.19; 15 Kr; Poland; kow KRK; 07:05; Gdansk GDN U25747
+27/05/19; easyJet; 0; 2.34; 10 Ki; Poland; v IEVKiev (Zhuliany) IEV; 09:50; Kiev IEVKiev (Zhuliany) IEV W66294
+06/06/19; easyJet; 1; 16.13; 05 Wr; claw WRO; 06:45; Krakow KRK W66293
+06/06/19; Wizz Air; 1; 13.78; 07:05; Poland; Wroclaw WRO; 08:40; Belfast BFS
+10/06/19; Wizz Air; 1; 22.48; 09:05; Poland; Belfast BFS; 12:45; Wroclaw WRO
+09/05/19; Ryanair; 1; 13.08; 06:40; Wroclaw WRO; 17:05; Goteborg GOTGoteborg (Landvetter) GOT
+09/05/19; Ryanair; 1; 23.57; 15:50; Poland; Gdansk GDN; 07:45; Gdansk GDN FR4105
+15/05/19; Ryanair; 1; 8.85; 18:05; Poland; Goteborg GOTGoteborg (Landvetter) GOT; 19:35; Wroclaw WRO
+28/05/19; Wizz Air; 1; 13.78; 18:10; Poznan POZ; 23:10; London STNLondon (Stansted) STN
+28/05/19; Wizz Air; 1; 14.24; 22:35; Poland; Billund BLL; 19:30; Billund BLL FR2808
+05/06/19; Ryanair; 1; 9.11; 05:55; Poland; London STNLondon (Stansted) STN; 09:00; Poznan POZ
+26/05/19; Ryanair; 0; 12.86; 12:30; Poland; Warsaw WMIWarsaw (Modlin) WMI; 22:40; Milan BGYMilan (Bergamo) BGY
+30/05/19; Ryanair; 0; 15.02; 15 Mi; Poland; an BGYMilan (Bergamo) BGY; 22:40; Milan BGYMilan (Bergamo) BGY FR4558
+15/06/19; Ryanair; 0; 9.11; 40 Kr; Poland; kow KRK; 23:15; Warsaw WMIWarsaw (Modlin) WMI FR3898
+19/06/19; Ryanair; 0; 13.48; 30 Lo; Poland; rdes LDELourdes-Tarbes LDE; 10:25; Lourdes LDELourdes-Tarbes LDE FR3035
+26/05/19; Ryanair; 0; 14.99; 00 Kr; Poland; kow KRK; 23:15; Krakow KRK FR3036
+30/05/19; Ryanair; 0; 22.68; 30 Br; Poland; ssels CRLBrussels (Charleroi) CRL; 17:00; Brussels CRLBrussels (Charleroi) CRL FR6729
+14/05/19; Ryanair; 0; 14.99; 00 Po; Poland; nan POZ; 08:30; Krakow KRK FR6728
+20/05/19; Ryanair; 0; 19.85; 50 Ba; Poland; celona GROBarcelona (Girona) GRO; 23:40; Barcelona GROBarcelona (Girona) GRO FR5123
+28/05/19; Ryanair; 1; 17.99; 45 Wa; saw WAW; 19:30; Poznan POZ FR5122
+28/05/19; Ryanair; 1; 19.85; 06:45; Poland; Warsaw WAW; 08:45; Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL
+05/06/19; Ryanair; 1; 17.99; 11:00; Poland; Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL; 13:10; Warsaw WAW
+05/06/19; Wizz Air; 1; 13.78; 11:50; Katowice KTW; 19:40; London STNLondon (Stansted) STN
+05/06/19; easyJet; 1; 6.52; 18:30; Poland; Milan BGYMilan (Bergamo) BGY; 13:35; Milan BGYMilan (Bergamo) BGY W61131
+12/06/19; Wizz Air; 1; 13.78; 11:20; Poland; London STNLondon (Stansted) STN; 14:35; Katowice KTW
+08/10/19; Ryanair; 0; 7.01; 09:15; Poland; Warsaw WMIWarsaw (Modlin) WMI; 19:50; Warsaw WMIWarsaw (Modlin) WMI
+15/10/19; Ryanair; 0; 17.33; 15 Wa; Poland; saw WMIWarsaw (Modlin) WMI; 19:50; Warsaw WMIWarsaw (Modlin) WMI FR1055
+01/10/19; Ryanair; 0; 9.11; 17:55; Poland; Brussels CRLBrussels (Charleroi) CRL; 11:20; Brussels CRLBrussels (Charleroi) CRL FR1058
+08/10/19; Ryanair; 0; 9.99; 09:15; Poland; Krakow KRK; 11:05; Milan MXPMilan (Malpensa) MXP
+01/10/19; Ryanair; 0; 9.11; 06:50; Poland; Milan MXPMilan (Malpensa) MXP; 08:40; Krakow KRK
+08/10/19; Ryanair; 0; 9.99; 20:35; Poland; Krakow KRK; 22:45; Geneva GVA
+28/06/19; easyJet; 0; 7.01; 18:00; Poland; Geneva GVA; 20:00; Krakow KRK
+04/07/19; easyJet; 0; 15.25; 20:45; Poland; Krakow KRK; 22:35; Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL
+17/10/19; easyJet; 0; 4.67; 18:25; Poland; Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL; 20:15; Krakow KRK
+22/10/19; easyJet; 0; 19.16; 08:55; Poland; Warsaw WAW; 10:10; Berlin TXLBerlin (Tegel) TXL
+09/05/19; easyJet; 0; 9.34; 08:10; Poland; Berlin TXLBerlin (Tegel) TXL; 09:20; Warsaw WAW
+14/05/19; easyJet; 1; 14.94; 09:45; Krakow KRK; 12:00; Lyon LYS
+14/05/19; easyJet; 1; 9.34; 15 Ly; Poland; n LYS; 12:00; Lyon LYS U24480
+20/05/19; easyJet; 1; 16.13; 45 Gd; Poland; nsk GDN; 12:25; Krakow KRK U24479
+26/05/19; easyJet; 0; 7.01; 30 Be; Poland; lin TXLBerlin (Tegel) TXL; 18:00; Berlin TXLBerlin (Tegel) TXL U25748
+15/06/19; easyJet; 1; 19.18; 17:50; Oslo OSLOslo (Gardermoen) OSL; 09:15; Oslo OSLOslo (Gardermoen) OSL U25777
+15/06/19; easyJet; 1; 2.34; 15 Wa; Poland; saw WAW; 19:20; Gdansk GDN W61784
+20/06/19; easyJet; 1; 13.61; 40 Ge; Poland; eva GVA; 17:40; Geneva GVA U21342
+23/05/19; Wizz Air; 1; 10.34; 45 Gd; nsk GDN; 19:55; Warsaw WAW U21341
+23/05/19; easyJet; 1; 11.68; 07:45; Poland; Gdansk GDN; 18:45; Aarhus AAR
+31/05/19; easyJet; 1; 16.50; 15 Aa; Poland; hus AAR; 18:45; Aarhus AAR U25677
+21/05/19; easyJet; 1; 2.34; 45 Gd; nsk GDN; 21:20; Gdansk GDN FR1691
+21/05/19; easyJet; 1; 18.15; 16:45; Poland; Gdansk GDN; 22:35; Vienna VIE
+27/05/19; Ryanair; 1; 9.78; 50 Vi; Poland; nna VIE; 22:35; Vienna VIE U25851
+14/06/19; easyJet; 0; 2.34; 45 Gd; Poland; nsk GDN; 15:10; Gdansk GDN W61782
+18/06/19; easyJet; 1; 18.15; 12:55; Berlin TXLBerlin (Tegel) TXL; 09:00; Berlin TXLBerlin (Tegel) TXL U25748
+18/06/19; Wizz Air; 1; 9.99; 05 Go; Poland; eborg GOTGoteborg (Landvetter) GOT; 14:15; Goteborg GOTGoteborg (Landvetter) GOT U25721
