@@ -22,6 +22,7 @@ class ScrapData():
         przewoznik = r.html.find('.airline')
 
         with open(file, "a") as f:
+
             #myfile.write("appended text")
             #self.write_data(myfile)
             licznik = 0
@@ -29,71 +30,49 @@ class ScrapData():
             licz_ceny = 0
             i = 0
             while i + ii < len(change):
+
+                print('zaczynam zapisywanie dla.. ' + country)
+
                 przes = 0
                 if change[i + ii].full_text[9:11] != 'no':
+
+                    print('if 1 dla.. ' + country)
+
                     przes = 1
 
-                    f.write(str(data[i + ii].text[4:]) + "; " + str(przewoznik[licz_ceny].text) + "; " + str(
+                    f.write(country + "; " + str(data[i + ii].text[4:]) + "; " + str(przewoznik[licz_ceny].text) + "; " + str(
                         przes) + "; " + str(cena[licz_ceny].text[1:]) + "; " + str(
                         skad[licznik + 1].text.replace('\xa0', ' ')[3:8]) + \
                             "; " + str(skad[licznik + 1].text.replace('\xa0', ' ')[9:]) + "; " + str(
                         to[licznik].text[:5]) + "; " + str(to[licznik].text[6:]) + "\n")
                     licz_ceny += 1
                     licznik += 1
-                    f.write(str(data[i + ii].text[4:]) + "; " + str(przewoznik[licz_ceny].text) + "; " + str(
+                    f.write(country + "; " + str(data[i + ii].text[4:]) + "; " + str(przewoznik[licz_ceny].text) + "; " + str(
                         przes) + "; " + str(cena[licz_ceny].text[1:]) + "; " + str(
                         skad[licznik + 1].text.replace('\xa0', ' ')[3:8]) + \
-                            "; " + country + "; " + str(skad[licznik + 1].text.replace('\xa0', ' ')[9:]) + "; " + str(
+                            "; " + str(skad[licznik + 1].text.replace('\xa0', ' ')[9:]) + "; " + str(
                         to[licznik].text[:5]) + "; " + str(to[licznik].text[6:]) + "\n")
                     licz_ceny += 1
                     licznik += 2
                     ii += 1
 
-                if any(len(to[licznik].text)<8) and any(len(skad[licznik + 1].text.replace('\xa0', ' '))<10):
+                # ?? dodane ify żeby się nie wywalało, ale teraz część się w ogóle nie zapisuje
+
+                if len(to)>licznik:
+                    #if len(to[licznik].text)<7 and len(skad[licznik + 1].text.replace('\xa0', ' '))<10:
+
+                    print('if 2 dla.. ' + country)
+
                     f.write(
-                        str(data[i + ii].text[4:]) + "; " + str(przewoznik[licz_ceny].text) + "; " + str(przes) + "; " + str(
+                        country + "; " + str(data[i + ii].text[4:]) + "; " + str(przewoznik[licz_ceny].text) + "; " + str(przes) + "; " + str(
                             cena[licz_ceny].text[1:]) + "; " + str(skad[licznik + 1].text.replace('\xa0', ' ')[3:8]) + \
-                        "; " + country + "; " + str(skad[licznik + 1].text.replace('\xa0', ' ')[9:]) + "; " + str(
+                        "; " + str(skad[licznik + 1].text.replace('\xa0', ' ')[9:]) + "; " + str(
                             to[licznik].text[:5]) + "; " + str(to[licznik].text[6:]) + "\n")
+
                 licz_ceny += 1
                 licznik += 2
                 i += 1
 
         f.close()
         print(country + " skończone!")
-
-
-    def write_data(self, f):
-        licznik = 0
-        ii = 0
-        licz_ceny = 0
-        i = 0
-        while i + ii < len(self.change):
-            przes = 0
-            if self.change[i + ii].full_text[9:11] != 'no':
-                przes = 1
-
-                f.write(
-                    str(self.data[i + ii].text[4:]) + " " + str(self.przewoznik[licz_ceny].text) + " " + str(przes) + " " + str(
-                        self.cena[licz_ceny].text[1:]) + " " + str(self.skad[licznik + 1].text.replace('\xa0', ' ')[3:8]) + \
-                    " " + str(self.skad[licznik + 1].text.replace('\xa0', ' ')[9:]) + " " + str(
-                        self.to[licznik].text[:5]) + " " + str(self.to[licznik].text[6:]) + "\n")
-                licz_ceny += 1
-                licznik += 1
-                f.write(
-                    str(self.data[i + ii].text[4:]) + " " + str(self.przewoznik[licz_ceny].text) + " " + str(przes) + " " + str(
-                        self.cena[licz_ceny].text[1:]) + " " + str(self.skad[licznik + 1].text.replace('\xa0', ' ')[3:8]) + \
-                    " " + str(self.skad[licznik + 1].text.replace('\xa0', ' ')[9:]) + " " + str(
-                        self.to[licznik].text[:5]) + " " + str(self.to[licznik].text[6:]) + "\n")
-                licz_ceny += 1
-                licznik += 2
-                ii += 1
-
-            f.write(str(self.data[i + ii].text[4:]) + " " + str(self.przewoznik[licz_ceny].text) + " " + str(przes) + " " + str(
-                self.cena[licz_ceny].text[1:]) + " " + str(self.skad[licznik + 1].text.replace('\xa0', ' ')[3:8]) + \
-                    " " + str(self.skad[licznik + 1].text.replace('\xa0', ' ')[9:]) + " " + str(
-                self.to[licznik].text[:5]) + " " + str(self.to[licznik].text[6:]) + "\n")
-            licz_ceny += 1
-            licznik += 2
-            i += 1
 

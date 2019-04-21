@@ -15,14 +15,23 @@ def main():
 
     os.environ["PATH"] += os.pathsep + '/home/kasia/Pobrane/geckodrive/'
 
-    country_list = ['France','United Kingdom', 'Germany', 'Greece','Poland','Egypt','Canada','Spain']
+    config = {}
+    with open("configuration_file.txt", "r") as conf_file:
+        for line in conf_file:
+            name, val = line.partition("=")[::2]
+            config[name.strip()] = val.replace("\n", "")
+
+    country_list = ['Spain','Egypt','Scotland','France','England','Germany','Greece','Poland','Canada', 'Italy',
+                    'Czech Republic', 'Hungary', 'Denmark', 'Ukraine', 'Croatia', 'Switzerland', 'Cyprus']
 
     currentDT = datetime.datetime.now()
+
+    #print("Kraje: " + config["country_list"])
 
     print(currentDT.strftime("%Y-%m-%d_%H:%M"))
 
     output_file = open("flight_prices_" + currentDT.strftime("%Y-%m-%d_%H:%M") +".txt", "w")
-    output_file.write("Data;Przewoznik;Czy_przesiadka;Cena;Godzina_odlotu;Kraj_odlotu;Miejsce_odlotu;Godzina_przylotu;Miejsce_przylotu\n")
+    output_file.write("Kraj_odlotu;Data;Przewoznik;Czy_przesiadka;Cena;Godzina_odlotu;Miejsce_odlotu;Godzina_przylotu;Miejsce_przylotu\n")
 
     print(output_file.name)
 
@@ -68,6 +77,9 @@ def choose_settings(country):
     to_box.send_keys('XXX')
     to_box.send_keys(Keys.ARROW_DOWN)
     to_box.send_keys(Keys.RETURN)
+
+    currency = browser.find_element_by_name('currency')
+    currency.send_keys("PLN")
 
     old_url = browser.current_url
 
