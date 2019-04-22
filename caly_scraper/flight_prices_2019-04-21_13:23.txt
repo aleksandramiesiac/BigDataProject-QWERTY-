@@ -1,0 +1,477 @@
+Kraj_odlotu;Data;Przewoznik;Czy_przesiadka;Cena;Godzina_odlotu;Miejsce_odlotu;Godzina_przylotu;Miejsce_przylotu
+easyJet; 0; 02 zł; 07:00; Milan MXPMilan (Malpensa) MXP; 12:15; Hurghada HRG
+Egypt; 04/08/19; Air Arabia Egypt; 0; 78 zł; 02:05; Luxor LXR; 03:05; Sharm El S SSH
+Egypt; 12/08/19; Air Arabia Egypt; 0; 78 zł; 02:15; Sharm El S SSH; 03:15; Luxor LXR
+Egypt; 20/05/19; Air Arabia Egypt; 0; 78 zł; 02:15; Sharm El S SSH; 03:15; Luxor LXR
+Egypt; 26/05/19; Air Arabia Egypt; 0; 78 zł; 02:05; Luxor LXR; 03:05; Sharm El S SSH
+Egypt; 29/11/19; easyJet; 0; 67 zł; 21:10; Hurghada HRG; 01:10; London STNLondon (Stansted) STN
+Egypt; 04/12/19; Ryanair; 1; 21 zł; 08:45; London STNLondon (Stansted) STN; 19:40; Hurghada HRG
+Egypt; 04/12/19; easyJet; 1; 17 zł; 14:25; Milan MXPMilan (Malpensa) MXP; 11:40; Milan MXPMilan (Malpensa) MXP FR8729
+Scotland; 25/04/19; Ryanair; 0; 9 zł; 07:00; Edinburgh EDI; 10:10; Stockholm NYOStockholm (Skavsta) NYO
+Scotland; 29/04/19; Ryanair; 0; 2 zł; 10:10; Stockholm NYOStockholm (Skavsta) NYO; 11:20; Edinburgh EDI
+Scotland; 09/05/19; Ryanair; 0; 9 zł; 11:30; Edinburgh EDI; 14:10; Dusseldorf NRNDusseldorf (Weeze) NRN
+Scotland; 16/05/19; Ryanair; 0; 2 zł; 14:35; Dusseldorf NRNDusseldorf (Weeze) NRN; 15:15; Edinburgh EDI
+Scotland; 15/05/19; Ryanair; 0; 9 zł; 13:50; Edinburgh EDI; 16:40; Luxembourg LUX
+Scotland; 22/05/19; Ryanair; 0; 2 zł; 17:15; Luxembourg LUX; 18:05; Edinburgh EDI
+Scotland; 23/05/19; Ryanair; 0; 9 zł; 19:35; Edinburgh EDI; 21:00; London STNLondon (Stansted) STN
+Scotland; 30/05/19; Ryanair; 0; 9 zł; 12:30; London STNLondon (Stansted) STN; 13:50; Edinburgh EDI
+Scotland; 16/05/19; Ryanair; 0; 9 zł; 19:15; Edinburgh EDI; 20:10; Derry LDY
+Scotland; 21/05/19; Ryanair; 0; 9 zł; 20:35; Derry LDY; 21:30; Edinburgh EDI
+Scotland; 27/04/19; Ryanair; 0; 9 zł; 20:25; Glasgow PIKGlasgow (Prestwick) PIK; 23:50; Barcelona GROBarcelona (Girona) GRO
+Scotland; 01/05/19; Ryanair; 0; 5 zł; 06:30; Barcelona GROBarcelona (Girona) GRO; 08:15; Glasgow PIKGlasgow (Prestwick) PIK
+Scotland; 29/04/19; Ryanair; 0; 9 zł; 07:15; Edinburgh EDI; 09:55; Eindhoven EIN
+Scotland; 06/05/19; Ryanair; 0; 4 zł; 14:00; Eindhoven EIN; 14:40; Edinburgh EDI
+Scotland; 08/05/19; Ryanair; 1; 9 zł; 06:50; Edinburgh EDI; 17:05; Dusseldorf NRNDusseldorf (Weeze) NRN
+Scotland; 08/05/19; Ryanair; 1; 4 zł; 14:55; London STNLondon (Stansted) STN; 08:25; London STNLondon (Stansted) STN FR8882
+Scotland; 14/05/19; Ryanair; 1; 2 zł; 15:45; Dusseldorf NRNDusseldorf (Weeze) NRN; 16:25; Edinburgh EDI
+Scotland; 25/04/19; Ryanair; 0; 4 zł; 15:15; Edinburgh EDI; 17:50; Billund BLL
+Scotland; 02/05/19; Ryanair; 0; 5 zł; 18:15; Billund BLL; 18:50; Edinburgh EDI
+Scotland; 16/05/19; Ryanair; 0; 4 zł; 19:50; Edinburgh EDI; 22:35; Brussels CRLBrussels (Charleroi) CRL
+Scotland; 22/05/19; Ryanair; 0; 5 zł; 17:25; Brussels CRLBrussels (Charleroi) CRL; 18:05; Edinburgh EDI
+Scotland; 30/04/19; Ryanair; 0; 4 zł; 13:35; Edinburgh EDI; 16:50; Memmingen FMM
+Scotland; 07/05/19; Ryanair; 0; 5 zł; 17:15; Memmingen FMM; 18:30; Edinburgh EDI
+Scotland; 07/05/19; Ryanair; 0; 4 zł; 21:55; Glasgow GLA; 22:55; Dublin DUB
+Scotland; 14/05/19; Ryanair; 0; 5 zł; 07:15; Dublin DUB; 08:15; Glasgow GLA
+Scotland; 08/05/19; Ryanair; 1; 9 zł; 06:50; Edinburgh EDI; 21:10; Luxembourg LUX
+Scotland; 08/05/19; Ryanair; 1; 4 zł; 18:55; London STNLondon (Stansted) STN; 08:25; London STNLondon (Stansted) STN FR8882
+Scotland; 15/05/19; Ryanair; 1; 2 zł; 17:15; Luxembourg LUX; 18:05; Edinburgh EDI
+Scotland; 24/04/19; Ryanair; 0; 4 zł; 17:50; Edinburgh EDI; 21:25; Venice TSFVenice (Treviso) TSF
+Scotland; 01/05/19; Ryanair; 0; 4 zł; 21:50; Venice TSFVenice (Treviso) TSF; 23:35; Edinburgh EDI
+Scotland; 29/04/19; Ryanair; 0; 4 zł; 07:00; Edinburgh EDI; 10:00; Karlsruhe FKBKarlsruhe-Baden Baden FKB
+Scotland; 06/05/19; Ryanair; 0; 4 zł; 10:25; Karlsruhe FKBKarlsruhe-Baden Baden FKB; 11:30; Edinburgh EDI
+Scotland; 01/05/19; Ryanair; 1; 9 zł; 13:50; Edinburgh EDI; 22:00; London STNLondon (Stansted) STN
+Scotland; 01/05/19; Ryanair; 1; 0 zł; 21:45; Luxembourg LUX; 16:40; Luxembourg LUX FR2354
+Scotland; 07/05/19; Ryanair; 1; 9 zł; 08:55; London STNLondon (Stansted) STN; 10:15; Edinburgh EDI
+Scotland; 14/05/19; Ryanair; 0; 4 zł; 07:25; Edinburgh EDI; 10:10; Hamburg HAM
+Scotland; 21/05/19; Ryanair; 0; 4 zł; 06:10; Hamburg HAM; 07:00; Edinburgh EDI
+Scotland; 02/05/19; Ryanair; 0; 4 zł; 06:30; Edinburgh EDI; 09:35; Berlin SXFBerlin (Schonefeld) SXF
+Scotland; 09/05/19; Ryanair; 0; 4 zł; 10:00; Berlin SXFBerlin (Schonefeld) SXF; 11:05; Edinburgh EDI
+Scotland; 23/07/19; Ryanair; 0; 4 zł; 11:45; Glasgow GLA; 14:25; Brussels CRLBrussels (Charleroi) CRL
+Scotland; 30/07/19; Ryanair; 0; 4 zł; 10:40; Brussels CRLBrussels (Charleroi) CRL; 11:20; Glasgow GLA
+Scotland; 02/05/19; Ryanair; 0; 4 zł; 08:50; Edinburgh EDI; 12:10; Bordeaux BOD
+Scotland; 09/05/19; Ryanair; 0; 4 zł; 07:10; Bordeaux BOD; 08:25; Edinburgh EDI
+Scotland; 28/04/19; Ryanair; 0; 4 zł; 18:35; Aberdeen ABZ; 23:25; Malta MLA
+Scotland; 05/05/19; Ryanair; 0; 7 zł; 15:10; Malta MLA; 18:10; Aberdeen ABZ
+Scotland; 09/05/19; Ryanair; 0; 9 zł; 07:00; Edinburgh EDI; 10:10; Stockholm NYOStockholm (Skavsta) NYO
+Scotland; 14/05/19; Ryanair; 1; 2 zł; 12:15; Stockholm NYOStockholm (Skavsta) NYO; 18:30; Edinburgh EDI
+Scotland; 14/05/19; Ryanair; 1; 5 zł; 17:15; Memmingen FMM; 14:25; Memmingen FMM FR1873
+Scotland; 07/06/19; Wizz Air; 1; 9 zł; 21:45; Glasgow GLA; 01:20; Katowice KTW
+Scotland; 15/06/19; Wizz Air; 0; 8 zł; 19:55; Katowice KTW; 21:45; Glasgow GLA
+Scotland; 23/05/19; Ryanair; 1; 9 zł; 06:50; Edinburgh EDI; 15:50; Memmingen FMM
+Scotland; 23/05/19; Ryanair; 1; 9 zł; 13:05; London STNLondon (Stansted) STN; 08:25; London STNLondon (Stansted) STN FR8882
+Scotland; 28/05/19; Ryanair; 1; 5 zł; 17:15; Memmingen FMM; 18:30; Edinburgh EDI
+Scotland; 08/05/19; Ryanair; 1; 9 zł; 06:50; Edinburgh EDI; 17:10; Carcassonn CCF
+Scotland; 08/05/19; Ryanair; 1; 9 zł; 14:10; London STNLondon (Stansted) STN; 08:25; London STNLondon (Stansted) STN FR8882
+Scotland; 14/05/19; Ryanair; 1; 5 zł; 15:40; Carcassonn CCF; 17:05; Edinburgh EDI
+Scotland; 08/05/19; Ryanair; 0; 9 zł; 06:50; Edinburgh EDI; 08:25; London STNLondon (Stansted) STN
+Scotland; 14/05/19; Ryanair; 1; 9 zł; 12:05; London STNLondon (Stansted) STN; 18:30; Edinburgh EDI
+Scotland; 14/05/19; Ryanair; 1; 5 zł; 17:15; Memmingen FMM; 14:50; Memmingen FMM FR2404
+Scotland; 09/05/19; Ryanair; 1; 9 zł; 11:30; Edinburgh EDI; 14:10; Dusseldorf NRNDusseldorf (Weeze) NRN
+Scotland; 15/05/19; Ryanair; 1; 1 zł; 17:30; Dusseldorf NRNDusseldorf (Weeze) NRN; 21:25; Edinburgh EDI
+Scotland; 15/05/19; Ryanair; 1; 4 zł; 20:05; London STNLondon (Stansted) STN; 17:40; London STNLondon (Stansted) STN FR2296
+Scotland; 08/05/19; Ryanair; 1; 9 zł; 13:50; Edinburgh EDI; 16:40; Luxembourg LUX
+Scotland; 15/05/19; Ryanair; 1; 2 zł; 08:55; Luxembourg LUX; 19:25; Edinburgh EDI
+Scotland; 15/05/19; Ryanair; 1; 4 zł; 17:50; Milan BGYMilan (Bergamo) BGY; 10:10; Milan BGYMilan (Bergamo) BGY FR5836
+Scotland; 14/05/19; Ryanair; 1; 00 zł; 11:45; Edinburgh EDI; 15:15; Carcassonn CCF
+Scotland; 21/05/19; Ryanair; 0; 5 zł; 15:40; Carcassonn CCF; 17:05; Edinburgh EDI
+Scotland; 02/05/19; Ryanair; 1; 4 zł; 08:50; Edinburgh EDI; 16:45; Copenhagen CPH
+Scotland; 02/05/19; Ryanair; 1; 1 zł; 14:15; Bordeaux BOD; 12:10; Bordeaux BOD FR6654
+Scotland; 10/05/19; Ryanair; 1; 2 zł; 22:00; Copenhagen CPH; 22:50; Edinburgh EDI
+Scotland; 30/04/19; Ryanair; 0; 4 zł; 07:15; Edinburgh EDI; 10:35; Bordeaux BOD
+Scotland; 08/05/19; Ryanair; 1;  zł; 06:25; Bordeaux BOD; 11:10; Edinburgh EDI
+Scotland; 08/05/19; Ryanair; 1; 7 zł; 10:20; Nantes NTE; 07:25; Nantes NTE FR6549
+Scotland; 16/05/19; easyJet; 1; 0 zł; 20:55; Inverness INV; 22:15; London LTNLondon (Luton) LTN
+Scotland; 20/05/19; easyJet; 0; 5 zł; 18:50; London LTNLondon (Luton) LTN; 20:25; Inverness INV
+Scotland; 16/05/19; Ryanair; 0; 4 zł; 19:50; Edinburgh EDI; 22:35; Brussels CRLBrussels (Charleroi) CRL
+Scotland; 21/05/19; Ryanair; 1; 2 zł; 11:40; Brussels CRLBrussels (Charleroi) CRL; 17:05; Edinburgh EDI
+Scotland; 21/05/19; Ryanair; 1; 5 zł; 15:40; Carcassonn CCF; 13:20; Carcassonn CCF FR8023
+Scotland; 02/05/19; Ryanair; 1; 4 zł; 15:15; Edinburgh EDI; 23:15; Barcelona GROBarcelona (Girona) GRO
+Scotland; 09/05/19; Ryanair; 1; 2 zł; 20 Ba; celona GROBarcelona (Girona) GRO; 23:15; Barcelona GROBarcelona (Girona) GRO FR9003
+Scotland; 09/05/19; Ryanair; 1; 4 zł; 07:20; Barcelona GROBarcelona (Girona) GRO; 15:15; Edinburgh EDI
+Scotland; 01/05/19; Ryanair; 1; 2 zł; 50 Ed; nburgh EDI; 15:15; Edinburgh EDI FR6241
+Scotland; 09/05/19; Ryanair; 0; 4 zł; 19:35; London STNLondon (Stansted) STN; 08:25; London STNLondon (Stansted) STN FR8882
+Scotland; 24/04/19; Ryanair; 0; 4 zł; 18:15; Billund BLL; 18:50; Edinburgh EDI
+Scotland; 01/05/19; Ryanair; 0; 5 zł; 18:30; Edinburgh EDI; 21:50; Toulouse TLS
+Scotland; 16/05/19; Ryanair; 0; 4 zł; 22:15; Toulouse TLS; 23:35; Edinburgh EDI
+Scotland; 23/05/19; Ryanair; 0; 01 zł; 08:00; Edinburgh EDI; 09:05; Dublin DUB
+Scotland; 08/05/19; Ryanair; 0; 8 zł; 06:25; Dublin DUB; 07:35; Edinburgh EDI
+Scotland; 15/05/19; Ryanair; 0; 7 zł; 10:15; Glasgow PIKGlasgow (Prestwick) PIK; 14:25; Malaga AGP
+Scotland; 01/05/19; Ryanair; 0; 9 zł; 07:30; Malaga AGP; 09:50; Glasgow PIKGlasgow (Prestwick) PIK
+Scotland; 08/05/19; Ryanair; 0; 7 zł; 07:05; Edinburgh EDI; 09:55; Nantes NTE
+Scotland; 15/05/19; Ryanair; 0; 9 zł; 10:20; Nantes NTE; 11:10; Edinburgh EDI
+Scotland; 22/05/19; Ryanair; 0; 7 zł; 18:30; Edinburgh EDI; 21:55; Santander SDR
+Scotland; 01/05/19; Ryanair; 1; 9 zł; 22:20; Santander SDR; 23:40; Edinburgh EDI
+Scotland; 01/05/19; Ryanair; 1; 7 zł; 50 Ed; nburgh EDI; 23:40; Edinburgh EDI FR7617
+Scotland; 05/05/19; Ryanair; 1; 9 zł; 21:45; Luxembourg LUX; 16:40; Luxembourg LUX FR2354
+Scotland; 09/05/19; Ryanair; 1; 0 zł; 05:55; London STNLondon (Stansted) STN; 18:45; Edinburgh EDI
+Scotland; 09/05/19; Ryanair; 1; 4 zł; 18:10; Billund BLL; 08:30; Billund BLL FR9769
+Scotland; 15/05/19; Ryanair; 1; 2 zł; 07:00; Edinburgh EDI; 17:50; Bremen BRE
+Scotland; 06/06/19; Ryanair; 0; 9 zł; 55 Br; men BRE; 17:50; Bremen BRE FR3795
+Scotland; 11/06/19; Ryanair; 0; 0 zł; 17:50; Milan BGYMilan (Bergamo) BGY; 10:40; Milan BGYMilan (Bergamo) BGY FR5216
+Scotland; 15/05/19; Ryanair; 1; 4 zł; 21:55; Aberdeen ABZ; 00:55; Gdansk GDN
+Scotland; 15/05/19; Ryanair; 1; 4 zł; 00 Gd; nsk GDN; 00:55; Gdansk GDN W61618
+Scotland; 21/05/19; Wizz Air; 1; 9 zł; 40 Gl; sgow GLA; 21:20; Aberdeen ABZ W61617
+Scotland; 25/04/19; Wizz Air; 0; 8 zł; 13:20; Dublin DUB; 09:40; Dublin DUB FR5771
+Scotland; 30/04/19; Ryanair; 1; 4 zł; 10:40; Brussels CRLBrussels (Charleroi) CRL; 11:20; Glasgow GLA
+Scotland; 30/04/19; Ryanair; 1; 4 zł; 15 Ed; nburgh EDI; 11:20; Glasgow GLA FR2558
+Scotland; 15/05/19; Ryanair; 1; 2 zł; 20 Bi; lund BLL; 17:50; Billund BLL FR2320
+Scotland; 22/05/19; Ryanair; 0; 4 zł; 20:05; London STNLondon (Stansted) STN; 10:55; London STNLondon (Stansted) STN FR5173
+Scotland; 08/05/19; Ryanair; 1; 2 zł; 11:35; Edinburgh EDI; 15:05; Beziers BZR
+Scotland; 08/05/19; Ryanair; 1; 4 zł; 30 Be; iers BZR; 15:05; Beziers BZR FR7834
+Scotland; 15/05/19; Ryanair; 1; 08 zł; 50 Ed; nburgh EDI; 17:00; Edinburgh EDI FR7835
+Scotland; 08/05/19; Ryanair; 1; 4 zł; 18:05; London STNLondon (Stansted) STN; 08:25; London STNLondon (Stansted) STN FR8882
+Scotland; 08/05/19; Ryanair; 1; 9 zł; 15 To; louse TLS; 21:05; Toulouse TLS FR281
+Scotland; 15/05/19; Ryanair; 1; 9 zł; 50 Ed; nburgh EDI; 23:35; Edinburgh EDI FR1065
+Scotland; 28/05/19; Ryanair; 0; 7 zł; 13:10; London STNLondon (Stansted) STN; 08:25; London STNLondon (Stansted) STN FR8882
+Scotland; 04/06/19; Ryanair; 0; 9 zł; 10:20; Nantes NTE; 11:10; Edinburgh EDI
+Scotland; 08/05/19; Ryanair; 1; 9 zł; 17:30; Glasgow PIKGlasgow (Prestwick) PIK; 20:50; Bydgoszcz BZG
+Scotland; 08/05/19; Ryanair; 1; 7 zł; 15 By; goszcz BZG; 20:50; Bydgoszcz BZG FR7624
+Scotland; 15/05/19; Ryanair; 1; 00 zł; 50 Ed; nburgh EDI; 22:45; Glasgow PIKGlasgow (Prestwick) PIK FR7625
+Scotland; 19/10/19; Ryanair; 0; 5 zł; 19:00; London STNLondon (Stansted) STN; 08:25; London STNLondon (Stansted) STN FR8882
+Scotland; 26/10/19; Ryanair; 0; 9 zł; 10:00; Berlin SXFBerlin (Schonefeld) SXF; 11:05; Edinburgh EDI
+Scotland; 08/05/19; Ryanair; 1; 4 zł; 11:10; Edinburgh EDI; 12:50; Jersey JER
+Scotland; 08/05/19; Ryanair; 1; 4 zł; 20 Je; sey JER; 12:50; Jersey JER U26963
+Scotland; 15/05/19; easyJet; 1; 5 zł; 50 Ed; nburgh EDI; 14:55; Edinburgh EDI U26964
+Scotland; 06/05/19; easyJet; 0; 0 zł; 14:55; London STNLondon (Stansted) STN; 08:25; London STNLondon (Stansted) STN FR8882
+Scotland; 13/05/19; Ryanair; 0; 9 zł; 17:30; Dusseldorf NRNDusseldorf (Weeze) NRN; 21:25; Edinburgh EDI
+Scotland; 14/05/19; Ryanair; 1; 4 zł; 50 Ed; nburgh EDI; 21:25; Edinburgh EDI FR8887
+Scotland; 14/05/19; Ryanair; 1; 1 zł; 12:50; Edinburgh EDI; 15:40; Goteborg GOTGoteborg (Landvetter) GOT
+Scotland; 22/05/19; Ryanair; 1; 4 zł; 11:30; Goteborg GOTGoteborg (Landvetter) GOT; 12:25; Edinburgh EDI
+Scotland; 09/05/19; Ryanair; 1; 04 zł; 06:45; Edinburgh EDI; 16:20; Venice TSFVenice (Treviso) TSF
+Scotland; 09/05/19; Ryanair; 1; 5 zł; 14:45; Berlin SXFBerlin (Schonefeld) SXF; 09:50; Berlin SXFBerlin (Schonefeld) SXF FR2376
+Scotland; 15/05/19; Ryanair; 1; 4 zł; 21:50; Venice TSFVenice (Treviso) TSF; 23:35; Edinburgh EDI
+Scotland; 02/05/19; Ryanair; 1; 2 zł; 11:30; Edinburgh EDI; 19:40; Palma Mall PMI
+Scotland; 02/05/19; Ryanair; 1; 4 zł; 17:20; Dusseldorf NRNDusseldorf (Weeze) NRN; 14:10; Dusseldorf NRNDusseldorf (Weeze) NRN FR6242
+Scotland; 10/05/19; Ryanair; 1; 9 zł; 12:10; Palma Mall PMI; 14:20; Edinburgh EDI
+Scotland; 08/05/19; Ryanair; 1; 5 zł; 08:50; Edinburgh EDI; 14:25; Marseille MRS
+Scotland; 08/05/19; Ryanair; 1; 7 zł; 13:10; Bordeaux BOD; 12:10; Bordeaux BOD FR6654
+Scotland; 15/05/19; Ryanair; 1; 4 zł; 09:25; Marseille MRS; 10:55; Edinburgh EDI
+Scotland; 30/04/19; Ryanair; 0; 3 zł; 06:50; Edinburgh EDI; 18:35; Bordeaux BOD
+Scotland; 07/05/19; Ryanair; 1; 5 zł; 25 Bo; deaux BOD; 18:35; Bordeaux BOD FR1782
+Scotland; 07/05/19; Ryanair; 1; 9 zł; 06:25; Bordeaux BOD; 11:10; Edinburgh EDI
+Scotland; 08/05/19; Ryanair; 1; 9 zł; 25 Ed; nburgh EDI; 11:10; Edinburgh EDI FR1052
+Scotland; 15/05/19; Ryanair; 0;  zł; 40 Ha; burg HAM; 10:10; Hamburg HAM FR1078
+Scotland; 22/05/19; Ryanair; 1; 7 zł; 08:55; London STNLondon (Stansted) STN; 07:15; London STNLondon (Stansted) STN FR1517
+Scotland; 22/05/19; Ryanair; 1; 4 zł; 50 Ed; nburgh EDI; 10:15; Edinburgh EDI FR8881
+Scotland; 28/05/19; Ryanair; 1; 4 zł; 13:40; London STNLondon (Stansted) STN; 08:25; London STNLondon (Stansted) STN FR8882
+Scotland; 21/09/19; Ryanair; 0; 9 zł; 17:50; Milan BGYMilan (Bergamo) BGY; 19:25; Edinburgh EDI
+Scotland; 28/09/19; Ryanair; 0; 9 zł; 06:50; Edinburgh EDI; 22:30; Hamburg HAM
+Scotland; 30/04/19; Ryanair; 0; 4 zł; 10 Ha; burg HAM; 22:30; Hamburg HAM FR1520
+Scotland; 07/05/19; Ryanair; 0; 4 zł; 00 In; erness INV; 07:00; Edinburgh EDI FR1077
+Scotland; 08/05/19; Ryanair; 1; 9 zł; 00 Br; stol BRS; 10:20; Bristol BRS U2394
+Scotland; 08/05/19; Ryanair; 1; 4 zł; 07:00; Bristol BRS; 08:25; Inverness INV
+Scotland; 15/05/19; Ryanair; 1; 4 zł; 17:05; Glasgow PIKGlasgow (Prestwick) PIK; 21:05; Rome CIARome (Ciampino) CIA
+Scotland; 15/05/19; easyJet; 0; 0 zł; 21:30; Rome CIARome (Ciampino) CIA; 23:40; Glasgow PIKGlasgow (Prestwick) PIK
+Scotland; 22/05/19; easyJet; 1; 4 zł; 06:50; Edinburgh EDI; 21:10; Luxembourg LUX
+Scotland; 22/05/19; Ryanair; 1; 12 zł; 18:55; London STNLondon (Stansted) STN; 08:25; London STNLondon (Stansted) STN FR8882
+Scotland; 22/05/19; Ryanair; 1; 7 zł; 08:55; Luxembourg LUX; 19:25; Edinburgh EDI
+Scotland; 26/05/19; Ryanair; 0; 9 zł; 50 Ed; nburgh EDI; 19:25; Edinburgh EDI FR5833
+Scotland; 30/04/19; Ryanair; 0; 4 zł; 15 Ve; ice TSFVenice (Treviso) TSF; 21:25; Venice TSFVenice (Treviso) TSF FR1068
+Scotland; 07/05/19; Ryanair; 0; 2 zł; 17:25; Brussels CRLBrussels (Charleroi) CRL; 13:50; Brussels CRLBrussels (Charleroi) CRL FR6034
+Scotland; 08/05/19; Ryanair; 1; 4 zł; 12:40; Glasgow PIKGlasgow (Prestwick) PIK; 16:20; Pisa PSA
+Scotland; 08/05/19; Ryanair; 1; 4 zł; 30 Pi; a PSA; 16:20; Pisa PSA FR7846
+Scotland; 15/05/19; Ryanair; 1; 4 zł; 00 Gl; sgow PIKGlasgow (Prestwick) PIK; 08:15; Glasgow PIKGlasgow (Prestwick) PIK FR7847
+Scotland; 22/05/19; Ryanair; 1; 5 zł; 10 Gr; n Canar LPA; 11:35; Gran Canar LPA FR6253
+Scotland; 22/05/19; Ryanair; 1; 17 zł; 12:10; Gran Canar LPA; 16:40; Glasgow PIKGlasgow (Prestwick) PIK
+Scotland; 30/05/19; Ryanair; 1; 7 zł; 06:50; Edinburgh EDI; 23:00; Vienna VIE
+Scotland; 09/05/19; Ryanair; 1; 9 zł; 00 Vi; nna VIE; 23:00; Vienna VIE OE1327
+Scotland; 09/05/19; Ryanair; 1; 06 zł; 08:00; Vienna VIE; 19:25; Edinburgh EDI
+Scotland; 15/05/19; Ryanair; 1; 9 zł; 50 Ed; nburgh EDI; 19:25; Edinburgh EDI FR5833
+Scotland; 14/05/19; Laudamotion; 0; 9 zł; 09:40; London STNLondon (Stansted) STN; 08:25; London STNLondon (Stansted) STN FR8882
+Scotland; 22/05/19; Laudamotion; 1; 4 zł; 07:15; Belfast BFS; 13:50; Edinburgh EDI
+Scotland; 22/05/19; Ryanair; 1; 4 zł; 12:30; London STNLondon (Stansted) STN; 08:45; London STNLondon (Stansted) STN FR1161
+Scotland; 15/06/19; Ryanair; 1; 9 zł; 07:00; Edinburgh EDI; 16:35; Duesseldor DUS
+Scotland; 19/06/19; Ryanair; 0; 9 zł; 20 Du; sseldor DUS; 16:35; Duesseldor DUS OE195
+Scotland; 08/05/19; Ryanair; 1; 9 zł; 17:50; Milan BGYMilan (Bergamo) BGY; 14:00; Milan BGYMilan (Bergamo) BGY OE196
+Scotland; 08/05/19; Ryanair; 1; 9 zł; 45 Ed; nburgh EDI; 19:25; Edinburgh EDI FR5833
+Scotland; 13/05/19; Ryanair; 1; 9 zł; 35 Ca; cassonn CCF; 15:15; Carcassonn CCF FR1119
+Scotland; 14/05/19; Laudamotion; 0; 2 zł; 17:25; Brussels CRLBrussels (Charleroi) CRL; 15:20; Brussels CRLBrussels (Charleroi) CRL FR8024
+Scotland; 22/05/19; Laudamotion; 1; 2 zł; 19:10; Glasgow PIKGlasgow (Prestwick) PIK; 22:50; Barcelona BCN
+Scotland; 22/05/19; Ryanair; 1; 4 zł; 50 Ba; celona BCN; 22:50; Barcelona BCN FR7823
+Scotland; 08/05/19; Ryanair; 1; 00 zł; 50 Ed; nburgh EDI; 23:45; Glasgow PIKGlasgow (Prestwick) PIK FR7824
+Scotland; 14/05/19; Ryanair; 0; 2 zł; 14:10; London STNLondon (Stansted) STN; 08:25; London STNLondon (Stansted) STN FR8882
+Scotland; 10/05/19; Ryanair; 0; 5 zł; 11:30; Goteborg GOTGoteborg (Landvetter) GOT; 12:25; Edinburgh EDI
+Scotland; 15/05/19; Ryanair; 1; 13 zł; 07:30; Edinburgh EDI; 10:45; Wroclaw WRO
+Scotland; 15/05/19; Ryanair; 1; 5 zł; 50 Wr; claw WRO; 10:45; Wroclaw WRO FR1159
+Scotland; 25/04/19; Ryanair; 1; 9 zł; 17:25; Brussels CRLBrussels (Charleroi) CRL; 14:30; Brussels CRLBrussels (Charleroi) CRL FR8373
+Scotland; 02/05/19; Ryanair; 0; 4 zł; 06:50; Edinburgh EDI; 15:05; Dublin DUB
+Scotland; 24/04/19; Ryanair; 0; 5 zł; 35 Du; lin DUB; 15:05; Dublin DUB FR225
+Scotland; 01/05/19; Ryanair; 0; 04 zł; 40 Ed; nburgh EDI; 13:45; Edinburgh EDI FR816
+Scotland; 16/05/19; Ryanair; 0; 9 zł; 10 Ka; lsruhe FKBKarlsruhe-Baden Baden FKB; 17:40; Karlsruhe FKBKarlsruhe-Baden Baden FKB FR1048
+Scotland; 22/05/19; Ryanair; 1; 5 zł; 16:30; London STNLondon (Stansted) STN; 13:40; London STNLondon (Stansted) STN FR9773
+Scotland; 22/05/19; Ryanair; 1; 9 zł; 10 Ed; nburgh EDI; 17:50; Edinburgh EDI FR2685
+Scotland; 23/04/19; Ryanair; 1; 4 zł; 00 Pi; a PSA; 23:55; Pisa PSA FR2753
+Scotland; 01/05/19; Ryanair; 0; 7 zł; 00 Ed; nburgh EDI; 19:45; Edinburgh EDI FR2752
+Scotland; 15/05/19; Ryanair; 0; 4 zł; 45 Fa; o FAO; 19:20; Faro FAO FR6826
+Scotland; 19/05/19; Ryanair; 0; 2 zł; 10 Ed; nburgh EDI; 23:05; Edinburgh EDI FR6827
+Scotland; 08/05/19; Ryanair; 1; 4 zł; 25 Du; lin DUB; 15:15; Dublin DUB FR817
+Scotland; 08/05/19; Ryanair; 1; 25 zł; 06:25; Dublin DUB; 10:15; Edinburgh EDI
+Scotland; 15/05/19; Ryanair; 1; 7 zł; 15 Ed; nburgh EDI; 10:15; Edinburgh EDI FR8881
+Scotland; 11/09/19; Ryanair; 0; 25 zł; 50 Mi; an BGYMilan (Bergamo) BGY; 23:40; Milan BGYMilan (Bergamo) BGY FR5834
+Scotland; 19/09/19; Ryanair; 0; 7 zł; 40 Ed; nburgh EDI; 19:25; Edinburgh EDI FR5833
+Scotland; 29/09/19; Ryanair; 0; 8 zł; 00 Ba; el-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL; 11:45; Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL U26918
+Scotland; 06/10/19; Ryanair; 0; 4 zł; 50 Ed; nburgh EDI; 07:10; Edinburgh EDI U26917
+Scotland; 15/05/19; Ryanair; 0; 9 zł; 13:40; London STNLondon (Stansted) STN; 08:25; London STNLondon (Stansted) STN FR8882
+Scotland; 23/05/19; Ryanair; 1; 04 zł; 07:05; Milan BGYMilan (Bergamo) BGY; 18:05; Edinburgh EDI
+Scotland; 23/05/19; Ryanair; 1; 7 zł; 17:15; Luxembourg LUX; 08:20; Luxembourg LUX FR5835
+Scotland; 09/05/19; easyJet; 1; 14 zł; 07:00; Inverness INV; 08:45; London LGWLondon (Gatwick) LGW
+Scotland; 16/05/19; easyJet; 0; 8 zł; 15:10; London LGWLondon (Gatwick) LGW; 16:55; Inverness INV
+Scotland; 02/05/19; Ryanair; 1; 9 zł; 13:55; Glasgow GLA; 15:25; Jersey JER
+Scotland; 02/05/19; Ryanair; 1; 4 zł; 55 Je; sey JER; 15:25; Jersey JER U26815
+Scotland; 07/05/19; Ryanair; 1; 2 zł; 30 Gl; sgow PIKGlasgow (Prestwick) PIK; 17:25; Glasgow GLA U26816
+Scotland; 25/05/19; Ryanair; 1; 2 zł; 00 Ba; celona BCN; 21:10; Barcelona BCN FR7823
+Scotland; 25/05/19; easyJet; 1; 0 zł; 15:00; Barcelona BCN; 22:45; Glasgow PIKGlasgow (Prestwick) PIK
+Scotland; 30/05/19; easyJet; 1; 04 zł; 30 Ed; nburgh EDI; 22:45; Glasgow PIKGlasgow (Prestwick) PIK FR9418
+Scotland; 02/10/19; easyJet; 0; 04 zł; 20:45; Dusseldorf NRNDusseldorf (Weeze) NRN; 14:10; Dusseldorf NRNDusseldorf (Weeze) NRN FR6242
+Scotland; 10/10/19; easyJet; 0; 0 zł; 18:00; Pisa PSA; 19:45; Edinburgh EDI
+Scotland; 12/05/19; Ryanair; 0; 9 zł; 08:40; Glasgow GLA; 15:40; Bournemout BOH
+Scotland; 19/05/19; Ryanair; 0; 4 zł; 45 Bo; rnemout BOH; 15:40; Bournemout BOH FR2269
+Scotland; 02/09/19; Ryanair; 0; 7 zł; 20:30; Dublin DUB; 14:55; Dublin DUB FR2268
+Scotland; 09/09/19; Ryanair; 0; 9 zł; 06:20; Edinburgh EDI; 18:35; Liverpool LPL
+Scotland; 02/10/19; Ryanair; 0; 2 zł; 20 Li; erpool LPL; 18:35; Liverpool LPL FR9813
+Scotland; 08/10/19; Ryanair; 0; 18 zł; 20:35; Derry LDY; 12:20; Derry LDY FR9812
+Scotland; 30/04/19; Ryanair; 0; 4 zł; 20:15; Edinburgh EDI; 23:50; Milan MXPMilan (Malpensa) MXP
+Scotland; 08/05/19; Ryanair; 0; 2 zł; 09:30; Milan MXPMilan (Malpensa) MXP; 11:00; Edinburgh EDI
+Scotland; 22/05/19; Ryanair; 0; 9 zł; 14:50; Glasgow PIKGlasgow (Prestwick) PIK; 18:50; Ibiza IBZ
+Scotland; 29/05/19; Ryanair; 0; 5 zł; 19:25; Ibiza IBZ; 21:30; Glasgow PIKGlasgow (Prestwick) PIK
+Scotland; 20/08/19; Ryanair; 0; 9 zł; 17:55; Edinburgh EDI; 21:20; Poznan POZ
+Scotland; 26/08/19; Ryanair; 0; 4 zł; 21:45; Poznan POZ; 23:10; Edinburgh EDI
+Scotland; 01/05/19; Ryanair; 0; 9 zł; 13:35; Glasgow GLA; 16:10; Amsterdam AMS
+Scotland; 08/05/19; Ryanair; 0; 9 zł; 12:40; Amsterdam AMS; 13:15; Glasgow GLA
+Scotland; 28/08/19; easyJet; 0; 5 zł; 06:30; Edinburgh EDI; 07:55; London LTNLondon (Luton) LTN
+Scotland; 02/09/19; easyJet; 0; 5 zł; 13:55; London LTNLondon (Luton) LTN; 15:10; Edinburgh EDI
+Scotland; 02/07/19; Ryanair; 0; 9 zł; 06:30; Glasgow GLA; 07:15; Belfast BFS
+Scotland; 09/07/19; Ryanair; 0; 25 zł; 20:15; Belfast BFS; 21:00; Glasgow GLA
+Scotland; 15/05/19; Ryanair; 0; 13 zł; 21:55; Glasgow GLA; 23:05; Bristol BRS
+Scotland; 22/05/19; Ryanair; 1; 01 zł; 20:10; Bristol BRS; 21:25; Glasgow GLA
+Scotland; 22/05/19; easyJet; 1; 4 zł; 00 Gl; sgow GLA; 21:25; Glasgow GLA U2407
+Scotland; 16/05/19; easyJet; 1; 6 zł; 00 Lo; don LTNLondon (Luton) LTN; 08:20; London LTNLondon (Luton) LTN U266
+Scotland; 22/05/19; easyJet; 1; 5 zł; 05 Ed; nburgh EDI; 20:20; Glasgow GLA U277
+Scotland; 22/05/19; easyJet; 1; 5 zł; 07:05; Edinburgh EDI; 07:55; Belfast BFS
+Scotland; 08/05/19; easyJet; 1; 5 zł; 20:20; Belfast BFS; 21:10; Edinburgh EDI
+Scotland; 14/05/19; easyJet; 1; 5 zł; 20:55; Edinburgh EDI; 22:10; Bristol BRS
+Scotland; 14/05/19; easyJet; 1; 5 zł; 15 Br; stol BRS; 22:10; Bristol BRS U2432
+Scotland; 08/05/19; easyJet; 1; 5 zł; 45 Ed; nburgh EDI; 20:25; Edinburgh EDI U2429
+Scotland; 15/05/19; easyJet; 1; 5 zł; 40 Co; enhagen CPH; 21:35; Copenhagen CPH FR2674
+Scotland; 15/05/19; easyJet; 1; 5 zł; 08:40; Copenhagen CPH; 18:05; Edinburgh EDI
+Scotland; 08/05/19; easyJet; 1; 5 zł; 50 Ed; nburgh EDI; 18:05; Edinburgh EDI FR7353
+Scotland; 14/05/19; easyJet; 1; 5 zł; 13:10; Bordeaux BOD; 12:10; Bordeaux BOD FR6654
+Scotland; 14/05/19; easyJet; 1; 5 zł; 30 Ma; seille MRS; 14:25; Marseille MRS FR6467
+Scotland; 08/05/19; easyJet; 1; 5 zł; 08:55; London STNLondon (Stansted) STN; 07:35; London STNLondon (Stansted) STN FR6542
+Scotland; 13/05/19; Ryanair; 1; 27 zł; 06:50; Edinburgh EDI; 14:45; Limoges LIG
+Scotland; 13/05/19; Ryanair; 1; 1 zł; 12:05; London STNLondon (Stansted) STN; 08:25; London STNLondon (Stansted) STN FR8882
+Scotland; 08/05/19; Ryanair; 1; 5 zł; 12:55; Limoges LIG; 21:25; Edinburgh EDI
+Scotland; 14/05/19; Ryanair; 1; 4 zł; 50 Ed; nburgh EDI; 21:25; Edinburgh EDI FR8887
+Scotland; 14/05/19; Ryanair; 1; 7 zł; 06:50; Edinburgh EDI; 15:00; Poitiers PIS
+Scotland; 08/05/19; Ryanair; 1; 5 zł; 25 Po; tiers PIS; 15:00; Poitiers PIS FR8474
+Scotland; 15/05/19; Ryanair; 1; 9 zł; 20:05; London STNLondon (Stansted) STN; 16:00; London STNLondon (Stansted) STN FR8475
+Scotland; 15/05/19; Ryanair; 1; 9 zł; 50 Ed; nburgh EDI; 21:25; Edinburgh EDI FR8887
+Scotland; 11/09/19; Ryanair; 1; 9 zł; 18:05; London STNLondon (Stansted) STN; 08:25; London STNLondon (Stansted) STN FR8882
+Scotland; 18/09/19; Ryanair; 0; 2 zł; 10:40; Toulouse TLS; 21:25; Edinburgh EDI
+Scotland; 08/05/19; Ryanair; 0; 4 zł; 50 Ed; nburgh EDI; 21:25; Edinburgh EDI FR8887
+Scotland; 13/05/19; Ryanair; 0; 9 zł; 15:00; London STNLondon (Stansted) STN; 08:25; London STNLondon (Stansted) STN FR8882
+Scotland; 05/10/19; Ryanair; 0; 9 zł; 14:20; Dinard DNR; 21:25; Edinburgh EDI
+Scotland; 09/10/19; Ryanair; 0; 2 zł; 50 Ed; nburgh EDI; 21:25; Edinburgh EDI FR8887
+Scotland; 16/05/19; Ryanair; 1; 4 zł; 18:05; London STNLondon (Stansted) STN; 08:25; London STNLondon (Stansted) STN FR8882
+Scotland; 16/05/19; Ryanair; 1; 9 zł; 00 Bi; rritz BIQ; 21:05; Biarritz BIQ FR1372
+Scotland; 21/05/19; Ryanair; 1; 9 zł; 20:05; London STNLondon (Stansted) STN; 12:55; London STNLondon (Stansted) STN FR373
+Scotland; 14/05/19; Ryanair; 1; 2 zł; 06:50; Edinburgh EDI; 12:10; Brive BVE
+Scotland; 14/05/19; Ryanair; 1; 4 zł; 09:30; London STNLondon (Stansted) STN; 08:25; London STNLondon (Stansted) STN FR8882
+Scotland; 21/05/19; Ryanair; 1; 9 zł; 12:35; Brive BVE; 17:50; Edinburgh EDI
+Scotland; 07/05/19; Ryanair; 1; 9 zł; 45 Ab; rdeen ABZ; 17:50; Edinburgh EDI FR2685
+Scotland; 07/05/19; Ryanair; 1; 2 zł; 15:45; Aberdeen ABZ; 17:05; London LTNLondon (Luton) LTN
+Scotland; 14/05/19; Ryanair; 1; 4 zł; 13:50; London LTNLondon (Luton) LTN; 15:15; Aberdeen ABZ
+Scotland; 22/05/19; Ryanair; 1; 9 zł; 19:10; Glasgow GLA; 20:25; London STNLondon (Stansted) STN
+Scotland; 22/05/19; Ryanair; 1; 9 zł; 25 Lo; don STNLondon (Stansted) STN; 20:25; London STNLondon (Stansted) STN U2214
+Scotland; 30/05/19; Ryanair; 1; 2 zł; 55 Ed; nburgh EDI; 22:40; Glasgow GLA U2215
+Scotland; 09/05/19; Ryanair; 1; 4 zł; 20 Ly; n LYS; 22:05; Lyon LYS U26971
+Scotland; 09/05/19; Ryanair; 1; 9 zł; 12:20; Lyon LYS; 13:30; Edinburgh EDI
+Scotland; 15/05/19; Ryanair; 1; 9 zł; 08:40; Glasgow GLA; 22:05; Newcastle NCL
+Scotland; 15/05/19; Ryanair; 1; 2 zł; 20 Ne; castle NCL; 22:05; Newcastle NCL FR174
+Scotland; 15/05/19; Ryanair; 1; 4 zł; 11:20; Newcastle NCL; 15:00; Glasgow GLA
+Scotland; 22/05/19; easyJet; 1; 9 zł; 40 Gl; sgow GLA; 15:00; Glasgow GLA FR5774
+Scotland; 09/01/20; easyJet; 0; 5 zł; 16:05; Dublin DUB; 09:40; Dublin DUB FR5771
+Scotland; 17/01/20; easyJet; 1; 5 zł; 06:30; Leeds LBA; 21:30; Glasgow GLA
+Scotland; 17/01/20; easyJet; 1; 4 zł; 20:30; Dublin DUB; 07:30; Dublin DUB FR153
+Scotland; 15/05/19; easyJet; 1; 4 zł; 08:40; Glasgow GLA; 15:00; Glasgow GLA
+Scotland; 22/05/19; easyJet; 0; 6 zł; 25 Gl; sgow GLA; 15:00; Glasgow GLA FR5774
+Scotland; 08/05/19; Ryanair; 1; 4 zł; 20:30; Dublin DUB; 16:25; Dublin DUB FR5773
+Scotland; 08/05/19; Ryanair; 1; 5 zł; 40 Gl; sgow GLA; 21:30; Glasgow GLA FR5776
+Scotland; 14/05/19; Ryanair; 1; 4 zł; 14:50; Dublin DUB; 09:40; Dublin DUB FR5771
+Scotland; 08/05/19; Ryanair; 1; 5 zł; 08:25; Liverpool LPL; 21:30; Glasgow GLA
+Scotland; 08/05/19; Ryanair; 1; 4 zł; 20:30; Dublin DUB; 09:20; Dublin DUB FR443
+Scotland; 15/05/19; Ryanair; 1; 5 zł; 08:40; Glasgow GLA; 20:45; East Midla EMA
+Scotland; 01/05/19; Ryanair; 1; 4 zł; 30 Ea; t Midla EMA; 20:45; East Midla EMA FR536
+Scotland; 01/05/19; Ryanair; 1; 5 zł; 06:30; East Midla EMA; 15:00; Glasgow GLA
+Scotland; 08/05/19; Ryanair; 1; 4 zł; 25 Gl; sgow GLA; 15:00; Glasgow GLA FR5774
+Scotland; 25/04/19; Ryanair; 0; 5 zł; 19:40; Dublin DUB; 16:25; Dublin DUB FR5773
+Scotland; 02/05/19; Ryanair; 1; 4 zł; 16:25; Bristol BRS; 21:30; Glasgow GLA
+Scotland; 02/05/19; Ryanair; 1; 5 zł; 20:30; Dublin DUB; 17:25; Dublin DUB FR507
+Scotland; 29/04/19; Ryanair; 1; 4 zł; 19:30; Edinburgh EDI; 23:00; Warsaw WMIWarsaw (Modlin) WMI
+Scotland; 04/05/19; Ryanair; 0; 5 zł; 13:20; Warsaw WMIWarsaw (Modlin) WMI; 17:05; Edinburgh EDI
+Scotland; 02/05/19; Ryanair; 0; 4 zł; 30 Gl; sgow GLA; 17:05; Edinburgh EDI FR7893
+Scotland; 08/05/19; Ryanair; 1; 5 zł; 50 Ve; ice VCEVenice (Marco Polo) VCE; 21:15; Venice VCEVenice (Marco Polo) VCE U26847
+Scotland; 08/05/19; Ryanair; 1; 4 zł; 21:50; Venice VCEVenice (Marco Polo) VCE; 23:45; Glasgow GLA
+Scotland; 28/09/19; Ryanair; 1; 5 zł; 06:50; Edinburgh EDI; 11:05; Belfast BFS
+Scotland; 02/10/19; Ryanair; 0; 4 zł; 25 Be; fast BFS; 11:05; Belfast BFS FR1162
+Scotland; 05/05/19; Ryanair; 0; 5 zł; 25 Ed; nburgh EDI; 09:15; Edinburgh EDI U2481
+Scotland; 09/05/19; Ryanair; 1; 4 zł; 08:45; London STNLondon (Stansted) STN; 07:55; London STNLondon (Stansted) STN U2232
+Scotland; 09/05/19; Ryanair; 1; 5 zł; 30 Mi; an MXPMilan (Malpensa) MXP; 11:40; Milan MXPMilan (Malpensa) MXP FR8729
+Scotland; 26/04/19; Ryanair; 1; 4 zł; 40 Gl; sgow GLA; 09:00; Edinburgh EDI U22683
+Scotland; 01/05/19; Ryanair; 0; 5 zł; 13:20; Dublin DUB; 09:40; Dublin DUB FR5771
+Scotland; 23/05/19; Ryanair; 0; 26 zł; 16:40; Brussels CRLBrussels (Charleroi) CRL; 21:30; Glasgow GLA
+Scotland; 30/05/19; Ryanair; 1; 00 zł; 10 Ed; nburgh EDI; 21:30; Glasgow GLA FR5776
+Scotland; 30/05/19; Ryanair; 1; 4 zł; 20:10; Edinburgh EDI; 23:55; Pisa PSA
+Scotland; 22/05/19; easyJet; 1; 24 zł; 06:40; Pisa PSA; 10:15; Edinburgh EDI
+Scotland; 28/05/19; easyJet; 1; 5 zł; 15 Ed; nburgh EDI; 10:15; Edinburgh EDI FR8881
+Scotland; 28/05/19; Ryanair; 1; 9 zł; 07:15; Edinburgh EDI; 10:00; Copenhagen CPH
+Scotland; 09/05/19; Ryanair; 1; 9 zł; 15:35; Copenhagen CPH; 16:25; Edinburgh EDI
+Scotland; 15/05/19; easyJet; 1; 5 zł; 06:30; Edinburgh EDI; 09:35; Berlin SXFBerlin (Schonefeld) SXF
+Scotland; 15/05/19; easyJet; 1; 5 zł; 15 Be; lin SXFBerlin (Schonefeld) SXF; 09:35; Berlin SXFBerlin (Schonefeld) SXF FR2376
+Scotland; 21/09/19; Ryanair; 1; 4 zł; 18:15; Milan MXPMilan (Malpensa) MXP; 09:05; Milan MXPMilan (Malpensa) MXP U24673
+Scotland; 28/09/19; easyJet; 0; 4 zł; 11:10; Edinburgh EDI; 15:20; London LTNLondon (Luton) LTN
+Scotland; 25/09/19; Ryanair; 0; 4 zł; 55 Lo; don LTNLondon (Luton) LTN; 15:20; London LTNLondon (Luton) LTN U22312
+Scotland; 02/10/19; Ryanair; 0; 4 zł; 15 Ed; nburgh EDI; 15:10; Edinburgh EDI U215
+Scotland; 15/05/19; Ryanair; 1; 4 zł; 05 Ib; za IBZ; 19:15; Ibiza IBZ FR6605
+Scotland; 15/05/19; Ryanair; 1; 5 zł; 00:05; Ibiza IBZ; 09:40; Edinburgh EDI
+Scotland; 20/05/19; Ryanair; 1; 25 zł; 25 Ed; nburgh EDI; 09:40; Edinburgh EDI U211
+Scotland; 16/05/19; Ryanair; 1; 8 zł; 12:05; London STNLondon (Stansted) STN; 07:55; London STNLondon (Stansted) STN U2232
+Scotland; 16/05/19; Ryanair; 1; 4 zł; 30 Be; iers BZR; 14:55; Beziers BZR FR876
+Scotland; 20/05/19; easyJet; 1; 14 zł; 05 Ed; nburgh EDI; 17:00; Edinburgh EDI FR7835
+Scotland; 07/05/19; Ryanair; 1; 2 zł; 15 Be; fast BFS; 07:55; Belfast BFS U2482
+Scotland; 07/05/19; Ryanair; 1; 4 zł; 07:15; Belfast BFS; 13:50; Edinburgh EDI
+Scotland; 15/05/19; easyJet; 1; 9 zł; 40 Gl; sgow GLA; 13:50; Edinburgh EDI FR8883
+Scotland; 30/04/19; easyJet; 0; 4 zł; 21:55; Dublin DUB; 09:40; Dublin DUB FR5771
+Scotland; 08/05/19; easyJet; 1; 5 zł; 15:00; Birmingham BHX; 21:30; Glasgow GLA
+Scotland; 08/05/19; easyJet; 1; 0 zł; 20:30; Dublin DUB; 16:10; Dublin DUB FR671
+Scotland; 24/04/19; easyJet; 1; 5 zł; 19:10; Glasgow GLA; 20:25; London STNLondon (Stansted) STN
+Scotland; 01/05/19; Ryanair; 1; 8 zł; 12:30; London STNLondon (Stansted) STN; 23:45; Glasgow GLA
+Scotland; 01/05/19; easyJet; 1;  zł; 21:50; Venice VCEVenice (Marco Polo) VCE; 15:30; Venice VCEVenice (Marco Polo) VCE FR794
+Scotland; 01/10/19; easyJet; 1; 5 zł; 17:40; Edinburgh EDI; 20:55; Geneva GVA
+Scotland; 08/10/19; easyJet; 0; 4 zł; 21:30; Geneva GVA; 22:40; Edinburgh EDI
+Scotland; 14/05/19; Ryanair; 1; 4 zł; 06:00; Edinburgh EDI; 09:20; Prague PRG
+Scotland; 14/05/19; Ryanair; 1; 2 zł; 50 Pr; gue PRG; 09:20; Prague PRG U26961
+Scotland; 18/05/19; easyJet; 1; 4 zł; 25 Ed; nburgh EDI; 11:15; Edinburgh EDI U26962
+Scotland; 08/05/19; Ryanair; 0; 9 zł; 14:10; London STNLondon (Stansted) STN; 07:55; London STNLondon (Stansted) STN U2232
+Scotland; 15/05/19; Ryanair; 1; 9 zł; 10:25; Karlsruhe FKBKarlsruhe-Baden Baden FKB; 11:30; Edinburgh EDI
+Scotland; 15/05/19; Ryanair; 1; 4 zł; 00 Ed; nburgh EDI; 11:30; Edinburgh EDI FR1047
+Scotland; 24/05/19; Ryanair; 1; 4 zł; 13:05; London STNLondon (Stansted) STN; 08:30; London STNLondon (Stansted) STN U2232
+Scotland; 29/05/19; Ryanair; 1; 4 zł; 14:00; Eindhoven EIN; 14:40; Edinburgh EDI
+Scotland; 29/05/19; Ryanair; 1; 5 zł; 25 Gl; sgow GLA; 14:40; Edinburgh EDI FR1108
+Scotland; 22/05/19; easyJet; 1; 5 zł; 22:20; Dublin DUB; 16:25; Dublin DUB FR5773
+Scotland; 30/05/19; Ryanair; 0; 4 zł; 07:45; London SENLondon (Southend) SEN; 23:45; Glasgow GLA
+Scotland; 01/05/19; easyJet; 0; 5 zł; 35 Ed; nburgh EDI; 23:45; Glasgow GLA U26848
+Scotland; 05/05/19; easyJet; 1; 4 zł; 15 Me; mingen FMM; 16:50; Memmingen FMM FR3178
+Scotland; 05/05/19; easyJet; 1; 1 zł; 15:15; Memmingen FMM; 22:10; Edinburgh EDI
+Scotland; 02/05/19; easyJet; 1; 19 zł; 00 Ed; nburgh EDI; 22:10; Edinburgh EDI U2241
+Scotland; 09/05/19; easyJet; 0; 7 zł; 25 Lo; don LTNLondon (Luton) LTN; 08:25; London LTNLondon (Luton) LTN U212
+Scotland; 24/04/19; easyJet; 1; 5 zł; 15:30; Beziers BZR; 09:20; Beziers BZR FR3456
+Scotland; 24/04/19; Ryanair; 1; 9 zł; 40 Ed; nburgh EDI; 17:00; Edinburgh EDI FR7835
+Scotland; 01/05/19; Ryanair; 1; 4 zł; 40 Am; terdam AMS; 22:15; Amsterdam AMS U26925
+Scotland; 07/10/19; easyJet; 0; 5 zł; 25 Ed; nburgh EDI; 19:10; Edinburgh EDI U26926
+Scotland; 11/10/19; Ryanair; 0; 9 zł; 16:10; Hamburg HAM; 10:10; Hamburg HAM FR1078
+Scotland; 15/05/19; Ryanair; 0; 4 zł; 21:30; Geneva GVA; 22:40; Edinburgh EDI
+Scotland; 19/05/19; Ryanair; 1; 4 zł; 21:55; Glasgow GLA; 22:55; Dublin DUB
+Scotland; 19/05/19; Ryanair; 1; 5 zł; 35 Du; lin DUB; 22:55; Dublin DUB FR5775
+Scotland; 19/10/19; Ryanair; 1; 4 zł; 20:10; Bristol BRS; 07:40; Bristol BRS FR504
+Scotland; 23/10/19; easyJet; 0; 5 zł; 21:55; Glasgow GLA; 23:05; Bristol BRS
+Scotland; 14/05/19; Ryanair; 0; 4 zł; 08:05; Bristol BRS; 15:00; Glasgow GLA
+Scotland; 22/05/19; Ryanair; 1; 2 zł; 40 Gl; sgow GLA; 15:00; Glasgow GLA FR5774
+Scotland; 22/05/19; easyJet; 1; 4 zł; 08:40; Glasgow GLA; 16:00; Bristol BRS
+Scotland; 08/05/19; easyJet; 1; 4 zł; 10 Br; stol BRS; 16:00; Bristol BRS FR506
+Scotland; 16/05/19; Ryanair; 1; 4 zł; 05 Ed; nburgh EDI; 08:25; Glasgow GLA U2401
+Scotland; 16/05/19; Ryanair; 1; 2 zł; 07:05; Edinburgh EDI; 09:55; Nantes NTE
+Scotland; 08/10/19; easyJet; 1; 04 zł; 15:50; Nantes NTE; 22:10; Edinburgh EDI
+Scotland; 14/10/19; easyJet; 1; 7 zł; 35 Ed; nburgh EDI; 22:10; Edinburgh EDI U2241
+Scotland; 14/10/19; Ryanair; 1; 4 zł; 07:35; Edinburgh EDI; 17:25; Bordeaux BOD
+Scotland; 30/04/19; easyJet; 1; 8 zł; 10 Bo; deaux BOD; 17:25; Bordeaux BOD U21764
+Scotland; 08/05/19; easyJet; 1; 1 zł; 00 Ed; nburgh EDI; 08:25; Edinburgh EDI FR6655
+Scotland; 08/05/19; Ryanair; 1; 4 zł; 07:00; Edinburgh EDI; 20:30; Faro FAO
+Scotland; 05/10/19; Ryanair; 1; 5 zł; 45 Fa; o FAO; 20:30; Faro FAO FR9206
+Scotland; 09/10/19; easyJet; 0; 5 zł; 55 Ed; nburgh EDI; 23:05; Edinburgh EDI FR6827
+Scotland; 14/05/19; easyJet; 1; 5 zł; 05 Ni; e NCE; 21:35; Nice NCE U26959
+Scotland; 14/05/19; Ryanair; 1; 4 zł; 22:05; Nice NCE; 23:45; Edinburgh EDI
+Scotland; 21/05/19; Ryanair; 1; 5 zł; 20:50; Glasgow GLA; 22:05; London LTNLondon (Luton) LTN
+Scotland; 04/06/19; Ryanair; 0; 4 zł; 12:45; London LTNLondon (Luton) LTN; 17:25; Glasgow GLA
+Scotland; 12/06/19; Ryanair; 1; 5 zł; 40 Gl; sgow GLA; 17:25; Glasgow GLA U26816
+Scotland; 12/06/19; easyJet; 1; 5 zł; 11:40; Glasgow GLA; 15:20; London LTNLondon (Luton) LTN
+Scotland; 04/09/19; Ryanair; 1; 9 zł; 50 Lo; don LTNLondon (Luton) LTN; 15:20; London LTNLondon (Luton) LTN U22312
+Scotland; 11/09/19; Ryanair; 0; 1 zł; 00 Ed; nburgh EDI; 10:10; Glasgow GLA U267
+Scotland; 09/05/19; easyJet; 1; 4 zł; 30 Br; stol BRS; 20:15; Bristol BRS U2430
+Scotland; 09/05/19; Ryanair; 1; 4 zł; 09:30; Bristol BRS; 17:00; Edinburgh EDI
+Scotland; 15/05/19; easyJet; 1; 8 zł; 50 Ed; nburgh EDI; 17:00; Edinburgh EDI FR7835
+Scotland; 28/04/19; Ryanair; 0; 4 zł; 12:10; London STNLondon (Stansted) STN; 08:25; London STNLondon (Stansted) STN FR8882
+Scotland; 05/05/19; easyJet; 1; 4 zł; 10:05; Genova GOA; 15:10; Edinburgh EDI
+Scotland; 05/05/19; Ryanair; 1; 4 zł; 13:55; London LTNLondon (Luton) LTN; 11:15; London LTNLondon (Luton) LTN U22466
+Scotland; 02/05/19; Ryanair; 1; 7 zł; 20:15; Edinburgh EDI; 23:50; Milan MXPMilan (Malpensa) MXP
+Scotland; 08/05/19; easyJet; 1; 4 zł; 10:55; Milan MXPMilan (Malpensa) MXP; 20:30; Edinburgh EDI
+Scotland; 08/05/19; easyJet; 1; 14 zł; 19:15; London LTNLondon (Luton) LTN; 11:55; London LTNLondon (Luton) LTN U22284
+Scotland; 08/10/19; easyJet; 1; 5 zł; 13:35; Edinburgh EDI; 20:15; Zadar ZAD
+Scotland; 13/10/19; easyJet; 1; 4 zł; 30 Za; ar ZAD; 20:15; Zadar ZAD FR1963
+Scotland; 13/10/19; easyJet; 1; 0 zł; 10:30; Zadar ZAD; 15:10; Edinburgh EDI
+Scotland; 05/05/19; easyJet; 1; 5 zł; 05 Ed; nburgh EDI; 15:10; Edinburgh EDI U215
+Scotland; 09/05/19; easyJet; 1; 0 zł; 35 Ma; rid MAD; 10:05; Madrid MAD U26993
+Scotland; 09/05/19; easyJet; 1; 14 zł; 16:35; Madrid MAD; 18:30; Edinburgh EDI
+Scotland; 01/05/19; easyJet; 1; 5 zł; 06:30; Glasgow GLA; 21:15; London STNLondon (Stansted) STN
+Scotland; 05/05/19; Ryanair; 1; 4 zł; 30 Lo; don STNLondon (Stansted) STN; 21:15; London STNLondon (Stansted) STN FR1165
+Scotland; 05/05/19; Ryanair; 1; 4 zł; 17:30; London STNLondon (Stansted) STN; 18:45; Glasgow GLA
+Scotland; 01/05/19; Ryanair; 1; 9 zł; 17:55; Glasgow GLA; 22:10; Malaga AGP
+Scotland; 05/05/19; Ryanair; 1; 4 zł; 00:50; Malaga AGP; 10:10; Glasgow GLA
+Scotland; 05/05/19; easyJet; 1; 5 zł; 08:50; London LTNLondon (Luton) LTN; 02:35; London LTNLondon (Luton) LTN U22412
+Scotland; 26/04/19; easyJet; 1; 5 zł; 18:00; Edinburgh EDI; 20:50; Paris CDGParis (Charles de Gaulle) CDG
+Scotland; 01/05/19; easyJet; 1; 5 zł; 21:20; Paris CDGParis (Charles de Gaulle) CDG; 22:05; Edinburgh EDI
+Scotland; 01/05/19; easyJet; 1; 4 zł; 30 Ed; nburgh EDI; 22:05; Edinburgh EDI U26958
+Scotland; 21/05/19; easyJet; 1; 5 zł; 20:45; Dusseldorf NRNDusseldorf (Weeze) NRN; 14:10; Dusseldorf NRNDusseldorf (Weeze) NRN FR6242
+Scotland; 28/05/19; Ryanair; 1; 4 zł; 11:10; Pisa PSA; 21:55; Edinburgh EDI
+Scotland; 28/05/19; Ryanair; 1; 4 zł; 20:45; Bristol BRS; 12:30; Bristol BRS U26190
+Scotland; 01/05/19; easyJet; 1; 2 zł; 06:00; Glasgow GLA; 09:15; Geneva GVA
+Scotland; 05/05/19; easyJet; 1; 5 zł; 06:00; Geneva GVA; 13:10; Glasgow GLA
+Scotland; 05/05/19; easyJet; 1; 14 zł; 11:00; Split SPU; 07:35; Split SPU U21317
+Scotland; 14/05/19; easyJet; 1; 1 zł; 09:45; Edinburgh EDI; 12:55; Berlin TXLBerlin (Tegel) TXL
+Scotland; 22/05/19; easyJet; 1; 5 zł; 07:25; Berlin TXLBerlin (Tegel) TXL; 18:05; Edinburgh EDI
+Scotland; 22/05/19; Ryanair; 1; 9 zł; 17:15; Luxembourg LUX; 08:55; Luxembourg LUX FR42
+Scotland; 24/04/19; easyJet; 1; 4 zł; 11:10; Edinburgh EDI; 12:50; Jersey JER
+Scotland; 02/05/19; Ryanair; 1; 8 zł; 14:15; Jersey JER; 20:35; Edinburgh EDI
+Scotland; 02/05/19; easyJet; 1; 7 zł; 19:20; London LTNLondon (Luton) LTN; 15:20; London LTNLondon (Luton) LTN U22312
+Scotland; 15/05/19; easyJet; 1; 5 zł; 19:55; Edinburgh EDI; 23:15; Faro FAO
+Scotland; 22/05/19; easyJet; 1; 19 zł; 10:00; Faro FAO; 17:35; Edinburgh EDI
+Scotland; 22/05/19; easyJet; 1; 2 zł; 16:20; London LTNLondon (Luton) LTN; 12:55; London LTNLondon (Luton) LTN U22016
+Scotland; 01/05/19; Ryanair; 1; 9 zł; 06:50; Edinburgh EDI; 17:25; Strasbourg SXB
+Scotland; 08/05/19; Ryanair; 1; 2 zł; 45 St; asbourg SXB; 17:25; Strasbourg SXB FR7117
+Scotland; 08/05/19; easyJet; 1; 5 zł; 10:45; Strasbourg SXB; 22:10; Edinburgh EDI
+Scotland; 10/05/19; easyJet; 1; 5 zł; 50 Ed; nburgh EDI; 22:10; Edinburgh EDI U2241
+Scotland; 14/05/19; easyJet; 1; 4 zł; 13:10; London STNLondon (Stansted) STN; 08:25; London STNLondon (Stansted) STN FR8882
+Scotland; 14/05/19; easyJet; 1; 5 zł; 50 Na; tes NTE; 15:30; Nantes NTE FR8503
+Scotland; 24/04/19; easyJet; 1; 3 zł; 20:55; London STNLondon (Stansted) STN; 16:10; London STNLondon (Stansted) STN FR8504
+Scotland; 01/05/19; easyJet; 1; 29 zł; 06:25; Edinburgh EDI; 14:55; Beziers BZR
+Scotland; 01/05/19; Ryanair; 1; 2 zł; 12:05; London STNLondon (Stansted) STN; 07:55; London STNLondon (Stansted) STN U2232
+Scotland; 30/04/19; Ryanair; 1; 2 zł; 09:45; Beziers BZR; 15:10; Edinburgh EDI
+Scotland; 08/05/19; easyJet; 1; 4 zł; 45 Gl; sgow GLA; 15:10; Edinburgh EDI U215
+Scotland; 08/05/19; easyJet; 1; 0 zł; 11:45; Glasgow GLA; 21:45; Manchester MAN
+Scotland; 02/10/19; easyJet; 1; 09 zł; 30 Ma; chester MAN; 21:45; Manchester MAN FR3223
+Scotland; 08/10/19; Ryanair; 1; 8 zł; 17:45; Belfast BFS; 07:35; Belfast BFS FR7276
+Scotland; 08/10/19; easyJet; 1; 1 zł; 50 Ed; nburgh EDI; 18:30; Glasgow GLA U2465
+Scotland; 09/05/19; easyJet; 1; 5 zł; 11:25; London STNLondon (Stansted) STN; 08:25; London STNLondon (Stansted) STN FR8882
+Scotland; 15/05/19; Ryanair; 1; 4 zł; 14:30; Aarhus AAR; 22:10; Edinburgh EDI
+Scotland; 15/05/19; Ryanair; 1; 4 zł; 20:55; London STNLondon (Stansted) STN; 15:10; London STNLondon (Stansted) STN FR713
+Scotland; 15/05/19; Ryanair; 1; 1 zł; 07:00; Edinburgh EDI; 17:10; Carcassonn CCF
+Scotland; 20/05/19; easyJet; 1; 4 zł; 35 Ca; cassonn CCF; 17:10; Carcassonn CCF FR72
+Scotland; 20/05/19; Ryanair; 1; 4 zł; 13:35; Carcassonn CCF; 18:05; Edinburgh EDI
+Scotland; 01/05/19; Ryanair; 1; 4 zł; 50 Ed; nburgh EDI; 18:05; Edinburgh EDI FR7353
+Scotland; 09/05/19; Ryanair; 1; 1 zł; 45 Mi; an BGYMilan (Bergamo) BGY; 23:15; Milan BGYMilan (Bergamo) BGY FR5834
+Scotland; 09/05/19; easyJet; 1; 4 zł; 17:45; Milan BGYMilan (Bergamo) BGY; 22:10; Edinburgh EDI
+Scotland; 09/05/19; easyJet; 1; 4 zł; 25 Ed; nburgh EDI; 22:10; Edinburgh EDI U26984
+Scotland; 15/05/19; Ryanair; 1; 4 zł; 08:45; London STNLondon (Stansted) STN; 07:55; London STNLondon (Stansted) STN U2232
+Scotland; 15/05/19; Ryanair; 1; 1 zł; 10 Mi; an MXPMilan (Malpensa) MXP; 11:40; Milan MXPMilan (Malpensa) MXP FR8729
+Scotland; 08/05/19; easyJet; 1; 4 zł; 16:05; London STNLondon (Stansted) STN; 08:15; London STNLondon (Stansted) STN FR8728
+Scotland; 15/05/19; Ryanair; 1; 9 zł; 15:45; Aberdeen ABZ; 22:00; Barcelona GROBarcelona (Girona) GRO
+Scotland; 15/05/19; Ryanair; 1; 2 zł; 18:55; London LTNLondon (Luton) LTN; 17:05; London LTNLondon (Luton) LTN U2148
+Scotland; 24/09/19; Ryanair; 1; 9 zł; 11:40; Barcelona GROBarcelona (Girona) GRO; 18:10; Aberdeen ABZ
+Scotland; 02/10/19; easyJet; 1; 5 zł; 40 Ed; nburgh EDI; 18:10; Aberdeen ABZ FR1523
+Scotland; 02/10/19; Ryanair; 1; 4 zł; 08:40; Edinburgh EDI; 11:45; Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL
+Scotland; 15/05/19; Ryanair; 1; 4 zł; 13:50; Basel-Mulh BSLBasel-Mulhouse-Freiburg (BSL) BSL; 20:30; Edinburgh EDI
+Scotland; 21/05/19; Ryanair; 1; 2 zł; 35 Ed; nburgh EDI; 20:30; Edinburgh EDI U219
+Scotland; 21/05/19; easyJet; 1; 4 zł; 11:35; Edinburgh EDI; 15:05; Beziers BZR
+Scotland; 15/05/19; easyJet; 1; 5 zł; 09:45; Beziers BZR; 15:10; Edinburgh EDI
+Scotland; 19/05/19; Ryanair; 1; 9 zł; 30 Ed; nburgh EDI; 15:10; Edinburgh EDI U215
+Scotland; 19/05/19; Ryanair; 1; 2 zł; 06:30; Edinburgh EDI; 22:25; Faro FAO
