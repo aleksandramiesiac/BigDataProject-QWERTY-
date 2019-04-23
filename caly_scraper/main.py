@@ -7,6 +7,7 @@ from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException
 from scraping_data import ScrapData
+import itertools
 import os
 import datetime
 
@@ -24,29 +25,36 @@ def main():
     country_list = ['Spain','Egypt','Scotland','France','England','Germany','Greece','Poland','Canada', 'Italy',
                     'Czech Republic', 'Hungary', 'Denmark', 'Ukraine', 'Croatia', 'Switzerland', 'Cyprus']
 
+    country_list = ['Denmark', 'Egypt','Scotland','France']
+
+    connections_list  = list(itertools.product(country_list, repeat=2))
+
     currentDT = datetime.datetime.now()
 
-    #print("Kraje: " + config["country_list"])
-
-    print(currentDT.strftime("%Y-%m-%d_%H:%M"))
+    print("------Uruchomienie programu--------\n" + currentDT.strftime("%Y-%m-%d_%H:%M"))
 
     output_file = open("flight_prices_" + currentDT.strftime("%Y-%m-%d_%H:%M") +".txt", "w")
-    output_file.write("Kraj_odlotu;Data;Przewoznik;Czy_przesiadka;Cena;Godzina_odlotu;Miejsce_odlotu;Godzina_przylotu;Miejsce_przylotu\n")
+    output_file.write("Scrap_date;Scrap_time;Country_from;Country_to;Flight_id;Flight_date;Airline;Change;Price;Depart_hour;Depart_from;Arrival_hour;Arrive_to\n")
 
-    print(output_file.name)
+    print("------Nazwa pliku--------\n" + output_file.name)
 
+    print("------Lista scrapowanych połączeń--------")
+    print(connections_list)
 
-    for element in country_list:
-        print("Zaczynam scrapowanie: " + element)
-        link = choose_settings(element)
+    print("\n\n")
+
+    for element in connections_list:
+        print("Zaczynam scrapowanie: ")
+        print(element)
+        link = choose_settings(element[0],element[1])
         scraper = ScrapData()
-        scraper.scrap(element, link, output_file.name)
+        scraper.scrap(element[0],element[1], link, output_file.name, currentDT)
 
 
 
 
 
-def choose_settings(country):
+def choose_settings(country_from, country_to):
     options = Options()
     options.add_argument('--headless')
 
@@ -64,7 +72,7 @@ def choose_settings(country):
     from_box.send_keys(Keys.ARROW_DOWN)
     browser.execute_script("arguments[0].value = ''", from_box)
 
-    from_box.send_keys(country)
+    from_box.send_keys(country_from)
     from_box.send_keys(Keys.ARROW_DOWN)
     from_box.send_keys(Keys.RETURN)
 
@@ -74,12 +82,13 @@ def choose_settings(country):
     to_box.send_keys(Keys.ARROW_DOWN)
     browser.execute_script("arguments[0].value = ''", to_box)
 
-    to_box.send_keys('XXX')
+    to_box.send_keys(country_to)
     to_box.send_keys(Keys.ARROW_DOWN)
     to_box.send_keys(Keys.RETURN)
 
-    currency = browser.find_element_by_name('currency')
-    currency.send_keys("PLN")
+    # defaultowa waluta to EUR
+    #currency = browser.find_element_by_name('currency')
+    #currency.send_keys("PLN")
 
     old_url = browser.current_url
 

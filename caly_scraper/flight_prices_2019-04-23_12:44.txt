@@ -1,0 +1,1185 @@
+Scrap_date;Scrap_time;Country_from;Country_to;Flight_id;Flight_date;Airline;Change;Price;Depart_hour;Depart_from;Arrival_hour;Arrive_to
+04/19;Ryanair;1;5.76;11:25;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Denmark;1;07/05/19;Ryanair;1;9.78;14:30;Aarhus AAR;21:45;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;1;30/04/19;Ryanair;1;17.29;15 Co;enhagen CPH;21:45;Copenhagen CPH FR7386
+2019-04-23;12:44;Denmark;Denmark;1;30/04/19;Ryanair;1;14.60;07:15;Copenhagen CPH;14:05;Aarhus AAR
+2019-04-23;12:44;Denmark;Denmark;1;08/05/19;Ryanair;1;5.76;30 Aa;hus AAR;14:05;Aarhus AAR FR712
+2019-04-23;12:44;Denmark;Denmark;1;15/05/19;Ryanair;1;9.78;19:00;London STNLondon (Stansted) STN;15:10;London STNLondon (Stansted) STN FR713
+2019-04-23;12:44;Denmark;Denmark;1;15/05/19;Ryanair;1;17.29;15 Co;enhagen CPH;21:45;Copenhagen CPH FR7386
+2019-04-23;12:44;Denmark;Denmark;2;23/05/19;Ryanair;1;14.60;19:00;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Denmark;2;15/05/19;Ryanair;1;17.29;08:40;Copenhagen CPH;20:20;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;2;15/05/19;Ryanair;1;9.78;18:45;Brussels CRLBrussels (Charleroi) CRL;10:20;Brussels CRLBrussels (Charleroi) CRL FR200
+2019-04-23;12:44;Denmark;Denmark;2;23/05/19;Ryanair;1;9.99;07:15;Copenhagen CPH;16:55;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;2;30/04/19;Ryanair;1;14.60;40 Co;enhagen CPH;16:55;Copenhagen CPH FR7382
+2019-04-23;12:44;Denmark;Denmark;2;30/04/19;Ryanair;1;17.29;08:40;Copenhagen CPH;20:20;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;2;08/05/19;Ryanair;1;9.78;30 Aa;hus AAR;20:20;Copenhagen CPH FR301
+2019-04-23;12:44;Denmark;Denmark;2;01/05/19;Ryanair;1;9.99;19:00;London STNLondon (Stansted) STN;15:10;London STNLondon (Stansted) STN FR713
+2019-04-23;12:44;Denmark;Denmark;2;01/05/19;Ryanair;1;5.22;15 Co;enhagen CPH;21:45;Copenhagen CPH FR7386
+2019-04-23;12:44;Denmark;Denmark;2;08/05/19;Ryanair;1;20.70;11:25;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Denmark;2;01/05/19;Ryanair;1;14.60;07:15;Copenhagen CPH;14:05;Aarhus AAR
+2019-04-23;12:44;Denmark;Denmark;2;01/05/19;Ryanair;1;11.53;11:25;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Denmark;2;07/05/19;Ryanair;1;19.56;14:30;Aarhus AAR;21:45;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;2;15/05/19;Ryanair;1;5.76;15 Co;enhagen CPH;21:45;Copenhagen CPH FR7386
+2019-04-23;12:44;Denmark;Denmark;2;15/05/19;Ryanair;1;9.78;07:15;Copenhagen CPH;14:05;Aarhus AAR
+2019-04-23;12:44;Denmark;Denmark;2;21/05/19;Ryanair;1;17.29;30 Aa;hus AAR;14:05;Aarhus AAR FR712
+2019-04-23;12:44;Denmark;Denmark;2;14/05/19;Ryanair;1;19.56;19:00;London STNLondon (Stansted) STN;15:10;London STNLondon (Stansted) STN FR713
+2019-04-23;12:44;Denmark;Denmark;2;14/05/19;Ryanair;1;5.76;15 Co;enhagen CPH;21:45;Copenhagen CPH FR7386
+2019-04-23;12:44;Denmark;Denmark;2;21/05/19;Ryanair;1;9.78;11:25;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Denmark;2;14/05/19;Ryanair;1;17.29;14:30;Aarhus AAR;21:45;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;2;14/05/19;Ryanair;1;14.60;19:00;London STNLondon (Stansted) STN;15:10;London STNLondon (Stansted) STN FR713
+2019-04-23;12:44;Denmark;Denmark;2;22/05/19;Ryanair;1;11.53;07:15;Copenhagen CPH;14:05;Aarhus AAR
+2019-04-23;12:44;Denmark;Denmark;2;14/05/19;Ryanair;1;9.78;30 Aa;hus AAR;14:05;Aarhus AAR FR712
+2019-04-23;12:44;Denmark;Denmark;2;14/05/19;Ryanair;1;17.29;14:30;Aarhus AAR;21:45;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;2;22/05/19;Ryanair;1;14.60;15 Co;enhagen CPH;21:45;Copenhagen CPH FR7386
+2019-04-23;12:44;Denmark;Denmark;2;08/05/19;Ryanair;1;11.53;11:25;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Denmark;2;08/05/19;Ryanair;1;9.78;30 Aa;hus AAR;14:05;Aarhus AAR FR712
+2019-04-23;12:44;Denmark;Denmark;2;15/05/19;Ryanair;1;17.29;19:00;London STNLondon (Stansted) STN;15:10;London STNLondon (Stansted) STN FR713
+2019-04-23;12:44;Denmark;Denmark;2;07/05/19;Ryanair;1;14.60;14:30;Aarhus AAR;21:45;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;2;07/05/19;Ryanair;1;11.53;19:00;London STNLondon (Stansted) STN;15:10;London STNLondon (Stansted) STN FR713
+2019-04-23;12:44;Denmark;Denmark;2;14/05/19;Ryanair;1;9.78;07:15;Copenhagen CPH;14:05;Aarhus AAR
+2019-04-23;12:44;Denmark;Denmark;2;04/05/19;Ryanair;1;17.29;30 Aa;hus AAR;14:05;Aarhus AAR FR712
+2019-04-23;12:44;Denmark;Denmark;2;04/05/19;Ryanair;1;9.78;14:30;Aarhus AAR;21:45;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;2;08/05/19;Ryanair;1;17.29;15 Co;enhagen CPH;21:45;Copenhagen CPH FR7386
+2019-04-23;12:44;Denmark;Denmark;2;14/05/19;Ryanair;1;14.60;11:25;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Denmark;2;14/05/19;Ryanair;1;11.53;30 Aa;hus AAR;14:05;Aarhus AAR FR712
+2019-04-23;12:44;Denmark;Denmark;2;18/05/19;Ryanair;1;9.78;19:00;London STNLondon (Stansted) STN;15:10;London STNLondon (Stansted) STN FR713
+2019-04-23;12:44;Denmark;Denmark;2;18/05/19;Ryanair;1;17.29;07:15;Copenhagen CPH;14:05;Aarhus AAR
+2019-04-23;12:44;Denmark;Denmark;2;18/05/19;Ryanair;1;14.60;11:25;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Denmark;2;23/05/19;Ryanair;1;11.53;10:20;Billund BLL;17:05;Aarhus AAR
+2019-04-23;12:44;Denmark;Denmark;2;18/05/19;Ryanair;1;9.78;30 Aa;hus AAR;17:05;Aarhus AAR FR712
+2019-04-23;12:44;Denmark;Denmark;2;18/05/19;Ryanair;1;17.29;14:30;Aarhus AAR;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;22/05/19;Ryanair;1;14.60;30 Aa;hus AAR;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;2;08/05/19;Ryanair;1;11.53;19:35;London STNLondon (Stansted) STN;15:10;London STNLondon (Stansted) STN FR713
+2019-04-23;12:44;Denmark;Denmark;2;08/05/19;Ryanair;1;5.22;20 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;2;15/05/19;Ryanair;1;23.52;14:25;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;2;15/05/19;Ryanair;1;9.78;10:20;Billund BLL;17:05;Aarhus AAR
+2019-04-23;12:44;Denmark;Denmark;2;15/05/19;Ryanair;1;14.99;14:25;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;2;23/05/19;Ryanair;1;9.78;14:35;Aarhus AAR;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;15/05/19;Ryanair;1;14.99;20 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;2;15/05/19;Ryanair;1;14.60;10:20;Billund BLL;17:05;Aarhus AAR
+2019-04-23;12:44;Denmark;Denmark;2;21/05/19;Ryanair;1;14.99;30 Aa;hus AAR;17:05;Aarhus AAR FR712
+2019-04-23;12:44;Denmark;Denmark;2;15/05/19;Ryanair;1;14.60;19:35;London STNLondon (Stansted) STN;15:10;London STNLondon (Stansted) STN FR713
+2019-04-23;12:44;Denmark;Denmark;2;15/05/19;Ryanair;1;14.99;20 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;2;22/05/19;Ryanair;1;9.78;19:35;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;2;04/05/19;Ryanair;1;14.99;10:20;Billund BLL;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;04/05/19;Ryanair;1;14.60;19:35;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;2;08/05/19;Ryanair;1;14.99;10:20;Billund BLL;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;02/05/19;Ryanair;1;9.78;20 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;2;02/05/19;Ryanair;1;14.99;10:20;Billund BLL;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;08/05/19;Ryanair;1;12.86;20 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;2;02/05/19;Ryanair;1;14.99;19:35;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;2;02/05/19;Ryanair;1;12.86;20 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;2;08/05/19;Ryanair;1;14.99;19:35;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;2;09/05/19;Ryanair;1;12.86;10:20;Billund BLL;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;09/05/19;Ryanair;1;14.99;19:35;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;2;14/05/19;Ryanair;1;12.86;10:20;Billund BLL;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;02/05/19;Ryanair;1;14.99;20 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;2;02/05/19;Ryanair;1;12.86;10:20;Billund BLL;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;07/05/19;Ryanair;1;14.99;20 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;2;02/05/19;Ryanair;1;12.86;19:35;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;2;02/05/19;Ryanair;1;14.99;35 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;2;07/05/19;Ryanair;1;12.86;17:45;Milan BGYMilan (Bergamo) BGY;11:40;Milan BGYMilan (Bergamo) BGY FR4723
+2019-04-23;12:44;Denmark;Denmark;2;09/05/19;Ryanair;1;14.99;17:20;Copenhagen CPH;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;09/05/19;Ryanair;1;12.86;19:35;London STNLondon (Stansted) STN;18:20;London STNLondon (Stansted) STN FR7381
+2019-04-23;12:44;Denmark;Denmark;2;14/05/19;Ryanair;1;14.99;09:35;Billund BLL;19:45;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;2;23/05/19;Ryanair;1;5.22;15 Co;enhagen CPH;19:45;Copenhagen CPH FR2990
+2019-04-23;12:44;Denmark;Denmark;2;23/05/19;Ryanair;1;24.70;07:15;Copenhagen CPH;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;28/05/19;Ryanair;1;12.86;15 Co;enhagen CPH;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;2;30/04/19;Ryanair;1;14.99;12:35;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Denmark;2;30/04/19;Ryanair;1;23.47;15 Aa;borg AAL;15:10;Aalborg AAL FR1251
+2019-04-23;12:44;Denmark;Denmark;2;08/05/19;Ryanair;1;4.99;14:20;London STNLondon (Stansted) STN;11:00;London STNLondon (Stansted) STN FR1252
+2019-04-23;12:44;Denmark;Denmark;2;04/05/19;Ryanair;1;14.60;07:15;Copenhagen CPH;15:10;Aalborg AAL
+2019-04-23;12:44;Denmark;Denmark;2;04/05/19;Ryanair;1;14.99;12:35;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Denmark;2;11/05/19;Ryanair;1;23.47;10:15;Aalborg AAL;17:05;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;2;14/05/19;Ryanair;1;4.99;15 Co;enhagen CPH;17:05;Copenhagen CPH FR7382
+2019-04-23;12:44;Denmark;Denmark;2;14/05/19;Ryanair;1;14.60;07:15;Copenhagen CPH;15:10;Aalborg AAL
+2019-04-23;12:44;Denmark;Denmark;2;22/05/19;Ryanair;1;14.99;15 Aa;borg AAL;15:10;Aalborg AAL FR1251
+2019-04-23;12:44;Denmark;Denmark;2;20/06/19;Ryanair;1;19.56;19:00;London STNLondon (Stansted) STN;11:00;London STNLondon (Stansted) STN FR1252
+2019-04-23;12:44;Denmark;Denmark;2;20/06/19;Ryanair;1;11.53;15 Co;enhagen CPH;21:45;Copenhagen CPH FR7386
+2019-04-23;12:44;Denmark;Denmark;2;27/06/19;Ryanair;1;9.78;12:35;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Denmark;2;13/06/19;Ryanair;1;17.29;10:15;Aalborg AAL;21:45;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;2;13/06/19;Ryanair;1;19.56;19:00;London STNLondon (Stansted) STN;11:00;London STNLondon (Stansted) STN FR1252
+2019-04-23;12:44;Denmark;Denmark;2;18/06/19;Ryanair;1;11.53;10:20;Billund BLL;15:10;Aalborg AAL
+2019-04-23;12:44;Denmark;Denmark;2;14/05/19;Ryanair;1;9.78;15 Aa;borg AAL;15:10;Aalborg AAL FR1251
+2019-04-23;12:44;Denmark;Denmark;2;14/05/19;Ryanair;1;17.29;10:15;Aalborg AAL;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;22/05/19;Ryanair;1;19.56;15 Co;enhagen CPH;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;2;11/05/19;Ryanair;1;11.53;11:25;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Denmark;2;11/05/19;Ryanair;1;9.78;55 Aa;hus AAR;14:05;Aarhus AAR FR712
+2019-04-23;12:44;Denmark;Denmark;2;18/05/19;Ryanair;1;17.29;19:40;Berlin TXLBerlin (Tegel) TXL;14:10;Berlin TXLBerlin (Tegel) TXL U25678
+2019-04-23;12:44;Denmark;Denmark;2;15/05/19;Ryanair;1;19.56;10:20;Billund BLL;17:05;Aarhus AAR
+2019-04-23;12:44;Denmark;Denmark;2;15/05/19;Ryanair;1;11.53;14:25;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;2;21/05/19;Ryanair;1;9.78;17:30;Aarhus AAR;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;08/05/19;Ryanair;1;17.29;15 Co;enhagen CPH;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;2;08/05/19;Ryanair;1;12.86;07:15;Copenhagen CPH;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;15/05/19;Ryanair;1;20.70;20 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;2;08/05/19;Ryanair;1;9.78;14:10;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;2;08/05/19;Ryanair;1;14.99;15 Co;enhagen CPH;16:55;Copenhagen CPH FR7382
+2019-04-23;12:44;Denmark;Denmark;2;15/05/19;Ryanair;1;14.60;12:35;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Denmark;2;13/06/19;Ryanair;1;5.76;15:35;Aalborg AAL;21:45;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;2;13/06/19;easyJet;1;1.40;19:00;London STNLondon (Stansted) STN;16:20;London STNLondon (Stansted) STN FR1252
+2019-04-23;12:44;Denmark;Denmark;2;20/06/19;easyJet;1;18.15;07:15;Copenhagen CPH;15:10;Aalborg AAL
+2019-04-23;12:44;Denmark;Denmark;2;20/06/19;Ryanair;1;5.22;15 Aa;borg AAL;15:10;Aalborg AAL FR1251
+2019-04-23;12:44;Denmark;Denmark;2;20/06/19;Ryanair;1;23.52;10:15;Aalborg AAL;17:05;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;2;25/06/19;Ryanair;1;12.86;15 Co;enhagen CPH;17:05;Copenhagen CPH FR7382
+2019-04-23;12:44;Denmark;Denmark;2;13/06/19;Ryanair;1;17.29;19:35;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Denmark;2;13/06/19;Ryanair;1;14.60;20 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;2;18/06/19;Ryanair;1;14.99;19:00;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;2;20/06/19;Ryanair;1;12.86;17:30;Aarhus AAR;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;20/06/19;Ryanair;1;17.29;19:35;London STNLondon (Stansted) STN;18:10;London STNLondon (Stansted) STN FR713
+2019-04-23;12:44;Denmark;Denmark;2;25/06/19;Ryanair;1;14.60;10:20;Billund BLL;17:05;Aarhus AAR
+2019-04-23;12:44;Denmark;Denmark;2;08/05/19;Ryanair;1;14.99;15 Co;enhagen CPH;17:05;Aarhus AAR FR712
+2019-04-23;12:44;Denmark;Denmark;2;08/05/19;Ryanair;1;12.86;07:15;Copenhagen CPH;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;14/05/19;Ryanair;1;17.29;20 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;2;15/05/19;Ryanair;1;14.60;19:00;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;2;15/05/19;Ryanair;1;14.99;15 Co;enhagen CPH;21:45;Copenhagen CPH FR7386
+2019-04-23;12:44;Denmark;Denmark;2;21/05/19;Ryanair;1;12.86;19:35;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Denmark;2;20/06/19;Ryanair;1;17.29;10:20;Billund BLL;21:45;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;2;20/06/19;Ryanair;1;14.60;19:00;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;2;27/06/19;Ryanair;1;14.99;07:15;Copenhagen CPH;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;14/05/19;Ryanair;1;12.86;20 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;2;14/05/19;Ryanair;1;17.29;10:20;Billund BLL;16:55;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;2;21/05/19;Ryanair;1;12.86;35 Aa;borg AAL;16:55;Copenhagen CPH FR7382
+2019-04-23;12:44;Denmark;Denmark;2;08/05/19;Ryanair;1;17.29;19:00;London STNLondon (Stansted) STN;16:20;London STNLondon (Stansted) STN FR1252
+2019-04-23;12:44;Denmark;Denmark;2;08/05/19;Ryanair;1;14.60;15 Co;enhagen CPH;21:45;Copenhagen CPH FR7386
+2019-04-23;12:44;Denmark;Denmark;2;15/05/19;Ryanair;1;14.99;12:35;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Denmark;2;14/05/19;Ryanair;1;14.60;07:15;Copenhagen CPH;15:10;Aalborg AAL
+2019-04-23;12:44;Denmark;Denmark;2;14/05/19;Ryanair;1;14.99;12:35;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Denmark;2;21/05/19;Ryanair;1;12.86;10:15;Aalborg AAL;17:05;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;2;20/06/19;Ryanair;1;17.29;15 Co;enhagen CPH;17:05;Copenhagen CPH FR7382
+2019-04-23;12:44;Denmark;Denmark;2;20/06/19;Ryanair;1;14.60;07:15;Copenhagen CPH;15:10;Aalborg AAL
+2019-04-23;12:44;Denmark;Denmark;2;25/06/19;Ryanair;1;14.99;15 Aa;borg AAL;15:10;Aalborg AAL FR1251
+2019-04-23;12:44;Denmark;Denmark;2;13/06/19;Ryanair;1;12.86;19:00;London STNLondon (Stansted) STN;11:00;London STNLondon (Stansted) STN FR1252
+2019-04-23;12:44;Denmark;Denmark;2;13/06/19;Ryanair;1;17.29;20 Bi;lund BLL;21:45;Copenhagen CPH FR7386
+2019-04-23;12:44;Denmark;Denmark;2;20/06/19;Ryanair;1;14.60;12:35;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;2;02/05/19;Ryanair;1;14.99;10:15;Aalborg AAL;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;02/05/19;Ryanair;1;12.86;19:35;London STNLondon (Stansted) STN;11:00;London STNLondon (Stansted) STN FR1252
+2019-04-23;12:44;Denmark;Denmark;2;07/05/19;Ryanair;1;17.29;10:20;Billund BLL;16:55;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;2;30/04/19;Ryanair;1;12.86;15 Co;enhagen CPH;16:55;Copenhagen CPH FR7382
+2019-04-23;12:44;Denmark;Denmark;2;30/04/19;Ryanair;1;17.29;07:15;Copenhagen CPH;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;04/05/19;Ryanair;1;14.60;20 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;2;01/05/19;Ryanair;1;14.99;14:10;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;2;01/05/19;Ryanair;1;14.60;30 Co;enhagen CPH;16:55;Copenhagen CPH FR7382
+2019-04-23;12:44;Denmark;Denmark;2;08/05/19;Ryanair;1;14.99;19:35;London STNLondon (Stansted) STN;18:25;London STNLondon (Stansted) STN FR7381
+2019-04-23;12:44;Denmark;Denmark;2;19/06/19;Ryanair;1;12.86;10:20;Billund BLL;15:10;Aalborg AAL
+2019-04-23;12:44;Denmark;Denmark;2;19/06/19;Ryanair;1;17.29;12:35;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;2;25/06/19;Ryanair;1;14.60;15:35;Aalborg AAL;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;11/06/19;Ryanair;1;14.99;15 Co;enhagen CPH;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;2;11/06/19;Ryanair;1;12.86;07:15;Copenhagen CPH;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;19/06/19;Ryanair;1;17.29;20 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;2;20/06/19;Ryanair;1;14.60;19:00;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;2;20/06/19;Ryanair;1;14.99;20 Co;enhagen CPH;21:45;Copenhagen CPH FR7386
+2019-04-23;12:44;Denmark;Denmark;2;25/06/19;Ryanair;1;12.86;19:35;London STNLondon (Stansted) STN;18:20;London STNLondon (Stansted) STN FR7381
+2019-04-23;12:44;Denmark;Denmark;2;19/06/19;Ryanair;1;17.29;10:20;Billund BLL;16:55;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;2;19/06/19;Ryanair;1;12.86;14:10;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;2;26/06/19;Ryanair;1;17.29;07:15;Copenhagen CPH;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;18/06/19;Ryanair;1;14.60;20 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;2;18/06/19;Ryanair;1;14.99;10:20;Billund BLL;17:05;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;2;26/06/19;Ryanair;1;12.86;15 Co;enhagen CPH;17:05;Copenhagen CPH FR7382
+2019-04-23;12:44;Denmark;Denmark;2;12/06/19;Ryanair;1;17.29;12:35;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Denmark;2;12/06/19;Ryanair;1;14.60;15 Aa;borg AAL;15:10;Aalborg AAL FR1251
+2019-04-23;12:44;Denmark;Denmark;2;18/06/19;Ryanair;1;14.99;19:00;London STNLondon (Stansted) STN;11:00;London STNLondon (Stansted) STN FR1252
+2019-04-23;12:44;Denmark;Denmark;2;12/06/19;Ryanair;1;14.60;15:35;Aalborg AAL;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;12/06/19;Ryanair;1;14.99;19:35;London STNLondon (Stansted) STN;16:20;London STNLondon (Stansted) STN FR1252
+2019-04-23;12:44;Denmark;Denmark;2;19/06/19;Ryanair;1;12.86;10:20;Billund BLL;15:10;Aalborg AAL
+2019-04-23;12:44;Denmark;Denmark;2;12/06/19;Ryanair;1;17.29;20 Bi;lund BLL;15:10;Aalborg AAL FR1251
+2019-04-23;12:44;Denmark;Denmark;2;12/06/19;Ryanair;1;14.60;10:20;Billund BLL;15:10;Aalborg AAL
+2019-04-23;12:44;Denmark;Denmark;2;20/06/19;Ryanair;1;14.99;15 Aa;borg AAL;15:10;Aalborg AAL FR1251
+2019-04-23;12:44;Denmark;Denmark;2;20/06/19;Ryanair;1;12.86;19:35;London STNLondon (Stansted) STN;11:00;London STNLondon (Stansted) STN FR1252
+2019-04-23;12:44;Denmark;Denmark;2;20/06/19;Ryanair;1;17.29;30 Aa;hus AAR;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;2;26/06/19;Ryanair;1;14.60;19:35;London STNLondon (Stansted) STN;15:10;London STNLondon (Stansted) STN FR713
+2019-04-23;12:44;Denmark;Denmark;2;11/06/19;Ryanair;1;14.99;10:20;Billund BLL;17:05;Aarhus AAR
+2019-04-23;12:44;Denmark;Denmark;2;11/06/19;Ryanair;1;12.86;14:25;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;2;18/06/19;Ryanair;1;17.29;07:15;Copenhagen CPH;14:05;Aarhus AAR
+2019-04-23;12:44;Denmark;Denmark;2;18/06/19;Ryanair;1;14.60;55 Aa;hus AAR;14:05;Aarhus AAR FR712
+2019-04-23;12:44;Denmark;Denmark;2;18/06/19;Ryanair;1;14.99;12:55;Aarhus AAR;20:50;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;2;25/06/19;Ryanair;1;12.86;20 Bi;lund BLL;20:50;Copenhagen CPH U25687
+2019-04-23;12:44;Denmark;Denmark;2;15/05/19;Ryanair;1;17.29;19:35;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;2;15/05/19;Ryanair;1;14.60;20 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;2;23/05/19;Ryanair;1;14.99;19:35;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;2;08/05/19;Ryanair;1;12.86;10:20;Billund BLL;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;08/05/19;Ryanair;1;17.29;19:35;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;2;14/05/19;Ryanair;1;12.86;10:20;Billund BLL;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;14/05/19;Ryanair;1;17.29;20 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;2;14/05/19;Ryanair;1;14.60;10:20;Billund BLL;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;22/05/19;Ryanair;1;14.99;20 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;2;15/05/19;Ryanair;1;23.47;19:35;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;2;15/05/19;Ryanair;1;11.53;20 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;2;22/05/19;Ryanair;1;9.78;19:35;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;2;08/05/19;Ryanair;1;14.99;10:20;Billund BLL;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;08/05/19;Ryanair;1;5.22;19:35;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;2;15/05/19;Ryanair;1;28.23;10:20;Billund BLL;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;15/06/19;Ryanair;1;5.22;20 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;2;15/06/19;Ryanair;1;23.52;10:20;Billund BLL;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;20/06/19;Ryanair;1;19.56;20 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;2;15/06/19;Ryanair;1;5.76;19:35;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;2;15/06/19;easyJet;1;1.40;20 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;2;20/06/19;easyJet;1;18.15;19:35;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;2;15/06/19;Ryanair;1;14.60;10:20;Billund BLL;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;15/06/19;Ryanair;1;17.29;19:35;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;2;20/06/19;Ryanair;1;14.60;10:20;Billund BLL;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;15/06/19;Ryanair;1;17.29;20 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;2;15/06/19;Ryanair;1;14.60;10:20;Billund BLL;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;19/06/19;Ryanair;1;17.29;20 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;2;22/06/19;Ryanair;1;14.60;19:35;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;2;22/06/19;Ryanair;1;17.29;20 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;2;27/06/19;Ryanair;1;14.60;19:35;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;2;11/06/19;Ryanair;1;17.29;10:20;Billund BLL;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;11/06/19;Ryanair;1;14.60;19:35;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;2;15/06/19;Ryanair;1;17.29;10:20;Billund BLL;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;18/06/19;Ryanair;1;14.60;20 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;2;18/06/19;Ryanair;1;17.29;10:20;Billund BLL;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;22/06/19;Ryanair;1;14.60;20 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;2;22/06/19;Ryanair;1;17.29;19:35;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;2;22/06/19;Ryanair;1;14.60;20 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;2;26/06/19;Ryanair;1;17.29;19:35;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;2;16/05/19;Ryanair;1;14.60;07:30;Copenhagen CPH;11:55;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;2;16/05/19;Ryanair;1;17.29;10:45;Berlin TXLBerlin (Tegel) TXL;08:45;Berlin TXLBerlin (Tegel) TXL U25680
+2019-04-23;12:44;Denmark;Denmark;2;23/05/19;Ryanair;1;14.60;08:40;Copenhagen CPH;20:20;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;2;16/05/19;Ryanair;1;17.29;55 Aa;hus AAR;20:20;Copenhagen CPH FR301
+2019-04-23;12:44;Denmark;Denmark;2;16/05/19;Ryanair;1;14.60;12:55;Aarhus AAR;20:50;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;2;21/05/19;Ryanair;1;17.29;15 Co;enhagen CPH;20:50;Copenhagen CPH U25687
+2019-04-23;12:44;Denmark;Denmark;2;12/06/19;Ryanair;1;14.60;11:25;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Denmark;2;12/06/19;Ryanair;1;17.29;15 Co;enhagen CPH;14:05;Aarhus AAR FR712
+2019-04-23;12:44;Denmark;Denmark;2;19/06/19;Ryanair;1;14.60;11:25;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Denmark;2;28/04/19;Ryanair;1;17.29;12:55;Aarhus AAR;20:50;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;2;28/04/19;Ryanair;1;14.60;19:40;Berlin TXLBerlin (Tegel) TXL;14:10;Berlin TXLBerlin (Tegel) TXL U25678
+2019-04-23;12:44;Denmark;Denmark;2;04/05/19;Ryanair;1;17.29;07:15;Copenhagen CPH;14:05;Aarhus AAR
+2019-04-23;12:44;Denmark;Denmark;2;28/04/19;Ryanair;1;14.60;55 Aa;hus AAR;14:05;Aarhus AAR FR712
+2019-04-23;12:44;Denmark;Denmark;2;28/04/19;Ryanair;1;17.29;12:55;Aarhus AAR;20:50;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;2;02/05/19;Ryanair;1;14.60;55 Aa;hus AAR;20:50;Copenhagen CPH U25687
+2019-04-23;12:44;Denmark;Denmark;2;04/05/19;Ryanair;1;17.29;19:40;Berlin TXLBerlin (Tegel) TXL;14:10;Berlin TXLBerlin (Tegel) TXL U25678
+2019-04-23;12:44;Denmark;Denmark;2;04/05/19;Ryanair;1;14.60;15 Co;enhagen CPH;20:50;Copenhagen CPH U25687
+2019-04-23;12:44;Denmark;Denmark;2;09/05/19;Ryanair;1;17.29;11:25;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Denmark;2;12/06/19;Ryanair;1;14.60;11:15;Aalborg AAL;21:50;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;2;12/06/19;Ryanair;1;17.29;19:05;London STNLondon (Stansted) STN;12:00;London STNLondon (Stansted) STN FR1252
+2019-04-23;12:44;Denmark;Denmark;2;20/06/19;Ryanair;1;14.60;07:15;Copenhagen CPH;15:10;Aalborg AAL
+2019-04-23;12:44;Denmark;Denmark;2;05/06/19;Ryanair;1;17.29;15 Aa;borg AAL;15:10;Aalborg AAL FR1251
+2019-04-23;12:44;Denmark;Denmark;2;05/06/19;Ryanair;1;14.60;11:15;Aalborg AAL;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;12/06/19;Ryanair;1;17.29;20 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;2;04/06/19;Ryanair;1;14.60;12:35;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;2;04/06/19;Ryanair;1;17.29;20 Bi;lund BLL;15:10;Aalborg AAL FR1251
+2019-04-23;12:44;Denmark;Denmark;2;12/06/19;easyJet;1;9.52;14:25;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;2;12/06/19;easyJet;1;16.13;14:35;Aarhus AAR;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;12/06/19;Ryanair;1;9.78;19:35;London STNLondon (Stansted) STN;15:15;London STNLondon (Stansted) STN FR713
+2019-04-23;12:44;Denmark;Denmark;2;19/06/19;Ryanair;1;9.99;10:20;Billund BLL;17:05;Aarhus AAR
+2019-04-23;12:44;Denmark;Denmark;2;12/06/19;easyJet;1;1.40;30 Aa;hus AAR;17:05;Aarhus AAR FR712
+2019-04-23;12:44;Denmark;Denmark;2;12/06/19;easyJet;1;18.15;14:30;Aarhus AAR;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;18/06/19;Ryanair;1;14.60;20 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;2;13/06/19;Ryanair;1;11.53;14:25;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;2;13/06/19;Ryanair;1;14.60;35 Aa;hus AAR;17:05;Aarhus AAR FR712
+2019-04-23;12:44;Denmark;Denmark;2;20/06/19;Ryanair;1;11.53;19:35;London STNLondon (Stansted) STN;15:15;London STNLondon (Stansted) STN FR713
+2019-04-23;12:44;Denmark;Denmark;2;15/05/19;easyJet;1;1.40;14:30;Aarhus AAR;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;15/05/19;easyJet;1;18.15;19:35;London STNLondon (Stansted) STN;15:10;London STNLondon (Stansted) STN FR713
+2019-04-23;12:44;Denmark;Denmark;2;22/05/19;Ryanair;1;14.60;10:20;Billund BLL;17:05;Aarhus AAR
+2019-04-23;12:44;Denmark;Denmark;2;08/05/19;Ryanair;1;11.53;30 Aa;hus AAR;17:05;Aarhus AAR FR712
+2019-04-23;12:44;Denmark;Denmark;2;08/05/19;easyJet;1;1.40;14:30;Aarhus AAR;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;15/05/19;easyJet;1;18.15;20 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;2;20/06/19;easyJet;1;1.40;14:25;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;2;20/06/19;easyJet;1;18.15;20 Bi;lund BLL;17:05;Aarhus AAR FR712
+2019-04-23;12:44;Denmark;Denmark;2;27/06/19;Ryanair;1;14.60;14:25;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;2;15/05/19;Ryanair;1;11.53;14:30;Aarhus AAR;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;15/05/19;Ryanair;1;14.60;19:35;London STNLondon (Stansted) STN;15:10;London STNLondon (Stansted) STN FR713
+2019-04-23;12:44;Denmark;Denmark;2;23/05/19;Ryanair;1;20.76;10:20;Billund BLL;15:10;Aalborg AAL
+2019-04-23;12:44;Denmark;Denmark;2;18/05/19;Ryanair;1;14.60;35 Aa;borg AAL;15:10;Aalborg AAL FR1251
+2019-04-23;12:44;Denmark;Denmark;2;18/05/19;Ryanair;1;14.99;15:35;Aalborg AAL;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;23/05/19;Ryanair;1;14.60;20 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;2;13/05/19;Ryanair;1;20.76;12:35;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;2;13/05/19;Ryanair;1;14.60;15 Aa;borg AAL;15:10;Aalborg AAL FR1251
+2019-04-23;12:44;Denmark;Denmark;2;21/05/19;Ryanair;1;14.99;19:35;London STNLondon (Stansted) STN;11:00;London STNLondon (Stansted) STN FR1252
+2019-04-23;12:44;Denmark;Denmark;2;13/05/19;Ryanair;1;17.81;12:55;Aarhus AAR;20:50;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;2;13/05/19;Ryanair;1;17.29;19:40;Berlin TXLBerlin (Tegel) TXL;14:10;Berlin TXLBerlin (Tegel) TXL U25678
+2019-04-23;12:44;Denmark;Denmark;2;21/05/19;Ryanair;1;12.86;07:30;Copenhagen CPH;11:45;Aarhus AAR
+2019-04-23;12:44;Denmark;Denmark;2;08/05/19;Ryanair;1;17.29;55 Bi;lund BLL;11:45;Aarhus AAR U25677
+2019-04-23;12:44;Denmark;Denmark;2;08/05/19;Ryanair;1;17.81;08:55;Billund BLL;14:05;Aarhus AAR
+2019-04-23;12:44;Denmark;Denmark;2;13/05/19;Ryanair;1;17.29;30 Aa;hus AAR;14:05;Aarhus AAR FR712
+2019-04-23;12:44;Denmark;Denmark;2;08/05/19;Ryanair;1;12.86;19:35;London STNLondon (Stansted) STN;18:10;London STNLondon (Stansted) STN FR713
+2019-04-23;12:44;Denmark;Denmark;2;08/05/19;Ryanair;1;17.29;55 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;2;13/05/19;Ryanair;1;17.81;11:25;London STNLondon (Stansted) STN;09:30;London STNLondon (Stansted) STN FR9770
+2019-04-23;12:44;Denmark;Denmark;2;13/05/19;Ryanair;1;17.29;14:35;Aarhus AAR;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;13/05/19;Ryanair;1;12.86;19:35;London STNLondon (Stansted) STN;15:15;London STNLondon (Stansted) STN FR713
+2019-04-23;12:44;Denmark;Denmark;2;21/05/19;Ryanair;1;17.29;10:20;Billund BLL;17:05;Aarhus AAR
+2019-04-23;12:44;Denmark;Denmark;2;13/05/19;Ryanair;1;12.86;35 Aa;hus AAR;17:05;Aarhus AAR FR712
+2019-04-23;12:44;Denmark;Denmark;2;13/05/19;Ryanair;1;17.29;14:35;Aarhus AAR;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;21/05/19;Ryanair;1;17.81;55 Aa;hus AAR;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;2;08/05/19;Ryanair;1;17.29;19:40;Berlin TXLBerlin (Tegel) TXL;14:10;Berlin TXLBerlin (Tegel) TXL U25678
+2019-04-23;12:44;Denmark;Denmark;2;08/05/19;Ryanair;1;12.86;15 Co;enhagen CPH;20:50;Copenhagen CPH U25687
+2019-04-23;12:44;Denmark;Denmark;2;13/05/19;Ryanair;1;17.29;11:30;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Denmark;2;08/05/19;Ryanair;1;17.81;07:15;Copenhagen CPH;14:05;Aarhus AAR
+2019-04-23;12:44;Denmark;Denmark;2;08/05/19;Ryanair;1;17.29;11:25;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Denmark;2;13/05/19;Ryanair;1;17.81;12:55;Aarhus AAR;20:50;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;2;05/06/19;Ryanair;1;17.29;15 Co;enhagen CPH;20:50;Copenhagen CPH U25687
+2019-04-23;12:44;Denmark;Denmark;2;05/06/19;Ryanair;1;12.86;07:15;Copenhagen CPH;14:05;Aarhus AAR
+2019-04-23;12:44;Denmark;Denmark;2;12/06/19;Ryanair;1;17.29;55 Aa;hus AAR;14:05;Aarhus AAR FR712
+2019-04-23;12:44;Denmark;Denmark;2;22/05/19;Ryanair;1;30.30;19:40;Berlin TXLBerlin (Tegel) TXL;14:10;Berlin TXLBerlin (Tegel) TXL U25678
+2019-04-23;12:44;Denmark;Denmark;2;22/05/19;Ryanair;1;11.53;55 Aa;hus AAR;20:50;Copenhagen CPH U25687
+2019-04-23;12:44;Denmark;Denmark;2;28/05/19;Ryanair;1;9.78;19:40;Berlin TXLBerlin (Tegel) TXL;14:10;Berlin TXLBerlin (Tegel) TXL U25678
+2019-04-23;12:44;Denmark;Denmark;2;15/05/19;Ryanair;1;14.99;07:15;Copenhagen CPH;14:05;Aarhus AAR
+2019-04-23;12:44;Denmark;Denmark;2;15/05/19;Ryanair;1;30.30;11:25;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Denmark;2;22/05/19;Ryanair;1;11.53;12:55;Aarhus AAR;20:50;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;2;16/06/19;Ryanair;1;9.78;15 Co;enhagen CPH;20:50;Copenhagen CPH U25687
+2019-04-23;12:44;Denmark;Denmark;2;16/06/19;Ryanair;1;14.99;07:15;Copenhagen CPH;14:05;Aarhus AAR
+2019-04-23;12:44;Denmark;Denmark;2;20/06/19;easyJet;1;1.40;15 Co;enhagen CPH;14:05;Aarhus AAR FR712
+2019-04-23;12:44;Denmark;Denmark;2;15/06/19;easyJet;1;18.15;12:35;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Denmark;2;15/06/19;easyJet;1;10.19;35 Aa;borg AAL;15:10;Aalborg AAL FR1251
+2019-04-23;12:44;Denmark;Denmark;2;20/06/19;easyJet;1;18.15;19:00;London STNLondon (Stansted) STN;16:20;London STNLondon (Stansted) STN FR1252
+2019-04-23;12:44;Denmark;Denmark;2;08/06/19;Ryanair;1;5.22;07:30;Copenhagen CPH;11:45;Aarhus AAR
+2019-04-23;12:44;Denmark;Denmark;2;08/06/19;Ryanair;1;31.99;10:30;Berlin TXLBerlin (Tegel) TXL;08:45;Berlin TXLBerlin (Tegel) TXL U25680
+2019-04-23;12:44;Denmark;Denmark;2;13/06/19;Ryanair;1;5.22;12:55;Aarhus AAR;20:50;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;2;05/06/19;Ryanair;1;24.70;55 Aa;hus AAR;20:50;Copenhagen CPH U25687
+2019-04-23;12:44;Denmark;Denmark;2;05/06/19;Ryanair;1;5.22;12:55;Aarhus AAR;20:50;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;2;13/06/19;Ryanair;1;31.99;30 Co;enhagen CPH;20:50;Copenhagen CPH U25687
+2019-04-23;12:44;Denmark;Denmark;2;05/06/19;Ryanair;1;5.22;10:30;Berlin TXLBerlin (Tegel) TXL;08:45;Berlin TXLBerlin (Tegel) TXL U25680
+2019-04-23;12:44;Denmark;Denmark;2;05/06/19;Ryanair;1;24.70;35 Aa;borg AAL;11:45;Aarhus AAR U25677
+2019-04-23;12:44;Denmark;Denmark;2;12/06/19;Ryanair;1;5.22;19:35;London STNLondon (Stansted) STN;16:20;London STNLondon (Stansted) STN FR1252
+2019-04-23;12:44;Denmark;Denmark;2;05/06/19;Ryanair;1;23.52;10:20;Billund BLL;15:10;Aalborg AAL
+2019-04-23;12:44;Denmark;Denmark;2;05/06/19;Ryanair;1;23.47;12:35;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;2;11/06/19;Ryanair;1;14.99;07:30;Copenhagen CPH;20:50;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;2;17/06/19;easyJet;1;1.40;40 Co;enhagen CPH;20:50;Copenhagen CPH U25687
+2019-04-23;12:44;Denmark;Denmark;2;17/06/19;easyJet;1;18.15;08:40;Copenhagen CPH;20:20;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;2;22/06/19;Ryanair;1;14.60;15 Aa;borg AAL;20:20;Copenhagen CPH FR301
+2019-04-23;12:44;Denmark;Denmark;2;08/06/19;Ryanair;1;14.99;14:00;London STNLondon (Stansted) STN;12:00;London STNLondon (Stansted) STN FR1252
+2019-04-23;12:44;Denmark;Denmark;2;08/06/19;Ryanair;1;14.60;15 Co;enhagen CPH;16:45;Copenhagen CPH FR7382
+2019-04-23;12:44;Denmark;Denmark;2;15/06/19;Ryanair;1;14.99;12:35;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Denmark;2;07/06/19;easyJet;1;1.40;08:40;Copenhagen CPH;21:40;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;07/06/19;easyJet;1;18.15;20:30;Berlin SXFBerlin (Schonefeld) SXF;09:45;Berlin SXFBerlin (Schonefeld) SXF U24554
+2019-04-23;12:44;Denmark;Denmark;2;15/06/19;Ryanair;1;14.60;10:20;Billund BLL;17:05;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;2;15/06/19;Ryanair;1;14.99;50 Co;enhagen CPH;17:05;Copenhagen CPH FR7382
+2019-04-23;12:44;Denmark;Denmark;2;15/06/19;easyJet;1;1.40;16:50;Copenhagen CPH;21:40;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;22/06/19;easyJet;1;18.15;20 Bi;lund BLL;21:40;Billund BLL FR1704
+2019-04-23;12:44;Denmark;Denmark;2;14/06/19;easyJet;1;1.40;14:20;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;2;14/06/19;easyJet;1;18.15;20 Bi;lund BLL;17:05;Copenhagen CPH FR7382
+2019-04-23;12:44;Denmark;Denmark;2;22/06/19;Ryanair;1;14.60;14:10;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;2;15/06/19;Ryanair;1;14.99;16:50;Copenhagen CPH;21:40;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;15/06/19;easyJet;1;1.40;20:30;Berlin SXFBerlin (Schonefeld) SXF;17:55;Berlin SXFBerlin (Schonefeld) SXF U24556
+2019-04-23;12:44;Denmark;Denmark;2;22/06/19;easyJet;1;18.15;10:20;Billund BLL;16:55;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;2;22/06/19;Ryanair;1;14.60;40 Co;enhagen CPH;16:55;Copenhagen CPH FR7382
+2019-04-23;12:44;Denmark;Denmark;2;22/06/19;Ryanair;1;14.99;08:40;Copenhagen CPH;21:40;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;28/06/19;Ryanair;1;14.60;40 Co;enhagen CPH;21:40;Billund BLL FR1704
+2019-04-23;12:44;Denmark;Denmark;2;15/06/19;Ryanair;1;14.99;20:30;Berlin SXFBerlin (Schonefeld) SXF;09:45;Berlin SXFBerlin (Schonefeld) SXF U24554
+2019-04-23;12:44;Denmark;Denmark;2;15/06/19;Ryanair;1;12.86;20 Bi;lund BLL;21:40;Billund BLL FR1704
+2019-04-23;12:44;Denmark;Denmark;2;21/06/19;Ryanair;1;25.88;19:00;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;2;08/05/19;easyJet;1;9.52;16:50;Copenhagen CPH;21:40;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;08/05/19;easyJet;1;20.68;20:30;Berlin SXFBerlin (Schonefeld) SXF;17:55;Berlin SXFBerlin (Schonefeld) SXF U24556
+2019-04-23;12:44;Denmark;Denmark;2;15/05/19;easyJet;1;1.40;10:20;Billund BLL;21:45;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;2;15/05/19;easyJet;1;18.15;20 Bi;lund BLL;21:45;Copenhagen CPH FR7386
+2019-04-23;12:44;Denmark;Denmark;2;15/05/19;easyJet;1;1.40;10:20;Billund BLL;21:45;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;2;22/05/19;easyJet;1;18.15;50 Co;enhagen CPH;21:45;Copenhagen CPH FR7386
+2019-04-23;12:44;Denmark;Denmark;2;08/06/19;easyJet;1;9.52;20:30;Berlin SXFBerlin (Schonefeld) SXF;17:55;Berlin SXFBerlin (Schonefeld) SXF U24556
+2019-04-23;12:44;Denmark;Denmark;2;08/06/19;easyJet;1;20.68;20 Bi;lund BLL;21:40;Billund BLL FR1704
+2019-04-23;12:44;Denmark;Denmark;2;12/06/19;Ryanair;1;12.86;19:00;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;2;08/06/19;Ryanair;1;17.29;08:40;Copenhagen CPH;21:40;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;08/06/19;Ryanair;1;23.47;20:30;Berlin SXFBerlin (Schonefeld) SXF;09:45;Berlin SXFBerlin (Schonefeld) SXF U24554
+2019-04-23;12:44;Denmark;Denmark;2;13/06/19;Ryanair;1;14.99;12:55;Aarhus AAR;20:50;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;2;04/06/19;easyJet;1;9.52;30 Co;enhagen CPH;20:50;Copenhagen CPH U25687
+2019-04-23;12:44;Denmark;Denmark;2;04/06/19;easyJet;1;20.68;07:30;Copenhagen CPH;11:45;Aarhus AAR
+2019-04-23;12:44;Denmark;Denmark;2;08/06/19;Ryanair;1;9.78;55 Aa;hus AAR;11:45;Aarhus AAR U25677
+2019-04-23;12:44;Denmark;Denmark;2;18/05/19;Ryanair;1;9.99;19:40;Berlin TXLBerlin (Tegel) TXL;14:10;Berlin TXLBerlin (Tegel) TXL U25678
+2019-04-23;12:44;Denmark;Denmark;2;18/05/19;Ryanair;1;12.86;15 Co;enhagen CPH;20:50;Copenhagen CPH U25687
+2019-04-23;12:44;Denmark;Denmark;2;22/05/19;Ryanair;1;20.70;11:25;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Denmark;2;02/05/19;Ryanair;1;14.60;07:30;Copenhagen CPH;11:55;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;2;02/05/19;Ryanair;1;20.70;10:45;Berlin TXLBerlin (Tegel) TXL;08:45;Berlin TXLBerlin (Tegel) TXL U25680
+2019-04-23;12:44;Denmark;Denmark;2;10/05/19;easyJet;1;10.19;07:30;Copenhagen CPH;11:55;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;2;23/05/19;Ryanair;1;9.99;55 Aa;borg AAL;11:55;Copenhagen CPH U25683
+2019-04-23;12:44;Denmark;Denmark;2;23/05/19;Ryanair;1;12.86;10:55;Aalborg AAL;21:50;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;2;27/05/19;Ryanair;1;17.29;15 Co;enhagen CPH;21:50;Copenhagen CPH FR7386
+2019-04-23;12:44;Denmark;Denmark;2;23/05/19;easyJet;1;10.19;12:35;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Denmark;2;23/05/19;Ryanair;1;9.99;15 Aa;borg AAL;15:10;Aalborg AAL FR1251
+2019-04-23;12:44;Denmark;Denmark;2;27/05/19;Ryanair;1;12.86;14:00;London STNLondon (Stansted) STN;12:00;London STNLondon (Stansted) STN FR1252
+2019-04-23;12:44;Denmark;Denmark;2;16/05/19;Ryanair;1;17.29;07:15;Copenhagen CPH;15:10;Aalborg AAL
+2019-04-23;12:44;Denmark;Denmark;2;16/05/19;Ryanair;1;12.86;12:35;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Denmark;2;21/05/19;Ryanair;1;17.29;11:15;Aalborg AAL;21:50;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;2;16/05/19;easyJet;1;10.19;15 Co;enhagen CPH;21:50;Copenhagen CPH FR7386
+2019-04-23;12:44;Denmark;Denmark;2;16/05/19;Ryanair;1;9.99;07:15;Copenhagen CPH;15:10;Aalborg AAL
+2019-04-23;12:44;Denmark;Denmark;2;21/05/19;Ryanair;1;12.86;55 Aa;hus AAR;15:10;Aalborg AAL FR1251
+2019-04-23;12:44;Denmark;Denmark;2;15/05/19;Ryanair;1;17.29;19:40;Berlin TXLBerlin (Tegel) TXL;14:10;Berlin TXLBerlin (Tegel) TXL U25678
+2019-04-23;12:44;Denmark;Denmark;2;15/05/19;easyJet;1;10.19;15 Co;enhagen CPH;20:50;Copenhagen CPH U25687
+2019-04-23;12:44;Denmark;Denmark;2;20/05/19;Ryanair;1;9.99;11:30;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Denmark;2;15/05/19;easyJet;1;10.19;12:55;Aarhus AAR;20:50;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;2;15/05/19;Ryanair;1;9.99;19:40;Berlin TXLBerlin (Tegel) TXL;14:10;Berlin TXLBerlin (Tegel) TXL U25678
+2019-04-23;12:44;Denmark;Denmark;2;20/05/19;Ryanair;1;12.86;07:15;Copenhagen CPH;14:05;Aarhus AAR
+2019-04-23;12:44;Denmark;Denmark;2;28/05/19;Ryanair;1;17.29;55 Aa;hus AAR;14:05;Aarhus AAR FR712
+2019-04-23;12:44;Denmark;Denmark;2;28/05/19;easyJet;1;10.19;12:55;Aarhus AAR;20:50;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;2;05/06/19;Ryanair;1;9.99;15 Co;enhagen CPH;20:50;Copenhagen CPH U25687
+2019-04-23;12:44;Denmark;Denmark;2;11/05/19;Ryanair;1;12.86;11:25;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Denmark;2;11/05/19;Ryanair;1;17.29;25 Aa;hus AAR;14:05;Aarhus AAR FR712
+2019-04-23;12:44;Denmark;Denmark;2;16/05/19;Ryanair;1;12.86;19:35;London STNLondon (Stansted) STN;15:05;London STNLondon (Stansted) STN FR713
+2019-04-23;12:44;Denmark;Denmark;2;15/05/19;Ryanair;1;17.29;10:20;Billund BLL;17:05;Aarhus AAR
+2019-04-23;12:44;Denmark;Denmark;2;15/05/19;easyJet;1;10.19;14:25;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;2;22/05/19;Ryanair;1;9.99;17:30;Aarhus AAR;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;08/05/19;Ryanair;1;12.86;20 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;2;08/05/19;Ryanair;1;17.29;10:20;Billund BLL;17:05;Aarhus AAR
+2019-04-23;12:44;Denmark;Denmark;2;13/05/19;easyJet;1;10.19;30 Aa;hus AAR;17:05;Aarhus AAR FR712
+2019-04-23;12:44;Denmark;Denmark;2;23/05/19;Ryanair;1;9.99;19:35;London STNLondon (Stansted) STN;15:10;London STNLondon (Stansted) STN FR713
+2019-04-23;12:44;Denmark;Denmark;2;23/05/19;easyJet;1;1.40;20 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;2;27/05/19;easyJet;1;20.68;14:25;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;2;22/05/19;easyJet;1;10.19;17:30;Aarhus AAR;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;22/05/19;easyJet;1;18.15;19:35;London STNLondon (Stansted) STN;18:10;London STNLondon (Stansted) STN FR713
+2019-04-23;12:44;Denmark;Denmark;2;27/05/19;easyJet;1;1.40;10:20;Billund BLL;17:05;Aarhus AAR
+2019-04-23;12:44;Denmark;Denmark;2;21/05/19;easyJet;1;18.15;30 Aa;hus AAR;17:05;Aarhus AAR FR712
+2019-04-23;12:44;Denmark;Denmark;2;21/05/19;Ryanair;1;19.56;14:30;Aarhus AAR;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;27/05/19;Ryanair;1;11.53;20 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;2;13/05/19;easyJet;0;9.52;14:25;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;2;21/05/19;easyJet;1;16.13;10:20;Billund BLL;17:05;Aarhus AAR
+2019-04-23;12:44;Denmark;Denmark;2;21/05/19;easyJet;1;9.52;14:25;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;2;22/05/19;easyJet;1;16.13;17:30;Aarhus AAR;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;27/05/19;Ryanair;0;14.60;20 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;2;14/05/19;Ryanair;1;25.88;14:25;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;2;14/05/19;Ryanair;1;14.60;30 Aa;hus AAR;17:05;Aarhus AAR FR712
+2019-04-23;12:44;Denmark;Denmark;2;20/05/19;Ryanair;1;14.99;19:35;London STNLondon (Stansted) STN;15:10;London STNLondon (Stansted) STN FR713
+2019-04-23;12:44;Denmark;Denmark;2;15/05/19;Ryanair;1;14.60;10:20;Billund BLL;17:05;Aarhus AAR
+2019-04-23;12:44;Denmark;Denmark;2;15/05/19;Ryanair;1;25.88;14:25;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;2;20/05/19;Ryanair;1;14.60;14:30;Aarhus AAR;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;2;21/05/19;Ryanair;1;14.99;25 Co;enhagen CPH;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;2;21/05/19;Ryanair;1;14.60;12:25;Copenhagen CPH;20:50;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;2;27/05/19;Ryanair;1;25.88;30 Co;enhagen CPH;20:50;Copenhagen CPH U25687
+2019-04-23;12:44;Denmark;Denmark;2;13/05/19;Ryanair;0;14.60;10:45;Berlin TXLBerlin (Tegel) TXL;08:45;Berlin TXLBerlin (Tegel) TXL U25680
+2019-04-23;12:44;Denmark;Denmark;2;21/05/19;Ryanair;1;14.99;07:30;Copenhagen CPH;11:55;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;2;21/05/19;easyJet;1;1.40;10:45;Berlin TXLBerlin (Tegel) TXL;08:45;Berlin TXLBerlin (Tegel) TXL U25680
+2019-04-23;12:44;Denmark;Denmark;2;08/05/19;easyJet;1;20.68;12:25;Copenhagen CPH;20:50;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;2;13/05/19;Ryanair;0;14.60;20 Bi;lund BLL;20:50;Copenhagen CPH U25687
+2019-04-23;12:44;Denmark;Denmark;2;06/05/19;Ryanair;0;14.99;14:25;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;3;14/05/19;easyJet;1;1.40;14:30;Aarhus AAR;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;3;14/05/19;easyJet;1;20.68;19:35;London STNLondon (Stansted) STN;15:10;London STNLondon (Stansted) STN FR713
+2019-04-23;12:44;Denmark;Denmark;3;10/05/19;Ryanair;1;14.60;10:20;Billund BLL;17:05;Aarhus AAR
+2019-04-23;12:44;Denmark;Denmark;3;15/05/19;Ryanair;1;14.99;35 Aa;hus AAR;17:05;Aarhus AAR FR712
+2019-04-23;12:44;Denmark;Denmark;3;15/05/19;easyJet;1;1.40;14:35;Aarhus AAR;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;3;10/05/19;easyJet;1;20.68;30 Aa;hus AAR;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;3;15/05/19;Ryanair;1;14.60;19:35;London STNLondon (Stansted) STN;15:10;London STNLondon (Stansted) STN FR713
+2019-04-23;12:44;Denmark;Denmark;3;15/05/19;Ryanair;1;14.99;20 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;3;17/05/19;Ryanair;1;14.60;14:25;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;3;21/05/19;Ryanair;1;20.76;07:15;Copenhagen CPH;17:05;Aarhus AAR
+2019-04-23;12:44;Denmark;Denmark;3;21/05/19;Ryanair;1;17.81;14:25;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Denmark;3;17/05/19;Ryanair;1;17.29;12:55;Aarhus AAR;20:50;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;3;22/05/19;Ryanair;1;14.60;35 Bi;lund BLL;20:50;Copenhagen CPH U25687
+2019-04-23;12:44;Denmark;Denmark;3;22/05/19;Ryanair;1;20.76;09:35;Billund BLL;19:45;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;3;17/05/19;Ryanair;1;17.81;00 Co;enhagen CPH;19:45;Copenhagen CPH FR2990
+2019-04-23;12:44;Denmark;Denmark;3;21/05/19;Ryanair;1;17.29;40 Co;enhagen CPH;23:40;Billund BLL DY3036
+2019-04-23;12:44;Denmark;Denmark;3;21/05/19;Ryanair;1;14.60;08:40;Copenhagen CPH;20:20;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;3;03/05/19;Ryanair;1;20.76;40 Co;enhagen CPH;20:20;Copenhagen CPH FR301
+2019-04-23;12:44;Denmark;Denmark;3;08/05/19;Ryanair;1;17.81;15:15;Berlin SXFBerlin (Schonefeld) SXF;09:45;Berlin SXFBerlin (Schonefeld) SXF U24554
+2019-04-23;12:44;Denmark;Denmark;3;08/05/19;Ryanair;1;17.29;40 Co;enhagen CPH;16:20;Copenhagen CPH U24555
+2019-04-23;12:44;Denmark;Denmark;3;03/05/19;Ryanair;1;14.60;18:45;Brussels CRLBrussels (Charleroi) CRL;10:20;Brussels CRLBrussels (Charleroi) CRL FR200
+2019-04-23;12:44;Denmark;Denmark;3;08/05/19;Ryanair;1;20.76;08:40;Copenhagen CPH;21:05;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;3;08/05/19;Ryanair;1;17.81;20:00;Berlin SXFBerlin (Schonefeld) SXF;09:45;Berlin SXFBerlin (Schonefeld) SXF U24554
+2019-04-23;12:44;Denmark;Denmark;3;17/05/19;Ryanair;1;17.29;07:15;Copenhagen CPH;15:10;Aalborg AAL
+2019-04-23;12:44;Denmark;Denmark;3;22/05/19;Ryanair;1;14.60;15 Aa;borg AAL;15:10;Aalborg AAL FR1251
+2019-04-23;12:44;Denmark;Denmark;3;22/05/19;Ryanair;1;20.76;10:15;Aalborg AAL;21:45;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;3;11/01/20;Ryanair;1;17.81;15 Co;enhagen CPH;21:45;Copenhagen CPH FR7386
+2019-04-23;12:44;Denmark;Denmark;3;18/01/20;Ryanair;1;17.29;12:35;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Denmark;3;18/01/20;Ryanair;1;17.81;15 Aa;borg AAL;15:10;Aalborg AAL FR1251
+2019-04-23;12:44;Denmark;Denmark;3;18/01/20;Ryanair;1;17.29;14:20;London STNLondon (Stansted) STN;11:00;London STNLondon (Stansted) STN FR1252
+2019-04-23;12:44;Denmark;Denmark;3;25/01/20;Ryanair;1;14.60;10:20;Billund BLL;16:55;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;3;25/01/20;Ryanair;1;20.76;14:10;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;3;21/05/19;Ryanair;1;17.81;16:50;Copenhagen CPH;21:40;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;3;27/05/19;Ryanair;1;17.29;20 Bi;lund BLL;21:40;Billund BLL FR1704
+2019-04-23;12:44;Denmark;Denmark;3;27/05/19;Ryanair;1;14.60;10:20;Billund BLL;21:45;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;3;22/05/19;Ryanair;1;20.76;50 Co;enhagen CPH;21:45;Copenhagen CPH FR7386
+2019-04-23;12:44;Denmark;Denmark;3;27/05/19;Ryanair;1;17.81;20:30;Berlin SXFBerlin (Schonefeld) SXF;17:55;Berlin SXFBerlin (Schonefeld) SXF U24556
+2019-04-23;12:44;Denmark;Denmark;3;27/05/19;Ryanair;1;17.29;15 Co;enhagen CPH;21:40;Billund BLL FR1704
+2019-04-23;12:44;Denmark;Denmark;3;21/05/19;Ryanair;1;14.60;11:25;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Denmark;3;27/05/19;Ryanair;1;20.76;12:55;Aarhus AAR;20:50;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;3;27/05/19;easyJet;1;8.16;19:40;Berlin TXLBerlin (Tegel) TXL;14:10;Berlin TXLBerlin (Tegel) TXL U25678
+2019-04-23;12:44;Denmark;Denmark;3;22/05/19;easyJet;1;18.15;11:15;Aalborg AAL;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;3;27/05/19;easyJet;1;9.52;20 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;3;27/05/19;easyJet;1;16.13;10:20;Billund BLL;15:10;Aalborg AAL
+2019-04-23;12:44;Denmark;Denmark;3;13/05/19;easyJet;1;9.52;30 Co;enhagen CPH;15:10;Aalborg AAL FR1251
+2019-04-23;12:44;Denmark;Denmark;3;18/05/19;easyJet;1;16.13;10:45;Berlin TXLBerlin (Tegel) TXL;08:45;Berlin TXLBerlin (Tegel) TXL U25680
+2019-04-23;12:44;Denmark;Denmark;3;18/05/19;easyJet;1;8.16;30 Co;enhagen CPH;11:55;Copenhagen CPH U25683
+2019-04-23;12:44;Denmark;Denmark;3;13/05/19;easyJet;1;18.15;19:40;Berlin TXLBerlin (Tegel) TXL;08:45;Berlin TXLBerlin (Tegel) TXL U25680
+2019-04-23;12:44;Denmark;Denmark;3;18/05/19;Ryanair;1;23.47;07:15;Copenhagen CPH;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;3;18/05/19;Ryanair;1;17.29;19:35;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Denmark;3;14/05/19;Ryanair;1;12.86;06:55;Billund BLL;07:35;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;3;22/05/19;Ryanair;1;17.29;07:15;Copenhagen CPH;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;3;22/05/19;Ryanair;1;23.47;19:35;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Denmark;3;15/05/19;Ryanair;1;17.29;06:55;Billund BLL;07:35;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;3;22/05/19;Ryanair;1;12.86;07:15;Copenhagen CPH;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;3;22/05/19;Ryanair;1;17.29;19:35;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Denmark;3;23/05/19;Ryanair;1;12.86;06:55;Billund BLL;07:35;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;3;27/05/19;Ryanair;1;17.29;07:15;Copenhagen CPH;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;3;27/05/19;Ryanair;1;23.47;19:35;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Denmark;3;15/05/19;Ryanair;1;17.29;06:55;Billund BLL;07:35;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;3;22/05/19;Ryanair;1;17.81;06:55;Billund BLL;07:35;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;3;22/05/19;Ryanair;1;14.99;15 Co;enhagen CPH;07:35;Copenhagen CPH DY3033
+2019-04-23;12:44;Denmark;Denmark;3;12/06/19;easyJet;1;1.40;19:35;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Denmark;3;20/06/19;easyJet;1;18.15;17:20;Copenhagen CPH;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;3;20/06/19;Ryanair;1;23.47;19:35;London STNLondon (Stansted) STN;18:20;London STNLondon (Stansted) STN FR7381
+2019-04-23;12:44;Denmark;Denmark;3;27/05/19;Ryanair;1;4.99;06:55;Billund BLL;07:35;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;3;04/06/19;norwegian;1;43.10;07:15;Copenhagen CPH;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;3;04/06/19;Ryanair;1;9.78;19:35;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Denmark;3;27/05/19;Ryanair;1;9.99;06:55;Billund BLL;07:35;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;3;04/06/19;easyJet;1;14.93;07:15;Copenhagen CPH;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;3;04/06/19;easyJet;1;18.15;19:35;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Denmark;3;23/05/19;Ryanair;1;9.78;06:55;Billund BLL;07:35;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;3;27/05/19;Ryanair;1;9.99;17:30;Copenhagen CPH;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;3;27/05/19;easyJet;1;14.93;19:35;London STNLondon (Stansted) STN;18:25;London STNLondon (Stansted) STN FR7381
+2019-04-23;12:44;Denmark;Denmark;3;06/05/19;easyJet;1;18.15;06:55;Billund BLL;07:35;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;3;13/05/19;Ryanair;1;33.08;06:55;Billund BLL;07:35;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;3;13/05/19;Ryanair;1;11.53;30 Co;enhagen CPH;07:35;Copenhagen CPH DY3033
+2019-04-23;12:44;Denmark;Denmark;3;13/05/19;Ryanair;1;9.78;19:35;London STNLondon (Stansted) STN;18:25;London STNLondon (Stansted) STN FR7381
+2019-04-23;12:44;Denmark;Denmark;3;20/05/19;Ryanair;0;17.29;17:20;Copenhagen CPH;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;3;13/05/19;Ryanair;1;33.08;55 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;3;13/05/19;Ryanair;1;11.53;06:55;Billund BLL;07:35;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;3;20/05/19;Ryanair;1;9.78;06:55;Billund BLL;07:35;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;3;06/05/19;Ryanair;0;17.29;07:15;Copenhagen CPH;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;3;13/05/19;Ryanair;1;12.86;00 Co;enhagen CPH;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Denmark;3;13/05/19;Ryanair;1;17.29;23:00;Copenhagen CPH;23:40;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;3;13/05/19;easyJet;1;12.90;10:20;Billund BLL;21:45;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;3;20/05/19;Ryanair;1;9.99;00 Co;enhagen CPH;21:45;Copenhagen CPH FR7386
+2019-04-23;12:44;Denmark;Denmark;3;20/05/19;Ryanair;1;12.86;23:00;Copenhagen CPH;23:40;Billund BLL
+2019-04-23;12:44;Denmark;Denmark;3;20/05/19;Ryanair;1;17.29;10:20;Billund BLL;16:55;Copenhagen CPH
+2019-04-23;12:44;Denmark;Denmark;3;27/05/19;easyJet;0;12.90;00 Co;enhagen CPH;16:55;Copenhagen CPH FR7382
+2019-04-23;12:44;Denmark;Denmark;4;20/05/19;Ryanair;0;9.99;20 Bi;lund BLL;23:40;Billund BLL DY3036
+2019-04-23;12:44;Denmark;Denmark;4;27/05/19;Ryanair;1;19.56;19:00;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Denmark;4;27/05/19;Ryanair;1;11.53;00 Co;enhagen CPH;21:45;Copenhagen CPH FR7386
+2019-04-23;12:44;Denmark;Denmark;4;27/05/19;easyJet;1;1.40;20 Bi;lund BLL;23:40;Billund BLL DY3036
+2019-04-23;12:44;Denmark;Denmark;4;03/06/19;easyJet;0;20.68;14:10;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Egypt;1;27/01/20;Pegasus;1;52.00;14:55;Copenhagen CPH;00:35;Hurghada HRG
+2019-04-23;12:44;Denmark;Egypt;1;27/01/20;Pegasus;1;63.00;22:50;Istanbul SAWIstanbul (Sabiha Gokcen) SAW;20:10;Istanbul SAWIstanbul (Sabiha Gokcen) SAW PC1074
+2019-04-23;12:44;Denmark;Egypt;1;31/01/20;Pegasus;1;86.00;02:55;Hurghada HRG;10:00;Copenhagen CPH
+2019-04-23;12:44;Denmark;Egypt;1;27/01/20;Pegasus;1;35.00;55 Co;enhagen CPH;10:00;Copenhagen CPH PC1071
+2019-04-23;12:44;Denmark;Egypt;1;27/01/20;Pegasus;1;52.00;14:55;Copenhagen CPH;00:35;Hurghada HRG
+2019-04-23;12:44;Denmark;Egypt;1;03/02/20;Pegasus;1;63.00;55 Hu;ghada HRG;00:35;Hurghada HRG PC620
+2019-04-23;12:44;Denmark;Egypt;1;26/01/20;Pegasus;1;86.00;08:35;Istanbul SAWIstanbul (Sabiha Gokcen) SAW;06:45;Istanbul SAWIstanbul (Sabiha Gokcen) SAW PC621
+2019-04-23;12:44;Denmark;Egypt;1;26/01/20;Pegasus;1;35.00;40 Co;enhagen CPH;10:00;Copenhagen CPH PC1071
+2019-04-23;12:44;Denmark;Egypt;2;03/02/20;Pegasus;1;52.00;22:50;Istanbul SAWIstanbul (Sabiha Gokcen) SAW;15:55;Istanbul SAWIstanbul (Sabiha Gokcen) SAW PC1072
+2019-04-23;12:44;Denmark;Egypt;2;27/01/20;Pegasus;1;63.00;02:55;Hurghada HRG;10:00;Copenhagen CPH
+2019-04-23;12:44;Denmark;Egypt;2;27/01/20;Pegasus;1;86.00;08:35;Istanbul SAWIstanbul (Sabiha Gokcen) SAW;06:45;Istanbul SAWIstanbul (Sabiha Gokcen) SAW PC621
+2019-04-23;12:44;Denmark;Egypt;2;01/02/20;Pegasus;1;35.00;14:55;Copenhagen CPH;00:35;Hurghada HRG
+2019-04-23;12:44;Denmark;Egypt;2;27/01/20;Pegasus;1;52.00;55 Hu;ghada HRG;00:35;Hurghada HRG PC620
+2019-04-23;12:44;Denmark;Egypt;2;27/01/20;Pegasus;1;63.00;02:55;Hurghada HRG;10:00;Copenhagen CPH
+2019-04-23;12:44;Denmark;Egypt;2;02/02/20;Pegasus;1;86.00;55 Co;enhagen CPH;10:00;Copenhagen CPH PC1071
+2019-04-23;12:44;Denmark;Egypt;2;26/01/20;Pegasus;1;35.00;22:50;Istanbul SAWIstanbul (Sabiha Gokcen) SAW;20:10;Istanbul SAWIstanbul (Sabiha Gokcen) SAW PC1074
+2019-04-23;12:44;Denmark;Egypt;2;26/01/20;Pegasus;1;52.00;55 Hu;ghada HRG;00:35;Hurghada HRG PC620
+2019-04-23;12:44;Denmark;Egypt;2;03/02/20;Pegasus;1;63.00;08:35;Istanbul SAWIstanbul (Sabiha Gokcen) SAW;06:45;Istanbul SAWIstanbul (Sabiha Gokcen) SAW PC621
+2019-04-23;12:44;Denmark;Egypt;2;27/01/20;Pegasus;1;86.00;10:40;Copenhagen CPH;00:35;Hurghada HRG
+2019-04-23;12:44;Denmark;Egypt;2;27/01/20;Pegasus;1;35.00;22:50;Istanbul SAWIstanbul (Sabiha Gokcen) SAW;15:55;Istanbul SAWIstanbul (Sabiha Gokcen) SAW PC1072
+2019-04-23;12:44;Denmark;Egypt;2;03/02/20;Pegasus;1;52.00;02:55;Hurghada HRG;14:15;Copenhagen CPH
+2019-04-23;12:44;Denmark;Egypt;2;26/01/20;Pegasus;1;63.00;55 Co;enhagen CPH;14:15;Copenhagen CPH PC1073
+2019-04-23;12:44;Denmark;Egypt;2;26/01/20;Pegasus;1;86.00;14:55;Copenhagen CPH;00:35;Hurghada HRG
+2019-04-23;12:44;Denmark;Egypt;2;02/02/20;Pegasus;1;35.00;55 Hu;ghada HRG;00:35;Hurghada HRG PC620
+2019-04-23;12:44;Denmark;Egypt;2;27/01/20;Pegasus;1;52.00;12:50;Istanbul SAWIstanbul (Sabiha Gokcen) SAW;06:45;Istanbul SAWIstanbul (Sabiha Gokcen) SAW PC621
+2019-04-23;12:44;Denmark;Egypt;2;27/01/20;Pegasus;1;63.00;40 Co;enhagen CPH;14:15;Copenhagen CPH PC1073
+2019-04-23;12:44;Denmark;Egypt;2;31/01/20;Pegasus;1;86.00;22:50;Istanbul SAWIstanbul (Sabiha Gokcen) SAW;15:55;Istanbul SAWIstanbul (Sabiha Gokcen) SAW PC1072
+2019-04-23;12:44;Denmark;Egypt;2;26/01/20;Pegasus;1;35.00;02:55;Hurghada HRG;10:00;Copenhagen CPH
+2019-04-23;12:44;Denmark;Egypt;2;26/01/20;Pegasus;1;52.00;08:35;Istanbul SAWIstanbul (Sabiha Gokcen) SAW;06:45;Istanbul SAWIstanbul (Sabiha Gokcen) SAW PC621
+2019-04-23;12:44;Denmark;Egypt;2;31/01/20;Pegasus;1;63.00;14:55;Copenhagen CPH;00:35;Hurghada HRG
+2019-04-23;12:44;Denmark;Egypt;2;05/12/19;Pegasus;1;86.00;55 Hu;ghada HRG;00:35;Hurghada HRG PC620
+2019-04-23;12:44;Denmark;Egypt;2;05/12/19;Pegasus;1;35.00;02:55;Hurghada HRG;14:15;Copenhagen CPH
+2019-04-23;12:44;Denmark;Egypt;2;11/12/19;Pegasus;1;52.00;40 Co;enhagen CPH;14:15;Copenhagen CPH PC1073
+2019-04-23;12:44;Denmark;Egypt;2;05/12/19;Pegasus;1;63.00;22:50;Istanbul SAWIstanbul (Sabiha Gokcen) SAW;15:55;Istanbul SAWIstanbul (Sabiha Gokcen) SAW PC1072
+2019-04-23;12:44;Denmark;Egypt;2;05/12/19;Pegasus;1;86.00;55 Hu;ghada HRG;00:35;Hurghada HRG PC620
+2019-04-23;12:44;Denmark;Egypt;2;09/12/19;Pegasus;1;35.00;08:35;Istanbul SAWIstanbul (Sabiha Gokcen) SAW;06:45;Istanbul SAWIstanbul (Sabiha Gokcen) SAW PC621
+2019-04-23;12:44;Denmark;Egypt;2;05/12/19;Pegasus;1;52.00;14:55;Copenhagen CPH;00:35;Hurghada HRG
+2019-04-23;12:44;Denmark;Egypt;2;05/12/19;Pegasus;1;63.00;22:50;Istanbul SAWIstanbul (Sabiha Gokcen) SAW;20:10;Istanbul SAWIstanbul (Sabiha Gokcen) SAW PC1074
+2019-04-23;12:44;Denmark;Egypt;2;10/12/19;Pegasus;1;86.00;02:55;Hurghada HRG;14:15;Copenhagen CPH
+2019-04-23;12:44;Denmark;Egypt;2;27/01/20;Pegasus;1;35.00;55 Co;enhagen CPH;14:15;Copenhagen CPH PC1073
+2019-04-23;12:44;Denmark;Egypt;2;27/01/20;Pegasus;1;52.00;14:55;Copenhagen CPH;00:35;Hurghada HRG
+2019-04-23;12:44;Denmark;Egypt;2;04/02/20;Pegasus;1;63.00;55 Hu;ghada HRG;00:35;Hurghada HRG PC620
+2019-04-23;12:44;Denmark;Egypt;2;26/01/20;Pegasus;1;86.00;12:50;Istanbul SAWIstanbul (Sabiha Gokcen) SAW;06:45;Istanbul SAWIstanbul (Sabiha Gokcen) SAW PC621
+2019-04-23;12:44;Denmark;Egypt;2;26/01/20;Pegasus;1;35.00;55 Co;enhagen CPH;14:15;Copenhagen CPH PC1073
+2019-04-23;12:44;Denmark;Egypt;2;01/02/20;Pegasus;1;52.00;22:50;Istanbul SAWIstanbul (Sabiha Gokcen) SAW;20:10;Istanbul SAWIstanbul (Sabiha Gokcen) SAW PC1074
+2019-04-23;12:44;Denmark;Egypt;2;05/12/19;Pegasus;1;63.00;02:55;Hurghada HRG;10:00;Copenhagen CPH
+2019-04-23;12:44;Denmark;Egypt;2;05/12/19;Pegasus;1;86.00;08:35;Istanbul SAWIstanbul (Sabiha Gokcen) SAW;06:45;Istanbul SAWIstanbul (Sabiha Gokcen) SAW PC621
+2019-04-23;12:44;Denmark;Egypt;2;10/12/19;Pegasus;1;35.00;14:55;Copenhagen CPH;00:35;Hurghada HRG
+2019-04-23;12:44;Denmark;Egypt;2;11/05/19;Pegasus;1;52.00;55 Hu;ghada HRG;00:35;Hurghada HRG PC620
+2019-04-23;12:44;Denmark;Egypt;2;11/05/19;Pegasus;1;63.00;02:55;Hurghada HRG;10:00;Copenhagen CPH
+2019-04-23;12:44;Denmark;Egypt;2;16/05/19;Pegasus;1;86.00;40 Co;enhagen CPH;10:00;Copenhagen CPH PC1071
+2019-04-23;12:44;Denmark;Egypt;2;11/05/19;Pegasus;1;35.00;22:50;Istanbul SAWIstanbul (Sabiha Gokcen) SAW;15:55;Istanbul SAWIstanbul (Sabiha Gokcen) SAW PC1072
+2019-04-23;12:44;Denmark;Egypt;2;11/05/19;Pegasus;1;52.00;55 Hu;ghada HRG;00:35;Hurghada HRG PC620
+2019-04-23;12:44;Denmark;Egypt;2;17/05/19;Pegasus;1;63.00;08:35;Istanbul SAWIstanbul (Sabiha Gokcen) SAW;06:45;Istanbul SAWIstanbul (Sabiha Gokcen) SAW PC621
+2019-04-23;12:44;Denmark;Egypt;2;18/05/19;Pegasus;1;86.00;14:55;Copenhagen CPH;00:35;Hurghada HRG
+2019-04-23;12:44;Denmark;Egypt;2;18/05/19;Pegasus;1;35.00;22:50;Istanbul SAWIstanbul (Sabiha Gokcen) SAW;20:10;Istanbul SAWIstanbul (Sabiha Gokcen) SAW PC1074
+2019-04-23;12:44;Denmark;Egypt;2;23/05/19;Pegasus;1;52.00;02:55;Hurghada HRG;14:15;Copenhagen CPH
+2019-04-23;12:44;Denmark;Egypt;2;18/05/19;Pegasus;1;63.00;30 Co;enhagen CPH;14:15;Copenhagen CPH PC1073
+2019-04-23;12:44;Denmark;Egypt;2;18/05/19;Pegasus;1;86.00;12:30;Copenhagen CPH;23:55;Sharm El S SSH
+2019-04-23;12:44;Denmark;Egypt;2;26/05/19;Pegasus;1;35.00;00 Sh;rm El S SSH;23:55;Sharm El S SSH PC624
+2019-04-23;12:44;Denmark;Egypt;2;18/05/19;Pegasus;1;52.00;09:25;Istanbul SAWIstanbul (Sabiha Gokcen) SAW;06:40;Istanbul SAWIstanbul (Sabiha Gokcen) SAW PC623
+2019-04-23;12:44;Denmark;Egypt;2;18/05/19;Pegasus;1;63.00;30 Co;enhagen CPH;11:50;Copenhagen CPH PC1071
+2019-04-23;12:44;Denmark;Egypt;2;26/05/19;Pegasus;1;86.00;22:20;Istanbul SAWIstanbul (Sabiha Gokcen) SAW;16:45;Istanbul SAWIstanbul (Sabiha Gokcen) SAW PC1072
+2019-04-23;12:44;Denmark;Egypt;2;18/05/19;Pegasus;1;35.00;05:00;Sharm El S SSH;14:50;Copenhagen CPH
+2019-04-23;12:44;Denmark;Egypt;2;18/05/19;Pegasus;1;67.00;12:25;Istanbul SAWIstanbul (Sabiha Gokcen) SAW;08:40;Istanbul SAWIstanbul (Sabiha Gokcen) SAW PC623
+2019-04-23;12:44;Denmark;Egypt;2;24/05/19;Pegasus;1;66.00;12:30;Copenhagen CPH;23:55;Sharm El S SSH
+2019-04-23;12:44;Denmark;Egypt;2;09/05/19;Pegasus;1;95.00;00 Sh;rm El S SSH;23:55;Sharm El S SSH PC624
+2019-04-23;12:44;Denmark;Egypt;2;09/05/19;Pegasus;1;47.00;03:00;Sharm El S SSH;11:50;Copenhagen CPH
+2019-04-23;12:44;Denmark;Egypt;2;16/05/19;Pegasus;1;67.00;30 Co;enhagen CPH;11:50;Copenhagen CPH PC1071
+2019-04-23;12:44;Denmark;Egypt;2;09/05/19;Pegasus;1;66.00;22:20;Istanbul SAWIstanbul (Sabiha Gokcen) SAW;16:45;Istanbul SAWIstanbul (Sabiha Gokcen) SAW PC1072
+2019-04-23;12:44;Denmark;Egypt;2;09/05/19;Pegasus;1;95.00;50 Sh;rm El S SSH;23:55;Sharm El S SSH PC624
+2019-04-23;12:44;Denmark;Egypt;2;17/05/19;Pegasus;1;47.00;12:20;Istanbul SAWIstanbul (Sabiha Gokcen) SAW;07:30;Istanbul SAWIstanbul (Sabiha Gokcen) SAW PC623
+2019-04-23;12:44;Denmark;Egypt;2;11/05/19;Pegasus;1;67.00;12:30;Copenhagen CPH;23:55;Sharm El S SSH
+2019-04-23;12:44;Denmark;Egypt;2;11/05/19;Pegasus;1;72.00;22:20;Istanbul SAWIstanbul (Sabiha Gokcen) SAW;16:45;Istanbul SAWIstanbul (Sabiha Gokcen) SAW PC1072
+2019-04-23;12:44;Denmark;Egypt;2;15/05/19;Pegasus;1;100.00;03:50;Sharm El S SSH;11:50;Copenhagen CPH
+2019-04-23;12:44;Denmark;Egypt;2;04/05/19;Pegasus;1;47.00;30 Co;enhagen CPH;11:50;Copenhagen CPH PC1071
+2019-04-23;12:44;Denmark;Egypt;2;04/05/19;Pegasus;1;67.00;12:30;Copenhagen CPH;23:55;Sharm El S SSH
+2019-04-23;12:44;Denmark;Egypt;2;10/05/19;Pegasus;1;72.00;00 Sh;rm El S SSH;23:55;Sharm El S SSH PC624
+2019-04-23;12:44;Denmark;Egypt;2;09/05/19;Pegasus;1;95.00;12:25;Istanbul SAWIstanbul (Sabiha Gokcen) SAW;08:40;Istanbul SAWIstanbul (Sabiha Gokcen) SAW PC623
+2019-04-23;12:44;Denmark;Egypt;2;09/05/19;Pegasus;1;53.00;35 Co;enhagen CPH;14:50;Copenhagen CPH PC1073
+2019-04-23;12:44;Denmark;Egypt;2;14/05/19;Pegasus;1;67.00;23:25;Istanbul SAWIstanbul (Sabiha Gokcen) SAW;16:50;Istanbul SAWIstanbul (Sabiha Gokcen) SAW PC1072
+2019-04-23;12:44;Denmark;Egypt;2;02/05/19;Pegasus;1;72.00;03:00;Sharm El S SSH;11:50;Copenhagen CPH
+2019-04-23;12:44;Denmark;Egypt;2;02/05/19;Pegasus;1;95.00;09:25;Istanbul SAWIstanbul (Sabiha Gokcen) SAW;06:40;Istanbul SAWIstanbul (Sabiha Gokcen) SAW PC623
+2019-04-23;12:44;Denmark;Egypt;2;10/05/19;Pegasus;1;53.00;12:35;Copenhagen CPH;01:00;Sharm El S SSH
+2019-04-23;12:44;Denmark;Egypt;2;04/05/19;Pegasus;1;67.00;00 Sh;rm El S SSH;01:00;Sharm El S SSH PC7262
+2019-04-23;12:44;Denmark;Egypt;2;04/05/19;Pegasus;1;72.00;05:00;Sharm El S SSH;14:50;Copenhagen CPH
+2019-04-23;12:44;Denmark;Egypt;2;10/05/19;Pegasus;1;95.00;30 Co;enhagen CPH;14:50;Copenhagen CPH PC1073
+2019-04-23;12:44;Denmark;Egypt;2;25/05/19;Pegasus;1;53.00;22:20;Istanbul SAWIstanbul (Sabiha Gokcen) SAW;16:45;Istanbul SAWIstanbul (Sabiha Gokcen) SAW PC1072
+2019-04-23;12:44;Denmark;Egypt;2;25/05/19;Pegasus;1;67.00;20 Sh;rm El S SSH;23:55;Sharm El S SSH PC624
+2019-04-23;12:44;Denmark;Egypt;2;29/05/19;Pegasus;1;79.00;09:30;Istanbul SAWIstanbul (Sabiha Gokcen) SAW;07:00;Istanbul SAWIstanbul (Sabiha Gokcen) SAW PC623
+2019-04-23;12:44;Denmark;Egypt;2;12/05/19;Pegasus;1;95.00;12:30;Copenhagen CPH;23:55;Sharm El S SSH
+2019-04-23;12:44;Denmark;Egypt;2;12/05/19;Pegasus;1;47.00;22:20;Istanbul SAWIstanbul (Sabiha Gokcen) SAW;16:45;Istanbul SAWIstanbul (Sabiha Gokcen) SAW PC1072
+2019-04-23;12:44;Denmark;Egypt;2;17/05/19;Pegasus;1;67.00;05:00;Sharm El S SSH;14:50;Copenhagen CPH
+2019-04-23;12:44;Denmark;Egypt;2;12/05/19;Pegasus;1;79.00;35 Co;enhagen CPH;14:50;Copenhagen CPH PC1073
+2019-04-23;12:44;Denmark;Egypt;2;12/05/19;Pegasus;1;95.00;12:35;Copenhagen CPH;01:00;Sharm El S SSH
+2019-04-23;12:44;Denmark;Egypt;2;16/05/19;Pegasus;1;47.00;30 Sh;rm El S SSH;01:00;Sharm El S SSH PC7262
+2019-04-23;12:44;Denmark;Egypt;2;24/05/19;Pegasus;1;67.00;09:40;Istanbul SAWIstanbul (Sabiha Gokcen) SAW;07:10;Istanbul SAWIstanbul (Sabiha Gokcen) SAW PC623
+2019-04-23;12:44;Denmark;Egypt;2;24/05/19;Pegasus;1;66.00;35 Co;enhagen CPH;12:05;Copenhagen CPH PC1071
+2019-04-23;12:44;Denmark;Egypt;2;28/05/19;Pegasus;1;95.00;23:35;Istanbul SAWIstanbul (Sabiha Gokcen) SAW;16:50;Istanbul SAWIstanbul (Sabiha Gokcen) SAW PC1072
+2019-04-23;12:44;Denmark;Egypt;2;25/09/19;Pegasus;1;61.00;05:00;Sharm El S SSH;14:50;Copenhagen CPH
+2019-04-23;12:44;Denmark;Egypt;2;25/09/19;Pegasus;1;67.00;12:25;Istanbul SAWIstanbul (Sabiha Gokcen) SAW;08:40;Istanbul SAWIstanbul (Sabiha Gokcen) SAW PC623
+2019-04-23;12:44;Denmark;Egypt;2;01/10/19;Pegasus;1;79.00;15:30;Copenhagen CPH;23:55;Sharm El S SSH
+2019-04-23;12:44;Denmark;Egypt;2;25/09/19;Pegasus;1;95.00;00 Sh;rm El S SSH;23:55;Sharm El S SSH PC624
+2019-04-23;12:44;Denmark;Egypt;2;25/09/19;Pegasus;1;53.00;05:00;Sharm El S SSH;14:50;Copenhagen CPH
+2019-04-23;12:44;Denmark;Egypt;2;29/09/19;Pegasus;1;67.00;30 Co;enhagen CPH;14:50;Copenhagen CPH PC1073
+2019-04-23;12:44;Denmark;Egypt;2;20/09/19;Pegasus;1;79.00;22:20;Istanbul SAWIstanbul (Sabiha Gokcen) SAW;16:45;Istanbul SAWIstanbul (Sabiha Gokcen) SAW PC1072
+2019-04-23;12:44;Denmark;Egypt;2;20/09/19;Pegasus;1;95.00;20 Sh;rm El S SSH;23:55;Sharm El S SSH PC624
+2019-04-23;12:44;Denmark;Egypt;2;24/09/19;Pegasus;1;53.00;09:30;Istanbul SAWIstanbul (Sabiha Gokcen) SAW;07:00;Istanbul SAWIstanbul (Sabiha Gokcen) SAW PC623
+2019-04-23;12:44;Denmark;Egypt;2;27/09/19;Pegasus;1;67.00;09:00;Copenhagen CPH;16:00;Sharm El S SSH
+2019-04-23;12:44;Denmark;Egypt;2;27/09/19;Pegasus;1;79.00;12:15;Milan BGYMilan (Bergamo) BGY;11:05;Milan BGYMilan (Bergamo) BGY FR2991
+2019-04-23;12:44;Denmark;Egypt;2;01/10/19;Pegasus;1;95.00;05:00;Sharm El S SSH;14:50;Copenhagen CPH
+2019-04-23;12:44;Denmark;Egypt;2;18/09/19;Pegasus;1;53.00;00 Co;enhagen CPH;14:50;Copenhagen CPH PC1073
+2019-04-23;12:44;Denmark;Egypt;2;18/09/19;Pegasus;1;67.00;09:00;Copenhagen CPH;16:00;Sharm El S SSH
+2019-04-23;12:44;Denmark;Egypt;2;24/09/19;Pegasus;1;79.00;00 Sh;rm El S SSH;16:00;Sharm El S SSH E5100
+2019-04-23;12:44;Denmark;Egypt;2;11/10/19;Pegasus;1;95.00;09:25;Istanbul SAWIstanbul (Sabiha Gokcen) SAW;06:40;Istanbul SAWIstanbul (Sabiha Gokcen) SAW PC623
+2019-04-23;12:44;Denmark;Egypt;2;11/10/19;Pegasus;1;53.00;00 Co;enhagen CPH;11:50;Copenhagen CPH PC1071
+2019-04-23;12:44;Denmark;Egypt;2;15/10/19;Pegasus;1;83.00;20:35;Milan BGYMilan (Bergamo) BGY;11:05;Milan BGYMilan (Bergamo) BGY FR2991
+2019-04-23;12:44;Denmark;Egypt;2;04/10/19;Pegasus;1;66.00;11:05;Alexandria HBE;02:35;Copenhagen CPH
+2019-04-23;12:44;Denmark;Egypt;2;04/10/19;Pegasus;1;95.00;23:00;Amman AMMAmman (Queen Alia) AMM;13:35;Amman AMMAmman (Queen Alia) AMM E5521
+2019-04-23;12:44;Denmark;Egypt;2;08/10/19;Pegasus;1;53.00;09:00;Copenhagen CPH;00:05;Alexandria HBE
+2019-04-23;12:44;Denmark;Egypt;2;28/08/19;Ryanair;1;36.62;05 Al;xandria HBE;00:05;Alexandria HBE E5104
+2019-04-23;12:44;Denmark;Egypt;2;28/08/19;Air Arabia Egypt;1;118.46;11:05;Alexandria HBE;02:35;Copenhagen CPH
+2019-04-23;12:44;Denmark;Egypt;2;03/09/19;Pegasus;1;95.00;00 Co;enhagen CPH;02:35;Copenhagen CPH DY3779
+2019-04-23;12:44;Denmark;Egypt;2;30/08/19;Pegasus;1;47.00;20:35;Milan BGYMilan (Bergamo) BGY;11:05;Milan BGYMilan (Bergamo) BGY FR2991
+2019-04-23;12:44;Denmark;Egypt;2;30/08/19;Ryanair;1;36.62;10 Al;xandria HBE;00:05;Alexandria HBE E5104
+2019-04-23;12:44;Denmark;Egypt;2;03/09/19;Air Arabia Egypt;1;118.46;19:40;Milan BGYMilan (Bergamo) BGY;10:45;Milan BGYMilan (Bergamo) BGY E5103
+2019-04-23;12:44;Denmark;Egypt;2;11/09/19;Pegasus;1;95.00;09:00;Copenhagen CPH;00:05;Alexandria HBE
+2019-04-23;12:44;Denmark;Egypt;2;11/09/19;Pegasus;1;47.00;20:35;Milan BGYMilan (Bergamo) BGY;11:05;Milan BGYMilan (Bergamo) BGY FR2991
+2019-04-23;12:44;Denmark;Egypt;2;17/09/19;Ryanair;1;51.30;11:05;Alexandria HBE;02:35;Copenhagen CPH
+2019-04-23;12:44;Denmark;Egypt;2;18/10/19;Air Arabia Egypt;1;83.02;00 Co;enhagen CPH;02:35;Copenhagen CPH DY3779
+2019-04-23;12:44;Denmark;Egypt;2;18/10/19;Air Arabia Egypt;1;83.15;09:00;Copenhagen CPH;00:05;Alexandria HBE
+2019-04-23;12:44;Denmark;Egypt;2;22/10/19;norwegian;1;124.64;05 Al;xandria HBE;00:05;Alexandria HBE E5104
+2019-04-23;12:44;Denmark;Egypt;2;13/09/19;Ryanair;1;24.83;23:00;Amman AMMAmman (Queen Alia) AMM;13:35;Amman AMMAmman (Queen Alia) AMM E5521
+2019-04-23;12:44;Denmark;Egypt;2;13/09/19;Air Arabia Egypt;1;96.37;00 Co;enhagen CPH;02:35;Copenhagen CPH DY3779
+2019-04-23;12:44;Denmark;Egypt;2;17/09/19;Air Arabia Egypt;1;83.15;20:35;Milan BGYMilan (Bergamo) BGY;11:05;Milan BGYMilan (Bergamo) BGY FR2991
+2019-04-23;12:44;Denmark;Egypt;2;17/05/19;norwegian;1;138.49;11:05;Alexandria HBE;02:35;Copenhagen CPH
+2019-04-23;12:44;Denmark;Egypt;2;17/05/19;Ryanair;1;24.83;23:00;Amman AMMAmman (Queen Alia) AMM;13:35;Amman AMMAmman (Queen Alia) AMM E5521
+2019-04-23;12:44;Denmark;Egypt;2;21/05/19;Air Arabia Egypt;1;96.37;09:00;Copenhagen CPH;00:05;Alexandria HBE
+2019-04-23;12:44;Denmark;Egypt;2;10/05/19;Air Arabia Egypt;1;148.47;05 Al;xandria HBE;00:05;Alexandria HBE E5104
+2019-04-23;12:44;Denmark;Egypt;2;10/05/19;Ryanair;1;73.43;11:05;Alexandria HBE;02:35;Copenhagen CPH
+2019-04-23;12:44;Denmark;Egypt;2;14/05/19;Ryanair;1;24.83;00 Co;enhagen CPH;02:35;Copenhagen CPH DY3779
+2019-04-23;12:44;Denmark;Egypt;2;31/05/19;Air Arabia Egypt;1;96.37;20:35;Milan BGYMilan (Bergamo) BGY;11:05;Milan BGYMilan (Bergamo) BGY FR2991
+2019-04-23;12:44;Denmark;Egypt;2;31/05/19;Air Arabia Egypt;1;87.05;05 Al;xandria HBE;00:05;Alexandria HBE E5104
+2019-04-23;12:44;Denmark;Egypt;2;04/06/19;norwegian;1;138.49;23:00;Amman AMMAmman (Queen Alia) AMM;13:35;Amman AMMAmman (Queen Alia) AMM E5521
+2019-04-23;12:44;Denmark;Scotland;1;09/05/19;Ryanair;0;12.86;18:15;Billund BLL;18:50;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;1;16/05/19;Ryanair;0;24.47;15:15;Edinburgh EDI;17:50;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;2;28/04/19;Ryanair;0;22.84;18:10;Billund BLL;18:45;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;2;02/05/19;Ryanair;0;14.99;15:15;Edinburgh EDI;17:50;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;3;23/05/19;Ryanair;0;22.84;18:15;Billund BLL;18:50;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;3;30/05/19;Ryanair;0;14.99;15:15;Edinburgh EDI;17:50;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;4;20/06/19;Ryanair;0;17.81;18:15;Billund BLL;18:50;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;4;27/06/19;Ryanair;0;20.76;15:15;Edinburgh EDI;17:50;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;5;13/06/19;Ryanair;0;17.81;18:15;Billund BLL;18:50;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;5;20/06/19;Ryanair;0;20.76;15:15;Edinburgh EDI;17:50;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;6;19/05/19;Ryanair;0;14.60;18:10;Billund BLL;18:45;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;6;23/05/19;Ryanair;0;24.47;15:15;Edinburgh EDI;17:50;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;7;17/06/19;Ryanair;0;17.81;22:00;Copenhagen CPH;22:50;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;7;24/06/19;Ryanair;0;22.35;18:45;Edinburgh EDI;21:35;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;8;21/06/19;Ryanair;0;17.81;22:00;Copenhagen CPH;22:50;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;8;26/06/19;Ryanair;0;22.35;18:45;Edinburgh EDI;21:35;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;9;16/06/19;Ryanair;0;19.96;18:10;Billund BLL;18:45;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;9;20/06/19;Ryanair;0;20.76;15:15;Edinburgh EDI;17:50;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;10;23/06/19;Ryanair;0;19.96;18:10;Billund BLL;18:45;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;10;27/06/19;Ryanair;0;20.76;15:15;Edinburgh EDI;17:50;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;11;19/05/19;Ryanair;0;14.60;18:10;Billund BLL;18:45;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;11;23/05/19;Ryanair;1;11.53;06:50;Edinburgh EDI;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;11;23/05/19;Ryanair;1;14.99;19:35;London STNLondon (Stansted) STN;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-23;12:44;Denmark;Scotland;11;19/05/19;Ryanair;1;14.60;18:10;Billund BLL;18:45;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;11;23/05/19;Ryanair;1;11.53;10:40;Edinburgh EDI;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;11;23/05/19;Ryanair;1;14.99;19:35;London STNLondon (Stansted) STN;12:05;London STNLondon (Stansted) STN FR8884
+2019-04-23;12:44;Denmark;Scotland;11;19/05/19;Ryanair;1;14.60;18:10;Billund BLL;18:45;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;11;23/05/19;Ryanair;1;11.53;14:30;Edinburgh EDI;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;11;23/05/19;Ryanair;1;14.99;19:35;London STNLondon (Stansted) STN;16:05;London STNLondon (Stansted) STN FR2684
+2019-04-23;12:44;Denmark;Scotland;12;04/05/19;Ryanair;1;14.60;15:35;Copenhagen CPH;16:25;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;12;08/05/19;Ryanair;0;27.05;18:45;Edinburgh EDI;21:35;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;12;03/05/19;Ryanair;0;14.60;22:00;Copenhagen CPH;22:50;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;13;08/05/19;Ryanair;0;27.05;18:45;Edinburgh EDI;21:35;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;13;17/05/19;Ryanair;0;14.60;22:00;Copenhagen CPH;22:50;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;14;22/05/19;Ryanair;0;27.05;18:45;Edinburgh EDI;21:35;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;14;05/08/19;Ryanair;0;19.96;22:00;Copenhagen CPH;22:50;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;15;12/08/19;Ryanair;0;22.35;18:45;Edinburgh EDI;21:35;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;15;07/08/19;Ryanair;0;19.96;22:00;Copenhagen CPH;22:50;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;16;12/08/19;Ryanair;0;22.35;18:45;Edinburgh EDI;21:35;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;16;04/08/19;Ryanair;0;19.96;22:00;Copenhagen CPH;22:50;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;17;12/08/19;Ryanair;0;22.35;18:45;Edinburgh EDI;21:35;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;17;26/08/19;Ryanair;0;19.96;22:00;Copenhagen CPH;22:50;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;18;01/09/19;Ryanair;0;23.06;18:45;Edinburgh EDI;21:35;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;18;28/08/19;Ryanair;0;19.96;22:00;Copenhagen CPH;22:50;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;19;01/09/19;Ryanair;0;23.06;18:45;Edinburgh EDI;21:35;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;19;03/05/19;Ryanair;0;14.60;22:00;Copenhagen CPH;22:50;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;20;08/05/19;Ryanair;1;11.53;06:50;Edinburgh EDI;16:55;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;20;08/05/19;Ryanair;1;17.29;14:10;London STNLondon (Stansted) STN;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-23;12:44;Denmark;Scotland;20;17/05/19;Ryanair;1;14.60;22:00;Copenhagen CPH;22:50;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;20;22/05/19;Ryanair;1;11.53;06:50;Edinburgh EDI;21:45;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;20;22/05/19;Ryanair;1;17.29;19:00;London STNLondon (Stansted) STN;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-23;12:44;Denmark;Scotland;20;03/05/19;Ryanair;1;14.60;22:00;Copenhagen CPH;22:50;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;20;08/05/19;Ryanair;1;11.53;06:50;Edinburgh EDI;21:45;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;20;08/05/19;Ryanair;1;17.29;19:00;London STNLondon (Stansted) STN;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-23;12:44;Denmark;Scotland;20;17/05/19;Ryanair;1;14.60;22:00;Copenhagen CPH;22:50;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;20;22/05/19;Ryanair;1;11.53;06:50;Edinburgh EDI;16:55;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;20;22/05/19;Ryanair;1;17.29;14:10;London STNLondon (Stansted) STN;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-23;12:44;Denmark;Scotland;20;17/05/19;Ryanair;1;14.60;22:00;Copenhagen CPH;22:50;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;20;22/05/19;Ryanair;1;11.53;10:40;Edinburgh EDI;21:45;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;20;22/05/19;Ryanair;1;17.29;19:00;London STNLondon (Stansted) STN;12:05;London STNLondon (Stansted) STN FR8884
+2019-04-23;12:44;Denmark;Scotland;20;17/05/19;Ryanair;1;14.60;22:00;Copenhagen CPH;22:50;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;20;22/05/19;Ryanair;1;11.53;10:40;Edinburgh EDI;16:55;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;20;22/05/19;Ryanair;1;17.29;14:10;London STNLondon (Stansted) STN;12:05;London STNLondon (Stansted) STN FR8884
+2019-04-23;12:44;Denmark;Scotland;20;04/05/19;Ryanair;1;14.60;15:35;Copenhagen CPH;16:25;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;20;08/05/19;Ryanair;1;11.53;06:50;Edinburgh EDI;21:45;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;20;08/05/19;Ryanair;1;17.29;19:00;London STNLondon (Stansted) STN;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-23;12:44;Denmark;Scotland;20;04/05/19;Ryanair;1;14.60;15:35;Copenhagen CPH;16:25;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;20;08/05/19;Ryanair;1;11.53;06:50;Edinburgh EDI;16:55;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;20;08/05/19;Ryanair;1;17.29;14:10;London STNLondon (Stansted) STN;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-23;12:44;Denmark;Scotland;20;16/06/19;Ryanair;1;22.10;22:00;Copenhagen CPH;22:50;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;20;24/06/19;Ryanair;0;22.35;18:45;Edinburgh EDI;21:35;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;20;14/06/19;Ryanair;0;27.19;22:00;Copenhagen CPH;22:50;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;21;19/06/19;Ryanair;0;17.29;18:45;Edinburgh EDI;21:35;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;21;12/06/19;Ryanair;0;27.19;22:00;Copenhagen CPH;22:50;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;22;19/06/19;Ryanair;0;17.29;18:45;Edinburgh EDI;21:35;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;22;17/06/19;Ryanair;0;17.81;22:00;Copenhagen CPH;22:50;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;23;23/06/19;Ryanair;0;27.05;18:45;Edinburgh EDI;21:35;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;23;13/05/19;Ryanair;0;14.60;22:00;Copenhagen CPH;22:50;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;24;18/05/19;Ryanair;0;30.58;12:20;Edinburgh EDI;15:10;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;24;17/05/19;Ryanair;0;14.60;22:00;Copenhagen CPH;22:50;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;25;23/05/19;Ryanair;1;11.53;06:50;Edinburgh EDI;15:55;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;25;23/05/19;Ryanair;1;20.70;13:10;London STNLondon (Stansted) STN;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-23;12:44;Denmark;Scotland;25;17/05/19;Ryanair;1;14.60;22:00;Copenhagen CPH;22:50;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;25;23/05/19;Ryanair;1;11.53;10:40;Edinburgh EDI;15:55;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;25;23/05/19;Ryanair;1;20.70;13:10;London STNLondon (Stansted) STN;12:05;London STNLondon (Stansted) STN FR8884
+2019-04-23;12:44;Denmark;Scotland;25;26/05/19;Ryanair;1;31.85;18:10;Billund BLL;18:45;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;25;30/05/19;Ryanair;0;14.99;15:15;Edinburgh EDI;17:50;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;25;12/05/19;Ryanair;0;22.84;18:10;Billund BLL;18:45;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;26;16/05/19;Ryanair;0;24.47;15:15;Edinburgh EDI;17:50;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;26;09/05/19;Ryanair;0;12.86;18:15;Billund BLL;18:50;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;27;15/05/19;Ryanair;1;19.76;14:30;Edinburgh EDI;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;27;15/05/19;Ryanair;1;14.99;19:35;London STNLondon (Stansted) STN;16:05;London STNLondon (Stansted) STN FR2684
+2019-04-23;12:44;Denmark;Scotland;27;09/05/19;Ryanair;1;12.86;18:15;Billund BLL;18:50;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;27;15/05/19;Ryanair;1;19.76;10:40;Edinburgh EDI;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;27;15/05/19;Ryanair;1;14.99;19:35;London STNLondon (Stansted) STN;12:05;London STNLondon (Stansted) STN FR8884
+2019-04-23;12:44;Denmark;Scotland;27;30/04/19;Ryanair;1;5.22;14:30;Aarhus AAR;21:25;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;27;08/05/19;Ryanair;1;19.76;50 Ed;nburgh EDI;21:25;Edinburgh EDI FR8887
+2019-04-23;12:44;Denmark;Scotland;27;08/05/19;Ryanair;1;11.53;06:50;Edinburgh EDI;14:05;Aarhus AAR
+2019-04-23;12:44;Denmark;Scotland;27;05/05/19;Ryanair;1;11.53;10 Bi;lund BLL;14:05;Aarhus AAR FR712
+2019-04-23;12:44;Denmark;Scotland;27;09/05/19;Ryanair;0;14.60;15 Ed;nburgh EDI;18:45;Edinburgh EDI FR2321
+2019-04-23;12:44;Denmark;Scotland;28;30/04/19;Ryanair;1;37.06;30 Aa;hus AAR;17:50;Billund BLL FR2320
+2019-04-23;12:44;Denmark;Scotland;28;30/04/19;Ryanair;1;5.22;14:30;Aarhus AAR;17:50;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;28;08/05/19;Ryanair;1;23.52;50 Ed;nburgh EDI;17:50;Edinburgh EDI FR2685
+2019-04-23;12:44;Denmark;Scotland;28;22/05/19;Ryanair;1;11.53;11:25;London STNLondon (Stansted) STN;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-23;12:44;Denmark;Scotland;28;22/05/19;Ryanair;1;11.53;20 Bi;lund BLL;14:05;Aarhus AAR FR712
+2019-04-23;12:44;Denmark;Scotland;28;30/05/19;Ryanair;1;12.86;16:30;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Scotland;28;22/05/19;Ryanair;1;26.47;15:15;Edinburgh EDI;17:50;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;28;22/05/19;Ryanair;1;14.99;20 Bi;lund BLL;17:50;Billund BLL FR2320
+2019-04-23;12:44;Denmark;Scotland;28;30/05/19;Ryanair;1;12.86;20:05;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Scotland;28;19/06/19;Ryanair;1;26.47;15:15;Edinburgh EDI;17:50;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;28;19/06/19;Ryanair;1;14.99;40 Co;enhagen CPH;17:50;Billund BLL FR2320
+2019-04-23;12:44;Denmark;Scotland;28;24/06/19;Ryanair;1;14.60;17:25;Brussels CRLBrussels (Charleroi) CRL;10:20;Brussels CRLBrussels (Charleroi) CRL FR200
+2019-04-23;12:44;Denmark;Scotland;28;19/06/19;Ryanair;1;17.99;18:45;Edinburgh EDI;21:35;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;28;19/06/19;Ryanair;1;22.35;40 Co;enhagen CPH;21:35;Copenhagen CPH FR2674
+2019-04-23;12:44;Denmark;Scotland;28;26/06/19;Ryanair;1;14.60;17:25;Brussels CRLBrussels (Charleroi) CRL;10:20;Brussels CRLBrussels (Charleroi) CRL FR200
+2019-04-23;12:44;Denmark;Scotland;28;23/06/19;Ryanair;0;17.99;18:45;Edinburgh EDI;21:35;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;29;30/06/19;Ryanair;0;22.35;18:10;Billund BLL;18:45;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;29;09/06/19;Ryanair;0;19.96;15:10;Edinburgh EDI;17:45;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;30;16/06/19;Ryanair;0;35.29;18:10;Billund BLL;18:45;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;30;02/06/19;Ryanair;0;19.96;15:10;Edinburgh EDI;17:45;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;31;06/06/19;Ryanair;0;35.29;18:10;Billund BLL;18:45;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;31;16/05/19;Ryanair;0;19.96;15:15;Edinburgh EDI;17:50;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;32;23/05/19;Ryanair;0;35.29;18:15;Billund BLL;18:50;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;32;15/05/19;Ryanair;1;31.85;15:15;Edinburgh EDI;17:50;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;32;15/05/19;Ryanair;1;24.47;20 Bi;lund BLL;17:50;Billund BLL FR2320
+2019-04-23;12:44;Denmark;Scotland;32;23/05/19;Ryanair;1;12.86;16:30;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Scotland;32;08/05/19;Ryanair;1;19.76;15:15;Edinburgh EDI;17:50;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;32;08/05/19;Ryanair;1;24.47;20 Bi;lund BLL;17:50;Billund BLL FR2320
+2019-04-23;12:44;Denmark;Scotland;32;16/05/19;Ryanair;1;12.86;16:30;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Scotland;32;15/05/19;Ryanair;1;19.76;15:15;Edinburgh EDI;17:50;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;32;15/05/19;Ryanair;1;24.47;20 Bi;lund BLL;17:50;Billund BLL FR2320
+2019-04-23;12:44;Denmark;Scotland;32;22/05/19;Ryanair;1;12.86;16:30;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Scotland;32;15/05/19;Ryanair;1;19.76;06:50;Edinburgh EDI;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;32;15/05/19;Ryanair;1;11.53;19:35;London STNLondon (Stansted) STN;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-23;12:44;Denmark;Scotland;32;23/05/19;Ryanair;1;14.99;10:20;Billund BLL;17:50;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;32;15/05/19;Ryanair;1;12.86;50 Ed;nburgh EDI;17:50;Edinburgh EDI FR2685
+2019-04-23;12:44;Denmark;Scotland;32;15/05/19;Ryanair;1;19.76;06:50;Edinburgh EDI;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;32;22/05/19;Ryanair;1;11.53;20 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Scotland;32;15/05/19;Ryanair;1;14.99;16:30;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Scotland;32;15/05/19;Ryanair;1;12.86;40 Ed;nburgh EDI;17:50;Edinburgh EDI FR2685
+2019-04-23;12:44;Denmark;Scotland;32;23/05/19;Ryanair;1;19.76;19:35;London STNLondon (Stansted) STN;12:05;London STNLondon (Stansted) STN FR8884
+2019-04-23;12:44;Denmark;Scotland;32;15/05/19;Ryanair;1;11.53;10:20;Billund BLL;17:50;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;32;15/05/19;Ryanair;1;14.99;16:30;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Scotland;32;23/05/19;Ryanair;1;12.86;14:30;Edinburgh EDI;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;32;22/05/19;Ryanair;1;19.76;20 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Scotland;32;22/05/19;Ryanair;1;11.53;10:20;Billund BLL;17:50;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;32;30/05/19;Ryanair;1;14.99;40 Ed;nburgh EDI;17:50;Edinburgh EDI FR2685
+2019-04-23;12:44;Denmark;Scotland;32;02/05/19;Ryanair;0;12.86;19:35;London STNLondon (Stansted) STN;12:05;London STNLondon (Stansted) STN FR8884
+2019-04-23;12:44;Denmark;Scotland;33;09/05/19;Ryanair;0;19.76;10:20;Billund BLL;13:50;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;33;30/04/19;Ryanair;1;11.53;15 Ed;nburgh EDI;13:50;Edinburgh EDI FR8883
+2019-04-23;12:44;Denmark;Scotland;33;30/04/19;Ryanair;1;14.99;15:15;Edinburgh EDI;17:50;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;33;08/05/19;Ryanair;1;12.86;18:15;Billund BLL;18:50;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;33;30/04/19;Ryanair;1;31.76;15:15;Edinburgh EDI;17:50;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;33;30/04/19;Ryanair;1;14.99;30 Co;enhagen CPH;17:50;Billund BLL FR2320
+2019-04-23;12:44;Denmark;Scotland;33;08/05/19;Ryanair;1;22.84;20:05;London STNLondon (Stansted) STN;18:25;London STNLondon (Stansted) STN FR7381
+2019-04-23;12:44;Denmark;Scotland;33;15/05/19;Ryanair;1;37.06;06:50;Edinburgh EDI;16:55;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;33;15/05/19;Ryanair;1;14.60;14:10;London STNLondon (Stansted) STN;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-23;12:44;Denmark;Scotland;33;22/05/19;Ryanair;1;19.76;07:15;Copenhagen CPH;21:25;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;33;15/05/19;Ryanair;1;11.53;50 Ed;nburgh EDI;21:25;Edinburgh EDI FR8887
+2019-04-23;12:44;Denmark;Scotland;33;15/05/19;Ryanair;1;17.29;06:50;Edinburgh EDI;16:55;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;33;22/05/19;Ryanair;1;14.60;15 Co;enhagen CPH;16:55;Copenhagen CPH FR7382
+2019-04-23;12:44;Denmark;Scotland;33;15/05/19;Ryanair;1;19.76;16:30;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Scotland;33;15/05/19;Ryanair;1;11.53;50 Ed;nburgh EDI;17:50;Edinburgh EDI FR2685
+2019-04-23;12:44;Denmark;Scotland;33;22/05/19;Ryanair;1;17.29;19:00;London STNLondon (Stansted) STN;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-23;12:44;Denmark;Scotland;33;15/05/19;Ryanair;1;14.60;07:15;Copenhagen CPH;17:50;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;33;15/05/19;Ryanair;1;19.76;16:30;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Scotland;33;22/05/19;Ryanair;1;11.53;06:50;Edinburgh EDI;16:55;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;33;30/04/19;Ryanair;1;17.29;15 Co;enhagen CPH;16:55;Copenhagen CPH FR7382
+2019-04-23;12:44;Denmark;Scotland;33;30/04/19;Ryanair;1;14.60;07:15;Copenhagen CPH;17:50;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;33;08/05/19;Ryanair;1;19.76;40 Ed;nburgh EDI;17:50;Edinburgh EDI FR2685
+2019-04-23;12:44;Denmark;Scotland;33;30/04/19;Ryanair;1;11.53;14:10;London STNLondon (Stansted) STN;12:05;London STNLondon (Stansted) STN FR8884
+2019-04-23;12:44;Denmark;Scotland;33;30/04/19;Ryanair;1;17.29;15 Co;enhagen CPH;16:55;Copenhagen CPH FR7382
+2019-04-23;12:44;Denmark;Scotland;33;08/05/19;Ryanair;1;14.60;16:30;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Scotland;33;17/05/19;Ryanair;0;19.76;10:40;Edinburgh EDI;21:45;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;34;23/05/19;Ryanair;0;11.53;15 Co;enhagen CPH;21:45;Copenhagen CPH FR7386
+2019-04-23;12:44;Denmark;Scotland;34;08/05/19;Ryanair;1;17.29;20:05;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Scotland;34;08/05/19;Ryanair;1;14.60;50 Ed;nburgh EDI;21:25;Edinburgh EDI FR8887
+2019-04-23;12:44;Denmark;Scotland;34;16/05/19;Ryanair;1;19.76;19:00;London STNLondon (Stansted) STN;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-23;12:44;Denmark;Scotland;34;15/05/19;Ryanair;1;11.53;17:30;Copenhagen CPH;21:25;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;34;15/05/19;Ryanair;1;17.29;20:05;London STNLondon (Stansted) STN;18:25;London STNLondon (Stansted) STN FR7381
+2019-04-23;12:44;Denmark;Scotland;34;23/05/19;Ryanair;1;14.60;06:50;Edinburgh EDI;21:45;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;34;09/05/19;Ryanair;0;19.76;00 Co;enhagen CPH;21:45;Copenhagen CPH FR7386
+2019-04-23;12:44;Denmark;Scotland;35;15/05/19;Ryanair;1;11.53;00 Ed;nburgh EDI;22:50;Edinburgh EDI FR2675
+2019-04-23;12:44;Denmark;Scotland;35;15/05/19;Ryanair;1;17.29;18:00;Edinburgh EDI;20:45;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;35;09/05/19;Ryanair;1;14.60;10:20;Billund BLL;21:25;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;35;14/05/19;Ryanair;1;19.76;15 Ed;nburgh EDI;21:25;Edinburgh EDI FR8887
+2019-04-23;12:44;Denmark;Scotland;35;14/05/19;Ryanair;1;11.53;15:15;Edinburgh EDI;17:50;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;35;09/05/19;Ryanair;1;17.29;10:20;Billund BLL;13:50;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;35;14/05/19;Ryanair;1;14.60;15 Ed;nburgh EDI;13:50;Edinburgh EDI FR8883
+2019-04-23;12:44;Denmark;Scotland;35;14/05/19;easyJet;1;30.31;15:15;Edinburgh EDI;17:50;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;35;09/05/19;Ryanair;1;12.86;18:15;Billund BLL;18:50;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;35;15/05/19;Ryanair;1;26.47;12:10;Edinburgh EDI;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;35;15/05/19;Ryanair;1;24.47;19:35;London STNLondon (Stansted) STN;13:35;London STNLondon (Stansted) STN U2234
+2019-04-23;12:44;Denmark;Scotland;35;09/05/19;Ryanair;1;12.86;18:15;Billund BLL;18:50;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;35;14/05/19;Ryanair;1;26.47;07:00;Edinburgh EDI;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;35;14/05/19;Ryanair;1;24.47;19:35;London STNLondon (Stansted) STN;08:30;London STNLondon (Stansted) STN U2232
+2019-04-23;12:44;Denmark;Scotland;35;09/05/19;Ryanair;1;12.86;18:15;Billund BLL;18:50;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;35;15/05/19;easyJet;1;17.49;12:10;Edinburgh EDI;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;35;15/05/19;Ryanair;1;14.99;19:35;London STNLondon (Stansted) STN;13:35;London STNLondon (Stansted) STN U2234
+2019-04-23;12:44;Denmark;Scotland;35;17/05/19;Ryanair;1;12.86;18:15;Billund BLL;18:50;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;35;22/05/19;easyJet;1;17.49;14:20;Edinburgh EDI;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;35;22/05/19;Ryanair;1;14.99;19:35;London STNLondon (Stansted) STN;15:40;London STNLondon (Stansted) STN U2238
+2019-04-23;12:44;Denmark;Scotland;35;03/05/19;Ryanair;1;12.86;18:15;Billund BLL;18:50;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;35;09/05/19;easyJet;1;17.49;14:20;Edinburgh EDI;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;35;09/05/19;Ryanair;1;14.99;19:35;London STNLondon (Stansted) STN;15:40;London STNLondon (Stansted) STN U2238
+2019-04-23;12:44;Denmark;Scotland;35;05/05/19;Ryanair;1;12.86;18:15;Billund BLL;18:50;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;35;09/05/19;easyJet;1;17.49;06:25;Edinburgh EDI;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;35;09/05/19;Ryanair;1;14.99;19:35;London STNLondon (Stansted) STN;07:55;London STNLondon (Stansted) STN U2232
+2019-04-23;12:44;Denmark;Scotland;35;19/05/19;Ryanair;1;12.86;22:00;Copenhagen CPH;22:50;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;35;23/05/19;easyJet;1;17.49;07:00;Edinburgh EDI;14:10;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;35;23/05/19;Ryanair;1;14.99;11:15;London LTNLondon (Luton) LTN;08:25;London LTNLondon (Luton) LTN U212
+2019-04-23;12:44;Denmark;Scotland;35;04/05/19;Ryanair;1;12.86;22:00;Copenhagen CPH;22:50;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;35;09/05/19;easyJet;1;17.49;06:30;Edinburgh EDI;14:10;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;35;09/05/19;Ryanair;1;14.99;11:15;London LTNLondon (Luton) LTN;07:55;London LTNLondon (Luton) LTN U212
+2019-04-23;12:44;Denmark;Scotland;35;05/05/19;Ryanair;1;14.60;22:00;Copenhagen CPH;22:50;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;35;09/05/19;easyJet;1;17.49;06:30;Edinburgh EDI;14:10;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;35;09/05/19;Ryanair;1;14.99;11:15;London LTNLondon (Luton) LTN;07:55;London LTNLondon (Luton) LTN U212
+2019-04-23;12:44;Denmark;Scotland;35;19/05/19;Ryanair;1;14.60;18:10;Billund BLL;18:45;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;35;23/05/19;easyJet;1;17.49;14:20;Edinburgh EDI;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;35;23/05/19;Ryanair;1;14.99;19:35;London STNLondon (Stansted) STN;15:40;London STNLondon (Stansted) STN U2238
+2019-04-23;12:44;Denmark;Scotland;35;05/05/19;Ryanair;1;14.60;15:35;Copenhagen CPH;16:25;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;35;09/05/19;easyJet;1;17.49;06:30;Edinburgh EDI;14:10;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;35;09/05/19;Ryanair;1;14.99;11:15;London LTNLondon (Luton) LTN;07:55;London LTNLondon (Luton) LTN U212
+2019-04-23;12:44;Denmark;Scotland;35;05/05/19;Ryanair;1;14.60;18:10;Billund BLL;18:45;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;35;09/05/19;easyJet;1;17.49;14:20;Edinburgh EDI;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;35;09/05/19;Ryanair;1;14.99;19:35;London STNLondon (Stansted) STN;15:40;London STNLondon (Stansted) STN U2238
+2019-04-23;12:44;Denmark;Scotland;35;22/05/19;Ryanair;1;14.60;18:10;Billund BLL;18:45;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;35;30/05/19;easyJet;0;17.49;07:00;Edinburgh EDI;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;36;28/04/19;Ryanair;1;14.99;10 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Scotland;36;28/04/19;Ryanair;1;14.60;18:10;Billund BLL;18:45;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;36;02/05/19;easyJet;1;17.49;12:10;Edinburgh EDI;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;36;17/05/19;Ryanair;0;14.99;10 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Scotland;37;22/05/19;Ryanair;1;14.60;00 Ed;nburgh EDI;18:45;Edinburgh EDI FR2321
+2019-04-23;12:44;Denmark;Scotland;37;22/05/19;easyJet;1;17.49;07:00;Edinburgh EDI;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;37;17/05/19;Ryanair;1;14.99;20 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Scotland;37;22/05/19;Ryanair;1;14.60;16:05;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Scotland;37;22/05/19;easyJet;1;17.49;15 Ed;nburgh EDI;17:20;Edinburgh EDI U2237
+2019-04-23;12:44;Denmark;Scotland;37;12/06/19;Ryanair;1;14.99;55 Bi;lund BLL;17:50;Billund BLL FR2320
+2019-04-23;12:44;Denmark;Scotland;37;19/06/19;Ryanair;0;14.60;20:55;London STNLondon (Stansted) STN;09:30;London STNLondon (Stansted) STN FR9770
+2019-04-23;12:44;Denmark;Scotland;37;04/06/19;easyJet;1;17.49;15:15;Edinburgh EDI;17:50;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;37;04/06/19;Ryanair;1;14.99;00 Co;enhagen CPH;17:50;Billund BLL FR2320
+2019-04-23;12:44;Denmark;Scotland;37;12/06/19;Ryanair;1;12.86;25 Ed;nburgh EDI;22:50;Edinburgh EDI FR2675
+2019-04-23;12:44;Denmark;Scotland;37;04/06/19;easyJet;1;19.82;09:00;London STNLondon (Stansted) STN;07:55;London STNLondon (Stansted) STN U2232
+2019-04-23;12:44;Denmark;Scotland;37;04/06/19;Ryanair;1;14.99;00 Co;enhagen CPH;11:45;Copenhagen CPH FR7384
+2019-04-23;12:44;Denmark;Scotland;37;12/06/19;Ryanair;1;5.22;10 Ed;nburgh EDI;22:50;Edinburgh EDI FR2675
+2019-04-23;12:44;Denmark;Scotland;37;04/06/19;easyJet;1;29.14;19:00;London STNLondon (Stansted) STN;13:35;London STNLondon (Stansted) STN U2234
+2019-04-23;12:44;Denmark;Scotland;37;04/06/19;Ryanair;1;14.99;15 Co;enhagen CPH;21:45;Copenhagen CPH FR7386
+2019-04-23;12:44;Denmark;Scotland;37;12/06/19;Ryanair;1;14.60;10:25;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Scotland;37;12/05/19;easyJet;1;17.49;18:45;Edinburgh EDI;21:35;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;37;12/05/19;Ryanair;1;17.29;15 Co;enhagen CPH;21:35;Copenhagen CPH FR2674
+2019-04-23;12:44;Denmark;Scotland;37;16/05/19;Ryanair;1;14.60;16:05;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Scotland;37;14/05/19;easyJet;1;17.49;18:45;Edinburgh EDI;21:35;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;37;14/05/19;Ryanair;1;17.29;15 Co;enhagen CPH;21:35;Copenhagen CPH FR2674
+2019-04-23;12:44;Denmark;Scotland;37;22/05/19;Ryanair;1;14.60;19:55;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Scotland;37;14/05/19;easyJet;1;19.82;18:45;Edinburgh EDI;21:35;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;37;14/05/19;Ryanair;1;17.29;30 Co;enhagen CPH;21:35;Copenhagen CPH FR2674
+2019-04-23;12:44;Denmark;Scotland;37;22/05/19;Ryanair;1;14.60;19:55;London STNLondon (Stansted) STN;18:25;London STNLondon (Stansted) STN FR7381
+2019-04-23;12:44;Denmark;Scotland;37;30/04/19;easyJet;1;19.82;18:45;Edinburgh EDI;21:35;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;37;30/04/19;Ryanair;1;17.29;55 Aa;borg AAL;21:35;Copenhagen CPH FR2674
+2019-04-23;12:44;Denmark;Scotland;37;08/05/19;Ryanair;1;14.60;21:25;London STNLondon (Stansted) STN;11:40;London STNLondon (Stansted) STN FR1252
+2019-04-23;12:44;Denmark;Scotland;37;30/04/19;easyJet;1;19.82;06:50;Edinburgh EDI;15:10;Aalborg AAL
+2019-04-23;12:44;Denmark;Scotland;37;30/04/19;Ryanair;1;17.29;12:35;London STNLondon (Stansted) STN;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-23;12:44;Denmark;Scotland;37;08/05/19;Ryanair;1;14.60;14:30;Aarhus AAR;21:10;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;37;05/06/19;easyJet;1;19.82;50 Ed;nburgh EDI;21:10;Edinburgh EDI U2239
+2019-04-23;12:44;Denmark;Scotland;37;05/06/19;Ryanair;1;17.29;06:50;Edinburgh EDI;14:05;Aarhus AAR
+2019-04-23;12:44;Denmark;Scotland;37;12/06/19;Ryanair;1;12.86;30 Aa;hus AAR;14:05;Aarhus AAR FR712
+2019-04-23;12:44;Denmark;Scotland;37;21/05/19;Ryanair;1;26.47;16:05;London STNLondon (Stansted) STN;15:10;London STNLondon (Stansted) STN FR713
+2019-04-23;12:44;Denmark;Scotland;37;21/05/19;Ryanair;1;19.76;50 Ed;nburgh EDI;17:20;Edinburgh EDI U2237
+2019-04-23;12:44;Denmark;Scotland;37;28/05/19;Ryanair;1;11.53;11:25;London STNLondon (Stansted) STN;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-23;12:44;Denmark;Scotland;37;22/05/19;Ryanair;1;9.78;14:30;Aarhus AAR;17:20;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;37;22/05/19;easyJet;1;19.82;16:05;London STNLondon (Stansted) STN;15:10;London STNLondon (Stansted) STN FR713
+2019-04-23;12:44;Denmark;Scotland;37;28/05/19;Ryanair;1;11.53;06:50;Edinburgh EDI;14:05;Aarhus AAR
+2019-04-23;12:44;Denmark;Scotland;37;30/04/19;Ryanair;1;11.53;30 Aa;hus AAR;14:05;Aarhus AAR FR712
+2019-04-23;12:44;Denmark;Scotland;37;30/04/19;Ryanair;1;9.78;14:30;Aarhus AAR;21:10;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;37;08/05/19;easyJet;1;19.82;50 Ed;nburgh EDI;21:10;Edinburgh EDI U2239
+2019-04-23;12:44;Denmark;Scotland;37;28/04/19;Ryanair;1;11.53;11:25;London STNLondon (Stansted) STN;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-23;12:44;Denmark;Scotland;37;28/04/19;Ryanair;1;11.53;15 Co;enhagen CPH;14:05;Aarhus AAR FR712
+2019-04-23;12:44;Denmark;Scotland;37;02/05/19;Ryanair;1;5.22;16:05;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Scotland;37;28/04/19;easyJet;1;24.48;18:45;Edinburgh EDI;21:35;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;37;28/04/19;Ryanair;1;11.53;30 Aa;hus AAR;21:35;Copenhagen CPH FR2674
+2019-04-23;12:44;Denmark;Scotland;37;02/05/19;Ryanair;1;11.53;19:55;London STNLondon (Stansted) STN;15:10;London STNLondon (Stansted) STN FR713
+2019-04-23;12:44;Denmark;Scotland;37;13/06/19;Ryanair;1;5.22;06:50;Edinburgh EDI;14:05;Aarhus AAR
+2019-04-23;12:44;Denmark;Scotland;37;13/06/19;easyJet;1;24.48;11:25;London STNLondon (Stansted) STN;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-23;12:44;Denmark;Scotland;37;19/06/19;Ryanair;1;11.53;14:30;Aarhus AAR;17:20;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;37;11/06/19;Ryanair;1;11.53;50 Ed;nburgh EDI;17:20;Edinburgh EDI U2237
+2019-04-23;12:44;Denmark;Scotland;37;11/06/19;Ryanair;1;14.60;06:50;Edinburgh EDI;14:05;Aarhus AAR
+2019-04-23;12:44;Denmark;Scotland;37;19/06/19;easyJet;1;20.99;30 Aa;hus AAR;14:05;Aarhus AAR FR712
+2019-04-23;12:44;Denmark;Scotland;37;21/05/19;Ryanair;1;17.29;20:05;London STNLondon (Stansted) STN;15:10;London STNLondon (Stansted) STN FR713
+2019-04-23;12:44;Denmark;Scotland;37;21/05/19;Ryanair;1;9.78;25 Ed;nburgh EDI;21:25;Edinburgh EDI FR8887
+2019-04-23;12:44;Denmark;Scotland;37;28/05/19;easyJet;1;19.82;11:25;London STNLondon (Stansted) STN;07:55;London STNLondon (Stansted) STN U2232
+2019-04-23;12:44;Denmark;Scotland;37;13/06/19;Ryanair;1;12.54;08:55;Billund BLL;15:35;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;37;13/06/19;Ryanair;1;11.53;14:20;London STNLondon (Stansted) STN;09:30;London STNLondon (Stansted) STN FR9770
+2019-04-23;12:44;Denmark;Scotland;37;19/06/19;Ryanair;1;9.78;15:15;Edinburgh EDI;17:50;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;37;05/06/19;easyJet;1;19.82;08:55;Billund BLL;17:45;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;37;05/06/19;Ryanair;1;12.54;16:30;London STNLondon (Stansted) STN;09:30;London STNLondon (Stansted) STN FR9770
+2019-04-23;12:44;Denmark;Scotland;37;12/06/19;Ryanair;1;11.53;15:15;Edinburgh EDI;17:50;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;37;04/06/19;Ryanair;1;5.22;14:35;Copenhagen CPH;17:35;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;37;04/06/19;Ryanair;1;19.76;16:20;London LTNLondon (Luton) LTN;15:25;London LTNLondon (Luton) LTN FR7407
+2019-04-23;12:44;Denmark;Scotland;37;12/06/19;easyJet;1;17.49;18:45;Edinburgh EDI;21:35;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;37;05/05/19;Ryanair;1;11.53;07:15;Copenhagen CPH;11:40;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;37;05/05/19;Ryanair;1;5.22;10:25;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Scotland;37;09/05/19;easyJet;1;33.80;18:45;Edinburgh EDI;21:35;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;37;01/10/19;Ryanair;1;14.99;14:30;Aarhus AAR;17:20;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;37;01/10/19;Ryanair;1;5.22;16:05;London STNLondon (Stansted) STN;15:10;London STNLondon (Stansted) STN FR713
+2019-04-23;12:44;Denmark;Scotland;37;09/10/19;easyJet;1;33.80;06:50;Edinburgh EDI;14:05;Aarhus AAR
+2019-04-23;12:44;Denmark;Scotland;37;08/05/19;Ryanair;1;14.99;15 Co;enhagen CPH;14:05;Aarhus AAR FR712
+2019-04-23;12:44;Denmark;Scotland;37;08/05/19;Ryanair;1;14.60;07:15;Copenhagen CPH;11:40;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;37;16/05/19;easyJet;1;22.15;45 Ed;nburgh EDI;11:40;Edinburgh EDI U2233
+2019-04-23;12:44;Denmark;Scotland;37;08/05/19;Ryanair;1;17.29;15 Co;enhagen CPH;21:35;Copenhagen CPH FR2674
+2019-04-23;12:44;Denmark;Scotland;37;08/05/19;Ryanair;1;14.60;07:15;Copenhagen CPH;11:40;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;37;16/05/19;easyJet;1;22.15;45 Ed;nburgh EDI;11:40;Edinburgh EDI U2233
+2019-04-23;12:44;Denmark;Scotland;37;15/05/19;Ryanair;1;17.29;15 Co;enhagen CPH;21:35;Copenhagen CPH FR2674
+2019-04-23;12:44;Denmark;Scotland;37;15/05/19;Ryanair;1;9.78;07:15;Copenhagen CPH;11:40;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;37;23/05/19;easyJet;1;20.99;45 Ed;nburgh EDI;11:40;Edinburgh EDI U2233
+2019-04-23;12:44;Denmark;Scotland;37;02/05/19;Ryanair;1;12.54;30 Aa;hus AAR;21:35;Copenhagen CPH FR2674
+2019-04-23;12:44;Denmark;Scotland;37;02/05/19;Ryanair;1;11.53;14:30;Aarhus AAR;22:10;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;37;08/05/19;Ryanair;1;14.60;00 Ed;nburgh EDI;22:10;Edinburgh EDI U2241
+2019-04-23;12:44;Denmark;Scotland;37;30/04/19;easyJet;1;24.48;11:30;London STNLondon (Stansted) STN;08:30;London STNLondon (Stansted) STN U2232
+2019-04-23;12:44;Denmark;Scotland;37;30/04/19;Ryanair;1;17.29;45 Co;enhagen CPH;14:10;Aarhus AAR FR712
+2019-04-23;12:44;Denmark;Scotland;37;08/05/19;Ryanair;1;14.60;18:15;Milan MXPMilan (Malpensa) MXP;11:50;Milan MXPMilan (Malpensa) MXP U22654
+2019-04-23;12:44;Denmark;Scotland;37;25/06/19;easyJet;1;24.48;18:45;Edinburgh EDI;21:35;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;37;25/06/19;Ryanair;1;17.29;20 Bi;lund BLL;21:35;Copenhagen CPH FR2674
+2019-04-23;12:44;Denmark;Scotland;37;01/07/19;Ryanair;1;14.60;20:55;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Scotland;37;25/06/19;easyJet;1;24.48;15:15;Edinburgh EDI;17:50;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;37;25/06/19;Ryanair;1;17.29;20 Bi;lund BLL;17:50;Billund BLL FR2320
+2019-04-23;12:44;Denmark;Scotland;37;03/07/19;Ryanair;1;5.22;16:05;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Scotland;37;25/06/19;easyJet;1;22.15;15:15;Edinburgh EDI;17:50;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;37;25/06/19;easyJet;1;17.49;20 Bi;lund BLL;17:50;Billund BLL FR2320
+2019-04-23;12:44;Denmark;Scotland;37;01/07/19;Ryanair;1;11.53;16:05;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Scotland;37;22/05/19;easyJet;1;17.63;15:15;Edinburgh EDI;17:50;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;37;22/05/19;easyJet;1;16.26;35 Aa;hus AAR;17:50;Billund BLL FR2320
+2019-04-23;12:44;Denmark;Scotland;37;30/05/19;Ryanair;1;23.06;16:05;London STNLondon (Stansted) STN;15:15;London STNLondon (Stansted) STN FR713
+2019-04-23;12:44;Denmark;Scotland;37;15/05/19;Ryanair;1;12.86;06:50;Edinburgh EDI;14:05;Aarhus AAR
+2019-04-23;12:44;Denmark;Scotland;37;15/05/19;easyJet;1;19.82;11:25;London STNLondon (Stansted) STN;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-23;12:44;Denmark;Scotland;37;23/05/19;Ryanair;1;24.47;14:30;Aarhus AAR;17:50;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;37;07/05/19;Ryanair;1;12.86;25 Ed;nburgh EDI;17:50;Edinburgh EDI FR2685
+2019-04-23;12:44;Denmark;Scotland;37;07/05/19;easyJet;1;19.82;06:25;Edinburgh EDI;14:05;Aarhus AAR
+2019-04-23;12:44;Denmark;Scotland;37;14/05/19;Ryanair;1;24.47;30 Co;enhagen CPH;14:05;Aarhus AAR FR712
+2019-04-23;12:44;Denmark;Scotland;37;08/05/19;Ryanair;1;12.86;19:55;London STNLondon (Stansted) STN;18:25;London STNLondon (Stansted) STN FR7381
+2019-04-23;12:44;Denmark;Scotland;37;08/05/19;easyJet;1;19.82;45 Ed;nburgh EDI;21:10;Edinburgh EDI U2239
+2019-04-23;12:44;Denmark;Scotland;37;16/05/19;Ryanair;1;24.47;15 Co;enhagen CPH;21:35;Copenhagen CPH FR2674
+2019-04-23;12:44;Denmark;Scotland;37;08/05/19;Ryanair;1;5.22;19:55;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Scotland;37;08/05/19;easyJet;1;29.14;45 Ed;nburgh EDI;21:10;Edinburgh EDI U2239
+2019-04-23;12:44;Denmark;Scotland;37;15/05/19;Ryanair;1;11.53;15 Co;enhagen CPH;21:35;Copenhagen CPH FR2674
+2019-04-23;12:44;Denmark;Scotland;37;15/05/19;Ryanair;1;11.53;19:55;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Scotland;37;15/05/19;Ryanair;1;5.22;45 Ed;nburgh EDI;21:10;Edinburgh EDI U2239
+2019-04-23;12:44;Denmark;Scotland;37;22/05/19;Ryanair;1;23.52;20 Bi;lund BLL;21:35;Copenhagen CPH FR2674
+2019-04-23;12:44;Denmark;Scotland;37;15/05/19;easyJet;1;17.49;20:55;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Scotland;37;15/05/19;Ryanair;1;11.53;15 Ed;nburgh EDI;22:10;Edinburgh EDI U2241
+2019-04-23;12:44;Denmark;Scotland;37;23/05/19;Ryanair;1;14.60;20 Bi;lund BLL;17:50;Billund BLL FR2320
+2019-04-23;12:44;Denmark;Scotland;37;15/05/19;easyJet;1;20.99;20:55;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Scotland;37;15/05/19;Ryanair;1;22.35;15 Ed;nburgh EDI;22:10;Edinburgh EDI U2241
+2019-04-23;12:44;Denmark;Scotland;37;23/05/19;Ryanair;1;14.60;30 Aa;hus AAR;17:50;Billund BLL FR2320
+2019-04-23;12:44;Denmark;Scotland;37;15/05/19;easyJet;1;20.99;20:05;London STNLondon (Stansted) STN;15:10;London STNLondon (Stansted) STN FR713
+2019-04-23;12:44;Denmark;Scotland;37;15/05/19;Ryanair;1;22.35;00 Ed;nburgh EDI;21:25;Edinburgh EDI FR8887
+2019-04-23;12:44;Denmark;Scotland;37;23/05/19;Ryanair;1;14.60;11:25;London STNLondon (Stansted) STN;08:30;London STNLondon (Stansted) STN U2232
+2019-04-23;12:44;Denmark;Scotland;37;15/05/19;easyJet;1;20.99;14:30;Aarhus AAR;17:50;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;37;15/05/19;Ryanair;1;22.35;16:30;London STNLondon (Stansted) STN;15:10;London STNLondon (Stansted) STN FR713
+2019-04-23;12:44;Denmark;Scotland;37;22/05/19;Ryanair;1;12.86;07:00;Edinburgh EDI;14:10;Aarhus AAR
+2019-04-23;12:44;Denmark;Scotland;37;05/05/19;easyJet;1;30.31;30 Aa;hus AAR;14:10;Aarhus AAR FR712
+2019-04-23;12:44;Denmark;Scotland;37;05/05/19;Ryanair;1;14.99;14:30;Aarhus AAR;17:50;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;37;09/05/19;Ryanair;1;12.86;25 Ed;nburgh EDI;17:50;Edinburgh EDI FR2685
+2019-04-23;12:44;Denmark;Scotland;37;05/05/19;easyJet;1;20.99;11:25;London STNLondon (Stansted) STN;07:55;London STNLondon (Stansted) STN U2232
+2019-04-23;12:44;Denmark;Scotland;37;05/05/19;Ryanair;1;24.47;20 Bi;lund BLL;14:05;Aarhus AAR FR712
+2019-04-23;12:44;Denmark;Scotland;37;09/05/19;Ryanair;1;9.78;16:05;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Scotland;37;05/05/19;Ryanair;1;19.76;10:40;Edinburgh EDI;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;37;05/05/19;easyJet;1;17.49;19:35;London STNLondon (Stansted) STN;12:05;London STNLondon (Stansted) STN FR8884
+2019-04-23;12:44;Denmark;Scotland;37;09/05/19;Ryanair;1;11.53;10:20;Billund BLL;17:20;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;37;21/05/19;Ryanair;1;9.78;40 Ed;nburgh EDI;17:20;Edinburgh EDI U2237
+2019-04-23;12:44;Denmark;Scotland;37;21/05/19;Ryanair;1;19.76;10:40;Edinburgh EDI;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;37;28/05/19;easyJet;1;17.49;20 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Scotland;37;22/05/19;Ryanair;1;11.53;16:05;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Scotland;37;22/05/19;Ryanair;1;9.78;30 Ed;nburgh EDI;17:20;Edinburgh EDI U2237
+2019-04-23;12:44;Denmark;Scotland;37;28/05/19;Ryanair;1;19.76;19:35;London STNLondon (Stansted) STN;16:05;London STNLondon (Stansted) STN FR2684
+2019-04-23;12:44;Denmark;Scotland;37;15/05/19;easyJet;1;17.49;10:20;Billund BLL;17:20;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;37;15/05/19;Ryanair;1;11.53;16:05;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Scotland;37;23/05/19;Ryanair;1;12.86;06:50;Edinburgh EDI;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;37;08/05/19;easyJet;1;19.82;20 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Scotland;37;08/05/19;Ryanair;1;11.53;10:20;Billund BLL;17:20;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;37;15/05/19;Ryanair;1;14.99;50 Ed;nburgh EDI;17:20;Edinburgh EDI U2237
+2019-04-23;12:44;Denmark;Scotland;37;14/05/19;Ryanair;1;12.86;19:35;London STNLondon (Stansted) STN;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-23;12:44;Denmark;Scotland;37;14/05/19;easyJet;1;19.82;55 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Scotland;37;22/05/19;Ryanair;1;11.53;20:55;London STNLondon (Stansted) STN;09:30;London STNLondon (Stansted) STN FR9770
+2019-04-23;12:44;Denmark;Scotland;37;14/05/19;Ryanair;1;14.99;12:10;Edinburgh EDI;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;37;14/05/19;Ryanair;1;12.86;19:35;London STNLondon (Stansted) STN;13:35;London STNLondon (Stansted) STN U2234
+2019-04-23;12:44;Denmark;Scotland;37;22/05/19;easyJet;1;19.82;08:55;Billund BLL;22:10;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;37;14/05/19;Ryanair;1;11.53;00 Ed;nburgh EDI;22:10;Edinburgh EDI U2241
+2019-04-23;12:44;Denmark;Scotland;37;14/05/19;Ryanair;1;14.99;07:00;Edinburgh EDI;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;37;22/05/19;Ryanair;1;12.86;55 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Scotland;37;14/05/19;easyJet;1;19.82;20:55;London STNLondon (Stansted) STN;09:30;London STNLondon (Stansted) STN FR9770
+2019-04-23;12:44;Denmark;Scotland;37;14/05/19;Ryanair;1;11.53;20 Ed;nburgh EDI;22:10;Edinburgh EDI U2241
+2019-04-23;12:44;Denmark;Scotland;37;22/05/19;Ryanair;1;14.99;19:35;London STNLondon (Stansted) STN;15:40;London STNLondon (Stansted) STN U2238
+2019-04-23;12:44;Denmark;Scotland;37;12/05/19;Ryanair;1;12.86;10:20;Billund BLL;21:10;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;37;12/05/19;easyJet;1;19.82;19:55;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Scotland;37;16/05/19;Ryanair;1;11.53;06:50;Edinburgh EDI;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;37;14/05/19;Ryanair;1;14.99;20 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Scotland;37;14/05/19;Ryanair;1;5.22;10:20;Billund BLL;17:20;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;37;22/05/19;easyJet;1;22.15;50 Ed;nburgh EDI;17:20;Edinburgh EDI U2237
+2019-04-23;12:44;Denmark;Scotland;37;14/05/19;easyJet;1;17.49;19:35;London STNLondon (Stansted) STN;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-23;12:44;Denmark;Scotland;37;14/05/19;Ryanair;1;14.99;20 Bi;lund BLL;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Scotland;37;22/05/19;Ryanair;1;5.22;20:55;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Scotland;37;14/05/19;easyJet;1;22.15;14:30;Edinburgh EDI;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;37;14/05/19;easyJet;1;17.49;19:35;London STNLondon (Stansted) STN;16:05;London STNLondon (Stansted) STN FR2684
+2019-04-23;12:44;Denmark;Scotland;37;22/05/19;Ryanair;1;14.99;14:30;Aarhus AAR;18:45;Glasgow GLA
+2019-04-23;12:44;Denmark;Scotland;37;14/05/19;Ryanair;1;5.22;00 Gl;sgow GLA;18:45;Glasgow GLA U2211
+2019-04-23;12:44;Denmark;Scotland;37;14/05/19;easyJet;1;22.15;07:00;Glasgow GLA;14:05;Aarhus AAR
+2019-04-23;12:44;Denmark;Scotland;37;22/05/19;easyJet;1;17.49;50 Co;enhagen CPH;14:05;Aarhus AAR FR712
+2019-04-23;12:44;Denmark;Scotland;37;08/05/19;Ryanair;1;14.99;15:50;London LGWLondon (Gatwick) LGW;11:55;London LGWLondon (Gatwick) LGW U28266
+2019-04-23;12:44;Denmark;Scotland;37;08/05/19;Ryanair;1;12.86;40 Ed;nburgh EDI;17:25;Edinburgh EDI U2809
+2019-04-23;12:44;Denmark;Scotland;37;15/05/19;easyJet;1;19.82;19:00;London STNLondon (Stansted) STN;12:05;London STNLondon (Stansted) STN FR8884
+2019-04-23;12:44;Denmark;Scotland;37;12/05/19;Ryanair;1;12.54;10:50;Copenhagen CPH;17:25;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;37;12/05/19;Ryanair;1;14.99;15:50;London LGWLondon (Gatwick) LGW;11:55;London LGWLondon (Gatwick) LGW U28266
+2019-04-23;12:44;Denmark;Scotland;37;16/05/19;Ryanair;1;12.86;06:50;Edinburgh EDI;16:55;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;37;05/05/19;easyJet;1;19.82;50 Co;enhagen CPH;16:55;Copenhagen CPH FR7382
+2019-04-23;12:44;Denmark;Scotland;37;05/05/19;Ryanair;1;12.54;10:50;Copenhagen CPH;17:25;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;37;09/05/19;Ryanair;1;14.99;50 Ed;nburgh EDI;17:25;Edinburgh EDI U2809
+2019-04-23;12:44;Denmark;Scotland;37;12/05/19;Ryanair;1;12.86;19:00;London STNLondon (Stansted) STN;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-23;12:44;Denmark;Scotland;37;12/05/19;easyJet;1;20.99;50 Co;enhagen CPH;21:45;Copenhagen CPH FR7386
+2019-04-23;12:44;Denmark;Scotland;37;16/05/19;Ryanair;1;11.53;15:50;London LGWLondon (Gatwick) LGW;11:55;London LGWLondon (Gatwick) LGW U28266
+2019-04-23;12:44;Denmark;Scotland;37;07/05/19;Ryanair;1;14.99;10:40;Edinburgh EDI;16:55;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;37;07/05/19;Ryanair;1;9.78;14:10;London STNLondon (Stansted) STN;12:05;London STNLondon (Stansted) STN FR8884
+2019-04-23;12:44;Denmark;Scotland;37;15/05/19;easyJet;1;19.82;10:55;Aalborg AAL;22:10;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;37;12/05/19;easyJet;1;19.82;00 Ed;nburgh EDI;22:10;Edinburgh EDI U2241
+2019-04-23;12:44;Denmark;Scotland;37;12/05/19;Ryanair;1;11.53;07:00;Edinburgh EDI;15:10;Aalborg AAL
+2019-04-23;12:44;Denmark;Scotland;37;16/05/19;easyJet;1;10.19;15 Co;enhagen CPH;15:10;Aalborg AAL FR1251
+2019-04-23;12:44;Denmark;Scotland;37;05/05/19;easyJet;1;22.15;10:25;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Scotland;37;05/05/19;Ryanair;1;11.53;40 Ed;nburgh EDI;11:40;Edinburgh EDI U2233
+2019-04-23;12:44;Denmark;Scotland;37;09/05/19;Ryanair;1;17.29;14:10;London STNLondon (Stansted) STN;12:05;London STNLondon (Stansted) STN FR8884
+2019-04-23;12:44;Denmark;Scotland;37;14/05/19;easyJet;1;10.19;07:15;Copenhagen CPH;11:40;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;37;14/05/19;easyJet;1;22.15;10:25;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Scotland;37;21/05/19;Ryanair;1;11.53;10:40;Edinburgh EDI;21:45;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;37;08/05/19;Ryanair;1;17.29;15 Co;enhagen CPH;21:45;Copenhagen CPH FR7386
+2019-04-23;12:44;Denmark;Scotland;37;08/05/19;easyJet;1;10.19;07:15;Copenhagen CPH;17:20;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;37;15/05/19;easyJet;1;22.15;40 Ed;nburgh EDI;17:20;Edinburgh EDI U2237
+2019-04-23;12:44;Denmark;Scotland;37;14/05/19;Ryanair;1;11.53;19:00;London STNLondon (Stansted) STN;12:05;London STNLondon (Stansted) STN FR8884
+2019-04-23;12:44;Denmark;Scotland;37;14/05/19;Ryanair;1;17.29;15 Co;enhagen CPH;21:45;Copenhagen CPH FR7386
+2019-04-23;12:44;Denmark;Scotland;37;21/05/19;easyJet;1;10.19;19:55;London STNLondon (Stansted) STN;08:15;London STNLondon (Stansted) STN FR7383
+2019-04-23;12:44;Denmark;Scotland;37;12/05/19;easyJet;1;22.15;10:40;Edinburgh EDI;16:55;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;37;12/05/19;Ryanair;1;11.53;14:10;London STNLondon (Stansted) STN;12:05;London STNLondon (Stansted) STN FR8884
+2019-04-23;12:44;Denmark;Scotland;37;16/05/19;Ryanair;1;17.29;14:30;Aarhus AAR;22:05;Glasgow GLA
+2019-04-23;12:44;Denmark;Scotland;37;14/05/19;Ryanair;1;12.86;00 Gl;sgow GLA;22:05;Glasgow GLA U2215
+2019-04-23;12:44;Denmark;Scotland;37;14/05/19;easyJet;1;19.82;07:00;Glasgow GLA;14:05;Aarhus AAR
+2019-04-23;12:44;Denmark;Scotland;37;21/05/19;easyJet;1;17.49;55 Aa;borg AAL;14:05;Aarhus AAR FR712
+2019-04-23;12:44;Denmark;Scotland;37;08/05/19;Ryanair;1;11.53;20:55;London STNLondon (Stansted) STN;11:40;London STNLondon (Stansted) STN FR1252
+2019-04-23;12:44;Denmark;Scotland;37;08/05/19;Ryanair;1;14.60;50 Ed;nburgh EDI;22:10;Edinburgh EDI U2241
+2019-04-23;12:44;Denmark;Scotland;37;15/05/19;easyJet;1;19.82;12:35;London STNLondon (Stansted) STN;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-23;12:44;Denmark;Scotland;37;21/05/19;Ryanair;1;11.53;10:55;Aalborg AAL;22:10;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;37;21/05/19;Ryanair;1;17.29;20:55;London STNLondon (Stansted) STN;11:40;London STNLondon (Stansted) STN FR1252
+2019-04-23;12:44;Denmark;Scotland;37;29/05/19;Ryanair;1;14.60;07:00;Edinburgh EDI;15:10;Aalborg AAL
+2019-04-23;12:44;Denmark;Scotland;37;12/05/19;easyJet;1;19.82;55 Aa;borg AAL;15:10;Aalborg AAL FR1251
+2019-04-23;12:44;Denmark;Scotland;37;12/05/19;Ryanair;1;11.53;10:55;Aalborg AAL;15:35;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;37;16/05/19;Ryanair;1;17.29;00 Ed;nburgh EDI;15:35;Edinburgh EDI U2233
+2019-04-23;12:44;Denmark;Scotland;37;07/09/19;Ryanair;1;14.60;12:35;London STNLondon (Stansted) STN;08:30;London STNLondon (Stansted) STN U2232
+2019-04-23;12:44;Denmark;Scotland;37;07/09/19;easyJet;1;19.82;30 Aa;hus AAR;15:10;Aalborg AAL FR1251
+2019-04-23;12:44;Denmark;Scotland;37;11/09/19;Ryanair;1;11.53;20:50;London STNLondon (Stansted) STN;15:10;London STNLondon (Stansted) STN FR713
+2019-04-23;12:44;Denmark;Scotland;37;08/05/19;Ryanair;1;17.29;07:00;Glasgow GLA;14:05;Aarhus AAR
+2019-04-23;12:44;Denmark;Scotland;37;08/05/19;Ryanair;1;14.60;11:25;London STNLondon (Stansted) STN;08:25;London STNLondon (Stansted) STN U2206
+2019-04-23;12:44;Denmark;Scotland;37;15/05/19;easyJet;1;19.82;10:55;Aalborg AAL;15:35;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;37;12/05/19;Ryanair;1;11.53;50 Ed;nburgh EDI;15:35;Edinburgh EDI U2233
+2019-04-23;12:44;Denmark;Scotland;37;12/05/19;Ryanair;1;17.29;06:50;Edinburgh EDI;15:10;Aalborg AAL
+2019-04-23;12:44;Denmark;Scotland;37;16/05/19;Ryanair;1;9.78;55 Aa;borg AAL;15:10;Aalborg AAL FR1251
+2019-04-23;12:44;Denmark;Scotland;37;13/05/19;easyJet;1;22.15;20:55;London STNLondon (Stansted) STN;11:40;London STNLondon (Stansted) STN FR1252
+2019-04-23;12:44;Denmark;Scotland;37;13/05/19;easyJet;1;19.82;50 Ed;nburgh EDI;22:10;Edinburgh EDI U2241
+2019-04-23;12:44;Denmark;Scotland;37;21/05/19;Ryanair;1;11.53;12:35;London STNLondon (Stansted) STN;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-23;12:44;Denmark;Scotland;37;07/05/19;Ryanair;1;12.86;17:25;Copenhagen CPH;22:10;Inverness INV
+2019-04-23;12:44;Denmark;Scotland;37;07/05/19;easyJet;1;19.82;20:30;London LGWLondon (Gatwick) LGW;18:30;London LGWLondon (Gatwick) LGW U28268
+2019-04-23;12:44;Denmark;Scotland;37;15/05/19;Ryanair;1;19.76;07:00;Inverness INV;20:30;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;37;04/06/19;Ryanair;1;11.53;25 Co;enhagen CPH;20:30;Copenhagen CPH U28269
+2019-04-23;12:44;Denmark;Scotland;37;04/06/19;Ryanair;1;12.86;17:25;Copenhagen CPH;22:10;Inverness INV
+2019-04-23;12:44;Denmark;Scotland;37;12/06/19;easyJet;1;22.15;00 In;erness INV;22:10;Inverness INV U2867
+2019-04-23;12:44;Denmark;Scotland;37;04/06/19;easyJet;1;17.49;17:35;London LGWLondon (Gatwick) LGW;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-23;12:44;Denmark;Scotland;37;04/06/19;Ryanair;1;11.53;50 Co;enhagen CPH;20:30;Copenhagen CPH U28269
+2019-04-23;12:44;Denmark;Scotland;37;12/06/19;Ryanair;1;12.86;20:30;London LGWLondon (Gatwick) LGW;11:55;London LGWLondon (Gatwick) LGW U28266
+2019-04-23;12:44;Denmark;Scotland;37;04/06/19;easyJet;1;22.15;07:00;Inverness INV;20:30;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;37;04/06/19;easyJet;1;17.49;17:35;London LGWLondon (Gatwick) LGW;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-23;12:44;Denmark;Scotland;37;12/06/19;Ryanair;1;11.53;10:55;Aalborg AAL;17:45;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;37;08/05/19;Ryanair;1;9.78;00 Ed;nburgh EDI;17:45;Edinburgh EDI U2237
+2019-04-23;12:44;Denmark;Scotland;37;08/05/19;easyJet;1;24.48;07:00;Edinburgh EDI;15:10;Aalborg AAL
+2019-04-23;12:44;Denmark;Scotland;37;15/05/19;easyJet;1;19.82;30 Aa;hus AAR;15:10;Aalborg AAL FR1251
+2019-04-23;12:44;Denmark;Scotland;37;08/05/19;Ryanair;1;11.53;20:50;London STNLondon (Stansted) STN;15:10;London STNLondon (Stansted) STN FR713
+2019-04-23;12:44;Denmark;Scotland;37;08/05/19;Ryanair;1;12.86;00 Gl;sgow GLA;22:05;Glasgow GLA U2215
+2019-04-23;12:44;Denmark;Scotland;37;15/05/19;easyJet;1;22.15;11:25;London STNLondon (Stansted) STN;08:25;London STNLondon (Stansted) STN U2206
+2019-04-23;12:44;Denmark;Scotland;37;08/05/19;Ryanair;1;19.76;10:20;Billund BLL;18:45;Glasgow GLA
+2019-04-23;12:44;Denmark;Scotland;37;08/05/19;Ryanair;1;11.53;17:30;London STNLondon (Stansted) STN;10:55;London STNLondon (Stansted) STN FR5173
+2019-04-23;12:44;Denmark;Scotland;37;15/05/19;Ryanair;1;12.86;07:00;Glasgow GLA;22:10;Billund BLL
+2019-04-23;12:44;Denmark;Scotland;37;08/05/19;easyJet;1;22.15;30 Aa;hus AAR;22:10;Billund BLL FR5178
+2019-04-23;12:44;Denmark;Scotland;37;08/05/19;Ryanair;1;19.76;14:30;Aarhus AAR;22:05;Glasgow GLA
+2019-04-23;12:44;Denmark;Scotland;37;16/05/19;Ryanair;1;11.53;00 Gl;sgow GLA;22:05;Glasgow GLA U2215
+2019-04-23;12:44;Denmark;Scotland;37;21/05/19;easyJet;1;10.19;11:25;London STNLondon (Stansted) STN;08:25;London STNLondon (Stansted) STN U2206
+2019-04-23;12:44;Denmark;Scotland;37;21/05/19;easyJet;1;26.81;55 Aa;borg AAL;14:05;Aarhus AAR FR712
+2019-04-23;12:44;Denmark;Scotland;37;29/05/19;easyJet;1;4.82;21:25;London STNLondon (Stansted) STN;11:40;London STNLondon (Stansted) STN FR1252
+2019-04-23;12:44;Denmark;Scotland;37;14/05/19;easyJet;1;24.48;07:00;Edinburgh EDI;15:10;Aalborg AAL
+2019-04-23;12:44;Denmark;Scotland;37;14/05/19;easyJet;1;10.19;12:35;London STNLondon (Stansted) STN;08:30;London STNLondon (Stansted) STN U2232
+2019-04-23;12:44;Denmark;Scotland;37;21/05/19;easyJet;1;26.81;14:35;Copenhagen CPH;20:25;Inverness INV
+2019-04-23;12:44;Denmark;Scotland;37;05/05/19;easyJet;1;7.15;00 In;erness INV;20:25;Inverness INV U2155
+2019-04-23;12:44;Denmark;Scotland;37;05/05/19;easyJet;1;22.15;07:00;Inverness INV;20:30;Copenhagen CPH
+2019-04-23;12:44;Denmark;Scotland;37;09/05/19;easyJet;1;10.19;25 Co;enhagen CPH;20:30;Copenhagen CPH U28269
+2019-04-23;12:44;Denmark;Scotland;37;28/04/19;easyJet;1;26.81;20:30;London LGWLondon (Gatwick) LGW;18:30;London LGWLondon (Gatwick) LGW U28268
+2019-04-23;12:44;Denmark;Scotland;37;28/04/19;easyJet;1;4.82;00 In;erness INV;22:10;Inverness INV U2867
+2019-04-23;12:44;Denmark;Scotland;37;02/05/19;easyJet;1;24.48;14:00;London LGWLondon (Gatwick) LGW;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-23;12:44;Denmark;Scotland;37;08/05/19;Ryanair;1;12.86;10:55;Aalborg AAL;17:45;Edinburgh EDI
+2019-04-23;12:44;Denmark;Scotland;37;08/05/19;easyJet;1;24.48;16:30;London STNLondon (Stansted) STN;11:40;London STNLondon (Stansted) STN FR1252
+2019-04-23;12:44;Denmark;Scotland;37;15/05/19;easyJet;1;17.49;06:50;Edinburgh EDI;15:10;Aalborg AAL
+2019-04-23;12:44;Denmark;Scotland;37;08/05/19;Ryanair;1;11.53;25 Aa;hus AAR;15:10;Aalborg AAL FR1251
+2019-04-23;12:44;Denmark;Scotland;37;08/05/19;Ryanair;1;9.78;14:25;Aarhus AAR;22:40;Glasgow GLA
+2019-04-23;12:44;Denmark;Scotland;37;14/05/19;easyJet;1;20.99;00 Gl;sgow GLA;22:40;Glasgow GLA U2215
