@@ -1,0 +1,6 @@
+Wrzuciłem plik z takim pierwszym kodem, nie jest testowany w żaden sposób. Robiłem na podstawie kolumn w dataframie.
+Generalnie jest szansa, żeby to działało moim zdaniem.
+Zrobiłem:
+- Dowolne filtrowanie (no prawie dowolne, jeszcze to będzie trzeba lekko zmodyfikować). Jest plik json, w którym ustala się parametry filtrowania i na podstawie tego można filtrować w sparku pliki. Prawie, bo jest to filtr typu "equal", w przyszłości postaram się dodać, żeby można było porównywać zmienne ilościowe. Ta rzecz wydaje mi się, że może nam się przydać w takiej finalnej wersji projektu, jako takie narzędzie do bardziej złożonych zapytań.
+- Szukanie najmniejszej ceny podróży na danej trasie (kraj-kraj) (w obie strony, w jedną jest dużo prościej) z podziałem na dni i pory. Jest to tak bardzo zgrubnie zrobione, nie dopieszczałem tego, bo to zależy od tego jak nasze pliki będą wyglądać i wydało mi się bezsensowne robienie tutaj więcej.
+- Szukanie średnich cen biletów na danej trasie (kraj-kraj) z podanym dniem wyprzedzenia kupna. Tzn. sprawdzam dzisiaj, a lecę za 8 dni. Tutaj jest zliczana średnia z tych wszystkich np. 8-śmio dniowych cen. Wyprzedzenie dotyczy daty wylotu, natomiast cena jest całościowa (całej podróży, w obie strony).
