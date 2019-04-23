@@ -1,0 +1,18 @@
+{
+    "Scrap_date": "2019-04-23",
+    "Scrap_time": "12:44",
+    "Country_from": "Denmark",
+    "Country_to": "Egypt",
+    "Flight_id": "2",
+    "Flight_date": "04/05/19",
+    "Airline": "Pegasus",
+    "Change": "0",
+    "Price": "72.00",
+    "There_back": "There",
+    "Depart_hour": "05:00",
+    "Journey_from": "Sharm El S SSH",
+    "Depart_from": "Sharm El S SSH",
+    "Arrival_hour": "14:50",
+    "Journey_to": "Copenhagen CPH",
+    "Arrive_to": "Copenhagen CPH"
+}

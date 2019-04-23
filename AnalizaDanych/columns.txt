@@ -1,0 +1,16 @@
+Scrap_date
+Scrap_time
+Country_from
+Country_to
+Flight_id
+Flight_date
+Airline
+Change
+Price
+There_back
+Depart_hour
+Journey_from
+Depart_from
+Arrival_hour
+Journey_to
+Arrive_to
