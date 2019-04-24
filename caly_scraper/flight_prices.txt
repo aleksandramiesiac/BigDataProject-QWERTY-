@@ -1,0 +1,709 @@
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;Ryanair;1;11.53;06:50;Edinburgh EDI;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;Ryanair;1;19.77;16:30;London STNLondon (Stansted) STN;17:50;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;29/05/19;Ryanair;1;11.53;10:40;Edinburgh EDI;12:05;London STNLondon (Stansted) STN FR8884
+2019-04-24;14:41;Scotland;Scotland;1;29/05/19;Ryanair;1;11.53;16:30;London STNLondon (Stansted) STN;17:50;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;Ryanair;1;11.53;06:50;Edinburgh EDI;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;Ryanair;1;19.77;12:30;London STNLondon (Stansted) STN;13:50;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;29/05/19;Ryanair;1;11.53;10:40;Edinburgh EDI;12:05;London STNLondon (Stansted) STN FR8884
+2019-04-24;14:41;Scotland;Scotland;1;29/05/19;Ryanair;1;11.53;16:30;London STNLondon (Stansted) STN;17:50;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;22/05/19;Ryanair;1;11.53;10:40;Edinburgh EDI;12:05;London STNLondon (Stansted) STN FR8884
+2019-04-24;14:41;Scotland;Scotland;1;22/05/19;Ryanair;1;19.77;16:30;London STNLondon (Stansted) STN;17:50;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;29/05/19;Ryanair;1;11.53;10:40;Edinburgh EDI;12:05;London STNLondon (Stansted) STN FR8884
+2019-04-24;14:41;Scotland;Scotland;1;29/05/19;Ryanair;1;11.53;16:30;London STNLondon (Stansted) STN;17:50;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;Ryanair;1;11.53;06:50;Edinburgh EDI;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;Ryanair;1;19.77;16:30;London STNLondon (Stansted) STN;17:50;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;29/05/19;Ryanair;1;11.53;10:40;Edinburgh EDI;12:05;London STNLondon (Stansted) STN FR8884
+2019-04-24;14:41;Scotland;Scotland;1;29/05/19;Ryanair;1;11.53;20:05;London STNLondon (Stansted) STN;21:25;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;Ryanair;1;11.53;06:50;Edinburgh EDI;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;Ryanair;1;19.77;16:30;London STNLondon (Stansted) STN;17:50;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;Ryanair;1;11.53;06:50;Edinburgh EDI;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;Ryanair;1;11.53;16:30;London STNLondon (Stansted) STN;17:50;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;Ryanair;1;11.53;06:50;Edinburgh EDI;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;Ryanair;1;19.77;12:30;London STNLondon (Stansted) STN;13:50;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;29/05/19;Ryanair;1;11.53;10:40;Edinburgh EDI;12:05;London STNLondon (Stansted) STN FR8884
+2019-04-24;14:41;Scotland;Scotland;1;29/05/19;Ryanair;1;11.53;20:05;London STNLondon (Stansted) STN;21:25;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;22/05/19;Ryanair;1;11.53;10:40;Edinburgh EDI;12:05;London STNLondon (Stansted) STN FR8884
+2019-04-24;14:41;Scotland;Scotland;1;22/05/19;Ryanair;1;19.77;16:30;London STNLondon (Stansted) STN;17:50;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;29/05/19;Ryanair;1;11.53;10:40;Edinburgh EDI;12:05;London STNLondon (Stansted) STN FR8884
+2019-04-24;14:41;Scotland;Scotland;1;29/05/19;Ryanair;1;11.53;20:05;London STNLondon (Stansted) STN;21:25;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;Ryanair;1;11.53;06:50;Edinburgh EDI;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;Ryanair;1;11.53;16:30;London STNLondon (Stansted) STN;17:50;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;Ryanair;1;11.53;06:50;Edinburgh EDI;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;Ryanair;1;19.77;16:30;London STNLondon (Stansted) STN;17:50;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;07/05/19;Ryanair;1;19.77;14:30;Edinburgh EDI;16:05;London STNLondon (Stansted) STN FR2684
+2019-04-24;14:41;Scotland;Scotland;1;07/05/19;Ryanair;1;11.53;20:05;London STNLondon (Stansted) STN;21:25;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;Ryanair;1;11.53;06:50;Edinburgh EDI;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;Ryanair;1;11.53;16:30;London STNLondon (Stansted) STN;17:50;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;Ryanair;1;11.53;06:50;Edinburgh EDI;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;Ryanair;1;11.53;16:30;London STNLondon (Stansted) STN;17:50;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;Ryanair;1;11.53;06:50;Edinburgh EDI;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;Ryanair;1;19.77;12:30;London STNLondon (Stansted) STN;13:50;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;22/05/19;Ryanair;1;11.53;10:40;Edinburgh EDI;12:05;London STNLondon (Stansted) STN FR8884
+2019-04-24;14:41;Scotland;Scotland;1;22/05/19;Ryanair;1;19.77;20:05;London STNLondon (Stansted) STN;21:25;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;29/05/19;Ryanair;1;11.53;10:40;Edinburgh EDI;12:05;London STNLondon (Stansted) STN FR8884
+2019-04-24;14:41;Scotland;Scotland;1;29/05/19;Ryanair;1;11.53;16:30;London STNLondon (Stansted) STN;17:50;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;22/05/19;Ryanair;1;11.53;10:40;Edinburgh EDI;12:05;London STNLondon (Stansted) STN FR8884
+2019-04-24;14:41;Scotland;Scotland;1;22/05/19;Ryanair;1;19.77;20:05;London STNLondon (Stansted) STN;21:25;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;29/05/19;Ryanair;1;11.53;10:40;Edinburgh EDI;12:05;London STNLondon (Stansted) STN FR8884
+2019-04-24;14:41;Scotland;Scotland;1;29/05/19;Ryanair;1;11.53;20:05;London STNLondon (Stansted) STN;21:25;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;Ryanair;1;11.53;06:50;Edinburgh EDI;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;Ryanair;1;11.53;16:30;London STNLondon (Stansted) STN;17:50;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;22/05/19;Ryanair;1;11.53;10:40;Edinburgh EDI;12:05;London STNLondon (Stansted) STN FR8884
+2019-04-24;14:41;Scotland;Scotland;1;22/05/19;Ryanair;1;19.77;16:30;London STNLondon (Stansted) STN;17:50;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;Ryanair;1;14.99;08:40;Glasgow GLA;09:40;Dublin DUB FR5771
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;Ryanair;1;12.99;14:00;Dublin DUB;15:00;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;22/05/19;Ryanair;1;14.99;15:25;Glasgow GLA;16:25;Dublin DUB FR5773
+2019-04-24;14:41;Scotland;Scotland;1;22/05/19;Ryanair;1;12.99;20:30;Dublin DUB;21:30;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;Ryanair;1;14.99;15:25;Glasgow GLA;16:25;Dublin DUB FR5773
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;Ryanair;1;12.99;20:30;Dublin DUB;21:30;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;16/05/19;Ryanair;1;14.99;08:40;Glasgow GLA;09:40;Dublin DUB FR5771
+2019-04-24;14:41;Scotland;Scotland;1;16/05/19;Ryanair;1;12.99;20:30;Dublin DUB;21:30;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;07/05/19;Ryanair;1;14.99;08:40;Glasgow GLA;09:40;Dublin DUB FR5771
+2019-04-24;14:41;Scotland;Scotland;1;07/05/19;Ryanair;1;12.99;20:30;Dublin DUB;21:30;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;Ryanair;1;14.99;15:25;Glasgow GLA;16:25;Dublin DUB FR5773
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;Ryanair;1;12.99;20:30;Dublin DUB;21:30;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;22/05/19;Ryanair;1;14.99;08:40;Glasgow GLA;09:40;Dublin DUB FR5771
+2019-04-24;14:41;Scotland;Scotland;1;22/05/19;Ryanair;1;12.99;20:30;Dublin DUB;21:30;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;29/05/19;Ryanair;1;14.99;15:25;Glasgow GLA;16:25;Dublin DUB FR5773
+2019-04-24;14:41;Scotland;Scotland;1;29/05/19;Ryanair;1;12.99;20:30;Dublin DUB;21:30;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;Ryanair;1;14.99;15:25;Glasgow GLA;16:25;Dublin DUB FR5773
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;Ryanair;1;12.99;20:30;Dublin DUB;21:30;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;22/05/19;Ryanair;1;14.99;08:40;Glasgow GLA;09:40;Dublin DUB FR5771
+2019-04-24;14:41;Scotland;Scotland;1;22/05/19;Ryanair;1;12.99;14:00;Dublin DUB;15:00;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;Ryanair;1;14.99;15:25;Glasgow GLA;16:25;Dublin DUB FR5773
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;Ryanair;1;12.99;20:30;Dublin DUB;21:30;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;Ryanair;1;14.99;08:40;Glasgow GLA;09:40;Dublin DUB FR5771
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;Ryanair;1;12.99;20:30;Dublin DUB;21:30;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;30/04/19;Ryanair;1;14.99;15:25;Glasgow GLA;16:25;Dublin DUB FR5773
+2019-04-24;14:41;Scotland;Scotland;1;30/04/19;Ryanair;1;12.99;20:30;Dublin DUB;21:30;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;Ryanair;1;14.99;08:40;Glasgow GLA;09:40;Dublin DUB FR5771
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;Ryanair;1;12.99;14:00;Dublin DUB;15:00;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;Ryanair;1;14.99;15:25;Glasgow GLA;16:25;Dublin DUB FR5773
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;Ryanair;1;12.99;20:30;Dublin DUB;21:30;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;22/05/19;Ryanair;1;14.99;15:25;Glasgow GLA;16:25;Dublin DUB FR5773
+2019-04-24;14:41;Scotland;Scotland;1;22/05/19;Ryanair;1;12.99;20:30;Dublin DUB;21:30;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;Ryanair;1;14.99;15:25;Glasgow GLA;16:25;Dublin DUB FR5773
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;Ryanair;1;12.99;20:30;Dublin DUB;21:30;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;22/05/19;Ryanair;1;14.99;08:40;Glasgow GLA;09:40;Dublin DUB FR5771
+2019-04-24;14:41;Scotland;Scotland;1;22/05/19;Ryanair;1;12.99;20:30;Dublin DUB;21:30;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;Ryanair;1;14.99;08:40;Glasgow GLA;09:40;Dublin DUB FR5771
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;Ryanair;1;12.99;20:30;Dublin DUB;21:30;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;22/05/19;Ryanair;1;14.99;08:40;Glasgow GLA;09:40;Dublin DUB FR5771
+2019-04-24;14:41;Scotland;Scotland;1;22/05/19;Ryanair;1;12.99;14:00;Dublin DUB;15:00;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;Ryanair;1;14.99;08:40;Glasgow GLA;09:40;Dublin DUB FR5771
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;Ryanair;1;12.99;14:00;Dublin DUB;15:00;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;22/05/19;Ryanair;1;14.99;08:40;Glasgow GLA;09:40;Dublin DUB FR5771
+2019-04-24;14:41;Scotland;Scotland;1;22/05/19;Ryanair;1;12.99;20:30;Dublin DUB;21:30;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;Ryanair;1;14.99;08:40;Glasgow GLA;09:40;Dublin DUB FR5771
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;Ryanair;1;12.99;20:30;Dublin DUB;21:30;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;Ryanair;1;14.99;08:40;Glasgow GLA;09:40;Dublin DUB FR5771
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;Ryanair;1;12.99;14:00;Dublin DUB;15:00;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;Ryanair;1;14.99;08:40;Glasgow GLA;09:40;Dublin DUB FR5771
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;Ryanair;1;12.99;20:30;Dublin DUB;21:30;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;28/05/19;Ryanair;1;14.99;15:25;Glasgow GLA;16:25;Dublin DUB FR5773
+2019-04-24;14:41;Scotland;Scotland;1;28/05/19;Ryanair;1;12.99;20:30;Dublin DUB;21:30;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;22/05/19;Ryanair;1;14.99;08:40;Glasgow GLA;09:40;Dublin DUB FR5771
+2019-04-24;14:41;Scotland;Scotland;1;22/05/19;Ryanair;1;12.99;20:30;Dublin DUB;21:30;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;29/05/19;Ryanair;1;14.99;08:40;Glasgow GLA;09:40;Dublin DUB FR5771
+2019-04-24;14:41;Scotland;Scotland;1;29/05/19;Ryanair;1;12.99;14:00;Dublin DUB;15:00;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;Ryanair;1;14.99;08:40;Glasgow GLA;09:40;Dublin DUB FR5771
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;Ryanair;1;12.99;20:30;Dublin DUB;21:30;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;28/05/19;Ryanair;1;14.99;08:40;Glasgow GLA;09:40;Dublin DUB FR5771
+2019-04-24;14:41;Scotland;Scotland;1;28/05/19;Ryanair;1;12.99;14:00;Dublin DUB;15:00;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;Ryanair;1;14.99;15:25;Glasgow GLA;16:25;Dublin DUB FR5773
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;Ryanair;1;12.99;20:30;Dublin DUB;21:30;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;28/05/19;Ryanair;1;14.99;15:25;Glasgow GLA;16:25;Dublin DUB FR5773
+2019-04-24;14:41;Scotland;Scotland;1;28/05/19;Ryanair;1;12.99;20:30;Dublin DUB;21:30;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;07/05/19;easyJet;1;17.50;14:20;Edinburgh EDI;15:40;London STNLondon (Stansted) STN U2238
+2019-04-24;14:41;Scotland;Scotland;1;07/05/19;Ryanair;1;11.53;20:05;London STNLondon (Stansted) STN;21:25;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;Ryanair;1;11.53;06:50;Edinburgh EDI;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;Ryanair;1;11.53;16:30;London STNLondon (Stansted) STN;17:50;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;17.50;06:25;Edinburgh EDI;07:55;London STNLondon (Stansted) STN U2232
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;Ryanair;1;11.53;08:55;London STNLondon (Stansted) STN;10:15;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;Ryanair;1;11.53;06:50;Edinburgh EDI;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;Ryanair;1;11.53;16:30;London STNLondon (Stansted) STN;17:50;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;07/05/19;easyJet;1;17.50;12:10;Edinburgh EDI;13:35;London STNLondon (Stansted) STN U2234
+2019-04-24;14:41;Scotland;Scotland;1;07/05/19;Ryanair;1;11.53;20:05;London STNLondon (Stansted) STN;21:25;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;Ryanair;1;11.53;06:50;Edinburgh EDI;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;Ryanair;1;11.53;16:30;London STNLondon (Stansted) STN;17:50;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;Ryanair;1;11.53;06:50;Edinburgh EDI;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;19.83;17:30;London STNLondon (Stansted) STN;18:45;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;easyJet;1;19.83;07:00;Glasgow GLA;08:25;London STNLondon (Stansted) STN U2206
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;Ryanair;1;11.53;16:30;London STNLondon (Stansted) STN;17:50;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;easyJet;1;19.83;07:00;Glasgow GLA;08:25;London STNLondon (Stansted) STN U2206
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;Ryanair;1;11.53;16:30;London STNLondon (Stansted) STN;17:50;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;Ryanair;1;11.53;06:50;Edinburgh EDI;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;easyJet;1;19.83;20:50;London STNLondon (Stansted) STN;22:05;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;Ryanair;1;11.53;06:50;Edinburgh EDI;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;19.83;17:30;London STNLondon (Stansted) STN;18:45;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;Ryanair;1;14.99;08:40;Glasgow GLA;09:40;Dublin DUB FR5771
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;Ryanair;1;17.99;12:35;Dublin DUB;13:45;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;Ryanair;1;14.99;08:40;Glasgow GLA;09:40;Dublin DUB FR5771
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;Ryanair;1;17.99;20:35;Dublin DUB;21:45;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;Ryanair;1;11.53;06:50;Edinburgh EDI;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;easyJet;1;19.83;20:50;London STNLondon (Stansted) STN;22:05;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;30/04/19;Ryanair;1;14.99;15:25;Glasgow GLA;16:25;Dublin DUB FR5773
+2019-04-24;14:41;Scotland;Scotland;1;30/04/19;Ryanair;1;17.99;20:25;Dublin DUB;21:35;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;Ryanair;1;11.53;06:50;Edinburgh EDI;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;19.83;17:30;London STNLondon (Stansted) STN;18:45;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;Ryanair;1;11.53;06:50;Edinburgh EDI;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;easyJet;1;19.83;20:50;London STNLondon (Stansted) STN;22:05;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;28/05/19;Ryanair;1;14.99;08:40;Glasgow GLA;09:40;Dublin DUB FR5771
+2019-04-24;14:41;Scotland;Scotland;1;28/05/19;Ryanair;1;17.99;20:25;Dublin DUB;21:35;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;Ryanair;1;11.53;06:50;Edinburgh EDI;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;19.83;17:30;London STNLondon (Stansted) STN;18:45;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;Ryanair;1;14.99;08:40;Glasgow GLA;09:40;Dublin DUB FR5771
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;Ryanair;1;17.99;20:35;Dublin DUB;21:45;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;Ryanair;1;11.53;06:50;Edinburgh EDI;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;easyJet;1;19.83;20:50;London STNLondon (Stansted) STN;22:05;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;29/05/19;Ryanair;1;14.99;15:25;Glasgow GLA;16:25;Dublin DUB FR5773
+2019-04-24;14:41;Scotland;Scotland;1;29/05/19;Ryanair;1;17.99;20:35;Dublin DUB;21:45;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;Ryanair;1;11.53;06:50;Edinburgh EDI;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;19.83;17:30;London STNLondon (Stansted) STN;18:45;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;Ryanair;1;14.99;08:40;Glasgow GLA;09:40;Dublin DUB FR5771
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;Ryanair;1;17.99;20:25;Dublin DUB;21:35;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;Ryanair;1;14.99;15:25;Glasgow GLA;16:25;Dublin DUB FR5773
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;Ryanair;1;17.99;20:25;Dublin DUB;21:35;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;Ryanair;1;11.53;06:50;Edinburgh EDI;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;easyJet;1;19.83;20:50;London STNLondon (Stansted) STN;22:05;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;Ryanair;1;14.99;08:40;Glasgow GLA;09:40;Dublin DUB FR5771
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;Ryanair;1;17.99;20:25;Dublin DUB;21:35;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;Ryanair;1;11.53;06:50;Edinburgh EDI;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;easyJet;1;19.83;20:50;London STNLondon (Stansted) STN;22:05;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;Ryanair;1;11.53;06:50;Edinburgh EDI;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;19.83;17:30;London STNLondon (Stansted) STN;18:45;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;Ryanair;1;14.99;08:40;Glasgow GLA;09:40;Dublin DUB FR5771
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;Ryanair;1;17.99;12:35;Dublin DUB;13:45;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;Ryanair;1;14.99;08:40;Glasgow GLA;09:40;Dublin DUB FR5771
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;Ryanair;1;17.99;12:35;Dublin DUB;13:45;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;Ryanair;1;11.53;06:50;Edinburgh EDI;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;easyJet;1;19.83;20:50;London STNLondon (Stansted) STN;22:05;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;Ryanair;1;14.99;15:25;Glasgow GLA;16:25;Dublin DUB FR5773
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;Ryanair;1;17.99;20:35;Dublin DUB;21:45;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;Ryanair;1;11.53;06:50;Edinburgh EDI;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;easyJet;1;19.83;20:50;London STNLondon (Stansted) STN;22:05;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;Ryanair;1;11.53;06:50;Edinburgh EDI;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;easyJet;1;19.83;20:50;London STNLondon (Stansted) STN;22:05;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;28/05/19;Ryanair;1;14.99;15:25;Glasgow GLA;16:25;Dublin DUB FR5773
+2019-04-24;14:41;Scotland;Scotland;1;28/05/19;Ryanair;1;17.99;20:25;Dublin DUB;21:35;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;Ryanair;1;11.53;06:50;Edinburgh EDI;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;19.83;17:30;London STNLondon (Stansted) STN;18:45;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;Ryanair;1;14.99;15:25;Glasgow GLA;16:25;Dublin DUB FR5773
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;Ryanair;1;17.99;20:25;Dublin DUB;21:35;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;Ryanair;1;11.53;06:50;Edinburgh EDI;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;easyJet;1;19.83;20:50;London STNLondon (Stansted) STN;22:05;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;28/05/19;Ryanair;1;14.99;08:40;Glasgow GLA;09:40;Dublin DUB FR5771
+2019-04-24;14:41;Scotland;Scotland;1;28/05/19;Ryanair;1;17.99;12:35;Dublin DUB;13:45;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;Ryanair;1;11.53;06:50;Edinburgh EDI;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;19.83;17:30;London STNLondon (Stansted) STN;18:45;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;Ryanair;1;14.99;15:25;Glasgow GLA;16:25;Dublin DUB FR5773
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;Ryanair;1;17.99;20:35;Dublin DUB;21:45;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;Ryanair;1;11.53;06:50;Edinburgh EDI;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;easyJet;1;19.83;20:50;London STNLondon (Stansted) STN;22:05;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;29/05/19;Ryanair;1;14.99;08:40;Glasgow GLA;09:40;Dublin DUB FR5771
+2019-04-24;14:41;Scotland;Scotland;1;29/05/19;Ryanair;1;17.99;20:35;Dublin DUB;21:45;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;Ryanair;1;14.99;08:40;Glasgow GLA;09:40;Dublin DUB FR5771
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;Ryanair;1;17.99;12:35;Dublin DUB;13:45;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;Ryanair;1;11.53;06:50;Edinburgh EDI;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;easyJet;1;19.83;20:50;London STNLondon (Stansted) STN;22:05;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;easyJet;1;19.83;07:00;Glasgow GLA;08:25;London STNLondon (Stansted) STN U2206
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;Ryanair;1;11.53;16:30;London STNLondon (Stansted) STN;17:50;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;Ryanair;1;11.53;06:50;Edinburgh EDI;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;easyJet;1;22.16;17:30;London STNLondon (Stansted) STN;18:45;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;Ryanair;1;11.53;06:50;Edinburgh EDI;08:25;London STNLondon (Stansted) STN FR8882
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;22.16;20:50;London STNLondon (Stansted) STN;22:05;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;easyJet;1;19.83;07:00;Glasgow GLA;08:25;London STNLondon (Stansted) STN U2206
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;Ryanair;1;11.53;16:30;London STNLondon (Stansted) STN;17:50;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;easyJet;1;19.83;07:00;Glasgow GLA;08:25;London STNLondon (Stansted) STN U2206
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;Ryanair;1;11.53;16:30;London STNLondon (Stansted) STN;17:50;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;Ryanair;1;20.76;08:15;Edinburgh EDI;09:20;Dublin DUB FR813
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;Ryanair;1;12.99;20:30;Dublin DUB;21:30;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;Ryanair;1;20.76;08:00;Edinburgh EDI;09:05;Dublin DUB FR813
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;Ryanair;1;12.99;14:00;Dublin DUB;15:00;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;easyJet;1;19.83;07:00;Glasgow GLA;08:25;London STNLondon (Stansted) STN U2206
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;Ryanair;1;11.53;16:30;London STNLondon (Stansted) STN;17:50;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;easyJet;1;19.83;07:00;Glasgow GLA;08:25;London STNLondon (Stansted) STN U2206
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;Ryanair;1;11.53;16:30;London STNLondon (Stansted) STN;17:50;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;Ryanair;1;20.76;08:15;Edinburgh EDI;09:20;Dublin DUB FR813
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;Ryanair;1;12.99;14:00;Dublin DUB;15:00;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;Ryanair;1;20.76;08:00;Edinburgh EDI;09:05;Dublin DUB FR813
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;Ryanair;1;12.99;20:30;Dublin DUB;21:30;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;easyJet;1;19.83;07:00;Glasgow GLA;08:25;London STNLondon (Stansted) STN U2206
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;Ryanair;1;11.53;16:30;London STNLondon (Stansted) STN;17:50;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;easyJet;1;19.83;07:00;Glasgow GLA;08:25;London STNLondon (Stansted) STN U2206
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;Ryanair;1;11.53;16:30;London STNLondon (Stansted) STN;17:50;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;22/05/19;Ryanair;1;20.76;08:00;Edinburgh EDI;09:05;Dublin DUB FR813
+2019-04-24;14:41;Scotland;Scotland;1;22/05/19;Ryanair;1;12.99;14:00;Dublin DUB;15:00;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;easyJet;1;19.83;07:00;Glasgow GLA;08:25;London STNLondon (Stansted) STN U2206
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;Ryanair;1;11.53;16:30;London STNLondon (Stansted) STN;17:50;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;22/05/19;Ryanair;1;20.76;08:00;Edinburgh EDI;09:05;Dublin DUB FR813
+2019-04-24;14:41;Scotland;Scotland;1;22/05/19;Ryanair;1;12.99;20:30;Dublin DUB;21:30;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;07/05/19;Ryanair;1;14.99;08:40;Glasgow GLA;09:40;Dublin DUB FR5771
+2019-04-24;14:41;Scotland;Scotland;1;07/05/19;Ryanair;1;17.99;20:25;Dublin DUB;21:35;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;Ryanair;1;11.53;14:30;Edinburgh EDI;16:05;London STNLondon (Stansted) STN FR2684
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;easyJet;1;20.99;20:50;London STNLondon (Stansted) STN;22:05;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;Ryanair;1;14.99;08:40;Glasgow GLA;09:40;Dublin DUB FR5771
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;Ryanair;1;17.99;20:35;Dublin DUB;21:45;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;Ryanair;1;11.53;18:15;Edinburgh EDI;19:40;London STNLondon (Stansted) STN FR8888
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;easyJet;1;20.99;20:50;London STNLondon (Stansted) STN;22:05;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;Ryanair;1;11.53;18:15;Edinburgh EDI;19:40;London STNLondon (Stansted) STN FR8888
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;easyJet;1;20.99;20:50;London STNLondon (Stansted) STN;22:05;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;Ryanair;1;14.99;08:40;Glasgow GLA;09:40;Dublin DUB FR5771
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;Ryanair;1;17.99;20:25;Dublin DUB;21:35;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;07/05/19;Ryanair;1;14.99;08:40;Glasgow GLA;09:40;Dublin DUB FR5771
+2019-04-24;14:41;Scotland;Scotland;1;07/05/19;Ryanair;1;17.99;20:25;Dublin DUB;21:35;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;Ryanair;1;11.53;18:15;Edinburgh EDI;19:40;London STNLondon (Stansted) STN FR8888
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;easyJet;1;20.99;20:50;London STNLondon (Stansted) STN;22:05;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;13/05/19;easyJet;1;22.16;14:10;Edinburgh EDI;15:35;London LTNLondon (Luton) LTN U214
+2019-04-24;14:41;Scotland;Scotland;1;13/05/19;easyJet;1;22.16;18:50;London LTNLondon (Luton) LTN;20:25;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;easyJet;1;4.82;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;easyJet;1;22.16;15:50;London LGWLondon (Gatwick) LGW;17:25;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;13/05/19;easyJet;1;22.16;07:00;Edinburgh EDI;08:25;London LTNLondon (Luton) LTN U212
+2019-04-24;14:41;Scotland;Scotland;1;13/05/19;easyJet;1;22.16;18:50;London LTNLondon (Luton) LTN;20:25;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;easyJet;1;4.82;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;easyJet;1;22.16;15:50;London LGWLondon (Gatwick) LGW;17:25;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;11/09/19;easyJet;1;9.49;11:40;Inverness INV;13:05;London LTNLondon (Luton) LTN U2154
+2019-04-24;14:41;Scotland;Scotland;1;11/09/19;easyJet;1;22.16;13:55;London LTNLondon (Luton) LTN;15:10;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;16/09/19;easyJet;1;22.16;15:40;Edinburgh EDI;16:55;London LTNLondon (Luton) LTN U216
+2019-04-24;14:41;Scotland;Scotland;1;16/09/19;easyJet;1;17.50;18:50;London LTNLondon (Luton) LTN;20:25;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;04/09/19;easyJet;1;7.16;11:40;Inverness INV;13:05;London LTNLondon (Luton) LTN U2154
+2019-04-24;14:41;Scotland;Scotland;1;04/09/19;easyJet;1;24.49;19:00;London LTNLondon (Luton) LTN;20:20;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;12/09/19;easyJet;1;19.83;07:00;Glasgow GLA;08:20;London LTNLondon (Luton) LTN U266
+2019-04-24;14:41;Scotland;Scotland;1;12/09/19;easyJet;1;19.83;18:50;London LTNLondon (Luton) LTN;20:25;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;09/05/19;easyJet;1;7.16;12:35;Inverness INV;13:55;Bristol BRS U2394
+2019-04-24;14:41;Scotland;Scotland;1;09/05/19;easyJet;1;19.83;20:45;Bristol BRS;21:55;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;13/05/19;easyJet;1;22.16;14:10;Edinburgh EDI;15:35;London LTNLondon (Luton) LTN U214
+2019-04-24;14:41;Scotland;Scotland;1;13/05/19;easyJet;1;22.16;18:50;London LTNLondon (Luton) LTN;20:25;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;09/05/19;easyJet;1;7.16;12:35;Inverness INV;13:55;Bristol BRS U2394
+2019-04-24;14:41;Scotland;Scotland;1;09/05/19;easyJet;1;19.83;20:45;Bristol BRS;21:55;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;13/05/19;easyJet;1;22.16;07:00;Edinburgh EDI;08:25;London LTNLondon (Luton) LTN U212
+2019-04-24;14:41;Scotland;Scotland;1;13/05/19;easyJet;1;22.16;18:50;London LTNLondon (Luton) LTN;20:25;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;08/09/19;easyJet;1;10.65;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;08/09/19;easyJet;1;24.49;19:15;London LGWLondon (Gatwick) LGW;20:45;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;12/09/19;easyJet;1;17.50;06:30;Edinburgh EDI;07:55;London LTNLondon (Luton) LTN U212
+2019-04-24;14:41;Scotland;Scotland;1;12/09/19;easyJet;1;19.83;18:50;London LTNLondon (Luton) LTN;20:25;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;easyJet;1;7.16;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;easyJet;1;22.16;19:15;London LGWLondon (Gatwick) LGW;20:45;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;20/05/19;easyJet;1;25.66;14:10;Edinburgh EDI;15:35;London LTNLondon (Luton) LTN U214
+2019-04-24;14:41;Scotland;Scotland;1;20/05/19;easyJet;1;17.50;18:50;London LTNLondon (Luton) LTN;20:25;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;08/09/19;easyJet;1;10.65;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;08/09/19;easyJet;1;25.66;20:55;London LGWLondon (Gatwick) LGW;22:25;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;12/09/19;easyJet;1;17.50;06:30;Edinburgh EDI;07:55;London LTNLondon (Luton) LTN U212
+2019-04-24;14:41;Scotland;Scotland;1;12/09/19;easyJet;1;19.83;18:50;London LTNLondon (Luton) LTN;20:25;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;05/09/19;easyJet;1;17.50;06:30;Edinburgh EDI;07:55;London LTNLondon (Luton) LTN U212
+2019-04-24;14:41;Scotland;Scotland;1;05/09/19;easyJet;1;24.49;18:50;London LTNLondon (Luton) LTN;20:25;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;11/09/19;easyJet;1;9.49;11:40;Inverness INV;13:05;London LTNLondon (Luton) LTN U2154
+2019-04-24;14:41;Scotland;Scotland;1;11/09/19;easyJet;1;22.16;13:55;London LTNLondon (Luton) LTN;15:10;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;08/09/19;easyJet;1;10.65;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;08/09/19;easyJet;1;24.49;19:15;London LGWLondon (Gatwick) LGW;20:45;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;16/09/19;easyJet;1;22.16;15:40;Edinburgh EDI;16:55;London LTNLondon (Luton) LTN U216
+2019-04-24;14:41;Scotland;Scotland;1;16/09/19;easyJet;1;17.50;18:50;London LTNLondon (Luton) LTN;20:25;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;13/05/19;easyJet;1;25.66;15:40;Edinburgh EDI;16:55;London LTNLondon (Luton) LTN U216
+2019-04-24;14:41;Scotland;Scotland;1;13/05/19;easyJet;1;22.16;18:50;London LTNLondon (Luton) LTN;20:25;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;easyJet;1;4.82;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;easyJet;1;22.16;15:50;London LGWLondon (Gatwick) LGW;17:25;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;10.65;14:55;Inverness INV;16:15;Bristol BRS U2394
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;19.83;20:45;Bristol BRS;21:55;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;13/05/19;easyJet;1;22.16;14:10;Edinburgh EDI;15:35;London LTNLondon (Luton) LTN U214
+2019-04-24;14:41;Scotland;Scotland;1;13/05/19;easyJet;1;22.16;18:50;London LTNLondon (Luton) LTN;20:25;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;10.65;14:55;Inverness INV;16:15;Bristol BRS U2394
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;19.83;20:45;Bristol BRS;21:55;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;13/05/19;easyJet;1;22.16;07:00;Edinburgh EDI;08:25;London LTNLondon (Luton) LTN U212
+2019-04-24;14:41;Scotland;Scotland;1;13/05/19;easyJet;1;22.16;18:50;London LTNLondon (Luton) LTN;20:25;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;09/05/19;easyJet;1;7.16;12:35;Inverness INV;13:55;Bristol BRS U2394
+2019-04-24;14:41;Scotland;Scotland;1;09/05/19;easyJet;1;19.83;20:45;Bristol BRS;21:55;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;13/05/19;easyJet;1;25.66;15:40;Edinburgh EDI;16:55;London LTNLondon (Luton) LTN U216
+2019-04-24;14:41;Scotland;Scotland;1;13/05/19;easyJet;1;22.16;18:50;London LTNLondon (Luton) LTN;20:25;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;easyJet;1;7.16;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;easyJet;1;22.16;19:15;London LGWLondon (Gatwick) LGW;20:45;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;20/05/19;easyJet;1;27.99;15:40;Edinburgh EDI;16:55;London LTNLondon (Luton) LTN U216
+2019-04-24;14:41;Scotland;Scotland;1;20/05/19;easyJet;1;17.50;18:50;London LTNLondon (Luton) LTN;20:25;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;05/09/19;easyJet;1;17.50;06:30;Edinburgh EDI;07:55;London LTNLondon (Luton) LTN U212
+2019-04-24;14:41;Scotland;Scotland;1;05/09/19;easyJet;1;25.66;09:40;London LTNLondon (Luton) LTN;11:10;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;11/09/19;easyJet;1;9.49;11:40;Inverness INV;13:05;London LTNLondon (Luton) LTN U2154
+2019-04-24;14:41;Scotland;Scotland;1;11/09/19;easyJet;1;22.16;13:55;London LTNLondon (Luton) LTN;15:10;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;easyJet;1;7.16;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;easyJet;1;24.49;15:50;London LGWLondon (Gatwick) LGW;17:25;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;20/05/19;easyJet;1;25.66;14:10;Edinburgh EDI;15:35;London LTNLondon (Luton) LTN U214
+2019-04-24;14:41;Scotland;Scotland;1;20/05/19;easyJet;1;17.50;18:50;London LTNLondon (Luton) LTN;20:25;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;easyJet;1;22.16;13:40;Edinburgh EDI;15:20;London LGWLondon (Gatwick) LGW U2806
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;easyJet;1;26.82;20:30;London LGWLondon (Gatwick) LGW;22:10;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;easyJet;1;4.82;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;easyJet;1;22.16;15:50;London LGWLondon (Gatwick) LGW;17:25;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;easyJet;1;22.16;06:05;Edinburgh EDI;07:35;London LGWLondon (Gatwick) LGW U2800
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;easyJet;1;26.82;20:30;London LGWLondon (Gatwick) LGW;22:10;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;easyJet;1;4.82;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;easyJet;1;22.16;15:50;London LGWLondon (Gatwick) LGW;17:25;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;easyJet;1;22.16;15:35;Edinburgh EDI;17:15;London LGWLondon (Gatwick) LGW U2808
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;easyJet;1;26.82;20:30;London LGWLondon (Gatwick) LGW;22:10;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;easyJet;1;4.82;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;easyJet;1;22.16;15:50;London LGWLondon (Gatwick) LGW;17:25;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;easyJet;1;22.16;06:05;Edinburgh EDI;07:35;London LGWLondon (Gatwick) LGW U2800
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;easyJet;1;26.82;12:30;London LGWLondon (Gatwick) LGW;14:15;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;easyJet;1;4.82;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;easyJet;1;22.16;15:50;London LGWLondon (Gatwick) LGW;17:25;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;08/09/19;easyJet;1;10.65;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;08/09/19;easyJet;1;25.66;20:55;London LGWLondon (Gatwick) LGW;22:25;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;16/09/19;easyJet;1;22.16;15:40;Edinburgh EDI;16:55;London LTNLondon (Luton) LTN U216
+2019-04-24;14:41;Scotland;Scotland;1;16/09/19;easyJet;1;17.50;18:50;London LTNLondon (Luton) LTN;20:25;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;29/08/19;easyJet;1;19.83;07:00;Glasgow GLA;08:20;London LTNLondon (Luton) LTN U266
+2019-04-24;14:41;Scotland;Scotland;1;29/08/19;easyJet;1;24.49;18:50;London LTNLondon (Luton) LTN;20:25;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;04/09/19;easyJet;1;7.16;11:40;Inverness INV;13:05;London LTNLondon (Luton) LTN U2154
+2019-04-24;14:41;Scotland;Scotland;1;04/09/19;easyJet;1;24.49;19:00;London LTNLondon (Luton) LTN;20:20;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;11/09/19;easyJet;1;9.49;11:40;Inverness INV;13:05;London LTNLondon (Luton) LTN U2154
+2019-04-24;14:41;Scotland;Scotland;1;11/09/19;easyJet;1;22.16;13:55;London LTNLondon (Luton) LTN;15:10;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;18/09/19;easyJet;1;24.49;08:50;Edinburgh EDI;10:05;Bristol BRS U2422
+2019-04-24;14:41;Scotland;Scotland;1;18/09/19;easyJet;1;19.83;12:55;Bristol BRS;14:20;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;08/09/19;easyJet;1;10.65;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;08/09/19;easyJet;1;27.99;17:45;London LGWLondon (Gatwick) LGW;19:15;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;12/09/19;easyJet;1;17.50;06:30;Edinburgh EDI;07:55;London LTNLondon (Luton) LTN U212
+2019-04-24;14:41;Scotland;Scotland;1;12/09/19;easyJet;1;19.83;18:50;London LTNLondon (Luton) LTN;20:25;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;06/09/19;easyJet;1;17.50;06:20;Edinburgh EDI;07:45;London LTNLondon (Luton) LTN U212
+2019-04-24;14:41;Scotland;Scotland;1;06/09/19;easyJet;1;26.82;18:50;London LTNLondon (Luton) LTN;20:25;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;11/09/19;easyJet;1;9.49;11:40;Inverness INV;13:05;London LTNLondon (Luton) LTN U2154
+2019-04-24;14:41;Scotland;Scotland;1;11/09/19;easyJet;1;22.16;13:55;London LTNLondon (Luton) LTN;15:10;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;30/04/19;easyJet;1;25.66;06:30;Edinburgh EDI;07:55;London LTNLondon (Luton) LTN U212
+2019-04-24;14:41;Scotland;Scotland;1;30/04/19;easyJet;1;19.83;09:40;London LTNLondon (Luton) LTN;11:10;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;10.65;14:55;Inverness INV;16:15;Bristol BRS U2394
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;19.83;20:45;Bristol BRS;21:55;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;09/05/19;easyJet;1;7.16;12:35;Inverness INV;13:55;Bristol BRS U2394
+2019-04-24;14:41;Scotland;Scotland;1;09/05/19;easyJet;1;19.83;20:45;Bristol BRS;21:55;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;easyJet;1;22.16;13:40;Edinburgh EDI;15:20;London LGWLondon (Gatwick) LGW U2806
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;easyJet;1;26.82;20:30;London LGWLondon (Gatwick) LGW;22:10;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;09/10/19;easyJet;1;24.49;08:50;Edinburgh EDI;10:05;Bristol BRS U2422
+2019-04-24;14:41;Scotland;Scotland;1;09/10/19;easyJet;1;19.83;12:55;Bristol BRS;14:20;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;16/10/19;easyJet;1;8.32;11:40;Inverness INV;13:05;London LTNLondon (Luton) LTN U2154
+2019-04-24;14:41;Scotland;Scotland;1;16/10/19;easyJet;1;24.49;13:55;London LTNLondon (Luton) LTN;15:10;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;04/09/19;easyJet;1;7.16;11:40;Inverness INV;13:05;London LTNLondon (Luton) LTN U2154
+2019-04-24;14:41;Scotland;Scotland;1;04/09/19;easyJet;1;24.49;19:00;London LTNLondon (Luton) LTN;20:20;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;11/09/19;easyJet;1;20.99;07:00;Glasgow GLA;08:20;London LTNLondon (Luton) LTN U266
+2019-04-24;14:41;Scotland;Scotland;1;11/09/19;easyJet;1;24.49;09:40;London LTNLondon (Luton) LTN;11:10;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;easyJet;1;17.50;07:00;Edinburgh EDI;08:25;London LTNLondon (Luton) LTN U212
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;easyJet;1;24.49;13:50;London LTNLondon (Luton) LTN;15:15;Aberdeen ABZ
+2019-04-24;14:41;Scotland;Scotland;1;22/05/19;easyJet;1;18.66;15:45;Aberdeen ABZ;17:05;London LTNLondon (Luton) LTN U2148
+2019-04-24;14:41;Scotland;Scotland;1;22/05/19;easyJet;1;17.50;19:15;London LTNLondon (Luton) LTN;20:30;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;22.16;15:35;Edinburgh EDI;17:15;London LGWLondon (Gatwick) LGW U2808
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;26.82;20:30;London LGWLondon (Gatwick) LGW;22:10;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;easyJet;1;7.16;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;easyJet;1;22.16;19:15;London LGWLondon (Gatwick) LGW;20:45;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;07/09/19;easyJet;1;29.15;08:55;Edinburgh EDI;10:15;London LTNLondon (Luton) LTN U212
+2019-04-24;14:41;Scotland;Scotland;1;07/09/19;easyJet;1;17.50;18:50;London LTNLondon (Luton) LTN;20:25;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;11/09/19;easyJet;1;9.49;11:40;Inverness INV;13:05;London LTNLondon (Luton) LTN U2154
+2019-04-24;14:41;Scotland;Scotland;1;11/09/19;easyJet;1;22.16;13:55;London LTNLondon (Luton) LTN;15:10;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;22.16;06:05;Edinburgh EDI;07:35;London LGWLondon (Gatwick) LGW U2800
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;26.82;20:30;London LGWLondon (Gatwick) LGW;22:10;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;easyJet;1;7.16;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;easyJet;1;22.16;19:15;London LGWLondon (Gatwick) LGW;20:45;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;22.16;06:05;Edinburgh EDI;07:35;London LGWLondon (Gatwick) LGW U2800
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;26.82;12:30;London LGWLondon (Gatwick) LGW;14:15;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;easyJet;1;7.16;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;easyJet;1;22.16;19:15;London LGWLondon (Gatwick) LGW;20:45;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;24/09/19;easyJet;1;21.14;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;24/09/19;easyJet;1;24.49;20:30;London LGWLondon (Gatwick) LGW;22:10;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;30/09/19;easyJet;1;7.16;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;30/09/19;easyJet;1;25.66;12:30;London LGWLondon (Gatwick) LGW;14:15;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;easyJet;1;17.50;07:00;Edinburgh EDI;08:25;London LTNLondon (Luton) LTN U212
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;easyJet;1;24.49;13:50;London LTNLondon (Luton) LTN;15:15;Aberdeen ABZ
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;easyJet;1;19.83;15:45;Aberdeen ABZ;17:05;London LTNLondon (Luton) LTN U2148
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;easyJet;1;17.50;19:15;London LTNLondon (Luton) LTN;20:30;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;04/09/19;easyJet;1;7.16;11:40;Inverness INV;13:05;London LTNLondon (Luton) LTN U2154
+2019-04-24;14:41;Scotland;Scotland;1;04/09/19;easyJet;1;24.49;19:00;London LTNLondon (Luton) LTN;20:20;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;08/09/19;easyJet;1;20.99;09:30;Glasgow GLA;10:50;London LTNLondon (Luton) LTN U266
+2019-04-24;14:41;Scotland;Scotland;1;08/09/19;easyJet;1;26.82;18:50;London LTNLondon (Luton) LTN;20:25;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;24/09/19;easyJet;1;21.14;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;24/09/19;easyJet;1;24.49;20:30;London LGWLondon (Gatwick) LGW;22:10;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;30/09/19;easyJet;1;7.16;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;30/09/19;easyJet;1;26.82;20:30;London LGWLondon (Gatwick) LGW;22:10;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;09/05/19;easyJet;1;17.50;06:30;Edinburgh EDI;07:55;London LTNLondon (Luton) LTN U212
+2019-04-24;14:41;Scotland;Scotland;1;09/05/19;easyJet;1;26.82;13:50;London LTNLondon (Luton) LTN;15:15;Aberdeen ABZ
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;easyJet;1;18.66;15:45;Aberdeen ABZ;17:05;London LTNLondon (Luton) LTN U2148
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;easyJet;1;17.50;19:15;London LTNLondon (Luton) LTN;20:30;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;18.66;15:45;Aberdeen ABZ;17:05;London LTNLondon (Luton) LTN U2148
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;19.83;19:15;London LTNLondon (Luton) LTN;20:30;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;easyJet;1;17.50;07:00;Edinburgh EDI;08:25;London LTNLondon (Luton) LTN U212
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;easyJet;1;24.49;13:50;London LTNLondon (Luton) LTN;15:15;Aberdeen ABZ
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;easyJet;1;20.99;08:55;Glasgow GLA;10:05;Bristol BRS U2402
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;easyJet;1;29.15;12:55;Bristol BRS;14:20;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;easyJet;1;4.82;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;easyJet;1;25.66;19:00;London LGWLondon (Gatwick) LGW;20:35;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;05/09/19;easyJet;1;17.65;11:40;Inverness INV;13:05;London LTNLondon (Luton) LTN U2154
+2019-04-24;14:41;Scotland;Scotland;1;05/09/19;easyJet;1;24.49;18:50;London LTNLondon (Luton) LTN;20:25;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;10/09/19;easyJet;1;14.15;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;10/09/19;easyJet;1;24.49;20:30;London LGWLondon (Gatwick) LGW;22:10;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;09/05/19;easyJet;1;17.50;06:30;Edinburgh EDI;07:55;London LTNLondon (Luton) LTN U212
+2019-04-24;14:41;Scotland;Scotland;1;09/05/19;easyJet;1;26.82;13:50;London LTNLondon (Luton) LTN;15:15;Aberdeen ABZ
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;easyJet;1;19.83;15:45;Aberdeen ABZ;17:05;London LTNLondon (Luton) LTN U2148
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;easyJet;1;17.50;19:15;London LTNLondon (Luton) LTN;20:30;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;easyJet;1;22.31;12:35;Inverness INV;13:55;Bristol BRS U2394
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;easyJet;1;17.50;20:10;Bristol BRS;21:25;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;22/05/19;easyJet;1;19.83;08:55;Glasgow GLA;10:05;Bristol BRS U2402
+2019-04-24;14:41;Scotland;Scotland;1;22/05/19;easyJet;1;22.16;12:55;Bristol BRS;14:20;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;05/09/19;easyJet;1;17.65;11:40;Inverness INV;13:05;London LTNLondon (Luton) LTN U2154
+2019-04-24;14:41;Scotland;Scotland;1;05/09/19;easyJet;1;24.49;15:25;London LTNLondon (Luton) LTN;16:40;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;12/09/19;easyJet;1;19.83;07:00;Glasgow GLA;08:20;London LTNLondon (Luton) LTN U266
+2019-04-24;14:41;Scotland;Scotland;1;12/09/19;easyJet;1;19.83;18:50;London LTNLondon (Luton) LTN;20:25;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;11/09/19;easyJet;1;9.49;11:40;Inverness INV;13:05;London LTNLondon (Luton) LTN U2154
+2019-04-24;14:41;Scotland;Scotland;1;11/09/19;easyJet;1;31.49;19:00;London LTNLondon (Luton) LTN;20:20;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;15/09/19;easyJet;1;23.33;09:30;Glasgow GLA;10:50;London LTNLondon (Luton) LTN U266
+2019-04-24;14:41;Scotland;Scotland;1;15/09/19;easyJet;1;17.50;18:50;London LTNLondon (Luton) LTN;20:25;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;04/09/19;easyJet;1;16.48;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;04/09/19;easyJet;1;26.82;20:30;London LGWLondon (Gatwick) LGW;22:10;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;10/09/19;easyJet;1;14.15;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;10/09/19;easyJet;1;24.49;20:30;London LGWLondon (Gatwick) LGW;22:10;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;easyJet;1;18.81;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;easyJet;1;26.82;20:30;London LGWLondon (Gatwick) LGW;22:10;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;easyJet;1;4.82;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;easyJet;1;31.49;20:30;London LGWLondon (Gatwick) LGW;22:10;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;easyJet;1;18.81;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;easyJet;1;26.82;12:30;London LGWLondon (Gatwick) LGW;14:15;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;easyJet;1;4.82;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;easyJet;1;31.49;20:30;London LGWLondon (Gatwick) LGW;22:10;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;11/09/19;easyJet;1;9.49;11:40;Inverness INV;13:05;London LTNLondon (Luton) LTN U2154
+2019-04-24;14:41;Scotland;Scotland;1;11/09/19;easyJet;1;31.49;19:00;London LTNLondon (Luton) LTN;20:20;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;17/09/19;easyJet;1;22.16;07:00;Glasgow GLA;08:20;London LTNLondon (Luton) LTN U266
+2019-04-24;14:41;Scotland;Scotland;1;17/09/19;easyJet;1;19.83;09:40;London LTNLondon (Luton) LTN;11:10;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;11/09/19;easyJet;1;9.49;11:40;Inverness INV;13:05;London LTNLondon (Luton) LTN U2154
+2019-04-24;14:41;Scotland;Scotland;1;11/09/19;easyJet;1;31.49;19:00;London LTNLondon (Luton) LTN;20:20;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;16/09/19;easyJet;1;24.49;10:55;Glasgow GLA;12:15;London LTNLondon (Luton) LTN U272
+2019-04-24;14:41;Scotland;Scotland;1;16/09/19;easyJet;1;17.50;18:50;London LTNLondon (Luton) LTN;20:25;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;24/09/19;easyJet;1;21.14;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;24/09/19;easyJet;1;24.49;20:30;London LGWLondon (Gatwick) LGW;22:10;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;30/09/19;easyJet;1;7.16;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;30/09/19;easyJet;1;30.32;15:05;London LGWLondon (Gatwick) LGW;16:55;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;07/09/19;easyJet;1;23.48;11:40;Inverness INV;13:05;London LTNLondon (Luton) LTN U2154
+2019-04-24;14:41;Scotland;Scotland;1;07/09/19;easyJet;1;17.50;18:50;London LTNLondon (Luton) LTN;20:25;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;11/09/19;easyJet;1;7.16;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;11/09/19;easyJet;1;34.98;12:30;London LGWLondon (Gatwick) LGW;14:15;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;22/05/19;easyJet;1;18.66;15:45;Aberdeen ABZ;17:05;London LTNLondon (Luton) LTN U2148
+2019-04-24;14:41;Scotland;Scotland;1;22/05/19;easyJet;1;17.50;19:15;London LTNLondon (Luton) LTN;20:30;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;30/05/19;easyJet;1;17.50;06:30;Edinburgh EDI;07:55;London LTNLondon (Luton) LTN U212
+2019-04-24;14:41;Scotland;Scotland;1;30/05/19;easyJet;1;30.32;13:50;London LTNLondon (Luton) LTN;15:15;Aberdeen ABZ
+2019-04-24;14:41;Scotland;Scotland;1;16/10/19;easyJet;1;22.16;07:00;Glasgow GLA;08:20;London LTNLondon (Luton) LTN U266
+2019-04-24;14:41;Scotland;Scotland;1;16/10/19;easyJet;1;24.49;09:40;London LTNLondon (Luton) LTN;11:10;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;21/10/19;easyJet;1;2.49;15:00;Inverness INV;16:40;London LGWLondon (Gatwick) LGW U2864
+2019-04-24;14:41;Scotland;Scotland;1;21/10/19;easyJet;1;34.98;19:00;London LGWLondon (Gatwick) LGW;20:35;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;17.50;06:45;Glasgow GLA;08:25;London LGWLondon (Gatwick) LGW U2882
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;26.82;12:30;London LGWLondon (Gatwick) LGW;14:15;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;easyJet;1;22.31;12:35;Inverness INV;13:55;Bristol BRS U2394
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;easyJet;1;17.50;20:10;Bristol BRS;21:25;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;17.50;06:45;Glasgow GLA;08:25;London LGWLondon (Gatwick) LGW U2882
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;26.82;20:30;London LGWLondon (Gatwick) LGW;22:10;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;easyJet;1;22.31;12:35;Inverness INV;13:55;Bristol BRS U2394
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;easyJet;1;17.50;20:10;Bristol BRS;21:25;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;04/09/19;easyJet;1;16.48;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;04/09/19;easyJet;1;26.82;20:30;London LGWLondon (Gatwick) LGW;22:10;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;08/09/19;easyJet;1;10.65;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;08/09/19;easyJet;1;30.32;20:30;London LGWLondon (Gatwick) LGW;22:10;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;05/09/19;easyJet;1;17.65;11:40;Inverness INV;13:05;London LTNLondon (Luton) LTN U2154
+2019-04-24;14:41;Scotland;Scotland;1;05/09/19;easyJet;1;24.49;18:50;London LTNLondon (Luton) LTN;20:25;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;11/09/19;easyJet;1;7.16;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;11/09/19;easyJet;1;34.98;12:30;London LGWLondon (Gatwick) LGW;14:15;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;18.66;15:45;Aberdeen ABZ;17:05;London LTNLondon (Luton) LTN U2148
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;19.83;19:00;London LTNLondon (Luton) LTN;20:20;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;easyJet;1;22.16;07:00;Glasgow GLA;08:20;London LTNLondon (Luton) LTN U266
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;easyJet;1;24.49;13:50;London LTNLondon (Luton) LTN;15:15;Aberdeen ABZ
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;26.82;07:00;Edinburgh EDI;08:25;London LTNLondon (Luton) LTN U212
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;22.16;13:50;London LTNLondon (Luton) LTN;15:15;Aberdeen ABZ
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;easyJet;1;18.66;15:45;Aberdeen ABZ;17:05;London LTNLondon (Luton) LTN U2148
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;easyJet;1;17.50;19:15;London LTNLondon (Luton) LTN;20:30;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;easyJet;1;20.99;08:55;Glasgow GLA;10:05;Bristol BRS U2402
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;easyJet;1;29.15;12:55;Bristol BRS;14:20;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;easyJet;1;4.82;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;easyJet;1;30.32;16:00;London LGWLondon (Gatwick) LGW;17:35;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;04/09/19;easyJet;1;16.48;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;04/09/19;easyJet;1;26.82;20:30;London LGWLondon (Gatwick) LGW;22:10;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;11/09/19;easyJet;1;7.16;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;11/09/19;easyJet;1;34.98;12:30;London LGWLondon (Gatwick) LGW;14:15;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;26.82;07:00;Edinburgh EDI;08:25;London LTNLondon (Luton) LTN U212
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;22.16;13:50;London LTNLondon (Luton) LTN;15:15;Aberdeen ABZ
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;easyJet;1;19.83;15:45;Aberdeen ABZ;17:05;London LTNLondon (Luton) LTN U2148
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;easyJet;1;17.50;19:15;London LTNLondon (Luton) LTN;20:30;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;16/10/19;easyJet;1;22.16;07:00;Glasgow GLA;08:20;London LTNLondon (Luton) LTN U266
+2019-04-24;14:41;Scotland;Scotland;1;16/10/19;easyJet;1;24.49;09:40;London LTNLondon (Luton) LTN;11:10;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;21/10/19;easyJet;1;4.82;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;21/10/19;easyJet;1;34.98;19:00;London LGWLondon (Gatwick) LGW;20:35;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;29/08/19;easyJet;1;19.83;07:00;Glasgow GLA;08:20;London LTNLondon (Luton) LTN U266
+2019-04-24;14:41;Scotland;Scotland;1;29/08/19;easyJet;1;24.49;18:50;London LTNLondon (Luton) LTN;20:25;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;05/09/19;easyJet;1;17.65;11:40;Inverness INV;13:05;London LTNLondon (Luton) LTN U2154
+2019-04-24;14:41;Scotland;Scotland;1;05/09/19;easyJet;1;24.49;15:25;London LTNLondon (Luton) LTN;16:40;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;07/09/19;easyJet;1;27.99;09:50;Glasgow GLA;11:10;London LTNLondon (Luton) LTN U270
+2019-04-24;14:41;Scotland;Scotland;1;07/09/19;easyJet;1;17.50;18:50;London LTNLondon (Luton) LTN;20:25;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;11/09/19;easyJet;1;9.49;11:40;Inverness INV;13:05;London LTNLondon (Luton) LTN U2154
+2019-04-24;14:41;Scotland;Scotland;1;11/09/19;easyJet;1;31.49;19:00;London LTNLondon (Luton) LTN;20:20;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;01/05/19;easyJet;1;14.15;14:55;Inverness INV;16:15;Bristol BRS U2394
+2019-04-24;14:41;Scotland;Scotland;1;01/05/19;easyJet;1;29.15;20:10;Bristol BRS;21:25;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;17.50;06:45;Glasgow GLA;08:25;London LGWLondon (Gatwick) LGW U2882
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;26.82;20:30;London LGWLondon (Gatwick) LGW;22:10;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;01/05/19;easyJet;1;14.15;14:55;Inverness INV;16:15;Bristol BRS U2394
+2019-04-24;14:41;Scotland;Scotland;1;01/05/19;easyJet;1;29.15;20:10;Bristol BRS;21:25;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;17.50;06:45;Glasgow GLA;08:25;London LGWLondon (Gatwick) LGW U2882
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;26.82;12:30;London LGWLondon (Gatwick) LGW;14:15;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;05/09/19;easyJet;1;17.65;11:40;Inverness INV;13:05;London LTNLondon (Luton) LTN U2154
+2019-04-24;14:41;Scotland;Scotland;1;05/09/19;easyJet;1;24.49;15:25;London LTNLondon (Luton) LTN;16:40;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;11/09/19;easyJet;1;20.99;07:00;Glasgow GLA;08:20;London LTNLondon (Luton) LTN U266
+2019-04-24;14:41;Scotland;Scotland;1;11/09/19;easyJet;1;24.49;09:40;London LTNLondon (Luton) LTN;11:10;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;11/09/19;easyJet;1;9.49;11:40;Inverness INV;13:05;London LTNLondon (Luton) LTN U2154
+2019-04-24;14:41;Scotland;Scotland;1;11/09/19;easyJet;1;31.49;19:00;London LTNLondon (Luton) LTN;20:20;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;19/09/19;easyJet;1;22.16;06:45;Glasgow GLA;08:25;London LGWLondon (Gatwick) LGW U2882
+2019-04-24;14:41;Scotland;Scotland;1;19/09/19;easyJet;1;24.49;15:10;London LGWLondon (Gatwick) LGW;16:55;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;05/06/19;easyJet;1;24.49;07:00;Edinburgh EDI;08:25;London LTNLondon (Luton) LTN U212
+2019-04-24;14:41;Scotland;Scotland;1;05/06/19;easyJet;1;24.49;13:50;London LTNLondon (Luton) LTN;15:15;Aberdeen ABZ
+2019-04-24;14:41;Scotland;Scotland;1;11/06/19;easyJet;1;17.50;15:45;Aberdeen ABZ;17:05;London LTNLondon (Luton) LTN U2148
+2019-04-24;14:41;Scotland;Scotland;1;11/06/19;easyJet;1;22.16;19:15;London LTNLondon (Luton) LTN;20:30;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;22.16;18:00;Glasgow GLA;19:30;London LGWLondon (Gatwick) LGW U2886
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;26.82;20:30;London LGWLondon (Gatwick) LGW;22:10;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;easyJet;1;22.31;12:35;Inverness INV;13:55;Bristol BRS U2394
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;easyJet;1;17.50;20:10;Bristol BRS;21:25;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;20.99;07:00;Glasgow GLA;08:20;London LTNLondon (Luton) LTN U266
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;22.16;13:50;London LTNLondon (Luton) LTN;15:15;Aberdeen ABZ
+2019-04-24;14:41;Scotland;Scotland;1;13/05/19;easyJet;1;29.15;15:45;Aberdeen ABZ;17:05;London LTNLondon (Luton) LTN U2148
+2019-04-24;14:41;Scotland;Scotland;1;13/05/19;easyJet;1;17.50;19:00;London LTNLondon (Luton) LTN;20:20;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;02/05/19;easyJet;1;19.83;06:30;Edinburgh EDI;07:55;London LTNLondon (Luton) LTN U212
+2019-04-24;14:41;Scotland;Scotland;1;02/05/19;easyJet;1;31.49;13:50;London LTNLondon (Luton) LTN;15:15;Aberdeen ABZ
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;18.66;15:45;Aberdeen ABZ;17:05;London LTNLondon (Luton) LTN U2148
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;19.83;19:15;London LTNLondon (Luton) LTN;20:30;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;easyJet;1;20.99;08:55;Glasgow GLA;10:05;Bristol BRS U2402
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;easyJet;1;29.15;12:55;Bristol BRS;14:20;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;20/05/19;easyJet;1;15.32;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;20/05/19;easyJet;1;24.49;19:00;London LGWLondon (Gatwick) LGW;20:35;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;16/10/19;easyJet;1;22.16;07:00;Glasgow GLA;08:20;London LTNLondon (Luton) LTN U266
+2019-04-24;14:41;Scotland;Scotland;1;16/10/19;easyJet;1;24.49;09:40;London LTNLondon (Luton) LTN;11:10;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;21/10/19;easyJet;1;2.49;15:00;Inverness INV;16:40;London LGWLondon (Gatwick) LGW U2864
+2019-04-24;14:41;Scotland;Scotland;1;21/10/19;easyJet;1;40.81;18:10;London LGWLondon (Gatwick) LGW;19:40;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;easyJet;1;20.99;08:55;Glasgow GLA;10:05;Bristol BRS U2402
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;easyJet;1;29.15;12:55;Bristol BRS;14:20;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;20/05/19;easyJet;1;15.32;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;20/05/19;easyJet;1;24.49;18:10;London LGWLondon (Gatwick) LGW;19:40;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;16/10/19;easyJet;1;22.16;07:00;Glasgow GLA;08:20;London LTNLondon (Luton) LTN U266
+2019-04-24;14:41;Scotland;Scotland;1;16/10/19;easyJet;1;24.49;09:40;London LTNLondon (Luton) LTN;11:10;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;22/10/19;easyJet;1;2.49;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;22/10/19;easyJet;1;40.81;16:00;London LGWLondon (Gatwick) LGW;17:35;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;30/04/19;easyJet;1;10.65;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;30/04/19;easyJet;1;34.98;16:00;London LGWLondon (Gatwick) LGW;17:35;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;17.50;06:45;Glasgow GLA;08:25;London LGWLondon (Gatwick) LGW U2882
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;26.82;20:30;London LGWLondon (Gatwick) LGW;22:10;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;30/04/19;easyJet;1;10.65;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;30/04/19;easyJet;1;34.98;16:00;London LGWLondon (Gatwick) LGW;17:35;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;17.50;06:45;Glasgow GLA;08:25;London LGWLondon (Gatwick) LGW U2882
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;26.82;12:30;London LGWLondon (Gatwick) LGW;14:15;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;24/09/19;easyJet;1;21.14;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;24/09/19;easyJet;1;24.49;20:30;London LGWLondon (Gatwick) LGW;22:10;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;28/09/19;easyJet;1;19.98;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;28/09/19;easyJet;1;24.49;20:30;London LGWLondon (Gatwick) LGW;22:10;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;09/05/19;easyJet;1;17.50;06:30;Edinburgh EDI;07:55;London LTNLondon (Luton) LTN U212
+2019-04-24;14:41;Scotland;Scotland;1;09/05/19;easyJet;1;26.82;13:50;London LTNLondon (Luton) LTN;15:15;Aberdeen ABZ
+2019-04-24;14:41;Scotland;Scotland;1;13/05/19;easyJet;1;29.15;15:45;Aberdeen ABZ;17:05;London LTNLondon (Luton) LTN U2148
+2019-04-24;14:41;Scotland;Scotland;1;13/05/19;easyJet;1;17.50;19:15;London LTNLondon (Luton) LTN;20:30;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;16/10/19;easyJet;1;22.16;07:00;Glasgow GLA;08:20;London LTNLondon (Luton) LTN U266
+2019-04-24;14:41;Scotland;Scotland;1;16/10/19;easyJet;1;24.49;09:40;London LTNLondon (Luton) LTN;11:10;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;23/10/19;easyJet;1;9.49;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;23/10/19;easyJet;1;34.98;16:00;London LGWLondon (Gatwick) LGW;17:35;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;28/09/19;easyJet;1;19.98;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;28/09/19;easyJet;1;25.66;16:55;London LGWLondon (Gatwick) LGW;18:30;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;02/10/19;easyJet;1;20.99;07:00;Glasgow GLA;08:20;London LTNLondon (Luton) LTN U266
+2019-04-24;14:41;Scotland;Scotland;1;02/10/19;easyJet;1;24.49;09:40;London LTNLondon (Luton) LTN;11:10;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;17.50;06:45;Glasgow GLA;08:25;London LGWLondon (Gatwick) LGW U2882
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;26.82;12:30;London LGWLondon (Gatwick) LGW;14:15;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;easyJet;1;7.16;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;easyJet;1;39.65;16:00;London LGWLondon (Gatwick) LGW;17:35;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;easyJet;1;18.81;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;easyJet;1;26.82;20:30;London LGWLondon (Gatwick) LGW;22:10;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;20/05/19;easyJet;1;15.32;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;20/05/19;easyJet;1;30.32;20:30;London LGWLondon (Gatwick) LGW;22:10;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;easyJet;1;18.81;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;easyJet;1;26.82;12:30;London LGWLondon (Gatwick) LGW;14:15;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;20/05/19;easyJet;1;15.32;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;20/05/19;easyJet;1;30.32;20:30;London LGWLondon (Gatwick) LGW;22:10;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;29/05/19;easyJet;1;25.66;15:45;Aberdeen ABZ;17:05;London LTNLondon (Luton) LTN U2148
+2019-04-24;14:41;Scotland;Scotland;1;29/05/19;easyJet;1;17.50;19:15;London LTNLondon (Luton) LTN;20:30;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;05/06/19;easyJet;1;24.49;07:00;Edinburgh EDI;08:25;London LTNLondon (Luton) LTN U212
+2019-04-24;14:41;Scotland;Scotland;1;05/06/19;easyJet;1;24.49;13:50;London LTNLondon (Luton) LTN;15:15;Aberdeen ABZ
+2019-04-24;14:41;Scotland;Scotland;1;22/05/19;easyJet;1;22.31;14:55;Inverness INV;16:15;Bristol BRS U2394
+2019-04-24;14:41;Scotland;Scotland;1;22/05/19;easyJet;1;20.99;20:10;Bristol BRS;21:25;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;30/05/19;easyJet;1;29.15;07:00;Glasgow GLA;08:20;London LTNLondon (Luton) LTN U266
+2019-04-24;14:41;Scotland;Scotland;1;30/05/19;easyJet;1;19.83;18:50;London LTNLondon (Luton) LTN;20:25;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;easyJet;1;18.81;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;easyJet;1;26.82;20:30;London LGWLondon (Gatwick) LGW;22:10;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;easyJet;1;4.82;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;easyJet;1;41.98;12:30;London LGWLondon (Gatwick) LGW;14:15;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;easyJet;1;18.81;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;easyJet;1;26.82;12:30;London LGWLondon (Gatwick) LGW;14:15;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;easyJet;1;4.82;07:00;Inverness INV;08:45;London LGWLondon (Gatwick) LGW U2862
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;easyJet;1;41.98;12:30;London LGWLondon (Gatwick) LGW;14:15;Inverness INV
+2019-04-24;14:41;Scotland;Scotland;1;10/10/19;easyJet;1;22.16;07:00;Glasgow GLA;08:20;London LTNLondon (Luton) LTN U266
+2019-04-24;14:41;Scotland;Scotland;1;10/10/19;easyJet;1;24.49;13:50;London LTNLondon (Luton) LTN;15:15;Aberdeen ABZ
+2019-04-24;14:41;Scotland;Scotland;1;14/10/19;easyJet;1;29.15;15:45;Aberdeen ABZ;17:05;London LTNLondon (Luton) LTN U2148
+2019-04-24;14:41;Scotland;Scotland;1;14/10/19;easyJet;1;17.50;19:00;London LTNLondon (Luton) LTN;20:20;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;easyJet;1;18.66;15:45;Aberdeen ABZ;17:05;London LTNLondon (Luton) LTN U2148
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;easyJet;1;17.50;19:15;London LTNLondon (Luton) LTN;20:30;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;22/05/19;easyJet;1;17.50;07:00;Edinburgh EDI;08:25;London LTNLondon (Luton) LTN U212
+2019-04-24;14:41;Scotland;Scotland;1;22/05/19;easyJet;1;39.65;13:50;London LTNLondon (Luton) LTN;15:15;Aberdeen ABZ
+2019-04-24;14:41;Scotland;Scotland;1;09/05/19;easyJet;1;20.99;07:00;Glasgow GLA;08:20;London LTNLondon (Luton) LTN U266
+2019-04-24;14:41;Scotland;Scotland;1;09/05/19;easyJet;1;26.82;13:50;London LTNLondon (Luton) LTN;15:15;Aberdeen ABZ
+2019-04-24;14:41;Scotland;Scotland;1;13/05/19;easyJet;1;29.15;15:45;Aberdeen ABZ;17:05;London LTNLondon (Luton) LTN U2148
+2019-04-24;14:41;Scotland;Scotland;1;13/05/19;easyJet;1;17.50;19:00;London LTNLondon (Luton) LTN;20:20;Glasgow GLA
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;easyJet;1;25.66;06:30;Edinburgh EDI;07:55;London LTNLondon (Luton) LTN U212
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;easyJet;1;32.65;13:50;London LTNLondon (Luton) LTN;15:15;Aberdeen ABZ
+2019-04-24;14:41;Scotland;Scotland;1;22/05/19;easyJet;1;18.66;15:45;Aberdeen ABZ;17:05;London LTNLondon (Luton) LTN U2148
+2019-04-24;14:41;Scotland;Scotland;1;22/05/19;easyJet;1;17.50;19:15;London LTNLondon (Luton) LTN;20:30;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;easyJet;1;19.83;15:45;Aberdeen ABZ;17:05;London LTNLondon (Luton) LTN U2148
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;easyJet;1;17.50;19:15;London LTNLondon (Luton) LTN;20:30;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;22/05/19;easyJet;1;17.50;07:00;Edinburgh EDI;08:25;London LTNLondon (Luton) LTN U212
+2019-04-24;14:41;Scotland;Scotland;1;22/05/19;easyJet;1;39.65;13:50;London LTNLondon (Luton) LTN;15:15;Aberdeen ABZ
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;26.82;07:00;Edinburgh EDI;08:25;London LTNLondon (Luton) LTN U212
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;22.16;13:50;London LTNLondon (Luton) LTN;15:15;Aberdeen ABZ
+2019-04-24;14:41;Scotland;Scotland;1;13/05/19;easyJet;1;29.15;15:45;Aberdeen ABZ;17:05;London LTNLondon (Luton) LTN U2148
+2019-04-24;14:41;Scotland;Scotland;1;13/05/19;easyJet;1;17.50;19:15;London LTNLondon (Luton) LTN;20:30;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;02/10/19;easyJet;1;26.82;07:00;Edinburgh EDI;08:25;London LTNLondon (Luton) LTN U212
+2019-04-24;14:41;Scotland;Scotland;1;02/10/19;easyJet;1;24.49;13:50;London LTNLondon (Luton) LTN;15:15;Aberdeen ABZ
+2019-04-24;14:41;Scotland;Scotland;1;08/10/19;easyJet;1;19.83;15:45;Aberdeen ABZ;17:05;London LTNLondon (Luton) LTN U2148
+2019-04-24;14:41;Scotland;Scotland;1;08/10/19;easyJet;1;24.49;19:15;London LTNLondon (Luton) LTN;20:30;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;01/05/19;easyJet;1;25.66;07:00;Edinburgh EDI;08:25;London LTNLondon (Luton) LTN U212
+2019-04-24;14:41;Scotland;Scotland;1;01/05/19;easyJet;1;31.49;13:50;London LTNLondon (Luton) LTN;15:15;Aberdeen ABZ
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;18.66;15:45;Aberdeen ABZ;17:05;London LTNLondon (Luton) LTN U2148
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;19.83;19:15;London LTNLondon (Luton) LTN;20:30;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;30/04/19;easyJet;1;25.66;06:30;Edinburgh EDI;07:55;London LTNLondon (Luton) LTN U212
+2019-04-24;14:41;Scotland;Scotland;1;30/04/19;easyJet;1;31.49;13:50;London LTNLondon (Luton) LTN;15:15;Aberdeen ABZ
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;18.66;15:45;Aberdeen ABZ;17:05;London LTNLondon (Luton) LTN U2148
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;19.83;19:15;London LTNLondon (Luton) LTN;20:30;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;easyJet;1;25.66;06:30;Edinburgh EDI;07:55;London LTNLondon (Luton) LTN U212
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;easyJet;1;32.65;13:50;London LTNLondon (Luton) LTN;15:15;Aberdeen ABZ
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;easyJet;1;19.83;15:45;Aberdeen ABZ;17:05;London LTNLondon (Luton) LTN U2148
+2019-04-24;14:41;Scotland;Scotland;1;21/05/19;easyJet;1;17.50;19:15;London LTNLondon (Luton) LTN;20:30;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;18.66;15:45;Aberdeen ABZ;17:05;London LTNLondon (Luton) LTN U2148
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;19.83;19:15;London LTNLondon (Luton) LTN;20:30;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;easyJet;1;25.66;06:30;Edinburgh EDI;07:55;London LTNLondon (Luton) LTN U212
+2019-04-24;14:41;Scotland;Scotland;1;14/05/19;easyJet;1;32.65;13:50;London LTNLondon (Luton) LTN;15:15;Aberdeen ABZ
+2019-04-24;14:41;Scotland;Scotland;1;02/10/19;easyJet;1;26.82;07:00;Edinburgh EDI;08:25;London LTNLondon (Luton) LTN U212
+2019-04-24;14:41;Scotland;Scotland;1;02/10/19;easyJet;1;24.49;13:50;London LTNLondon (Luton) LTN;15:15;Aberdeen ABZ
+2019-04-24;14:41;Scotland;Scotland;1;09/10/19;easyJet;1;19.83;15:45;Aberdeen ABZ;17:05;London LTNLondon (Luton) LTN U2148
+2019-04-24;14:41;Scotland;Scotland;1;09/10/19;easyJet;1;26.82;19:15;London LTNLondon (Luton) LTN;20:30;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;11/06/19;easyJet;1;17.50;15:45;Aberdeen ABZ;17:05;London LTNLondon (Luton) LTN U2148
+2019-04-24;14:41;Scotland;Scotland;1;11/06/19;easyJet;1;22.16;19:15;London LTNLondon (Luton) LTN;20:30;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;19/06/19;Ryanair;1;38.84;07:00;Edinburgh EDI;11:50;Malta MLA FR6695
+2019-04-24;14:41;Scotland;Scotland;1;19/06/19;Ryanair;1;19.99;15:10;Malta MLA;18:10;Aberdeen ABZ
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;18.66;15:45;Aberdeen ABZ;17:05;London LTNLondon (Luton) LTN U2148
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;19.83;19:15;London LTNLondon (Luton) LTN;20:30;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;Flybe;1;34.61;10:50;Edinburgh EDI;12:05;Birmingham BHX BE845
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;Flybe;1;34.61;18:55;Birmingham BHX;20:20;Aberdeen ABZ
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;18.66;15:45;Aberdeen ABZ;17:05;London LTNLondon (Luton) LTN U2148
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;19.83;19:15;London LTNLondon (Luton) LTN;20:30;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;Flybe;1;34.61;07:20;Edinburgh EDI;08:15;Belfast BHDBelfast (city) BHD BE681
+2019-04-24;14:41;Scotland;Scotland;1;15/05/19;Flybe;1;34.61;12:45;Belfast BHDBelfast (city) BHD;13:50;Aberdeen ABZ
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;18.66;15:45;Aberdeen ABZ;17:05;London LTNLondon (Luton) LTN U2148
+2019-04-24;14:41;Scotland;Scotland;1;08/05/19;easyJet;1;19.83;19:15;London LTNLondon (Luton) LTN;20:30;Edinburgh EDI
+2019-04-24;14:41;Scotland;Scotland;1;16/05/19;easyJet;1;17.50;06:30;Edinburgh EDI;07:55;London LTNLondon (Luton) LTN U212
+2019-04-24;14:41;Scotland;Scotland;1;16/05/19;easyJet;1;57.13;13:50;London LTNLondon (Luton) LTN;15:15;Aberdeen ABZ
+2019-04-24;14:41;Scotland;Scotland;1;14/10/19;Flybe;1;92.32;18:45;Wick WIC;19:20;Aberdeen ABZ
+2019-04-24;14:41;Scotland;Scotland;1;22/10/19;Flybe;0;92.32;12:40;Aberdeen ABZ;13:20;Wick WIC
+2019-04-24;14:41;Scotland;Scotland;2;26/06/19;Flybe;0;92.32;13:45;Wick WIC;14:20;Aberdeen ABZ
+2019-04-24;14:41;Scotland;Scotland;2;04/07/19;Flybe;0;92.32;17:40;Aberdeen ABZ;18:20;Wick WIC
+2019-04-24;14:41;Scotland;Scotland;3;14/10/19;Flybe;0;92.32;18:45;Wick WIC;19:20;Aberdeen ABZ
+2019-04-24;14:41;Scotland;Scotland;3;21/10/19;Flybe;0;92.32;12:40;Aberdeen ABZ;13:20;Wick WIC
+2019-04-24;14:41;Scotland;Scotland;4;26/06/19;Flybe;0;92.32;13:45;Wick WIC;14:20;Aberdeen ABZ
+2019-04-24;14:41;Scotland;Scotland;4;04/07/19;Flybe;0;92.32;12:40;Aberdeen ABZ;13:20;Wick WIC
+2019-04-24;14:41;Scotland;Scotland;5;14/10/19;Flybe;0;92.32;18:45;Wick WIC;19:20;Aberdeen ABZ
+2019-04-24;14:41;Scotland;Scotland;5;21/10/19;Flybe;0;92.32;17:40;Aberdeen ABZ;18:20;Wick WIC
+2019-04-24;14:41;Scotland;Scotland;6;08/10/19;Flybe;0;92.32;18:45;Wick WIC;19:20;Aberdeen ABZ
+2019-04-24;14:41;Scotland;Scotland;6;16/10/19;Flybe;0;92.32;17:40;Aberdeen ABZ;18:20;Wick WIC
+Scrap_date;Scrap_time;Country_from;Country_to;Flight_id;Flight_date;Airline;Change;Price;Depart_hour;Depart_from;Arrival_hour;Arrive_to

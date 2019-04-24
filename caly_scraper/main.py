@@ -33,7 +33,7 @@ def main():
 
     print("------Uruchomienie programu--------\n" + currentDT.strftime("%Y-%m-%d_%H:%M"))
 
-    output_file = open("flight_prices_" + currentDT.strftime("%Y-%m-%d_%H:%M") +".txt", "w")
+    output_file = open("flight_prices" +".txt", "a")
     output_file.write("Scrap_date;Scrap_time;Country_from;Country_to;Flight_id;Flight_date;Airline;Change;Price;Depart_hour;Depart_from;Arrival_hour;Arrive_to\n")
 
     print("------Nazwa pliku--------\n" + output_file.name)
