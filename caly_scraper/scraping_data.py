@@ -38,44 +38,55 @@ class ScrapData():
             i = 0
             id_podrozy = 1
 
+            #print(len(change))
+
             print('zaczynam zapisywanie dla.. ' + country_from + " - "+ country_to)
 
             while i + ii < len(change):
 
+                if i%2 == 0:
+                    there_or_back = 1
+                else:
+                    there_or_back = 0
+
                 przes = 0
-                if change[i + ii].full_text[9:11] != 'no':
 
-                    #print('if 1 dla.. ' + country)
+                print(change[i+ii].full_text[9:11])
 
-                    przes = 1
+                print(i+ii)
+                print(len(change))
 
-                    f.write(scrap_date+";"+scrap_time+";"+country_from + ";" + country_to + ";" + str(id_podrozy) + ";"+ \
-                        str(data[i + ii].text[4:]) + ";" + str(przewoznik[licz_ceny].text) + ";" + str(
-                        przes) + ";" + str(cena[licz_ceny].text[1:]) + ";" + str(
-                        skad[licznik + 1].text.replace('\xa0', ' ')[3:8]) + \
-                            ";" + str(skad[licznik + 1].text.replace('\xa0', ' ')[9:]) + ";" + str(
-                        to[licznik].text[:5]) + ";" + str(to[licznik].text[6:]) + "\n")
-                    licz_ceny += 1
-                    licznik += 1
-                    f.write(scrap_date+";"+scrap_time+";"+country_from + ";" + country_to + ";" + str(id_podrozy) + ";"+ \
-                        str(data[i + ii].text[4:]) + ";" + str(przewoznik[licz_ceny].text) + ";" + str(
-                        przes) + ";" + str(cena[licz_ceny].text[1:]) + ";" + str(
-                        skad[licznik + 1].text.replace('\xa0', ' ')[3:8]) + \
-                            ";" + str(skad[licznik + 1].text.replace('\xa0', ' ')[9:]) + ";" + str(
-                        to[licznik].text[:5]) + ";" + str(to[licznik].text[6:]) + "\n")
-                    licz_ceny += 1
-                    licznik += 2
-                    ii += 1
+                try:
 
-                    if ii%3==0:
-                        id_podrozy += 1
+                    while change[i+ii].full_text[9:11] != 'no':
 
-                    #print("----1------")
-                    #print(licz_ceny)
-                    #print(licznik)
-                    #print(ii)
-                    #id_podrozy += 1
+                        #print('if 1 dla.. ' + country)
 
+                        przes = 1
+
+                        f.write(scrap_date+";"+scrap_time+";"+country_from + ";" + country_to + ";" + str(id_podrozy) + ";"+ \
+                            str(data[i + ii].text[4:]) + ";" + str(przewoznik[licz_ceny].text) + ";" + str(
+                            przes) + ";" + str(cena[licz_ceny].text[1:]) + ";" + str(
+                            skad[licznik + 1].text.replace('\xa0', ' ')[3:8]) + \
+                                ";" + str(skad[licznik + 1].text.replace('\xa0', ' ')[9:]) + ";" + str(
+                            to[licznik+1].text[:5]) + ";" + str(to[licznik+1].text[6:]) + "\n")
+                        licz_ceny += 1
+                        licznik += 1
+                        f.write(scrap_date+";"+scrap_time+";"+country_from + ";" + country_to + ";" + str(id_podrozy) + ";"+ \
+                            str(data[i + ii].text[4:]) + ";" + str(przewoznik[licz_ceny].text) + ";" + str(
+                            przes) + ";" + str(cena[licz_ceny].text[1:]) + ";" + str(
+                            skad[licznik + 1].text.replace('\xa0', ' ')[3:8]) + \
+                                ";" + str(skad[licznik + 1].text.replace('\xa0', ' ')[9:]) + ";" + str(
+                            to[licznik-1].text[:5]) + ";" + str(to[licznik-1].text[6:]) + "\n")
+                        licz_ceny += 1
+                        licznik += 2
+                        ii += 1
+
+                except IndexError:
+                    print("Something went wrong")
+
+                    #if ii%3==0:
+                        #id_podrozy += 1
 
                 # ?? dodane ify żeby się nie wywalało, ale teraz część się w ogóle nie zapisuje
 
@@ -97,6 +108,10 @@ class ScrapData():
 
                 if przes == 0 and i%2 == 0:
                     id_podrozy += 1
+
+
+                print('-----')
+
 
                 #print("----2------")
                 #print(licz_ceny)

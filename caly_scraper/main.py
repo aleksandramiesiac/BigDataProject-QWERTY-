@@ -25,7 +25,7 @@ def main():
     country_list = ['Spain','Egypt','Scotland','France','England','Germany','Greece','Poland','Canada', 'Italy',
                     'Czech Republic', 'Hungary', 'Denmark', 'Ukraine', 'Croatia', 'Switzerland', 'Cyprus']
 
-    country_list = ['Denmark', 'Egypt','Scotland','France']
+    country_list = ['Scotland', 'Egypt','Denmark','France']
 
     connections_list  = list(itertools.product(country_list, repeat=2))
 
