@@ -22,12 +22,10 @@ def main():
             name, val = line.partition("=")[::2]
             config[name.strip()] = val.replace("\n", "")
 
-    country_list = ['Spain','Egypt','Scotland','France','England','Germany','Greece','Poland','Canada', 'Italy',
-                    'Czech Republic', 'Hungary', 'Denmark', 'Ukraine', 'Croatia', 'Switzerland', 'Cyprus']
 
-    country_list = ['Scotland', 'Egypt','Denmark','France']
+    country_list = ['Austria', 'Australia','Albania','Algeria','Brazil','Bulgaria','Belgium','Canada','China','Cuba','Cyprus','Croatia','Czech Republic','Denmark','Egypt','England','Estonia','Finland','France','Germany','Georgia','Greece','Hungary','Iceland','Ireland','Israel','Italy','Lithuania','Lativa','Malta','Mexico','Netherlands','New Zeland','Norway','Poland','Portugal','Russia','Romania','Saudi Arabia','Scotland','Spain','Singapore','Sweden','South Korea','Switzerland','Tunisia','Turkey','Thailand','Ukraine','United States']
 
-    connections_list  = list(itertools.product(country_list, repeat=2))
+    connections_list = list(itertools.product(country_list, repeat=2))
 
     currentDT = datetime.datetime.now()
 
