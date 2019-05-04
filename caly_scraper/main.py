@@ -14,16 +14,16 @@ import datetime
 
 def main():
 
-    os.environ["PATH"] += os.pathsep + '/home/kasia/Pobrane/geckodrive/'
+    os.environ["PATH"] += os.pathsep + os.getcwd()
 
-    config = {}
-    with open("configuration_file.txt", "r") as conf_file:
-        for line in conf_file:
-            name, val = line.partition("=")[::2]
-            config[name.strip()] = val.replace("\n", "")
+    # config = {}
+    # with open("configuration_file.txt", "r") as conf_file:
+    #     for line in conf_file:
+    #         name, val = line.partition("=")[::2]
+    #         config[name.strip()] = val.replace("\n", "")
 
 
-    country_list = ['Austria', 'Australia','Albania','Algeria','Brazil','Bulgaria','Belgium','Canada','China','Cuba','Cyprus','Croatia','Czech Republic','Denmark','Egypt','England','Estonia','Finland','France','Germany','Georgia','Greece','Hungary','Iceland','Ireland','Israel','Italy','Lithuania','Lativa','Malta','Mexico','Netherlands','New Zeland','Norway','Poland','Portugal','Russia','Romania','Saudi Arabia','Scotland','Spain','Singapore','Sweden','South Korea','Switzerland','Tunisia','Turkey','Thailand','Ukraine','United States']
+    country_list = []#'Austria', 'Australia','Albania','Algeria','Brazil','Bulgaria','Belgium','Canada','China','Cuba','Cyprus','Croatia','Czech Republic','Denmark','Egypt','England','Estonia','Finland','France','Germany','Georgia','Greece','Hungary','Iceland','Ireland','Israel','Italy','Lithuania','Lativa','Malta','Mexico','Netherlands','New Zeland','Norway','Poland','Portugal','Russia','Romania','Saudi Arabia','Scotland','Spain','Singapore','Sweden','South Korea','Switzerland','Tunisia','Turkey','Thailand','Ukraine','United States']
 
     connections_list = list(itertools.product(country_list, repeat=2))
 
@@ -31,22 +31,32 @@ def main():
 
     print("------Uruchomienie programu--------\n" + currentDT.strftime("%Y-%m-%d_%H:%M"))
 
-    output_file = open("flight_prices" +".txt", "a")
-    output_file.write("Scrap_date;Scrap_time;Country_from;Country_to;Flight_id;Flight_date;Airline;Change;Price;Depart_hour;Depart_from;Arrival_hour;Arrive_to\n")
+    catalog = "flight_prices/"
 
-    print("------Nazwa pliku--------\n" + output_file.name)
+    if not os.path.exists(catalog):
+        os.makedirs(catalog)
 
-    print("------Lista scrapowanych połączeń--------")
-    print(connections_list)
+    file_path = catalog + currentDT.strftime("%Y-%m-%d") + ".txt"
+    file_exists = os.path.exists(file_path)
 
-    print("\n\n")
+    with open(file_path, "a") as output_file:
+        if not file_exists:
+            output_file.write("Scrap_date;Scrap_time;Country_from;Country_to;Flight_id;Flight_date;Airline;Change;Price;Depart_hour;Depart_from;Arrival_hour;Arrive_to\n")
+            output_file.flush()
 
-    for element in connections_list:
-        print("Zaczynam scrapowanie: ")
-        print(element)
-        link = choose_settings(element[0],element[1])
-        scraper = ScrapData()
-        scraper.scrap(element[0],element[1], link, output_file.name, currentDT)
+        print("------Nazwa pliku--------\n" + output_file.name)
+
+        print("------Lista scrapowanych połączeń--------")
+        print(connections_list)
+
+        print("\n\n")
+
+        for element in connections_list:
+            print("Zaczynam scrapowanie: ")
+            print(element)
+            link = choose_settings(element[0],element[1])
+            scraper = ScrapData()
+            scraper.scrap(element[0],element[1], link, output_file.name, currentDT)
 
 
 
@@ -94,7 +104,7 @@ def choose_settings(country_from, country_to):
     search.click()
 
     try:
-        WebDriverWait(browser, 300).until(EC.url_changes(old_url))
+        WebDriverWait(browser, 60).until(EC.url_changes(old_url))
 
         if check_exists_by_xpath(browser,'@value="Repeat query" and @name="resultSubmit"'):
             raise TimeoutException
