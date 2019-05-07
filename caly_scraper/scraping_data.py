@@ -28,97 +28,86 @@ class ScrapData():
         scrap_date = time.strftime("%Y-%m-%d")
         scrap_time = time.strftime("%H:%M")
 
-        with open(file, "a") as f:
+        #with open(file, "a") as f:
 
-            #myfile.write("appended text")
-            #self.write_data(myfile)
-            licznik = 0
-            ii = 0
-            licz_ceny = 0
-            i = 0
-            id_podrozy = 1
+        #myfile.write("appended text")
+        #self.write_data(myfile)
+        licznik = 0
+        ii = 0
+        licz_ceny = 0
+        i = 0
+        id_podrozy = 1
 
-            #print(len(change))
+        #print(len(change))
 
-            print('zaczynam zapisywanie dla.. ' + country_from + " - "+ country_to)
+        print('zaczynam zapisywanie dla.. ' + country_from + " - " + country_to)
 
-            while i + ii < len(change):
+        while i + ii < len(change):
+            przes = 0
 
-                if i%2 == 0:
-                    there_or_back = 1
-                else:
-                    there_or_back = 0
+            print(change[i + ii].full_text[9:11])
 
-                przes = 0
+            print(i + ii)
+            print(len(change))
 
-                print(change[i+ii].full_text[9:11])
+            try:
+                while change[i + ii].full_text[9:11] != 'no':
+                    #print('if 1 dla.. ' + country)
 
-                print(i+ii)
-                print(len(change))
+                    przes = 1
 
-                try:
+                    file.write(scrap_date+";"+scrap_time+";"+country_from + ";" + country_to + ";" + str(id_podrozy) + ";"+ \
+                        str(data[i + ii].text[4:]) + ";" + str(przewoznik[licz_ceny].text) + ";" + str(
+                        przes) + ";" + str(cena[licz_ceny].text[1:]) + ";" + str(
+                        skad[licznik + 1].text.replace('\xa0', ' ')[3:8]) + \
+                            ";" + str(skad[licznik + 1].text.replace('\xa0', ' ')[9:]) + ";" + str(
+                        to[licznik+1].text[:5]) + ";" + str(to[licznik+1].text[6:]) + "\n")
+                    licz_ceny += 1
+                    licznik += 1
+                    file.write(scrap_date+";"+scrap_time+";"+country_from + ";" + country_to + ";" + str(id_podrozy) + ";"+ \
+                        str(data[i + ii].text[4:]) + ";" + str(przewoznik[licz_ceny].text) + ";" + str(
+                        przes) + ";" + str(cena[licz_ceny].text[1:]) + ";" + str(
+                        skad[licznik + 1].text.replace('\xa0', ' ')[3:8]) + \
+                            ";" + str(skad[licznik + 1].text.replace('\xa0', ' ')[9:]) + ";" + str(
+                        to[licznik-1].text[:5]) + ";" + str(to[licznik-1].text[6:]) + "\n")
+                    licz_ceny += 1
+                    licznik += 2
+                    ii += 1
 
-                    while change[i+ii].full_text[9:11] != 'no':
+            except IndexError:
+                print("Something went wrong")
 
-                        #print('if 1 dla.. ' + country)
-
-                        przes = 1
-
-                        f.write(scrap_date+";"+scrap_time+";"+country_from + ";" + country_to + ";" + str(id_podrozy) + ";"+ \
-                            str(data[i + ii].text[4:]) + ";" + str(przewoznik[licz_ceny].text) + ";" + str(
-                            przes) + ";" + str(cena[licz_ceny].text[1:]) + ";" + str(
-                            skad[licznik + 1].text.replace('\xa0', ' ')[3:8]) + \
-                                ";" + str(skad[licznik + 1].text.replace('\xa0', ' ')[9:]) + ";" + str(
-                            to[licznik+1].text[:5]) + ";" + str(to[licznik+1].text[6:]) + "\n")
-                        licz_ceny += 1
-                        licznik += 1
-                        f.write(scrap_date+";"+scrap_time+";"+country_from + ";" + country_to + ";" + str(id_podrozy) + ";"+ \
-                            str(data[i + ii].text[4:]) + ";" + str(przewoznik[licz_ceny].text) + ";" + str(
-                            przes) + ";" + str(cena[licz_ceny].text[1:]) + ";" + str(
-                            skad[licznik + 1].text.replace('\xa0', ' ')[3:8]) + \
-                                ";" + str(skad[licznik + 1].text.replace('\xa0', ' ')[9:]) + ";" + str(
-                            to[licznik-1].text[:5]) + ";" + str(to[licznik-1].text[6:]) + "\n")
-                        licz_ceny += 1
-                        licznik += 2
-                        ii += 1
-
-                except IndexError:
-                    print("Something went wrong")
-
-                    #if ii%3==0:
-                        #id_podrozy += 1
-
-                # ?? dodane ify żeby się nie wywalało, ale teraz część się w ogóle nie zapisuje
-
-                if len(to)>licznik:
-                    #if len(to[licznik].text)<7 and len(skad[licznik + 1].text.replace('\xa0', ' '))<10:
-
-                    f.write(
-                        scrap_date+";"+scrap_time+";"+country_from + ";" + country_to + ";" + str(id_podrozy) + ";"+ \
-                        str(data[i + ii].text[4:]) + ";" + str(przewoznik[licz_ceny].text) + ";" + str(przes) + ";" + str(
-                            cena[licz_ceny].text[1:]) + ";" + str(skad[licznik + 1].text.replace('\xa0', ' ')[3:8]) + \
-                        ";" + str(skad[licznik + 1].text.replace('\xa0', ' ')[9:]) + ";" + str(
-                            to[licznik].text[:5]) + ";" + str(to[licznik].text[6:]) + "\n")
-
+                #if ii%3==0:
                     #id_podrozy += 1
 
-                licz_ceny += 1
-                licznik += 2
-                i += 1
+            # ?? dodane ify żeby się nie wywalało, ale teraz część się w ogóle nie zapisuje
 
-                if przes == 0 and i%2 == 0:
-                    id_podrozy += 1
+            if len(to) > licznik:
+                #if len(to[licznik].text)<7 and len(skad[licznik + 1].text.replace('\xa0', ' '))<10:
 
+                file.write(
+                    scrap_date+";"+scrap_time+";"+country_from + ";" + country_to + ";" + str(id_podrozy) + ";"+ \
+                    str(data[i + ii].text[4:]) + ";" + str(przewoznik[licz_ceny].text) + ";" + str(przes) + ";" + str(
+                        cena[licz_ceny].text[1:]) + ";" + str(skad[licznik + 1].text.replace('\xa0', ' ')[3:8]) + \
+                    ";" + str(skad[licznik + 1].text.replace('\xa0', ' ')[9:]) + ";" + str(
+                        to[licznik].text[:5]) + ";" + str(to[licznik].text[6:]) + "\n")
 
-                print('-----')
+                #id_podrozy += 1
 
+            licz_ceny += 1
+            licznik += 2
+            i += 1
 
-                #print("----2------")
-                #print(licz_ceny)
-                #print(licznik)
-                #print(i)
+            if przes == 0 and i % 2 == 0:
+                id_podrozy += 1
 
+            print('-----')
 
-        f.close()
-        print(country_from + " - "+ country_to + " skończone!")
+            #print("----2------")
+            #print(licz_ceny)
+            #print(licznik)
+            #print(i)
+
+        file.flush()
+        print(country_from + " - " + country_to + " skończone!")
 

@@ -6,15 +6,14 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException
-from scraping_data import ScrapData
 from pyvirtualdisplay import Display
+from scraping_data import ScrapData
 import itertools
 import os
 import datetime
 
 
 def main():
-
     main_directory = os.path.dirname(os.path.abspath(__file__))
     os.environ["PATH"] += os.pathsep + main_directory
 
@@ -24,11 +23,9 @@ def main():
     #         name, val = line.partition("=")[::2]
     #         config[name.strip()] = val.replace("\n", "")
 
-
     country_list = ['Austria','Australia','Albania','Algeria','Brazil','Bulgaria','Belgium','Canada','China','Cuba','Cyprus','Croatia','Czech Republic','Denmark','Egypt','England','Estonia','Finland','France','Germany','Georgia','Greece','Hungary','Iceland','Ireland','Israel','Italy','Lithuania','Lativa','Malta','Mexico','Netherlands','New Zeland','Norway','Poland','Portugal','Russia','Romania','Saudi Arabia','Scotland','Spain','Singapore','Sweden','South Korea','Switzerland','Tunisia','Turkey','Thailand','Ukraine','United States']
 
     connections_list = list(itertools.product(country_list, repeat=2))
-
     currentDT = datetime.datetime.now()
 
     print("------Uruchomienie programu--------\n" + currentDT.strftime("%Y-%m-%d_%H:%M"))
@@ -41,9 +38,9 @@ def main():
     file_path = catalog + currentDT.strftime("%Y-%m-%d") + ".txt"
     file_exists = os.path.exists(file_path)
 
-    display = Display(visible=0, size=(800, 600))
+    display = Display(visible = 0, size = (800, 600))
     display.start()
-
+    
     with open(file_path, "a") as output_file:
         if not file_exists:
             output_file.write("Scrap_date;Scrap_time;Country_from;Country_to;Flight_id;Flight_date;Airline;Change;Price;Depart_hour;Depart_from;Arrival_hour;Arrive_to\n")
@@ -51,8 +48,8 @@ def main():
 
         print("------Nazwa pliku--------\n" + output_file.name)
 
-        print("------Lista scrapowanych poĹ‚Ä…czeĹ„--------")
-        print(connections_list)
+        #print("------Lista scrapowanych polaczen--------")
+        #print(connections_list)
 
         print("\n\n")
 
@@ -61,18 +58,17 @@ def main():
             print(element)
             link = choose_settings(element[0],element[1])
             scraper = ScrapData()
-            scraper.scrap(element[0],element[1], link, output_file.name, currentDT)
-
-
-
+            scraper.scrap(element[0], element[1], link, output_file, currentDT)
 
 
 def choose_settings(country_from, country_to):
     options = Options()
     options.add_argument('--headless')
 
+    logs_path = os.path.dirname(os.path.abspath(__file__)) + '/Log/geckodriver.log'
+
     # Using Chrome to access web
-    with webdriver.Firefox(options=options) as browser:
+    with webdriver.Firefox(options = options, service_log_path = logs_path) as browser:
         website = 'http://www.azair.eu'
 
         # Open the website
@@ -108,13 +104,13 @@ def choose_settings(country_from, country_to):
         search.click()
 
         try:
-	        WebDriverWait(browser, 60).until(EC.url_changes(old_url))
+            WebDriverWait(browser, 60).until(EC.url_changes(old_url))
 
-	        if check_exists_by_xpath(browser,'@value="Repeat query" and @name="resultSubmit"'):
-		        raise TimeoutException
+            if check_exists_by_xpath(browser,'@value="Repeat query" and @name="resultSubmit"'):
+                raise TimeoutException
 
         except TimeoutException:
-	        print("Timed out waiting for page to load")
+            print("Timed out waiting for page to load")
 
         print(browser.current_url)
 
