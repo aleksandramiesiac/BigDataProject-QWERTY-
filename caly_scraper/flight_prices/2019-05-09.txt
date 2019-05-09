@@ -1,0 +1,545 @@
+Scrap_date;Scrap_time;Country_from;Country_to;Flight_id;There_or_Back;Flight_date;Airline;Change;Price;Depart_hour;Depart_from;Arrival_hour;Arrive_to
+2019-05-09;21:18;Austria;Austria;1;There;14/07/19;Laudamotion;1;9.99;20:45;Vienna VIE;21:45;Krakow KRK OE1304
+2019-05-09;21:18;Austria;Austria;1;There;14/07/19;Laudamotion;1;9.07;22:40;Krakow KRK;23:40;Vienna VIE
+2019-05-09;21:18;Austria;Austria;1;Back;21/07/19;Laudamotion;1;9.99;20:45;Vienna VIE;21:45;Krakow KRK OE1304
+2019-05-09;21:18;Austria;Austria;1;Back;21/07/19;Laudamotion;1;9.07;22:40;Krakow KRK;23:40;Vienna VIE
+2019-05-09;21:18;Austria;Austria;2;There;09/06/19;Laudamotion;1;9.99;20:45;Vienna VIE;21:45;Krakow KRK OE1304
+2019-05-09;21:18;Austria;Austria;2;There;09/06/19;Laudamotion;1;9.07;22:40;Krakow KRK;23:40;Vienna VIE
+2019-05-09;21:18;Austria;Austria;2;Back;16/06/19;Laudamotion;1;9.99;20:45;Vienna VIE;21:45;Krakow KRK OE1304
+2019-05-09;21:18;Austria;Austria;2;Back;16/06/19;Laudamotion;1;9.07;22:40;Krakow KRK;23:40;Vienna VIE
+2019-05-09;21:18;Austria;Austria;3;There;07/07/19;Laudamotion;1;9.99;20:45;Vienna VIE;21:45;Krakow KRK OE1304
+2019-05-09;21:18;Austria;Austria;3;There;07/07/19;Laudamotion;1;9.07;22:40;Krakow KRK;23:40;Vienna VIE
+2019-05-09;21:18;Austria;Austria;3;Back;14/07/19;Laudamotion;1;9.99;20:45;Vienna VIE;21:45;Krakow KRK OE1304
+2019-05-09;21:18;Austria;Austria;3;Back;14/07/19;Laudamotion;1;9.07;22:40;Krakow KRK;23:40;Vienna VIE
+2019-05-09;21:18;Austria;Austria;4;There;30/06/19;Laudamotion;1;9.99;20:45;Vienna VIE;21:45;Krakow KRK OE1304
+2019-05-09;21:18;Austria;Austria;4;There;30/06/19;Laudamotion;1;9.07;22:40;Krakow KRK;23:40;Vienna VIE
+2019-05-09;21:18;Austria;Austria;4;Back;07/07/19;Laudamotion;1;9.99;20:45;Vienna VIE;21:45;Krakow KRK OE1304
+2019-05-09;21:18;Austria;Austria;4;Back;07/07/19;Laudamotion;1;9.07;22:40;Krakow KRK;23:40;Vienna VIE
+2019-05-09;21:18;Austria;Austria;5;There;19/05/19;Laudamotion;1;9.99;20:45;Vienna VIE;21:45;Krakow KRK OE1304
+2019-05-09;21:18;Austria;Austria;5;There;19/05/19;Laudamotion;1;9.07;22:40;Krakow KRK;23:40;Vienna VIE
+2019-05-09;21:18;Austria;Austria;5;Back;26/05/19;Laudamotion;1;9.99;20:45;Vienna VIE;21:45;Krakow KRK OE1304
+2019-05-09;21:18;Austria;Austria;5;Back;26/05/19;Laudamotion;1;9.07;22:40;Krakow KRK;23:40;Vienna VIE
+2019-05-09;21:18;Austria;Austria;6;There;21/07/19;Laudamotion;1;9.99;20:45;Vienna VIE;21:45;Krakow KRK OE1304
+2019-05-09;21:18;Austria;Austria;6;There;21/07/19;Laudamotion;1;9.07;22:40;Krakow KRK;23:40;Vienna VIE
+2019-05-09;21:18;Austria;Austria;6;Back;28/07/19;Laudamotion;1;9.99;20:45;Vienna VIE;21:45;Krakow KRK OE1304
+2019-05-09;21:18;Austria;Austria;6;Back;28/07/19;Laudamotion;1;9.07;22:40;Krakow KRK;23:40;Vienna VIE
+2019-05-09;21:18;Austria;Austria;7;There;23/07/19;Laudamotion;1;9.99;06:20;Vienna VIE;08:00;Rome FCORome (Fiumicino) FCO OE1308
+2019-05-09;21:18;Austria;Austria;7;There;23/07/19;Laudamotion;1;9.99;21:25;Rome FCORome (Fiumicino) FCO;23:05;Vienna VIE
+2019-05-09;21:18;Austria;Austria;7;Back;28/07/19;Laudamotion;1;9.99;20:45;Vienna VIE;21:45;Krakow KRK OE1304
+2019-05-09;21:18;Austria;Austria;7;Back;28/07/19;Laudamotion;1;9.07;22:40;Krakow KRK;23:40;Vienna VIE
+2019-05-09;21:18;Austria;Austria;8;There;24/07/19;Laudamotion;1;9.99;05:45;Vienna VIE;07:25;Rome FCORome (Fiumicino) FCO OE1308
+2019-05-09;21:18;Austria;Austria;8;There;24/07/19;Laudamotion;1;9.99;21:25;Rome FCORome (Fiumicino) FCO;23:05;Vienna VIE
+2019-05-09;21:18;Austria;Austria;8;Back;28/07/19;Laudamotion;1;9.99;20:45;Vienna VIE;21:45;Krakow KRK OE1304
+2019-05-09;21:18;Austria;Austria;8;Back;28/07/19;Laudamotion;1;9.07;22:40;Krakow KRK;23:40;Vienna VIE
+2019-05-09;21:18;Austria;Austria;9;There;15/05/19;Laudamotion;1;9.99;12:30;Vienna VIE;14:55;Palma Mall PMI OE122
+2019-05-09;21:18;Austria;Austria;9;There;15/05/19;Laudamotion;1;9.99;16:00;Palma Mall PMI;18:20;Vienna VIE
+2019-05-09;21:18;Austria;Austria;9;Back;19/05/19;Laudamotion;1;9.99;20:45;Vienna VIE;21:45;Krakow KRK OE1304
+2019-05-09;21:18;Austria;Austria;9;Back;19/05/19;Laudamotion;1;9.07;22:40;Krakow KRK;23:40;Vienna VIE
+2019-05-09;21:18;Austria;Austria;10;There;01/07/19;Laudamotion;1;9.99;06:20;Vienna VIE;08:00;Rome FCORome (Fiumicino) FCO OE1308
+2019-05-09;21:18;Austria;Austria;10;There;01/07/19;Laudamotion;1;9.99;21:25;Rome FCORome (Fiumicino) FCO;23:05;Vienna VIE
+2019-05-09;21:18;Austria;Austria;10;Back;07/07/19;Laudamotion;1;9.99;20:45;Vienna VIE;21:45;Krakow KRK OE1304
+2019-05-09;21:18;Austria;Austria;10;Back;07/07/19;Laudamotion;1;9.07;22:40;Krakow KRK;23:40;Vienna VIE
+2019-05-09;21:18;Austria;Austria;11;There;01/07/19;Laudamotion;1;9.99;06:20;Vienna VIE;08:00;Rome FCORome (Fiumicino) FCO OE1308
+2019-05-09;21:18;Austria;Austria;11;There;01/07/19;Laudamotion;1;9.99;08:55;Rome FCORome (Fiumicino) FCO;10:35;Vienna VIE
+2019-05-09;21:18;Austria;Austria;11;Back;07/07/19;Laudamotion;1;9.99;20:45;Vienna VIE;21:45;Krakow KRK OE1304
+2019-05-09;21:18;Austria;Austria;11;Back;07/07/19;Laudamotion;1;9.07;22:40;Krakow KRK;23:40;Vienna VIE
+2019-05-09;21:18;Austria;Austria;12;There;07/07/19;Laudamotion;1;9.99;20:45;Vienna VIE;21:45;Krakow KRK OE1304
+2019-05-09;21:18;Austria;Austria;12;There;07/07/19;Laudamotion;1;9.07;22:40;Krakow KRK;23:40;Vienna VIE
+2019-05-09;21:18;Austria;Austria;12;Back;12/07/19;Laudamotion;1;9.99;06:35;Vienna VIE;08:15;Rome FCORome (Fiumicino) FCO OE1308
+2019-05-09;21:18;Austria;Austria;12;Back;12/07/19;Laudamotion;1;9.99;21:25;Rome FCORome (Fiumicino) FCO;23:05;Vienna VIE
+2019-05-09;21:18;Austria;Austria;13;There;30/06/19;Laudamotion;1;9.99;20:45;Vienna VIE;21:45;Krakow KRK OE1304
+2019-05-09;21:18;Austria;Austria;13;There;30/06/19;Laudamotion;1;9.07;22:40;Krakow KRK;23:40;Vienna VIE
+2019-05-09;21:18;Austria;Austria;13;Back;08/07/19;Laudamotion;1;9.99;06:20;Vienna VIE;08:00;Rome FCORome (Fiumicino) FCO OE1308
+2019-05-09;21:18;Austria;Austria;13;Back;08/07/19;Laudamotion;1;9.99;08:55;Rome FCORome (Fiumicino) FCO;10:35;Vienna VIE
+2019-05-09;21:18;Austria;Austria;14;There;13/07/19;Laudamotion;1;9.99;06:20;Vienna VIE;08:00;Rome FCORome (Fiumicino) FCO OE1308
+2019-05-09;21:18;Austria;Austria;14;There;13/07/19;Laudamotion;1;9.99;08:50;Rome FCORome (Fiumicino) FCO;10:30;Vienna VIE
+2019-05-09;21:18;Austria;Austria;14;Back;21/07/19;Laudamotion;1;9.99;20:45;Vienna VIE;21:45;Krakow KRK OE1304
+2019-05-09;21:18;Austria;Austria;14;Back;21/07/19;Laudamotion;1;9.07;22:40;Krakow KRK;23:40;Vienna VIE
+2019-05-09;21:18;Austria;Austria;15;There;30/06/19;Laudamotion;1;9.99;20:45;Vienna VIE;21:45;Krakow KRK OE1304
+2019-05-09;21:18;Austria;Austria;15;There;30/06/19;Laudamotion;1;9.07;22:40;Krakow KRK;23:40;Vienna VIE
+2019-05-09;21:18;Austria;Austria;15;Back;06/07/19;Laudamotion;1;9.99;06:20;Vienna VIE;08:00;Rome FCORome (Fiumicino) FCO OE1308
+2019-05-09;21:18;Austria;Austria;15;Back;06/07/19;Laudamotion;1;9.99;08:50;Rome FCORome (Fiumicino) FCO;10:30;Vienna VIE
+2019-05-09;21:18;Austria;Austria;16;There;07/07/19;Laudamotion;1;9.99;20:45;Vienna VIE;21:45;Krakow KRK OE1304
+2019-05-09;21:18;Austria;Austria;16;There;07/07/19;Laudamotion;1;9.07;22:40;Krakow KRK;23:40;Vienna VIE
+2019-05-09;21:18;Austria;Austria;16;Back;13/07/19;Laudamotion;1;9.99;06:20;Vienna VIE;08:00;Rome FCORome (Fiumicino) FCO OE1308
+2019-05-09;21:18;Austria;Austria;16;Back;13/07/19;Laudamotion;1;9.99;08:50;Rome FCORome (Fiumicino) FCO;10:30;Vienna VIE
+2019-05-09;21:18;Austria;Austria;17;There;14/05/19;easyJet;1;11.81;06:05;Vienna VIE;07:25;Berlin TXLBerlin (Tegel) TXL U25852
+2019-05-09;21:18;Austria;Austria;17;There;14/05/19;easyJet;1;21.75;10:45;Berlin TXLBerlin (Tegel) TXL;12:15;Innsbruck INN
+2019-05-09;21:18;Austria;Austria;17;Back;21/05/19;easyJet;1;5.24;12:55;Innsbruck INN;14:25;Berlin TXLBerlin (Tegel) TXL U25746
+2019-05-09;21:18;Austria;Austria;17;Back;21/05/19;easyJet;1;15.69;21:15;Berlin TXLBerlin (Tegel) TXL;22:35;Vienna VIE
+2019-05-09;21:18;Austria;Austria;18;There;14/05/19;easyJet;1;11.81;06:05;Vienna VIE;07:25;Berlin TXLBerlin (Tegel) TXL U25852
+2019-05-09;21:18;Austria;Austria;18;There;14/05/19;easyJet;1;21.75;10:45;Berlin TXLBerlin (Tegel) TXL;12:15;Innsbruck INN
+2019-05-09;21:18;Austria;Austria;18;Back;21/05/19;easyJet;1;5.24;12:55;Innsbruck INN;14:25;Berlin TXLBerlin (Tegel) TXL U25746
+2019-05-09;21:18;Austria;Austria;18;Back;21/05/19;easyJet;1;15.69;19:25;Berlin TXLBerlin (Tegel) TXL;20:45;Vienna VIE
+2019-05-09;21:18;Austria;Austria;19;There;21/05/19;easyJet;1;9.79;06:05;Vienna VIE;07:25;Berlin TXLBerlin (Tegel) TXL U25852
+2019-05-09;21:18;Austria;Austria;19;There;21/05/19;easyJet;1;26.29;10:45;Berlin TXLBerlin (Tegel) TXL;12:15;Innsbruck INN
+2019-05-09;21:18;Austria;Austria;19;Back;28/05/19;easyJet;1;5.24;12:55;Innsbruck INN;14:25;Berlin TXLBerlin (Tegel) TXL U25746
+2019-05-09;21:18;Austria;Austria;19;Back;28/05/19;easyJet;1;13.67;19:25;Berlin TXLBerlin (Tegel) TXL;20:45;Vienna VIE
+2019-05-09;21:18;Austria;Austria;20;There;21/05/19;easyJet;1;9.79;06:05;Vienna VIE;07:25;Berlin TXLBerlin (Tegel) TXL U25852
+2019-05-09;21:18;Austria;Austria;20;There;21/05/19;easyJet;1;26.29;10:45;Berlin TXLBerlin (Tegel) TXL;12:15;Innsbruck INN
+2019-05-09;21:18;Austria;Austria;20;Back;28/05/19;easyJet;1;5.24;12:55;Innsbruck INN;14:25;Berlin TXLBerlin (Tegel) TXL U25746
+2019-05-09;21:18;Austria;Austria;20;Back;28/05/19;easyJet;1;13.67;21:15;Berlin TXLBerlin (Tegel) TXL;22:35;Vienna VIE
+2019-05-09;21:18;Austria;Austria;21;There;21/05/19;easyJet;1;9.79;08:20;Vienna VIE;09:35;Berlin TXLBerlin (Tegel) TXL U25842
+2019-05-09;21:18;Austria;Austria;21;There;21/05/19;easyJet;1;26.29;10:45;Berlin TXLBerlin (Tegel) TXL;12:15;Innsbruck INN
+2019-05-09;21:18;Austria;Austria;21;Back;28/05/19;easyJet;1;5.24;12:55;Innsbruck INN;14:25;Berlin TXLBerlin (Tegel) TXL U25746
+2019-05-09;21:18;Austria;Austria;21;Back;28/05/19;easyJet;1;13.67;19:25;Berlin TXLBerlin (Tegel) TXL;20:45;Vienna VIE
+2019-05-09;21:18;Austria;Austria;22;There;21/05/19;easyJet;1;9.79;08:20;Vienna VIE;09:35;Berlin TXLBerlin (Tegel) TXL U25842
+2019-05-09;21:18;Austria;Austria;22;There;21/05/19;easyJet;1;26.29;10:45;Berlin TXLBerlin (Tegel) TXL;12:15;Innsbruck INN
+2019-05-09;21:18;Austria;Austria;22;Back;28/05/19;easyJet;1;5.24;12:55;Innsbruck INN;14:25;Berlin TXLBerlin (Tegel) TXL U25746
+2019-05-09;21:18;Austria;Austria;22;Back;28/05/19;easyJet;1;13.67;21:15;Berlin TXLBerlin (Tegel) TXL;22:35;Vienna VIE
+2019-05-09;21:18;Austria;Austria;23;There;14/05/19;easyJet;1;14.33;08:20;Vienna VIE;09:35;Berlin TXLBerlin (Tegel) TXL U25842
+2019-05-09;21:18;Austria;Austria;23;There;14/05/19;easyJet;1;21.75;10:45;Berlin TXLBerlin (Tegel) TXL;12:15;Innsbruck INN
+2019-05-09;21:18;Austria;Austria;23;Back;21/05/19;easyJet;1;5.24;12:55;Innsbruck INN;14:25;Berlin TXLBerlin (Tegel) TXL U25746
+2019-05-09;21:18;Austria;Austria;23;Back;21/05/19;easyJet;1;15.69;19:25;Berlin TXLBerlin (Tegel) TXL;20:45;Vienna VIE
+2019-05-09;21:18;Austria;Austria;24;There;14/05/19;easyJet;1;14.33;08:20;Vienna VIE;09:35;Berlin TXLBerlin (Tegel) TXL U25842
+2019-05-09;21:18;Austria;Austria;24;There;14/05/19;easyJet;1;21.75;10:45;Berlin TXLBerlin (Tegel) TXL;12:15;Innsbruck INN
+2019-05-09;21:18;Austria;Austria;24;Back;21/05/19;easyJet;1;5.24;12:55;Innsbruck INN;14:25;Berlin TXLBerlin (Tegel) TXL U25746
+2019-05-09;21:18;Austria;Austria;24;Back;21/05/19;easyJet;1;15.69;21:15;Berlin TXLBerlin (Tegel) TXL;22:35;Vienna VIE
+2019-05-09;21:18;Austria;Austria;25;There;16/05/19;easyJet;1;11.81;06:05;Vienna VIE;07:25;Berlin TXLBerlin (Tegel) TXL U25852
+2019-05-09;21:18;Austria;Austria;25;There;16/05/19;easyJet;1;20.74;15:00;Berlin TXLBerlin (Tegel) TXL;16:20;Graz GRZ
+2019-05-09;21:18;Austria;Austria;25;Back;23/05/19;easyJet;1;5.24;17:00;Graz GRZ;18:25;Berlin TXLBerlin (Tegel) TXL U25728
+2019-05-09;21:18;Austria;Austria;25;Back;23/05/19;easyJet;1;22.76;21:15;Berlin TXLBerlin (Tegel) TXL;22:35;Vienna VIE
+2019-05-09;21:18;Austria;Austria;26;There;28/05/19;easyJet;1;5.24;12:55;Innsbruck INN;14:25;Berlin TXLBerlin (Tegel) TXL U25746
+2019-05-09;21:18;Austria;Austria;26;There;28/05/19;easyJet;1;13.67;21:15;Berlin TXLBerlin (Tegel) TXL;22:35;Vienna VIE
+2019-05-09;21:18;Austria;Austria;26;Back;04/06/19;easyJet;1;18.88;08:20;Vienna VIE;09:35;Berlin TXLBerlin (Tegel) TXL U25842
+2019-05-09;21:18;Austria;Austria;26;Back;04/06/19;easyJet;1;22.76;10:45;Berlin TXLBerlin (Tegel) TXL;12:15;Innsbruck INN
+2019-05-09;21:18;Austria;Austria;27;There;28/05/19;easyJet;1;5.24;12:55;Innsbruck INN;14:25;Berlin TXLBerlin (Tegel) TXL U25746
+2019-05-09;21:18;Austria;Austria;27;There;28/05/19;easyJet;1;13.67;19:25;Berlin TXLBerlin (Tegel) TXL;20:45;Vienna VIE
+2019-05-09;21:18;Austria;Austria;27;Back;04/06/19;easyJet;1;18.88;08:20;Vienna VIE;09:35;Berlin TXLBerlin (Tegel) TXL U25842
+2019-05-09;21:18;Austria;Austria;27;Back;04/06/19;easyJet;1;22.76;10:45;Berlin TXLBerlin (Tegel) TXL;12:15;Innsbruck INN
+2019-05-09;21:18;Austria;Austria;28;There;17/09/19;easyJet;1;14.33;08:20;Vienna VIE;09:35;Berlin TXLBerlin (Tegel) TXL U25842
+2019-05-09;21:18;Austria;Austria;28;There;17/09/19;easyJet;1;23.77;10:45;Berlin TXLBerlin (Tegel) TXL;12:15;Innsbruck INN
+2019-05-09;21:18;Austria;Austria;28;Back;24/09/19;easyJet;1;6.25;12:55;Innsbruck INN;14:25;Berlin TXLBerlin (Tegel) TXL U25746
+2019-05-09;21:18;Austria;Austria;28;Back;24/09/19;easyJet;1;18.21;19:25;Berlin TXLBerlin (Tegel) TXL;20:45;Vienna VIE
+2019-05-09;21:18;Austria;Austria;29;There;31/05/19;Laudamotion;1;29.57;05:30;Vienna VIE;07:55;Palma Mall PMI OE500
+2019-05-09;21:18;Austria;Austria;29;There;31/05/19;Laudamotion;1;9.99;12:40;Palma Mall PMI;14:45;Salzburg SZG
+2019-05-09;21:18;Austria;Austria;29;Back;05/06/19;Laudamotion;1;24.99;15:20;Salzburg SZG;17:20;Palma Mall PMI OE542
+2019-05-09;21:18;Austria;Austria;29;Back;05/06/19;Laudamotion;1;19.99;20:40;Palma Mall PMI;23:00;Vienna VIE
+2019-05-09;21:18;Austria;Austria;30;There;13/06/19;easyJet;1;21.40;08:20;Vienna VIE;09:35;Berlin TXLBerlin (Tegel) TXL U25842
+2019-05-09;21:18;Austria;Austria;30;There;13/06/19;easyJet;1;13.67;15:00;Berlin TXLBerlin (Tegel) TXL;16:20;Graz GRZ
+2019-05-09;21:18;Austria;Austria;30;Back;18/06/19;easyJet;1;16.86;17:00;Graz GRZ;18:25;Berlin TXLBerlin (Tegel) TXL U25728
+2019-05-09;21:18;Austria;Austria;30;Back;18/06/19;easyJet;1;15.69;19:25;Berlin TXLBerlin (Tegel) TXL;20:45;Vienna VIE
+2019-05-09;21:18;Austria;Austria;31;There;15/10/19;easyJet;1;5.24;12:55;Innsbruck INN;14:25;Berlin TXLBerlin (Tegel) TXL U25746
+2019-05-09;21:18;Austria;Austria;31;There;15/10/19;easyJet;1;20.74;19:25;Berlin TXLBerlin (Tegel) TXL;20:45;Vienna VIE
+2019-05-09;21:18;Austria;Austria;31;Back;22/10/19;easyJet;1;21.40;08:20;Vienna VIE;09:35;Berlin TXLBerlin (Tegel) TXL U25842
+2019-05-09;21:18;Austria;Austria;31;Back;22/10/19;easyJet;1;20.74;10:45;Berlin TXLBerlin (Tegel) TXL;12:15;Innsbruck INN
+2019-05-09;21:18;Austria;Austria;32;There;16/05/19;easyJet;1;11.81;06:05;Vienna VIE;07:25;Berlin TXLBerlin (Tegel) TXL U25852
+2019-05-09;21:18;Austria;Austria;32;There;16/05/19;easyJet;1;20.74;15:00;Berlin TXLBerlin (Tegel) TXL;16:20;Graz GRZ
+2019-05-09;21:18;Austria;Austria;32;Back;21/05/19;easyJet;1;19.89;17:00;Graz GRZ;18:25;Berlin TXLBerlin (Tegel) TXL U25728
+2019-05-09;21:18;Austria;Austria;32;Back;21/05/19;easyJet;1;15.69;21:15;Berlin TXLBerlin (Tegel) TXL;22:35;Vienna VIE
+2019-05-09;21:18;Austria;Austria;33;There;16/05/19;easyJet;1;11.81;06:05;Vienna VIE;07:25;Berlin TXLBerlin (Tegel) TXL U25852
+2019-05-09;21:18;Austria;Austria;33;There;16/05/19;easyJet;1;20.74;15:00;Berlin TXLBerlin (Tegel) TXL;16:20;Graz GRZ
+2019-05-09;21:18;Austria;Austria;33;Back;21/05/19;easyJet;1;19.89;17:00;Graz GRZ;18:25;Berlin TXLBerlin (Tegel) TXL U25728
+2019-05-09;21:18;Austria;Austria;33;Back;21/05/19;easyJet;1;15.69;19:25;Berlin TXLBerlin (Tegel) TXL;20:45;Vienna VIE
+2019-05-09;21:18;Austria;Austria;34;There;31/05/19;Laudamotion;1;29.57;05:30;Vienna VIE;07:55;Palma Mall PMI OE500
+2019-05-09;21:18;Austria;Austria;34;There;31/05/19;Laudamotion;1;9.99;12:40;Palma Mall PMI;14:45;Salzburg SZG
+2019-05-09;21:18;Austria;Austria;34;Back;04/06/19;Laudamotion;1;24.99;15:20;Salzburg SZG;17:20;Palma Mall PMI OE542
+2019-05-09;21:18;Austria;Austria;34;Back;04/06/19;Eurowings;1;24.99;19:40;Palma Mall PMI;22:10;Vienna VIE
+2019-05-09;21:18;Austria;Austria;35;There;08/10/19;easyJet;1;21.40;08:20;Vienna VIE;09:35;Berlin TXLBerlin (Tegel) TXL U25842
+2019-05-09;21:18;Austria;Austria;35;There;08/10/19;easyJet;1;22.76;10:45;Berlin TXLBerlin (Tegel) TXL;12:15;Innsbruck INN
+2019-05-09;21:18;Austria;Austria;35;Back;15/10/19;easyJet;1;5.24;12:55;Innsbruck INN;14:25;Berlin TXLBerlin (Tegel) TXL U25746
+2019-05-09;21:18;Austria;Austria;35;Back;15/10/19;easyJet;1;20.74;19:25;Berlin TXLBerlin (Tegel) TXL;20:45;Vienna VIE
+2019-05-09;21:18;Austria;Austria;36;There;18/06/19;easyJet;1;18.88;08:20;Vienna VIE;09:35;Berlin TXLBerlin (Tegel) TXL U25842
+2019-05-09;21:18;Austria;Austria;36;There;18/06/19;easyJet;1;22.76;10:45;Berlin TXLBerlin (Tegel) TXL;12:15;Innsbruck INN
+2019-05-09;21:18;Austria;Austria;36;Back;25/06/19;easyJet;1;13.32;12:55;Innsbruck INN;14:25;Berlin TXLBerlin (Tegel) TXL U25746
+2019-05-09;21:18;Austria;Austria;36;Back;25/06/19;easyJet;1;15.69;19:25;Berlin TXLBerlin (Tegel) TXL;20:45;Vienna VIE
+2019-05-09;21:18;Austria;Austria;37;There;18/05/19;easyJet;1;11.81;06:05;Vienna VIE;07:25;Berlin TXLBerlin (Tegel) TXL U25852
+2019-05-09;21:18;Austria;Austria;37;There;18/05/19;easyJet;1;30.84;08:30;Berlin TXLBerlin (Tegel) TXL;09:50;Graz GRZ
+2019-05-09;21:18;Austria;Austria;37;Back;23/05/19;easyJet;1;5.24;17:00;Graz GRZ;18:25;Berlin TXLBerlin (Tegel) TXL U25728
+2019-05-09;21:18;Austria;Austria;37;Back;23/05/19;easyJet;1;22.76;21:15;Berlin TXLBerlin (Tegel) TXL;22:35;Vienna VIE
+2019-05-09;21:18;Austria;Austria;38;There;20/08/19;easyJet;1;11.81;17:00;Graz GRZ;18:25;Berlin TXLBerlin (Tegel) TXL U25728
+2019-05-09;21:18;Austria;Austria;38;There;20/08/19;easyJet;1;18.21;19:25;Berlin TXLBerlin (Tegel) TXL;20:45;Vienna VIE
+2019-05-09;21:18;Austria;Austria;38;Back;27/08/19;easyJet;1;23.42;11:25;Vienna VIE;12:45;Berlin TXLBerlin (Tegel) TXL U25844
+2019-05-09;21:18;Austria;Austria;38;Back;27/08/19;easyJet;1;18.21;15:00;Berlin TXLBerlin (Tegel) TXL;16:20;Graz GRZ
+2019-05-09;21:18;Austria;Austria;39;There;20/08/19;easyJet;1;11.81;17:00;Graz GRZ;18:25;Berlin TXLBerlin (Tegel) TXL U25728
+2019-05-09;21:18;Austria;Austria;39;There;20/08/19;easyJet;1;18.21;19:25;Berlin TXLBerlin (Tegel) TXL;20:45;Vienna VIE
+2019-05-09;21:18;Austria;Austria;39;Back;27/08/19;easyJet;1;23.42;08:20;Vienna VIE;09:35;Berlin TXLBerlin (Tegel) TXL U25842
+2019-05-09;21:18;Austria;Austria;39;Back;27/08/19;easyJet;1;18.21;15:00;Berlin TXLBerlin (Tegel) TXL;16:20;Graz GRZ
+2019-05-09;21:18;Austria;Austria;40;There;18/05/19;easyJet;1;11.81;06:05;Vienna VIE;07:25;Berlin TXLBerlin (Tegel) TXL U25852
+2019-05-09;21:18;Austria;Austria;40;There;18/05/19;easyJet;1;30.84;10:45;Berlin TXLBerlin (Tegel) TXL;12:15;Innsbruck INN
+2019-05-09;21:18;Austria;Austria;40;Back;23/05/19;easyJet;1;13.32;09:50;Innsbruck INN;11:20;Berlin TXLBerlin (Tegel) TXL U25746
+2019-05-09;21:18;Austria;Austria;40;Back;23/05/19;easyJet;1;15.69;17:10;Berlin TXLBerlin (Tegel) TXL;18:30;Vienna VIE
+2019-05-09;21:18;Austria;Austria;41;There;16/05/19;easyJet;1;13.32;09:50;Innsbruck INN;11:20;Berlin TXLBerlin (Tegel) TXL U25746
+2019-05-09;21:18;Austria;Austria;41;There;16/05/19;easyJet;1;22.76;21:15;Berlin TXLBerlin (Tegel) TXL;22:35;Vienna VIE
+2019-05-09;21:18;Austria;Austria;41;Back;21/05/19;easyJet;1;9.79;06:05;Vienna VIE;07:25;Berlin TXLBerlin (Tegel) TXL U25852
+2019-05-09;21:18;Austria;Austria;41;Back;21/05/19;easyJet;1;26.29;10:45;Berlin TXLBerlin (Tegel) TXL;12:15;Innsbruck INN
+2019-05-09;21:18;Austria;Austria;42;There;16/05/19;easyJet;1;13.32;09:50;Innsbruck INN;11:20;Berlin TXLBerlin (Tegel) TXL U25746
+2019-05-09;21:18;Austria;Austria;42;There;16/05/19;easyJet;1;22.76;21:15;Berlin TXLBerlin (Tegel) TXL;22:35;Vienna VIE
+2019-05-09;21:18;Austria;Austria;42;Back;21/05/19;easyJet;1;9.79;08:20;Vienna VIE;09:35;Berlin TXLBerlin (Tegel) TXL U25842
+2019-05-09;21:18;Austria;Austria;42;Back;21/05/19;easyJet;1;26.29;10:45;Berlin TXLBerlin (Tegel) TXL;12:15;Innsbruck INN
+2019-05-09;21:18;Austria;Austria;43;There;15/08/19;easyJet;1;9.79;08:35;Graz GRZ;10:00;Berlin TXLBerlin (Tegel) TXL U25728
+2019-05-09;21:18;Austria;Austria;43;There;15/08/19;easyJet;1;18.21;18:45;Berlin TXLBerlin (Tegel) TXL;20:05;Vienna VIE
+2019-05-09;21:18;Austria;Austria;43;Back;20/08/19;easyJet;1;23.42;08:20;Vienna VIE;09:35;Berlin TXLBerlin (Tegel) TXL U25842
+2019-05-09;21:18;Austria;Austria;43;Back;20/08/19;easyJet;1;21.75;15:00;Berlin TXLBerlin (Tegel) TXL;16:20;Graz GRZ
+2019-05-09;21:18;Austria;Austria;44;There;15/08/19;easyJet;1;9.79;08:35;Graz GRZ;10:00;Berlin TXLBerlin (Tegel) TXL U25728
+2019-05-09;21:18;Austria;Austria;44;There;15/08/19;easyJet;1;18.21;17:10;Berlin TXLBerlin (Tegel) TXL;18:30;Vienna VIE
+2019-05-09;21:18;Austria;Austria;44;Back;20/08/19;easyJet;1;23.42;08:20;Vienna VIE;09:35;Berlin TXLBerlin (Tegel) TXL U25842
+2019-05-09;21:18;Austria;Austria;44;Back;20/08/19;easyJet;1;21.75;15:00;Berlin TXLBerlin (Tegel) TXL;16:20;Graz GRZ
+2019-05-09;21:18;Austria;Austria;45;There;24/10/19;easyJet;1;25.95;13:50;Salzburg SZG;15:10;Berlin SXFBerlin (Schonefeld) SXF U24796
+2019-05-09;21:18;Austria;Austria;45;There;24/10/19;easyJet;1;13.67;18:55;Berlin SXFBerlin (Schonefeld) SXF;20:20;Vienna VIE
+2019-05-09;21:18;Austria;Austria;45;Back;30/10/19;easyJet;1;16.49;08:55;Vienna VIE;10:10;Berlin SXFBerlin (Schonefeld) SXF U24732
+2019-05-09;21:18;Austria;Austria;45;Back;30/10/19;easyJet;1;17.87;14:05;Berlin SXFBerlin (Schonefeld) SXF;15:15;Salzburg SZG
+2019-05-09;21:18;Austria;Austria;46;There;15/10/19;easyJet;1;5.24;12:55;Innsbruck INN;14:25;Berlin TXLBerlin (Tegel) TXL U25746
+2019-05-09;21:18;Austria;Austria;46;There;15/10/19;easyJet;1;20.74;19:25;Berlin TXLBerlin (Tegel) TXL;20:45;Vienna VIE
+2019-05-09;21:18;Austria;Austria;46;Back;19/10/19;easyJet;1;21.40;08:20;Vienna VIE;09:35;Berlin TXLBerlin (Tegel) TXL U25842
+2019-05-09;21:18;Austria;Austria;46;Back;19/10/19;easyJet;1;26.74;10:45;Berlin TXLBerlin (Tegel) TXL;12:15;Innsbruck INN
+2019-05-09;21:18;Austria;Austria;47;There;18/05/19;easyJet;1;11.81;06:05;Vienna VIE;07:25;Berlin TXLBerlin (Tegel) TXL U25852
+2019-05-09;21:18;Austria;Austria;47;There;18/05/19;easyJet;1;30.84;10:45;Berlin TXLBerlin (Tegel) TXL;12:15;Innsbruck INN
+2019-05-09;21:18;Austria;Austria;47;Back;23/05/19;easyJet;1;13.32;09:50;Innsbruck INN;11:20;Berlin TXLBerlin (Tegel) TXL U25746
+2019-05-09;21:18;Austria;Austria;47;Back;23/05/19;easyJet;1;18.21;12:45;Berlin TXLBerlin (Tegel) TXL;14:05;Vienna VIE
+2019-05-09;21:18;Austria;Austria;48;There;15/10/19;easyJet;1;16.86;11:25;Vienna VIE;12:45;Berlin TXLBerlin (Tegel) TXL U25844
+2019-05-09;21:18;Austria;Austria;48;There;15/10/19;easyJet;1;20.74;15:00;Berlin TXLBerlin (Tegel) TXL;16:20;Graz GRZ
+2019-05-09;21:18;Austria;Austria;48;Back;19/10/19;easyJet;1;9.79;10:30;Graz GRZ;11:55;Berlin TXLBerlin (Tegel) TXL U25728
+2019-05-09;21:18;Austria;Austria;48;Back;19/10/19;easyJet;1;27.75;12:45;Berlin TXLBerlin (Tegel) TXL;14:05;Vienna VIE
+2019-05-09;21:18;Austria;Austria;49;There;15/10/19;easyJet;1;16.86;08:20;Vienna VIE;09:35;Berlin TXLBerlin (Tegel) TXL U25842
+2019-05-09;21:18;Austria;Austria;49;There;15/10/19;easyJet;1;20.74;15:00;Berlin TXLBerlin (Tegel) TXL;16:20;Graz GRZ
+2019-05-09;21:18;Austria;Austria;49;Back;19/10/19;easyJet;1;9.79;10:30;Graz GRZ;11:55;Berlin TXLBerlin (Tegel) TXL U25728
+2019-05-09;21:18;Austria;Austria;49;Back;19/10/19;easyJet;1;27.75;12:45;Berlin TXLBerlin (Tegel) TXL;14:05;Vienna VIE
+2019-05-09;21:18;Austria;Austria;50;There;13/08/19;easyJet;1;11.81;17:00;Graz GRZ;18:25;Berlin TXLBerlin (Tegel) TXL U25728
+2019-05-09;21:18;Austria;Austria;50;There;13/08/19;easyJet;1;18.21;19:25;Berlin TXLBerlin (Tegel) TXL;20:45;Vienna VIE
+2019-05-09;21:18;Austria;Austria;50;Back;20/08/19;easyJet;1;23.42;08:20;Vienna VIE;09:35;Berlin TXLBerlin (Tegel) TXL U25842
+2019-05-09;21:18;Austria;Austria;50;Back;20/08/19;easyJet;1;21.75;15:00;Berlin TXLBerlin (Tegel) TXL;16:20;Graz GRZ
+2019-05-09;21:18;Austria;Austria;51;There;24/09/19;easyJet;1;14.33;11:25;Vienna VIE;12:45;Berlin TXLBerlin (Tegel) TXL U25844
+2019-05-09;21:18;Austria;Austria;51;There;24/09/19;easyJet;1;26.29;15:00;Berlin TXLBerlin (Tegel) TXL;16:20;Graz GRZ
+2019-05-09;21:18;Austria;Austria;51;Back;01/10/19;easyJet;1;11.81;17:00;Graz GRZ;18:25;Berlin TXLBerlin (Tegel) TXL U25728
+2019-05-09;21:18;Austria;Austria;51;Back;01/10/19;easyJet;1;23.20;19:25;Berlin TXLBerlin (Tegel) TXL;20:45;Vienna VIE
+2019-05-09;21:18;Austria;Austria;52;There;05/09/19;easyJet;1;9.79;09:50;Innsbruck INN;11:20;Berlin TXLBerlin (Tegel) TXL U25746
+2019-05-09;21:18;Austria;Austria;52;There;05/09/19;easyJet;1;18.21;17:10;Berlin TXLBerlin (Tegel) TXL;18:30;Vienna VIE
+2019-05-09;21:18;Austria;Austria;52;Back;10/09/19;easyJet;1;21.40;08:20;Vienna VIE;09:35;Berlin TXLBerlin (Tegel) TXL U25842
+2019-05-09;21:18;Austria;Austria;52;Back;10/09/19;easyJet;1;26.29;10:45;Berlin TXLBerlin (Tegel) TXL;12:15;Innsbruck INN
+2019-05-09;21:18;Austria;Austria;53;There;16/05/19;easyJet;1;26.96;08:20;Vienna VIE;09:35;Berlin TXLBerlin (Tegel) TXL U25842
+2019-05-09;21:18;Austria;Austria;53;There;16/05/19;easyJet;1;20.74;15:00;Berlin TXLBerlin (Tegel) TXL;16:20;Graz GRZ
+2019-05-09;21:18;Austria;Austria;53;Back;23/05/19;easyJet;1;5.24;17:00;Graz GRZ;18:25;Berlin TXLBerlin (Tegel) TXL U25728
+2019-05-09;21:18;Austria;Austria;53;Back;23/05/19;easyJet;1;22.76;21:15;Berlin TXLBerlin (Tegel) TXL;22:35;Vienna VIE
+2019-05-09;21:18;Austria;Austria;54;There;20/08/19;easyJet;1;23.42;08:20;Vienna VIE;09:35;Berlin TXLBerlin (Tegel) TXL U25842
+2019-05-09;21:18;Austria;Austria;54;There;20/08/19;easyJet;1;21.75;15:00;Berlin TXLBerlin (Tegel) TXL;16:20;Graz GRZ
+2019-05-09;21:18;Austria;Austria;54;Back;24/08/19;easyJet;1;9.79;10:30;Graz GRZ;11:55;Berlin TXLBerlin (Tegel) TXL U25728
+2019-05-09;21:18;Austria;Austria;54;Back;24/08/19;easyJet;1;20.74;12:45;Berlin TXLBerlin (Tegel) TXL;14:05;Vienna VIE
+2019-05-09;21:18;Austria;Austria;55;There;13/06/19;easyJet;1;13.32;09:50;Innsbruck INN;11:20;Berlin TXLBerlin (Tegel) TXL U25746
+2019-05-09;21:18;Austria;Austria;55;There;13/06/19;easyJet;1;20.74;17:10;Berlin TXLBerlin (Tegel) TXL;18:30;Vienna VIE
+2019-05-09;21:18;Austria;Austria;55;Back;18/06/19;easyJet;1;18.88;08:20;Vienna VIE;09:35;Berlin TXLBerlin (Tegel) TXL U25842
+2019-05-09;21:18;Austria;Austria;55;Back;18/06/19;easyJet;1;22.76;10:45;Berlin TXLBerlin (Tegel) TXL;12:15;Innsbruck INN
+2019-05-09;21:18;Austria;Austria;56;There;14/05/19;easyJet;1;16.86;12:55;Innsbruck INN;14:25;Berlin TXLBerlin (Tegel) TXL U25746
+2019-05-09;21:18;Austria;Austria;56;There;14/05/19;easyJet;1;22.76;21:15;Berlin TXLBerlin (Tegel) TXL;22:35;Vienna VIE
+2019-05-09;21:18;Austria;Austria;56;Back;21/05/19;easyJet;1;9.79;06:05;Vienna VIE;07:25;Berlin TXLBerlin (Tegel) TXL U25852
+2019-05-09;21:18;Austria;Austria;56;Back;21/05/19;easyJet;1;26.29;10:45;Berlin TXLBerlin (Tegel) TXL;12:15;Innsbruck INN
+2019-05-09;21:18;Austria;Austria;57;There;14/05/19;easyJet;1;16.86;12:55;Innsbruck INN;14:25;Berlin TXLBerlin (Tegel) TXL U25746
+2019-05-09;21:18;Austria;Austria;57;There;14/05/19;easyJet;1;22.76;19:25;Berlin TXLBerlin (Tegel) TXL;20:45;Vienna VIE
+2019-05-09;21:18;Austria;Austria;57;Back;21/05/19;easyJet;1;9.79;06:05;Vienna VIE;07:25;Berlin TXLBerlin (Tegel) TXL U25852
+2019-05-09;21:18;Austria;Austria;57;Back;21/05/19;easyJet;1;26.29;10:45;Berlin TXLBerlin (Tegel) TXL;12:15;Innsbruck INN
+2019-05-09;21:18;Austria;Austria;58;There;14/05/19;easyJet;1;16.86;12:55;Innsbruck INN;14:25;Berlin TXLBerlin (Tegel) TXL U25746
+2019-05-09;21:18;Austria;Austria;58;There;14/05/19;easyJet;1;22.76;19:25;Berlin TXLBerlin (Tegel) TXL;20:45;Vienna VIE
+2019-05-09;21:18;Austria;Austria;58;Back;21/05/19;easyJet;1;9.79;08:20;Vienna VIE;09:35;Berlin TXLBerlin (Tegel) TXL U25842
+2019-05-09;21:18;Austria;Austria;58;Back;21/05/19;easyJet;1;26.29;10:45;Berlin TXLBerlin (Tegel) TXL;12:15;Innsbruck INN
+2019-05-09;21:18;Austria;Austria;59;There;14/05/19;easyJet;1;16.86;12:55;Innsbruck INN;14:25;Berlin TXLBerlin (Tegel) TXL U25746
+2019-05-09;21:18;Austria;Austria;59;There;14/05/19;easyJet;1;22.76;21:15;Berlin TXLBerlin (Tegel) TXL;22:35;Vienna VIE
+2019-05-09;21:18;Austria;Austria;59;Back;21/05/19;easyJet;1;9.79;08:20;Vienna VIE;09:35;Berlin TXLBerlin (Tegel) TXL U25842
+2019-05-09;21:18;Austria;Austria;59;Back;21/05/19;easyJet;1;26.29;10:45;Berlin TXLBerlin (Tegel) TXL;12:15;Innsbruck INN
+2019-05-09;21:18;Austria;Austria;60;There;13/06/19;easyJet;1;13.32;09:50;Innsbruck INN;11:20;Berlin TXLBerlin (Tegel) TXL U25746
+2019-05-09;21:18;Austria;Austria;60;There;13/06/19;easyJet;1;20.74;18:45;Berlin TXLBerlin (Tegel) TXL;20:05;Vienna VIE
+2019-05-09;21:18;Austria;Austria;60;Back;18/06/19;easyJet;1;18.88;08:20;Vienna VIE;09:35;Berlin TXLBerlin (Tegel) TXL U25842
+2019-05-09;21:18;Austria;Austria;60;Back;18/06/19;easyJet;1;22.76;10:45;Berlin TXLBerlin (Tegel) TXL;12:15;Innsbruck INN
+2019-05-09;21:18;Austria;Austria;61;There;15/08/19;easyJet;1;9.79;08:35;Graz GRZ;10:00;Berlin TXLBerlin (Tegel) TXL U25728
+2019-05-09;21:18;Austria;Austria;61;There;15/08/19;easyJet;1;18.21;18:45;Berlin TXLBerlin (Tegel) TXL;20:05;Vienna VIE
+2019-05-09;21:18;Austria;Austria;61;Back;20/08/19;easyJet;1;26.96;11:25;Vienna VIE;12:45;Berlin TXLBerlin (Tegel) TXL U25844
+2019-05-09;21:18;Austria;Austria;61;Back;20/08/19;easyJet;1;21.75;15:00;Berlin TXLBerlin (Tegel) TXL;16:20;Graz GRZ
+2019-05-09;21:18;Austria;Austria;62;There;15/08/19;easyJet;1;9.79;08:35;Graz GRZ;10:00;Berlin TXLBerlin (Tegel) TXL U25728
+2019-05-09;21:18;Austria;Austria;62;There;15/08/19;easyJet;1;18.21;17:10;Berlin TXLBerlin (Tegel) TXL;18:30;Vienna VIE
+2019-05-09;21:18;Austria;Austria;62;Back;20/08/19;easyJet;1;26.96;11:25;Vienna VIE;12:45;Berlin TXLBerlin (Tegel) TXL U25844
+2019-05-09;21:18;Austria;Austria;62;Back;20/08/19;easyJet;1;21.75;15:00;Berlin TXLBerlin (Tegel) TXL;16:20;Graz GRZ
+2019-05-09;21:18;Austria;Austria;63;There;03/10/19;easyJet;1;9.79;09:50;Innsbruck INN;11:20;Berlin TXLBerlin (Tegel) TXL U25746
+2019-05-09;21:18;Austria;Austria;63;There;03/10/19;easyJet;1;23.20;18:45;Berlin TXLBerlin (Tegel) TXL;20:05;Vienna VIE
+2019-05-09;21:18;Austria;Austria;63;Back;08/10/19;easyJet;1;21.40;08:20;Vienna VIE;09:35;Berlin TXLBerlin (Tegel) TXL U25842
+2019-05-09;21:18;Austria;Austria;63;Back;08/10/19;easyJet;1;22.76;10:45;Berlin TXLBerlin (Tegel) TXL;12:15;Innsbruck INN
+2019-05-09;21:18;Austria;Austria;64;There;01/10/19;easyJet;1;9.79;12:55;Innsbruck INN;14:25;Berlin TXLBerlin (Tegel) TXL U25746
+2019-05-09;21:18;Austria;Austria;64;There;01/10/19;easyJet;1;23.20;19:25;Berlin TXLBerlin (Tegel) TXL;20:45;Vienna VIE
+2019-05-09;21:18;Austria;Austria;64;Back;08/10/19;easyJet;1;21.40;08:20;Vienna VIE;09:35;Berlin TXLBerlin (Tegel) TXL U25842
+2019-05-09;21:18;Austria;Austria;64;Back;08/10/19;easyJet;1;22.76;10:45;Berlin TXLBerlin (Tegel) TXL;12:15;Innsbruck INN
+2019-05-09;21:18;Austria;Austria;65;There;12/09/19;easyJet;1;21.40;09:50;Innsbruck INN;11:20;Berlin TXLBerlin (Tegel) TXL U25746
+2019-05-09;21:18;Austria;Austria;65;There;12/09/19;easyJet;1;18.21;18:45;Berlin TXLBerlin (Tegel) TXL;20:05;Vienna VIE
+2019-05-09;21:18;Austria;Austria;65;Back;17/09/19;easyJet;1;14.33;08:20;Vienna VIE;09:35;Berlin TXLBerlin (Tegel) TXL U25842
+2019-05-09;21:18;Austria;Austria;65;Back;17/09/19;easyJet;1;23.77;10:45;Berlin TXLBerlin (Tegel) TXL;12:15;Innsbruck INN
+2019-05-09;21:18;Austria;Austria;66;There;30/07/19;easyJet;1;23.42;08:20;Vienna VIE;09:35;Berlin TXLBerlin (Tegel) TXL U25842
+2019-05-09;21:18;Austria;Austria;66;There;30/07/19;easyJet;1;22.76;10:45;Berlin TXLBerlin (Tegel) TXL;12:15;Innsbruck INN
+2019-05-09;21:18;Austria;Austria;66;Back;06/08/19;easyJet;1;13.32;12:55;Innsbruck INN;14:25;Berlin TXLBerlin (Tegel) TXL U25746
+2019-05-09;21:18;Austria;Austria;66;Back;06/08/19;easyJet;1;18.21;19:25;Berlin TXLBerlin (Tegel) TXL;20:45;Vienna VIE
+2019-05-09;21:18;Austria;Austria;67;There;20/08/19;easyJet;1;23.42;08:20;Vienna VIE;09:35;Berlin TXLBerlin (Tegel) TXL U25842
+2019-05-09;21:18;Austria;Austria;67;There;20/08/19;easyJet;1;21.75;15:00;Berlin TXLBerlin (Tegel) TXL;16:20;Graz GRZ
+2019-05-09;21:18;Austria;Austria;67;Back;27/08/19;easyJet;1;9.79;17:00;Graz GRZ;18:25;Berlin TXLBerlin (Tegel) TXL U25728
+2019-05-09;21:18;Austria;Austria;67;Back;27/08/19;easyJet;1;22.76;19:25;Berlin TXLBerlin (Tegel) TXL;20:45;Vienna VIE
+2019-05-09;21:18;Austria;Austria;68;There;27/08/19;easyJet;1;23.42;08:20;Vienna VIE;09:35;Berlin TXLBerlin (Tegel) TXL U25842
+2019-05-09;21:18;Austria;Austria;68;There;27/08/19;easyJet;1;18.21;15:00;Berlin TXLBerlin (Tegel) TXL;16:20;Graz GRZ
+2019-05-09;21:18;Austria;Austria;68;Back;03/09/19;easyJet;1;14.33;17:00;Graz GRZ;18:25;Berlin TXLBerlin (Tegel) TXL U25728
+2019-05-09;21:18;Austria;Austria;68;Back;03/09/19;easyJet;1;22.76;19:25;Berlin TXLBerlin (Tegel) TXL;20:45;Vienna VIE
+2019-05-09;21:18;Austria;Austria;69;There;27/08/19;easyJet;1;23.42;11:25;Vienna VIE;12:45;Berlin TXLBerlin (Tegel) TXL U25844
+2019-05-09;21:18;Austria;Austria;69;There;27/08/19;easyJet;1;18.21;15:00;Berlin TXLBerlin (Tegel) TXL;16:20;Graz GRZ
+2019-05-09;21:18;Austria;Austria;69;Back;03/09/19;easyJet;1;14.33;17:00;Graz GRZ;18:25;Berlin TXLBerlin (Tegel) TXL U25728
+2019-05-09;21:18;Austria;Austria;69;Back;03/09/19;easyJet;1;22.76;19:25;Berlin TXLBerlin (Tegel) TXL;20:45;Vienna VIE
+2019-05-09;21:18;Austria;Austria;70;There;13/08/19;easyJet;1;11.81;17:00;Graz GRZ;18:25;Berlin TXLBerlin (Tegel) TXL U25728
+2019-05-09;21:18;Austria;Austria;70;There;13/08/19;easyJet;1;18.21;19:25;Berlin TXLBerlin (Tegel) TXL;20:45;Vienna VIE
+2019-05-09;21:18;Austria;Austria;70;Back;20/08/19;easyJet;1;26.96;11:25;Vienna VIE;12:45;Berlin TXLBerlin (Tegel) TXL U25844
+2019-05-09;21:18;Austria;Austria;70;Back;20/08/19;easyJet;1;21.75;15:00;Berlin TXLBerlin (Tegel) TXL;16:20;Graz GRZ
+2019-05-09;21:18;Austria;Austria;71;There;18/05/19;easyJet;1;11.81;06:05;Vienna VIE;07:25;Berlin TXLBerlin (Tegel) TXL U25852
+2019-05-09;21:18;Austria;Austria;71;There;18/05/19;easyJet;1;30.84;10:45;Berlin TXLBerlin (Tegel) TXL;12:15;Innsbruck INN
+2019-05-09;21:18;Austria;Austria;71;Back;23/05/19;easyJet;1;13.32;09:50;Innsbruck INN;11:20;Berlin TXLBerlin (Tegel) TXL U25746
+2019-05-09;21:18;Austria;Austria;71;Back;23/05/19;easyJet;1;22.76;21:15;Berlin TXLBerlin (Tegel) TXL;22:35;Vienna VIE
+2019-05-09;21:18;Austria;Austria;72;There;18/05/19;easyJet;1;18.88;08:20;Vienna VIE;09:35;Berlin TXLBerlin (Tegel) TXL U25842
+2019-05-09;21:18;Austria;Austria;72;There;18/05/19;easyJet;1;30.84;10:45;Berlin TXLBerlin (Tegel) TXL;12:15;Innsbruck INN
+2019-05-09;21:18;Austria;Austria;72;Back;23/05/19;easyJet;1;13.32;09:50;Innsbruck INN;11:20;Berlin TXLBerlin (Tegel) TXL U25746
+2019-05-09;21:18;Austria;Austria;72;Back;23/05/19;easyJet;1;15.69;17:10;Berlin TXLBerlin (Tegel) TXL;18:30;Vienna VIE
+2019-05-09;21:18;Austria;Austria;73;There;05/09/19;easyJet;1;21.40;08:20;Vienna VIE;09:35;Berlin TXLBerlin (Tegel) TXL U25842
+2019-05-09;21:18;Austria;Austria;73;There;05/09/19;easyJet;1;20.74;15:00;Berlin TXLBerlin (Tegel) TXL;16:20;Graz GRZ
+2019-05-09;21:18;Austria;Austria;73;Back;10/09/19;easyJet;1;14.27;17:00;Graz GRZ;18:25;Berlin TXLBerlin (Tegel) TXL U25728
+2019-05-09;21:18;Austria;Austria;73;Back;10/09/19;easyJet;1;22.76;19:25;Berlin TXLBerlin (Tegel) TXL;20:45;Vienna VIE
+2019-05-09;21:18;Austria;Austria;74;There;19/10/19;easyJet;1;9.79;10:30;Graz GRZ;11:55;Berlin TXLBerlin (Tegel) TXL U25728
+2019-05-09;21:18;Austria;Austria;74;There;19/10/19;easyJet;1;27.75;12:45;Berlin TXLBerlin (Tegel) TXL;14:05;Vienna VIE
+2019-05-09;21:18;Austria;Austria;74;Back;24/10/19;easyJet;1;18.88;08:20;Vienna VIE;09:35;Berlin TXLBerlin (Tegel) TXL U25842
+2019-05-09;21:18;Austria;Austria;74;Back;24/10/19;easyJet;1;22.76;15:00;Berlin TXLBerlin (Tegel) TXL;16:20;Graz GRZ
+2019-05-09;21:18;Austria;Austria;75;There;20/08/19;easyJet;1;26.96;11:25;Vienna VIE;12:45;Berlin TXLBerlin (Tegel) TXL U25844
+2019-05-09;21:18;Austria;Austria;75;There;20/08/19;easyJet;1;21.75;15:00;Berlin TXLBerlin (Tegel) TXL;16:20;Graz GRZ
+2019-05-09;21:18;Austria;Austria;75;Back;24/08/19;easyJet;1;9.79;10:30;Graz GRZ;11:55;Berlin TXLBerlin (Tegel) TXL U25728
+2019-05-09;21:18;Austria;Austria;75;Back;24/08/19;easyJet;1;20.74;12:45;Berlin TXLBerlin (Tegel) TXL;14:05;Vienna VIE
+2019-05-09;21:18;Austria;Austria;76;There;06/08/19;easyJet;1;11.81;17:00;Graz GRZ;18:25;Berlin TXLBerlin (Tegel) TXL U25728
+2019-05-09;21:18;Austria;Austria;76;There;06/08/19;easyJet;1;18.21;19:25;Berlin TXLBerlin (Tegel) TXL;20:45;Vienna VIE
+2019-05-09;21:18;Austria;Austria;76;Back;13/08/19;easyJet;1;23.42;08:20;Vienna VIE;09:35;Berlin TXLBerlin (Tegel) TXL U25842
+2019-05-09;21:18;Austria;Austria;76;Back;13/08/19;easyJet;1;26.29;15:00;Berlin TXLBerlin (Tegel) TXL;16:20;Graz GRZ
+2019-05-09;21:18;Austria;Austria;77;There;13/08/19;easyJet;1;23.42;11:25;Vienna VIE;12:45;Berlin TXLBerlin (Tegel) TXL U25844
+2019-05-09;21:18;Austria;Austria;77;There;13/08/19;easyJet;1;26.29;15:00;Berlin TXLBerlin (Tegel) TXL;16:20;Graz GRZ
+2019-05-09;21:18;Austria;Austria;77;Back;20/08/19;easyJet;1;11.81;17:00;Graz GRZ;18:25;Berlin TXLBerlin (Tegel) TXL U25728
+2019-05-09;21:18;Austria;Austria;77;Back;20/08/19;easyJet;1;18.21;19:25;Berlin TXLBerlin (Tegel) TXL;20:45;Vienna VIE
+2019-05-09;21:18;Austria;Austria;78;There;06/08/19;easyJet;1;11.81;17:00;Graz GRZ;18:25;Berlin TXLBerlin (Tegel) TXL U25728
+2019-05-09;21:18;Austria;Austria;78;There;06/08/19;easyJet;1;18.21;19:25;Berlin TXLBerlin (Tegel) TXL;20:45;Vienna VIE
+2019-05-09;21:18;Austria;Austria;78;Back;13/08/19;easyJet;1;23.42;11:25;Vienna VIE;12:45;Berlin TXLBerlin (Tegel) TXL U25844
+2019-05-09;21:18;Austria;Austria;78;Back;13/08/19;easyJet;1;26.29;15:00;Berlin TXLBerlin (Tegel) TXL;16:20;Graz GRZ
+2019-05-09;21:18;Austria;Austria;79;There;10/10/19;Laudamotion;1;24.99;15:20;Salzburg SZG;17:20;Palma Mall PMI OE542
+2019-05-09;21:18;Austria;Austria;79;There;10/10/19;Laudamotion;1;24.99;20:45;Palma Mall PMI;23:05;Vienna VIE
+2019-05-09;21:18;Austria;Austria;79;Back;18/10/19;Laudamotion;1;24.99;05:30;Vienna VIE;07:55;Palma Mall PMI OE500
+2019-05-09;21:18;Austria;Austria;79;Back;18/10/19;Laudamotion;1;24.99;12:40;Palma Mall PMI;14:45;Salzburg SZG
+2019-05-09;21:18;Austria;Austria;80;There;09/10/19;Laudamotion;1;24.99;15:20;Salzburg SZG;17:20;Palma Mall PMI OE542
+2019-05-09;21:18;Austria;Austria;80;There;09/10/19;Laudamotion;1;24.99;20:40;Palma Mall PMI;23:00;Vienna VIE
+2019-05-09;21:18;Austria;Austria;80;Back;17/10/19;Laudamotion;1;24.99;07:05;Vienna VIE;09:30;Palma Mall PMI OE502
+2019-05-09;21:18;Austria;Austria;80;Back;17/10/19;Laudamotion;1;24.99;12:40;Palma Mall PMI;14:45;Salzburg SZG
+2019-05-09;21:18;Austria;Austria;81;There;14/10/19;Laudamotion;1;24.99;15:20;Salzburg SZG;17:20;Palma Mall PMI OE542
+2019-05-09;21:18;Austria;Austria;81;There;14/10/19;Laudamotion;1;24.99;20:45;Palma Mall PMI;23:05;Vienna VIE
+2019-05-09;21:18;Austria;Austria;81;Back;18/10/19;Laudamotion;1;24.99;05:30;Vienna VIE;07:55;Palma Mall PMI OE500
+2019-05-09;21:18;Austria;Austria;81;Back;18/10/19;Laudamotion;1;24.99;12:40;Palma Mall PMI;14:45;Salzburg SZG
+2019-05-09;21:18;Austria;Austria;82;There;25/06/19;easyJet;1;5.24;17:00;Graz GRZ;18:25;Berlin TXLBerlin (Tegel) TXL U25728
+2019-05-09;21:18;Austria;Austria;82;There;25/06/19;easyJet;1;15.69;19:25;Berlin TXLBerlin (Tegel) TXL;20:45;Vienna VIE
+2019-05-09;21:18;Austria;Austria;82;Back;02/07/19;easyJet;1;21.40;08:20;Vienna VIE;09:35;Berlin TXLBerlin (Tegel) TXL U25842
+2019-05-09;21:18;Austria;Austria;82;Back;02/07/19;easyJet;1;37.91;15:00;Berlin TXLBerlin (Tegel) TXL;16:20;Graz GRZ
+2019-05-09;21:18;Austria;Austria;83;There;25/06/19;easyJet;1;5.24;17:00;Graz GRZ;18:25;Berlin TXLBerlin (Tegel) TXL U25728
+2019-05-09;21:18;Austria;Austria;83;There;25/06/19;easyJet;1;15.69;19:25;Berlin TXLBerlin (Tegel) TXL;20:45;Vienna VIE
+2019-05-09;21:18;Austria;Austria;83;Back;02/07/19;easyJet;1;21.40;11:25;Vienna VIE;12:45;Berlin TXLBerlin (Tegel) TXL U25844
+2019-05-09;21:18;Austria;Austria;83;Back;02/07/19;easyJet;1;37.91;15:00;Berlin TXLBerlin (Tegel) TXL;16:20;Graz GRZ
+2019-05-09;21:18;Austria;Austria;84;There;15/10/19;easyJet;1;19.89;17:00;Graz GRZ;18:25;Berlin TXLBerlin (Tegel) TXL U25728
+2019-05-09;21:18;Austria;Austria;84;There;15/10/19;easyJet;1;20.74;19:25;Berlin TXLBerlin (Tegel) TXL;20:45;Vienna VIE
+2019-05-09;21:18;Austria;Austria;84;Back;22/10/19;easyJet;1;18.88;11:25;Vienna VIE;12:45;Berlin TXLBerlin (Tegel) TXL U25844
+2019-05-09;21:18;Austria;Austria;84;Back;22/10/19;easyJet;1;20.74;15:00;Berlin TXLBerlin (Tegel) TXL;16:20;Graz GRZ
+2019-05-09;21:18;Austria;Austria;85;There;31/08/19;easyJet;1;14.33;10:30;Graz GRZ;11:55;Berlin TXLBerlin (Tegel) TXL U25728
+2019-05-09;21:18;Austria;Austria;85;There;31/08/19;easyJet;1;25.28;12:45;Berlin TXLBerlin (Tegel) TXL;14:05;Vienna VIE
+2019-05-09;21:18;Austria;Austria;85;Back;05/09/19;easyJet;1;21.40;08:20;Vienna VIE;09:35;Berlin TXLBerlin (Tegel) TXL U25842
+2019-05-09;21:18;Austria;Austria;85;Back;05/09/19;easyJet;1;20.74;15:00;Berlin TXLBerlin (Tegel) TXL;16:20;Graz GRZ
+2019-05-09;21:18;Austria;Austria;86;There;05/10/19;easyJet;1;16.86;10:30;Graz GRZ;11:55;Berlin TXLBerlin (Tegel) TXL U25728
+2019-05-09;21:18;Austria;Austria;86;There;05/10/19;easyJet;1;23.20;12:45;Berlin TXLBerlin (Tegel) TXL;14:05;Vienna VIE
+2019-05-09;21:18;Austria;Austria;86;Back;10/10/19;easyJet;1;21.40;08:20;Vienna VIE;09:35;Berlin TXLBerlin (Tegel) TXL U25842
+2019-05-09;21:18;Austria;Austria;86;Back;10/10/19;easyJet;1;20.74;15:00;Berlin TXLBerlin (Tegel) TXL;16:20;Graz GRZ
+2019-05-09;21:18;Austria;Austria;87;There;06/11/19;easyJet;1;20.99;08:55;Vienna VIE;10:10;Berlin SXFBerlin (Schonefeld) SXF U24732
+2019-05-09;21:18;Austria;Austria;87;There;06/11/19;easyJet;1;17.87;14:05;Berlin SXFBerlin (Schonefeld) SXF;15:15;Salzburg SZG
+2019-05-09;21:18;Austria;Austria;87;Back;10/11/19;easyJet;1;25.49;17:00;Salzburg SZG;18:10;Berlin SXFBerlin (Schonefeld) SXF U24796
+2019-05-09;21:18;Austria;Austria;87;Back;10/11/19;easyJet;1;17.87;19:40;Berlin SXFBerlin (Schonefeld) SXF;21:00;Vienna VIE
+2019-05-09;21:18;Austria;Austria;88;There;17/10/19;Laudamotion;1;24.99;07:05;Vienna VIE;09:30;Palma Mall PMI OE502
+2019-05-09;21:18;Austria;Austria;88;There;17/10/19;Laudamotion;1;24.99;12:40;Palma Mall PMI;14:45;Salzburg SZG
+2019-05-09;21:18;Austria;Austria;88;Back;21/10/19;easyJet;1;21.40;08:10;Salzburg SZG;09:30;Berlin SXFBerlin (Schonefeld) SXF U24796
+2019-05-09;21:18;Austria;Austria;88;Back;21/10/19;easyJet;1;11.14;18:55;Berlin SXFBerlin (Schonefeld) SXF;20:25;Vienna VIE
+2019-05-09;21:18;Austria;Austria;89;There;30/10/19;easyJet;1;16.49;08:55;Vienna VIE;10:10;Berlin SXFBerlin (Schonefeld) SXF U24732
+2019-05-09;21:18;Austria;Austria;89;There;30/10/19;easyJet;1;17.87;14:05;Berlin SXFBerlin (Schonefeld) SXF;15:15;Salzburg SZG
+2019-05-09;21:18;Austria;Austria;89;Back;03/11/19;easyJet;1;26.49;17:00;Salzburg SZG;18:10;Berlin SXFBerlin (Schonefeld) SXF U24796
+2019-05-09;21:18;Austria;Austria;89;Back;03/11/19;easyJet;1;22.37;19:40;Berlin SXFBerlin (Schonefeld) SXF;21:00;Vienna VIE
+2019-05-09;21:18;Austria;Austria;90;There;21/10/19;easyJet;1;21.40;08:10;Salzburg SZG;09:30;Berlin SXFBerlin (Schonefeld) SXF U24796
+2019-05-09;21:18;Austria;Austria;90;There;21/10/19;easyJet;1;11.14;18:55;Berlin SXFBerlin (Schonefeld) SXF;20:25;Vienna VIE
+2019-05-09;21:18;Austria;Austria;90;Back;25/10/19;Laudamotion;1;26.51;05:30;Vienna VIE;07:55;Palma Mall PMI OE500
+2019-05-09;21:18;Austria;Austria;90;Back;25/10/19;Laudamotion;1;24.99;12:40;Palma Mall PMI;14:45;Salzburg SZG
+2019-05-09;21:18;Austria;Austria;91;There;13/11/19;easyJet;1;22.99;08:55;Vienna VIE;10:10;Berlin SXFBerlin (Schonefeld) SXF U24732
+2019-05-09;21:18;Austria;Austria;91;There;13/11/19;easyJet;1;17.87;14:05;Berlin SXFBerlin (Schonefeld) SXF;15:15;Salzburg SZG
+2019-05-09;21:18;Austria;Austria;91;Back;17/11/19;easyJet;1;25.49;17:00;Salzburg SZG;18:10;Berlin SXFBerlin (Schonefeld) SXF U24796
+2019-05-09;21:18;Austria;Austria;91;Back;17/11/19;easyJet;1;17.87;19:40;Berlin SXFBerlin (Schonefeld) SXF;21:00;Vienna VIE
+2019-05-09;21:18;Austria;Austria;92;There;20/11/19;easyJet;1;22.99;08:55;Vienna VIE;10:10;Berlin SXFBerlin (Schonefeld) SXF U24732
+2019-05-09;21:18;Austria;Austria;92;There;20/11/19;easyJet;1;17.87;14:05;Berlin SXFBerlin (Schonefeld) SXF;15:15;Salzburg SZG
+2019-05-09;21:18;Austria;Austria;92;Back;24/11/19;easyJet;1;25.49;17:00;Salzburg SZG;18:10;Berlin SXFBerlin (Schonefeld) SXF U24796
+2019-05-09;21:18;Austria;Austria;92;Back;24/11/19;easyJet;1;17.87;19:40;Berlin SXFBerlin (Schonefeld) SXF;21:00;Vienna VIE
+2019-05-09;21:18;Austria;Austria;93;There;22/10/19;Laudamotion;1;24.99;15:30;Salzburg SZG;17:30;Palma Mall PMI OE542
+2019-05-09;21:18;Austria;Austria;93;There;22/10/19;Laudamotion;1;24.99;20:15;Palma Mall PMI;22:35;Vienna VIE
+2019-05-09;21:18;Austria;Austria;93;Back;30/10/19;easyJet;1;16.49;08:55;Vienna VIE;10:10;Berlin SXFBerlin (Schonefeld) SXF U24732
+2019-05-09;21:18;Austria;Austria;93;Back;30/10/19;easyJet;1;17.87;14:05;Berlin SXFBerlin (Schonefeld) SXF;15:15;Salzburg SZG
+2019-05-09;21:18;Austria;Austria;94;There;23/10/19;Laudamotion;1;24.99;15:20;Salzburg SZG;17:20;Palma Mall PMI OE542
+2019-05-09;21:18;Austria;Austria;94;There;23/10/19;Laudamotion;1;24.99;20:40;Palma Mall PMI;23:00;Vienna VIE
+2019-05-09;21:18;Austria;Austria;94;Back;30/10/19;easyJet;1;16.49;08:55;Vienna VIE;10:10;Berlin SXFBerlin (Schonefeld) SXF U24732
+2019-05-09;21:18;Austria;Austria;94;Back;30/10/19;easyJet;1;17.87;14:05;Berlin SXFBerlin (Schonefeld) SXF;15:15;Salzburg SZG
+2019-05-09;21:18;Austria;Austria;95;There;24/10/19;Laudamotion;1;24.99;15:20;Salzburg SZG;17:20;Palma Mall PMI OE542
+2019-05-09;21:18;Austria;Austria;95;There;24/10/19;Laudamotion;1;24.99;20:45;Palma Mall PMI;23:05;Vienna VIE
+2019-05-09;21:18;Austria;Austria;95;Back;30/10/19;easyJet;1;16.49;08:55;Vienna VIE;10:10;Berlin SXFBerlin (Schonefeld) SXF U24732
+2019-05-09;21:18;Austria;Austria;95;Back;30/10/19;easyJet;1;17.87;14:05;Berlin SXFBerlin (Schonefeld) SXF;15:15;Salzburg SZG
+2019-05-09;21:18;Austria;Austria;96;There;25/10/19;Laudamotion;1;24.99;15:20;Salzburg SZG;17:20;Palma Mall PMI OE542
+2019-05-09;21:18;Austria;Austria;96;There;25/10/19;Laudamotion;1;24.99;22:25;Palma Mall PMI;00:45;Vienna VIE
+2019-05-09;21:18;Austria;Austria;96;Back;30/10/19;easyJet;1;16.49;08:55;Vienna VIE;10:10;Berlin SXFBerlin (Schonefeld) SXF U24732
+2019-05-09;21:18;Austria;Austria;96;Back;30/10/19;easyJet;1;17.87;14:05;Berlin SXFBerlin (Schonefeld) SXF;15:15;Salzburg SZG
+2019-05-09;21:18;Austria;Austria;97;There;12/06/19;easyJet;1;14.33;11:25;Vienna VIE;12:45;Berlin TXLBerlin (Tegel) TXL U25844
+2019-05-09;21:18;Austria;Austria;97;There;12/06/19;Eurowings;1;39.99;15:15;Berlin TXLBerlin (Tegel) TXL;16:35;Salzburg SZG
+2019-05-09;21:18;Austria;Austria;97;Back;17/06/19;easyJet;1;21.40;08:10;Salzburg SZG;09:30;Berlin SXFBerlin (Schonefeld) SXF U24796
+2019-05-09;21:18;Austria;Austria;97;Back;17/06/19;easyJet;1;9.12;18:55;Berlin SXFBerlin (Schonefeld) SXF;20:25;Vienna VIE
+2019-05-09;21:18;Austria;Austria;98;There;11/07/19;easyJet;1;24.94;08:20;Vienna VIE;09:35;Berlin TXLBerlin (Tegel) TXL U25842
+2019-05-09;21:18;Austria;Austria;98;There;11/07/19;Eurowings;1;29.99;10:30;Berlin TXLBerlin (Tegel) TXL;11:50;Salzburg SZG
+2019-05-09;21:18;Austria;Austria;98;Back;15/07/19;easyJet;1;17.87;14:50;Salzburg SZG;16:10;Berlin SXFBerlin (Schonefeld) SXF U24796
+2019-05-09;21:18;Austria;Austria;98;Back;15/07/19;easyJet;1;13.67;18:55;Berlin SXFBerlin (Schonefeld) SXF;20:25;Vienna VIE
+2019-05-09;21:18;Austria;Austria;99;There;07/10/19;easyJet;1;21.40;08:10;Salzburg SZG;09:30;Berlin SXFBerlin (Schonefeld) SXF U24796
+2019-05-09;21:18;Austria;Austria;99;There;07/10/19;easyJet;1;13.67;18:55;Berlin SXFBerlin (Schonefeld) SXF;20:25;Vienna VIE
+2019-05-09;21:18;Austria;Austria;99;Back;11/10/19;Laudamotion;1;26.51;05:30;Vienna VIE;07:55;Palma Mall PMI OE500
+2019-05-09;21:18;Austria;Austria;99;Back;11/10/19;Laudamotion;1;24.99;12:40;Palma Mall PMI;14:45;Salzburg SZG
+2019-05-09;21:18;Austria;Austria;100;There;07/10/19;easyJet;1;21.40;08:10;Salzburg SZG;09:30;Berlin SXFBerlin (Schonefeld) SXF U24796
+2019-05-09;21:18;Austria;Austria;100;There;07/10/19;easyJet;1;13.67;18:55;Berlin SXFBerlin (Schonefeld) SXF;20:25;Vienna VIE
+2019-05-09;21:18;Austria;Austria;100;Back;12/10/19;Laudamotion;1;26.51;06:35;Vienna VIE;09:00;Palma Mall PMI OE500
+2019-05-09;21:18;Austria;Austria;100;Back;12/10/19;Laudamotion;1;24.99;12:40;Palma Mall PMI;14:45;Salzburg SZG
+2019-05-09;21:18;Austria;Austria;101;There;12/06/19;easyJet;1;16.86;08:20;Vienna VIE;09:35;Berlin TXLBerlin (Tegel) TXL U25842
+2019-05-09;21:18;Austria;Austria;101;There;12/06/19;Eurowings;1;39.99;15:15;Berlin TXLBerlin (Tegel) TXL;16:35;Salzburg SZG
+2019-05-09;21:18;Austria;Austria;101;Back;17/06/19;easyJet;1;21.40;08:10;Salzburg SZG;09:30;Berlin SXFBerlin (Schonefeld) SXF U24796
+2019-05-09;21:18;Austria;Austria;101;Back;17/06/19;easyJet;1;9.12;18:55;Berlin SXFBerlin (Schonefeld) SXF;20:25;Vienna VIE
+2019-05-09;21:18;Austria;Austria;102;There;14/10/19;easyJet;1;25.95;08:10;Salzburg SZG;09:30;Berlin SXFBerlin (Schonefeld) SXF U24796
+2019-05-09;21:18;Austria;Austria;102;There;14/10/19;easyJet;1;13.67;18:55;Berlin SXFBerlin (Schonefeld) SXF;20:25;Vienna VIE
+2019-05-09;21:18;Austria;Austria;102;Back;18/10/19;Laudamotion;1;24.99;05:30;Vienna VIE;07:55;Palma Mall PMI OE500
+2019-05-09;21:18;Austria;Austria;102;Back;18/10/19;Laudamotion;1;24.99;12:40;Palma Mall PMI;14:45;Salzburg SZG
+2019-05-09;21:18;Austria;Austria;103;There;17/10/19;Laudamotion;1;24.99;07:05;Vienna VIE;09:30;Palma Mall PMI OE502
+2019-05-09;21:18;Austria;Austria;103;There;17/10/19;Laudamotion;1;24.99;12:40;Palma Mall PMI;14:45;Salzburg SZG
+2019-05-09;21:18;Austria;Austria;103;Back;24/10/19;easyJet;1;25.95;13:50;Salzburg SZG;15:10;Berlin SXFBerlin (Schonefeld) SXF U24796
+2019-05-09;21:18;Austria;Austria;103;Back;24/10/19;easyJet;1;13.67;18:55;Berlin SXFBerlin (Schonefeld) SXF;20:20;Vienna VIE
+2019-05-09;21:18;Austria;Austria;104;There;18/10/19;Laudamotion;1;24.99;05:30;Vienna VIE;07:55;Palma Mall PMI OE500
+2019-05-09;21:18;Austria;Austria;104;There;18/10/19;Laudamotion;1;24.99;12:40;Palma Mall PMI;14:45;Salzburg SZG
+2019-05-09;21:18;Austria;Austria;104;Back;24/10/19;easyJet;1;25.95;13:50;Salzburg SZG;15:10;Berlin SXFBerlin (Schonefeld) SXF U24796
+2019-05-09;21:18;Austria;Austria;104;Back;24/10/19;easyJet;1;13.67;18:55;Berlin SXFBerlin (Schonefeld) SXF;20:20;Vienna VIE
+2019-05-09;21:18;Austria;Austria;105;There;03/10/19;Laudamotion;1;30.03;07:05;Vienna VIE;09:30;Palma Mall PMI OE502
+2019-05-09;21:18;Austria;Austria;105;There;03/10/19;Laudamotion;1;24.99;12:40;Palma Mall PMI;14:45;Salzburg SZG
+2019-05-09;21:18;Austria;Austria;105;Back;07/10/19;easyJet;1;21.40;08:10;Salzburg SZG;09:30;Berlin SXFBerlin (Schonefeld) SXF U24796
+2019-05-09;21:18;Austria;Austria;105;Back;07/10/19;easyJet;1;13.67;18:55;Berlin SXFBerlin (Schonefeld) SXF;20:25;Vienna VIE
+2019-05-09;21:18;Austria;Austria;106;There;20/11/19;easyJet;1;22.99;08:55;Vienna VIE;10:10;Berlin SXFBerlin (Schonefeld) SXF U24732
+2019-05-09;21:18;Austria;Austria;106;There;20/11/19;easyJet;1;17.87;14:05;Berlin SXFBerlin (Schonefeld) SXF;15:15;Salzburg SZG
+2019-05-09;21:18;Austria;Austria;106;Back;25/11/19;Ryanair;1;26.61;10:30;Salzburg SZG;11:30;London STNLondon (Stansted) STN FR305
+2019-05-09;21:18;Austria;Austria;106;Back;25/11/19;Laudamotion;1;25.52;19:45;London STNLondon (Stansted) STN;22:50;Vienna VIE
+2019-05-09;21:18;Austria;Austria;107;There;13/11/19;easyJet;1;22.99;08:55;Vienna VIE;10:10;Berlin SXFBerlin (Schonefeld) SXF U24732
+2019-05-09;21:18;Austria;Austria;107;There;13/11/19;easyJet;1;17.87;14:05;Berlin SXFBerlin (Schonefeld) SXF;15:15;Salzburg SZG
+2019-05-09;21:18;Austria;Austria;107;Back;18/11/19;Ryanair;1;26.61;10:30;Salzburg SZG;11:30;London STNLondon (Stansted) STN FR305
+2019-05-09;21:18;Austria;Austria;107;Back;18/11/19;Laudamotion;1;25.52;19:45;London STNLondon (Stansted) STN;22:50;Vienna VIE
+2019-05-09;21:18;Austria;Austria;108;There;11/07/19;easyJet;1;24.94;08:20;Vienna VIE;09:35;Berlin TXLBerlin (Tegel) TXL U25842
+2019-05-09;21:18;Austria;Austria;108;There;11/07/19;Eurowings;1;29.99;10:30;Berlin TXLBerlin (Tegel) TXL;11:50;Salzburg SZG
+2019-05-09;21:18;Austria;Austria;108;Back;18/07/19;easyJet;1;19.89;14:50;Salzburg SZG;16:10;Berlin SXFBerlin (Schonefeld) SXF U24796
+2019-05-09;21:18;Austria;Austria;108;Back;18/07/19;easyJet;1;18.21;18:55;Berlin SXFBerlin (Schonefeld) SXF;20:20;Vienna VIE
+2019-05-09;21:18;Austria;Austria;109;There;17/06/19;easyJet;1;21.40;08:10;Salzburg SZG;09:30;Berlin SXFBerlin (Schonefeld) SXF U24796
+2019-05-09;21:18;Austria;Austria;109;There;17/06/19;easyJet;1;9.12;18:55;Berlin SXFBerlin (Schonefeld) SXF;20:25;Vienna VIE
+2019-05-09;21:18;Austria;Austria;109;Back;22/06/19;easyJet;1;14.33;08:20;Vienna VIE;09:35;Berlin TXLBerlin (Tegel) TXL U25842
+2019-05-09;21:18;Austria;Austria;109;Back;22/06/19;Eurowings;1;49.99;10:30;Berlin TXLBerlin (Tegel) TXL;11:50;Salzburg SZG
+2019-05-09;21:18;Austria;Austria;110;There;17/10/19;easyJet;1;34.03;13:50;Salzburg SZG;15:10;Berlin SXFBerlin (Schonefeld) SXF U24796
+2019-05-09;21:18;Austria;Austria;110;There;17/10/19;easyJet;1;11.14;18:55;Berlin SXFBerlin (Schonefeld) SXF;20:20;Vienna VIE
+2019-05-09;21:18;Austria;Austria;110;Back;25/10/19;Laudamotion;1;26.51;05:30;Vienna VIE;07:55;Palma Mall PMI OE500
+2019-05-09;21:18;Austria;Austria;110;Back;25/10/19;Laudamotion;1;24.99;12:40;Palma Mall PMI;14:45;Salzburg SZG
+2019-05-09;21:18;Austria;Austria;111;There;03/10/19;easyJet;1;34.03;13:50;Salzburg SZG;15:10;Berlin SXFBerlin (Schonefeld) SXF U24796
+2019-05-09;21:18;Austria;Austria;111;There;03/10/19;easyJet;1;13.67;18:55;Berlin SXFBerlin (Schonefeld) SXF;20:20;Vienna VIE
+2019-05-09;21:18;Austria;Austria;111;Back;11/10/19;Laudamotion;1;26.51;05:30;Vienna VIE;07:55;Palma Mall PMI OE500
+2019-05-09;21:18;Austria;Austria;111;Back;11/10/19;Laudamotion;1;24.99;12:40;Palma Mall PMI;14:45;Salzburg SZG
+2019-05-09;21:18;Austria;Austria;112;There;05/06/19;Laudamotion;1;24.99;15:20;Salzburg SZG;17:20;Palma Mall PMI OE542
+2019-05-09;21:18;Austria;Austria;112;There;05/06/19;Laudamotion;1;19.99;20:40;Palma Mall PMI;23:00;Vienna VIE
+2019-05-09;21:18;Austria;Austria;112;Back;12/06/19;easyJet;1;14.33;11:25;Vienna VIE;12:45;Berlin TXLBerlin (Tegel) TXL U25844
+2019-05-09;21:18;Austria;Austria;112;Back;12/06/19;Eurowings;1;39.99;15:15;Berlin TXLBerlin (Tegel) TXL;16:35;Salzburg SZG
+2019-05-09;21:18;Austria;Austria;113;There;19/05/19;Eurowings;1;49.99;06:15;Vienna VIE;08:45;Palma Mall PMI EW5912
+2019-05-09;21:18;Austria;Austria;113;There;19/05/19;Eurowings;1;49.99;13:00;Palma Mall PMI;15:15;Linz LNZ
+2019-05-09;21:18;Austria;Austria;113;Back;24/05/19;Eurowings;1;29.99;17:35;Linz LNZ;19:50;Palma Mall PMI EW6867
+2019-05-09;21:18;Austria;Austria;113;Back;24/05/19;Laudamotion;1;9.99;22:25;Palma Mall PMI;00:45;Vienna VIE
+2019-05-09;21:18;Austria;Austria;114;There;14/05/19;Level Anisec;1;29.99;09:45;Vienna VIE;12:20;Palma Mall PMI VK6000
+2019-05-09;21:18;Austria;Austria;114;There;14/05/19;Eurowings;1;39.99;14:05;Palma Mall PMI;16:20;Linz LNZ
+2019-05-09;21:18;Austria;Austria;114;Back;21/05/19;Eurowings;1;59.99;17:20;Linz LNZ;19:35;Palma Mall PMI EW6867
+2019-05-09;21:18;Austria;Austria;114;Back;21/05/19;Laudamotion;1;9.99;20:40;Palma Mall PMI;23:00;Vienna VIE
+2019-05-09;21:18;Austria;Austria;115;There;19/05/19;Level Anisec;1;54.99;09:10;Vienna VIE;11:40;Palma Mall PMI VK6000
+2019-05-09;21:18;Austria;Austria;115;There;19/05/19;Eurowings;1;49.99;13:00;Palma Mall PMI;15:15;Linz LNZ
+2019-05-09;21:18;Austria;Austria;115;Back;24/05/19;Eurowings;1;29.99;17:35;Linz LNZ;19:50;Palma Mall PMI EW6867
+2019-05-09;21:18;Austria;Austria;115;Back;24/05/19;Laudamotion;1;9.99;22:25;Palma Mall PMI;00:45;Vienna VIE
+2019-05-09;21:18;Austria;Austria;116;There;17/05/19;Laudamotion;1;66.29;05:30;Vienna VIE;07:55;Palma Mall PMI OE500
+2019-05-09;21:18;Austria;Austria;116;There;17/05/19;Eurowings;1;39.99;14:30;Palma Mall PMI;16:45;Linz LNZ
+2019-05-09;21:18;Austria;Austria;116;Back;24/05/19;Eurowings;1;29.99;17:35;Linz LNZ;19:50;Palma Mall PMI EW6867
+2019-05-09;21:18;Austria;Austria;116;Back;24/05/19;Laudamotion;1;9.99;22:25;Palma Mall PMI;00:45;Vienna VIE
+2019-05-09;21:18;Austria;Austria;117;There;17/05/19;Laudamotion;1;78.53;11:15;Vienna VIE;13:40;Palma Mall PMI OE100
+2019-05-09;21:18;Austria;Austria;117;There;17/05/19;Eurowings;1;39.99;14:30;Palma Mall PMI;16:45;Linz LNZ
+2019-05-09;21:18;Austria;Austria;117;Back;24/05/19;Eurowings;1;29.99;17:35;Linz LNZ;19:50;Palma Mall PMI EW6867
+2019-05-09;21:18;Austria;Austria;117;Back;24/05/19;Laudamotion;1;9.99;22:25;Palma Mall PMI;00:45;Vienna VIE
+2019-05-09;21:18;Austria;Austria;118;There;17/05/19;Laudamotion;1;66.29;05:30;Vienna VIE;07:55;Palma Mall PMI OE500
+2019-05-09;21:18;Austria;Austria;118;There;17/05/19;Eurowings;1;39.99;14:30;Palma Mall PMI;16:45;Linz LNZ
+2019-05-09;21:18;Austria;Austria;118;Back;21/05/19;Eurowings;1;59.99;17:20;Linz LNZ;19:35;Palma Mall PMI EW6867
+2019-05-09;21:18;Austria;Austria;118;Back;21/05/19;Laudamotion;1;9.99;20:40;Palma Mall PMI;23:00;Vienna VIE
+2019-05-09;21:18;Austria;Austria;119;There;10/10/19;Eurowings;1;39.99;10:50;Graz GRZ;13:05;Palma Mall PMI EW6871
+2019-05-09;21:18;Austria;Austria;119;There;10/10/19;Eurowings;1;59.99;20:05;Palma Mall PMI;22:15;Salzburg SZG
+2019-05-09;21:18;Austria;Austria;119;Back;17/10/19;Eurowings;1;39.99;12:30;Salzburg SZG;13:50;Berlin TXLBerlin (Tegel) TXL EW8143
+2019-05-09;21:18;Austria;Austria;119;Back;17/10/19;easyJet;1;20.74;15:00;Berlin TXLBerlin (Tegel) TXL;16:20;Graz GRZ
+2019-05-09;21:18;Austria;Austria;120;There;17/05/19;Laudamotion;1;78.53;11:15;Vienna VIE;13:40;Palma Mall PMI OE100
+2019-05-09;21:18;Austria;Austria;120;There;17/05/19;Eurowings;1;39.99;14:30;Palma Mall PMI;16:45;Linz LNZ
+2019-05-09;21:18;Austria;Austria;120;Back;21/05/19;Eurowings;1;59.99;17:20;Linz LNZ;19:35;Palma Mall PMI EW6867
+2019-05-09;21:18;Austria;Austria;120;Back;21/05/19;Laudamotion;1;9.99;20:40;Palma Mall PMI;23:00;Vienna VIE
+2019-05-09;21:18;Austria;Austria;121;There;10/10/19;Eurowings;1;39.99;10:50;Graz GRZ;13:05;Palma Mall PMI EW6871
+2019-05-09;21:18;Austria;Austria;121;There;10/10/19;Eurowings;1;59.99;20:05;Palma Mall PMI;22:15;Salzburg SZG
+2019-05-09;21:18;Austria;Austria;121;Back;15/10/19;Eurowings;1;59.99;12:30;Salzburg SZG;13:50;Berlin TXLBerlin (Tegel) TXL EW8143
+2019-05-09;21:18;Austria;Austria;121;Back;15/10/19;easyJet;1;20.74;15:00;Berlin TXLBerlin (Tegel) TXL;16:20;Graz GRZ
+2019-05-09;21:18;Austria;Austria;122;There;14/10/19;Eurowings;1;39.99;11:10;Graz GRZ;13:25;Palma Mall PMI EW6871
+2019-05-09;21:18;Austria;Austria;122;There;14/10/19;Eurowings;1;69.99;19:20;Palma Mall PMI;21:30;Salzburg SZG
+2019-05-09;21:18;Austria;Austria;122;Back;22/10/19;Eurowings;1;59.99;12:30;Salzburg SZG;13:50;Berlin TXLBerlin (Tegel) TXL EW8143
+2019-05-09;21:18;Austria;Austria;122;Back;22/10/19;easyJet;1;20.74;15:00;Berlin TXLBerlin (Tegel) TXL;16:20;Graz GRZ
+2019-05-09;21:18;Austria;Austria;123;There;06/06/19;Eurowings;1;59.99;10:50;Graz GRZ;13:05;Palma Mall PMI EW6871
+2019-05-09;21:18;Austria;Austria;123;There;06/06/19;Eurowings;1;59.99;20:05;Palma Mall PMI;22:15;Salzburg SZG
+2019-05-09;21:18;Austria;Austria;123;Back;13/06/19;Eurowings;1;59.99;12:30;Salzburg SZG;13:50;Berlin TXLBerlin (Tegel) TXL EW8143
+2019-05-09;21:18;Austria;Austria;123;Back;13/06/19;easyJet;1;13.67;15:00;Berlin TXLBerlin (Tegel) TXL;16:20;Graz GRZ
+2019-05-09;21:18;Austria;Austria;124;There;12/05/19;Eurowings;1;49.99;06:15;Vienna VIE;08:45;Palma Mall PMI EW5912
+2019-05-09;21:18;Austria;Austria;124;There;12/05/19;Eurowings;1;59.99;13:00;Palma Mall PMI;15:15;Linz LNZ
+2019-05-09;21:18;Austria;Austria;124;Back;17/05/19;Eurowings;1;99.99;17:35;Linz LNZ;19:50;Palma Mall PMI EW6867
+2019-05-09;21:18;Austria;Austria;124;Back;17/05/19;Laudamotion;1;9.99;22:25;Palma Mall PMI;00:45;Vienna VIE
+2019-05-09;21:18;Austria;Austria;125;There;17/10/19;Eurowings;1;79.99;10:50;Graz GRZ;13:05;Palma Mall PMI EW6871
+2019-05-09;21:18;Austria;Austria;125;There;17/10/19;Eurowings;1;69.99;20:05;Palma Mall PMI;22:15;Salzburg SZG
+2019-05-09;21:18;Austria;Austria;125;Back;24/10/19;Eurowings;1;39.99;12:30;Salzburg SZG;13:50;Berlin TXLBerlin (Tegel) TXL EW8143
+2019-05-09;21:18;Austria;Austria;125;Back;24/10/19;easyJet;1;22.76;15:00;Berlin TXLBerlin (Tegel) TXL;16:20;Graz GRZ
+2019-05-09;21:18;Austria;Austria;126;There;07/10/19;Eurowings;1;59.99;11:10;Graz GRZ;13:25;Palma Mall PMI EW6871
+2019-05-09;21:18;Austria;Austria;126;There;07/10/19;Eurowings;1;79.99;19:20;Palma Mall PMI;21:30;Salzburg SZG
+2019-05-09;21:18;Austria;Austria;126;Back;15/10/19;Eurowings;1;59.99;12:30;Salzburg SZG;13:50;Berlin TXLBerlin (Tegel) TXL EW8143
+2019-05-09;21:18;Austria;Austria;126;Back;15/10/19;easyJet;1;20.74;15:00;Berlin TXLBerlin (Tegel) TXL;16:20;Graz GRZ
+2019-05-09;21:18;Austria;Austria;127;There;17/10/19;Eurowings;1;79.99;10:50;Graz GRZ;13:05;Palma Mall PMI EW6871
+2019-05-09;21:18;Austria;Austria;127;There;17/10/19;Eurowings;1;69.99;20:05;Palma Mall PMI;22:15;Salzburg SZG
+2019-05-09;21:18;Austria;Austria;127;Back;22/10/19;Eurowings;1;59.99;12:30;Salzburg SZG;13:50;Berlin TXLBerlin (Tegel) TXL EW8143
+2019-05-09;21:18;Austria;Austria;127;Back;22/10/19;easyJet;1;20.74;15:00;Berlin TXLBerlin (Tegel) TXL;16:20;Graz GRZ
+2019-05-09;21:18;Austria;Austria;128;There;03/10/19;Eurowings;1;99.99;10:50;Graz GRZ;13:05;Palma Mall PMI EW6871
+2019-05-09;21:18;Austria;Austria;128;There;03/10/19;Eurowings;1;69.99;20:05;Palma Mall PMI;22:15;Salzburg SZG
+2019-05-09;21:18;Austria;Austria;128;Back;10/10/19;Eurowings;1;49.99;12:30;Salzburg SZG;13:50;Berlin TXLBerlin (Tegel) TXL EW8143
+2019-05-09;21:18;Austria;Austria;128;Back;10/10/19;easyJet;1;20.74;15:00;Berlin TXLBerlin (Tegel) TXL;16:20;Graz GRZ
+2019-05-09;21:18;Austria;Austria;129;There;19/09/19;Eurowings;1;99.99;10:50;Graz GRZ;13:05;Palma Mall PMI EW6871
+2019-05-09;21:18;Austria;Austria;129;There;19/09/19;Eurowings;1;79.99;20:05;Palma Mall PMI;22:15;Salzburg SZG
+2019-05-09;21:18;Austria;Austria;129;Back;26/09/19;Eurowings;1;39.99;12:30;Salzburg SZG;13:50;Berlin TXLBerlin (Tegel) TXL EW8143
+2019-05-09;21:18;Austria;Austria;129;Back;26/09/19;easyJet;1;22.76;15:00;Berlin TXLBerlin (Tegel) TXL;16:20;Graz GRZ
+2019-05-09;21:18;Austria;Austria;130;There;28/09/19;Eurowings;1;99.99;10:20;Graz GRZ;12:35;Palma Mall PMI EW6871
+2019-05-09;21:18;Austria;Austria;130;There;28/09/19;Eurowings;1;89.99;16:30;Palma Mall PMI;18:45;Salzburg SZG
+2019-05-09;21:18;Austria;Austria;130;Back;03/10/19;Eurowings;1;39.99;12:30;Salzburg SZG;13:50;Berlin TXLBerlin (Tegel) TXL EW8143
+2019-05-09;21:18;Austria;Austria;130;Back;03/10/19;easyJet;1;20.74;15:00;Berlin TXLBerlin (Tegel) TXL;16:20;Graz GRZ
+2019-05-09;21:18;Austria;Austria;131;There;10/06/19;Eurowings;1;59.99;11:10;Graz GRZ;13:25;Palma Mall PMI EW6871
+2019-05-09;21:18;Austria;Austria;131;There;10/06/19;Eurowings;1;89.99;19:20;Palma Mall PMI;21:30;Salzburg SZG
+2019-05-09;21:18;Austria;Austria;131;Back;18/06/19;Eurowings;1;59.99;12:30;Salzburg SZG;13:50;Berlin TXLBerlin (Tegel) TXL EW8143
+2019-05-09;21:18;Austria;Austria;131;Back;18/06/19;easyJet;1;43.97;15:00;Berlin TXLBerlin (Tegel) TXL;16:20;Graz GRZ
+2019-05-09;21:18;Austria;Austria;132;There;14/09/19;Eurowings;1;99.99;10:20;Graz GRZ;12:35;Palma Mall PMI EW6871
+2019-05-09;21:18;Austria;Austria;132;There;14/09/19;Eurowings;1;89.99;16:30;Palma Mall PMI;18:45;Salzburg SZG
+2019-05-09;21:18;Austria;Austria;132;Back;19/09/19;Eurowings;1;39.99;12:30;Salzburg SZG;13:50;Berlin TXLBerlin (Tegel) TXL EW8143
+2019-05-09;21:18;Austria;Austria;132;Back;19/09/19;easyJet;1;25.28;15:00;Berlin TXLBerlin (Tegel) TXL;16:20;Graz GRZ
+2019-05-09;21:18;Austria;Austria;133;There;04/07/19;Eurowings;1;79.99;10:50;Graz GRZ;13:05;Palma Mall PMI EW6871
+2019-05-09;21:18;Austria;Austria;133;There;04/07/19;Eurowings;1;69.99;20:05;Palma Mall PMI;22:15;Salzburg SZG
+2019-05-09;21:18;Austria;Austria;133;Back;09/07/19;Eurowings;1;59.99;12:30;Salzburg SZG;13:50;Berlin TXLBerlin (Tegel) TXL EW8143
+2019-05-09;21:18;Austria;Austria;133;Back;09/07/19;easyJet;1;50.53;15:00;Berlin TXLBerlin (Tegel) TXL;16:20;Graz GRZ
+2019-05-09;21:18;Austria;Austria;134;There;21/09/19;Eurowings;1;99.99;10:20;Graz GRZ;12:35;Palma Mall PMI EW6871
+2019-05-09;21:18;Austria;Austria;134;There;21/09/19;Eurowings;1;99.99;16:30;Palma Mall PMI;18:45;Salzburg SZG
+2019-05-09;21:18;Austria;Austria;134;Back;26/09/19;Eurowings;1;39.99;12:30;Salzburg SZG;13:50;Berlin TXLBerlin (Tegel) TXL EW8143
+2019-05-09;21:18;Austria;Austria;134;Back;26/09/19;easyJet;1;22.76;15:00;Berlin TXLBerlin (Tegel) TXL;16:20;Graz GRZ
+2019-05-09;21:18;Austria;Austria;135;There;08/06/19;Eurowings;1;119.99;10:20;Graz GRZ;12:35;Palma Mall PMI EW6871
+2019-05-09;21:18;Austria;Austria;135;There;08/06/19;Eurowings;1;69.99;16:30;Palma Mall PMI;18:45;Salzburg SZG
+2019-05-09;21:18;Austria;Austria;135;Back;13/06/19;Eurowings;1;59.99;12:30;Salzburg SZG;13:50;Berlin TXLBerlin (Tegel) TXL EW8143
+2019-05-09;21:18;Austria;Austria;135;Back;13/06/19;easyJet;1;13.67;15:00;Berlin TXLBerlin (Tegel) TXL;16:20;Graz GRZ
+2019-05-09;21:18;Austria;Austria;136;There;19/09/19;Eurowings;1;99.99;10:50;Graz GRZ;13:05;Palma Mall PMI EW6871
+2019-05-09;21:18;Austria;Austria;136;There;19/09/19;Eurowings;1;79.99;20:05;Palma Mall PMI;22:15;Salzburg SZG
+2019-05-09;21:18;Austria;Austria;136;Back;24/09/19;Eurowings;1;59.99;12:30;Salzburg SZG;13:50;Berlin TXLBerlin (Tegel) TXL EW8143
+2019-05-09;21:18;Austria;Austria;136;Back;24/09/19;easyJet;1;26.29;15:00;Berlin TXLBerlin (Tegel) TXL;16:20;Graz GRZ
