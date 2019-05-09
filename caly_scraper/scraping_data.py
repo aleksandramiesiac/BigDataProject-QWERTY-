@@ -37,6 +37,7 @@ class ScrapData():
         licz_ceny = 0
         i = 0
         id_podrozy = 1
+        ThereBack = 'There'
 
         #print(len(change))
 
@@ -57,7 +58,7 @@ class ScrapData():
                     przes = 1
 
                     file.write(scrap_date+";"+scrap_time+";"+country_from + ";" + country_to + ";" + str(id_podrozy) + ";"+ \
-                        str(data[i + ii].text[4:]) + ";" + str(przewoznik[licz_ceny].text) + ";" + str(
+                        +str(ThereBack) + ";"+ str(data[i + ii].text[4:]) + ";" + str(przewoznik[licz_ceny].text) + ";" + str(
                         przes) + ";" + str(cena[licz_ceny].text[1:]) + ";" + str(
                         skad[licznik + 1].text.replace('\xa0', ' ')[3:8]) + \
                             ";" + str(skad[licznik + 1].text.replace('\xa0', ' ')[9:]) + ";" + str(
@@ -65,7 +66,7 @@ class ScrapData():
                     licz_ceny += 1
                     licznik += 1
                     file.write(scrap_date+";"+scrap_time+";"+country_from + ";" + country_to + ";" + str(id_podrozy) + ";"+ \
-                        str(data[i + ii].text[4:]) + ";" + str(przewoznik[licz_ceny].text) + ";" + str(
+                        +str(ThereBack) + ";"+str(data[i + ii].text[4:]) + ";" + str(przewoznik[licz_ceny].text) + ";" + str(
                         przes) + ";" + str(cena[licz_ceny].text[1:]) + ";" + str(
                         skad[licznik + 1].text.replace('\xa0', ' ')[3:8]) + \
                             ";" + str(skad[licznik + 1].text.replace('\xa0', ' ')[9:]) + ";" + str(
@@ -87,7 +88,7 @@ class ScrapData():
 
                 file.write(
                     scrap_date+";"+scrap_time+";"+country_from + ";" + country_to + ";" + str(id_podrozy) + ";"+ \
-                    str(data[i + ii].text[4:]) + ";" + str(przewoznik[licz_ceny].text) + ";" + str(przes) + ";" + str(
+                    +str(ThereBack) + ";"+ str(data[i + ii].text[4:]) + ";" + str(przewoznik[licz_ceny].text) + ";" + str(przes) + ";" + str(
                         cena[licz_ceny].text[1:]) + ";" + str(skad[licznik + 1].text.replace('\xa0', ' ')[3:8]) + \
                     ";" + str(skad[licznik + 1].text.replace('\xa0', ' ')[9:]) + ";" + str(
                         to[licznik].text[:5]) + ";" + str(to[licznik].text[6:]) + "\n")
@@ -97,9 +98,11 @@ class ScrapData():
             licz_ceny += 1
             licznik += 2
             i += 1
-
-            if przes == 0 and i % 2 == 0:
+            ThereBack = 'There'
+            
+            if i % 2 == 0:
                 id_podrozy += 1
+                ThereBack = "Back"
 
             print('-----')
 

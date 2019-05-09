@@ -47,7 +47,7 @@ file_exists = os.path.exists(file_path)
 
 with open(file_path, "a") as output_file:
     if not file_exists:
-        output_file.write("Scrap_date;Scrap_time;Country_from;Country_to;Flight_id;Flight_date;Airline;Change;Price;Depart_hour;Depart_from;Arrival_hour;Arrive_to\n")
+        output_file.write("Scrap_date;Scrap_time;Country_from;Country_to;Flight_id;There_or_Back;Flight_date;Airline;Change;Price;Depart_hour;Depart_from;Arrival_hour;Arrive_to\n")
         output_file.flush()
 
     print("------Nazwa pliku--------\n" + output_file.name)
