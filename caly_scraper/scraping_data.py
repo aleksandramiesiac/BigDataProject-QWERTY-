@@ -41,6 +41,7 @@ class ScrapData():
         #print(len(change))
 
         print('zaczynam zapisywanie dla.. ' + country_from + " - " + country_to)
+        print(len(change))
 
         while i + ii < len(change):
             przes = 0

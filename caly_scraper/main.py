@@ -8,17 +8,18 @@ from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException
 #from pyvirtualdisplay import Display
 from scraping_data import ScrapData
-import itertools
 import os
 import datetime
 import time
+import sys
 
 
+start_time = time.time()
 
 main_directory = os.path.dirname(os.path.abspath(__file__))
 os.environ["PATH"] += os.pathsep + main_directory
 
-config_file_path = main_directory[:-13]+"/prepare_links/countries_links.txt"
+config_file_path = main_directory[:-13]+"/prepare_links/scrap_links_" + str(sys.argv[1]) + ".txt"
 
 connections_to_scrap = []
 with open(config_file_path, "r") as conf_file:
@@ -64,6 +65,10 @@ with open(file_path, "a") as output_file:
         if(element[2] != "http://www.azair.eu/"):
             scraper = ScrapData()
             scraper.scrap(element[0], element[1], element[2], output_file, currentDT)
-            # opoznienie:
-            time.sleep(5)
 
+        # opoznienie:
+        time.sleep(10)
+
+
+elapsed_time = time.time() - start_time
+print(elapsed_time)
