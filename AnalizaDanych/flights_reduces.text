@@ -1,0 +1,289 @@
+Scrap_date;Scrap_time;Country_from;Country_to;Flight_id;Flight_date;Airline;Change;Price;Depart_hour;Depart_from;Arrival_hour;Arrive_to
+2019-05-07;05:00;Austria;Bulgaria;35;14/06/19;Wizz Air;1;70.15;22:40;London LTNLondon (Luton) LTN;04:10;Bourgas BOJ
+2019-05-07;05:00;Austria;Bulgaria;35;21/06/19;Wizz Air;1;20.45;05:25;Bourgas BOJ;07:15;London LTNLondon (Luton) LTN W64555
+2019-05-07;05:00;Austria;Bulgaria;35;21/06/19;easyJet;1;35.50;12:45;London LTNLondon (Luton) LTN;16:10;Vienna VIE
+2019-05-07;05:00;Austria;Bulgaria;35;21/09/19;easyJet;1;11.81;10:50;Salzburg SZG;12:10;Berlin SXFBerlin (Schonefeld) SXF U24796
+2019-05-07;05:00;Austria;Bulgaria;35;21/09/19;Wizz Air;1;44.99;15:25;Berlin SXFBerlin (Schonefeld) SXF;18:55;Varna VAR
+2019-05-07;05:00;Austria;Bulgaria;35;27/09/19;easyJet;1;31.54;14:00;Varna VAR;15:30;Berlin SXFBerlin (Schonefeld) SXF U24722
+2019-05-07;05:00;Austria;Bulgaria;35;27/09/19;easyJet;1;55.58;18:25;Berlin SXFBerlin (Schonefeld) SXF;19:50;Salzburg SZG
+2019-05-07;05:00;Austria;Bulgaria;35;16/06/19;easyJet;1;52.71;11:15;Vienna VIE;12:40;London LTNLondon (Luton) LTN U22464
+2019-05-07;05:00;Austria;Bulgaria;35;16/06/19;Wizz Air;1;43.26;22:40;London LTNLondon (Luton) LTN;04:10;Bourgas BOJ
+2019-05-07;05:00;Austria;Bulgaria;35;23/06/19;Ryanair;1;33.08;17:05;Bourgas BOJ;18:00;Krakow KRK FR3715
+2019-05-07;05:00;Austria;Bulgaria;35;23/06/19;Laudamotion;1;15.17;22:40;Krakow KRK;23:40;Vienna VIE
+2019-05-07;05:00;Austria;Bulgaria;35;21/06/19;easyJet;1;19.89;16:50;Vienna VIE;18:10;London LTNLondon (Luton) LTN U22464
+2019-05-07;05:00;Austria;Bulgaria;35;21/06/19;Wizz Air;1;49.10;22:40;London LTNLondon (Luton) LTN;04:10;Bourgas BOJ
+2019-05-07;05:00;Austria;Bulgaria;35;28/06/19;Wizz Air;1;20.45;05:25;Bourgas BOJ;07:15;London LTNLondon (Luton) LTN W64555
+2019-05-07;05:00;Austria;Bulgaria;35;28/06/19;easyJet;1;55.58;12:45;London LTNLondon (Luton) LTN;16:10;Vienna VIE
+2019-05-07;05:00;Austria;Bulgaria;35;06/06/19;easyJet;1;24.88;11:10;Vienna VIE;12:25;London LTNLondon (Luton) LTN U22464
+2019-05-07;05:00;Austria;Bulgaria;35;06/06/19;Wizz Air;1;29.22;22:40;London LTNLondon (Luton) LTN;04:10;Bourgas BOJ
+2019-05-07;05:00;Austria;Bulgaria;35;14/06/19;Wizz Air;1;20.45;05:25;Bourgas BOJ;07:15;London LTNLondon (Luton) LTN W64555
+2019-05-07;05:00;Austria;Bulgaria;35;14/06/19;easyJet;1;70.88;12:45;London LTNLondon (Luton) LTN;16:10;Vienna VIE
+2019-05-07;05:00;Austria;Bulgaria;35;13/06/19;easyJet;1;20.33;11:10;Vienna VIE;12:25;London LTNLondon (Luton) LTN U22464
+2019-05-07;05:00;Austria;Bulgaria;35;13/06/19;Wizz Air;1;65.47;22:40;London LTNLondon (Luton) LTN;04:10;Bourgas BOJ
+2019-05-07;05:00;Austria;Bulgaria;35;18/06/19;norwegian;1;45.28;01:10;Bourgas BOJ;02:50;Copenhagen CPH DY3785
+2019-05-07;05:00;Austria;Bulgaria;35;18/06/19;Laudamotion;1;19.96;13:00;Copenhagen CPH;14:45;Vienna VIE
+2019-05-07;05:00;Austria;Bulgaria;35;16/06/19;easyJet;1;52.71;11:15;Vienna VIE;12:40;London LTNLondon (Luton) LTN U22464
+2019-05-07;05:00;Austria;Bulgaria;35;16/06/19;Wizz Air;1;43.26;22:40;London LTNLondon (Luton) LTN;04:10;Bourgas BOJ
+2019-05-07;05:00;Austria;Bulgaria;35;21/06/19;Wizz Air;1;20.45;05:25;Bourgas BOJ;07:15;London LTNLondon (Luton) LTN W64555
+2019-05-07;05:00;Austria;Bulgaria;35;21/06/19;easyJet;1;35.50;12:45;London LTNLondon (Luton) LTN;16:10;Vienna VIE
+2019-05-07;05:00;Austria;Bulgaria;35;14/06/19;easyJet;1;16.86;16:50;Vienna VIE;18:10;London LTNLondon (Luton) LTN U22464
+2019-05-07;05:00;Austria;Bulgaria;35;14/06/19;Wizz Air;1;70.15;22:40;London LTNLondon (Luton) LTN;04:10;Bourgas BOJ
+2019-05-07;05:00;Austria;Bulgaria;35;18/06/19;norwegian;1;45.28;01:10;Bourgas BOJ;02:50;Copenhagen CPH DY3785
+2019-05-07;05:00;Austria;Bulgaria;35;18/06/19;Laudamotion;1;19.96;13:00;Copenhagen CPH;14:45;Vienna VIE
+2019-05-07;05:00;Austria;Bulgaria;35;13/06/19;easyJet;1;20.33;11:10;Vienna VIE;12:25;London LTNLondon (Luton) LTN U22464
+2019-05-07;05:00;Austria;Bulgaria;35;13/06/19;Wizz Air;1;76.00;14:00;London LTNLondon (Luton) LTN;19:30;Bourgas BOJ
+2019-05-07;05:00;Austria;Bulgaria;35;21/06/19;Wizz Air;1;20.45;05:25;Bourgas BOJ;07:15;London LTNLondon (Luton) LTN W64555
+2019-05-07;05:00;Austria;Bulgaria;35;21/06/19;easyJet;1;35.50;12:45;London LTNLondon (Luton) LTN;16:10;Vienna VIE
+2019-05-07;05:00;Austria;Bulgaria;35;09/06/19;easyJet;1;46.09;11:15;Vienna VIE;12:40;London LTNLondon (Luton) LTN U22464
+2019-05-07;05:00;Austria;Bulgaria;35;09/06/19;Wizz Air;1;31.56;22:40;London LTNLondon (Luton) LTN;04:10;Bourgas BOJ
+2019-05-07;05:00;Austria;Bulgaria;35;15/06/19;norwegian;1;59.31;11:30;Bourgas BOJ;13:10;Copenhagen CPH DY3783
+2019-05-07;05:00;Austria;Bulgaria;35;15/06/19;Laudamotion;1;19.96;21:20;Copenhagen CPH;23:05;Vienna VIE
+2019-05-07;05:00;Austria;Bulgaria;35;13/06/19;easyJet;1;20.33;11:10;Vienna VIE;12:25;London LTNLondon (Luton) LTN U22464
+2019-05-07;05:00;Austria;Bulgaria;35;13/06/19;Wizz Air;1;76.00;14:00;London LTNLondon (Luton) LTN;19:30;Bourgas BOJ
+2019-05-07;05:00;Austria;Bulgaria;35;18/06/19;norwegian;1;45.28;01:10;Bourgas BOJ;02:50;Copenhagen CPH DY3785
+2019-05-07;05:00;Austria;Bulgaria;35;18/06/19;Laudamotion;1;19.96;13:00;Copenhagen CPH;14:45;Vienna VIE
+2019-05-07;05:00;Austria;Bulgaria;35;29/09/19;Eurowings;1;119.99;10:50;Klagenfurt KLU;12:10;Cologne CGNCologne-Bonn CGN EW285
+2019-05-07;05:00;Austria;Bulgaria;35;29/09/19;Ryanair;1;27.53;18:25;Cologne CGNCologne-Bonn CGN;21:50;Sofia SOF
+2019-05-07;05:00;Austria;Bulgaria;35;07/10/19;Ryanair;1;24.78;10:15;Sofia SOF;11:50;Cologne CGNCologne-Bonn CGN FR6306
+2019-05-07;05:00;Austria;Bulgaria;35;07/10/19;Eurowings;1;49.99;16:05;Cologne CGNCologne-Bonn CGN;17:25;Klagenfurt KLU
+2019-05-07;05:00;Austria;Bulgaria;35;22/09/19;Eurowings;1;119.99;10:50;Klagenfurt KLU;12:10;Cologne CGNCologne-Bonn CGN EW285
+2019-05-07;05:00;Austria;Bulgaria;35;22/09/19;Ryanair;1;40.79;18:25;Cologne CGNCologne-Bonn CGN;21:50;Sofia SOF
+2019-05-07;05:00;Austria;Bulgaria;35;27/09/19;Ryanair;1;33.65;10:15;Sofia SOF;11:50;Cologne CGNCologne-Bonn CGN FR6306
+2019-05-07;05:00;Austria;Bulgaria;35;27/09/19;Eurowings;1;39.99;15:55;Cologne CGNCologne-Bonn CGN;17:15;Klagenfurt KLU
+2019-05-07;05:00;Austria;Bulgaria;35;22/09/19;Eurowings;1;119.99;10:50;Klagenfurt KLU;12:10;Cologne CGNCologne-Bonn CGN EW285
+2019-05-07;05:00;Austria;Bulgaria;35;22/09/19;Ryanair;1;40.79;18:25;Cologne CGNCologne-Bonn CGN;21:50;Sofia SOF
+2019-05-07;05:00;Austria;Bulgaria;35;30/09/19;Ryanair;1;33.65;10:15;Sofia SOF;11:50;Cologne CGNCologne-Bonn CGN FR6306
+2019-05-07;05:00;Austria;Bulgaria;35;30/09/19;Eurowings;1;49.99;16:05;Cologne CGNCologne-Bonn CGN;17:25;Klagenfurt KLU
+2019-05-07;05:00;Austria;Bulgaria;35;20/10/19;Eurowings;1;99.99;10:50;Klagenfurt KLU;12:10;Cologne CGNCologne-Bonn CGN EW285
+2019-05-07;05:00;Austria;Bulgaria;35;20/10/19;Ryanair;1;58.13;18:25;Cologne CGNCologne-Bonn CGN;21:50;Sofia SOF
+2019-05-07;05:00;Austria;Bulgaria;35;25/10/19;Ryanair;1;40.79;10:15;Sofia SOF;11:50;Cologne CGNCologne-Bonn CGN FR6306
+2019-05-07;05:00;Austria;Bulgaria;35;25/10/19;Eurowings;1;49.99;15:55;Cologne CGNCologne-Bonn CGN;17:15;Klagenfurt KLU
+2019-05-07;05:00;Austria;Bulgaria;35;06/10/19;Eurowings;1;119.99;10:50;Klagenfurt KLU;12:10;Cologne CGNCologne-Bonn CGN EW285
+2019-05-07;05:00;Austria;Bulgaria;35;06/10/19;Ryanair;1;69.35;18:25;Cologne CGNCologne-Bonn CGN;21:50;Sofia SOF
+2019-05-07;05:00;Austria;Bulgaria;35;14/10/19;Ryanair;1;24.78;10:15;Sofia SOF;11:50;Cologne CGNCologne-Bonn CGN FR6306
+2019-05-07;05:00;Austria;Bulgaria;35;14/10/19;Eurowings;1;49.99;16:05;Cologne CGNCologne-Bonn CGN;17:25;Klagenfurt KLU
+2019-05-07;05:00;Austria;Bulgaria;35;01/09/19;Eurowings;1;139.99;10:50;Klagenfurt KLU;12:10;Cologne CGNCologne-Bonn CGN EW285
+2019-05-07;05:00;Austria;Bulgaria;35;01/09/19;Ryanair;1;48.95;18:25;Cologne CGNCologne-Bonn CGN;21:50;Sofia SOF
+2019-05-07;05:00;Austria;Bulgaria;35;09/09/19;Ryanair;1;27.53;10:15;Sofia SOF;11:50;Cologne CGNCologne-Bonn CGN FR6306
+2019-05-07;05:00;Austria;Bulgaria;35;09/09/19;Eurowings;1;49.99;16:05;Cologne CGNCologne-Bonn CGN;17:25;Klagenfurt KLU
+2019-05-07;05:00;Austria;Bulgaria;35;06/10/19;Eurowings;1;119.99;10:50;Klagenfurt KLU;12:10;Cologne CGNCologne-Bonn CGN EW285
+2019-05-07;05:00;Austria;Bulgaria;35;06/10/19;Ryanair;1;69.35;18:25;Cologne CGNCologne-Bonn CGN;21:50;Sofia SOF
+2019-05-07;05:00;Austria;Bulgaria;35;11/10/19;Ryanair;1;27.53;10:15;Sofia SOF;11:50;Cologne CGNCologne-Bonn CGN FR6306
+2019-05-07;05:00;Austria;Bulgaria;35;11/10/19;Eurowings;1;49.99;15:55;Cologne CGNCologne-Bonn CGN;17:15;Klagenfurt KLU
+2019-05-07;05:00;Austria;Bulgaria;35;30/06/19;Eurowings;1;119.99;10:50;Klagenfurt KLU;12:10;Cologne CGNCologne-Bonn CGN EW285
+2019-05-07;05:00;Austria;Bulgaria;35;30/06/19;Ryanair;1;101.99;18:25;Cologne CGNCologne-Bonn CGN;21:50;Sofia SOF
+2019-05-07;05:00;Austria;Bulgaria;35;08/07/19;Ryanair;1;22.98;10:15;Sofia SOF;11:50;Cologne CGNCologne-Bonn CGN FR6306
+2019-05-07;05:00;Austria;Bulgaria;35;08/07/19;Eurowings;1;69.99;16:05;Cologne CGNCologne-Bonn CGN;17:25;Klagenfurt KLU
+2019-05-07;05:00;Austria;Bulgaria;35;30/06/19;Eurowings;1;119.99;10:50;Klagenfurt KLU;12:10;Cologne CGNCologne-Bonn CGN EW285
+2019-05-07;05:00;Austria;Bulgaria;35;30/06/19;Ryanair;1;101.99;18:25;Cologne CGNCologne-Bonn CGN;21:50;Sofia SOF
+2019-05-07;05:00;Austria;Bulgaria;35;05/07/19;Ryanair;1;33.65;10:15;Sofia SOF;11:50;Cologne CGNCologne-Bonn CGN FR6306
+2019-05-07;05:00;Austria;Bulgaria;35;05/07/19;Eurowings;1;79.99;15:55;Cologne CGNCologne-Bonn CGN;17:15;Klagenfurt KLU
+2019-05-07;05:00;Austria;Bulgaria;35;23/06/19;Eurowings;1;139.99;10:50;Klagenfurt KLU;12:10;Cologne CGNCologne-Bonn CGN EW285
+2019-05-07;05:00;Austria;Bulgaria;35;23/06/19;Ryanair;1;85.67;18:25;Cologne CGNCologne-Bonn CGN;21:50;Sofia SOF
+2019-05-07;05:00;Austria;Bulgaria;35;01/07/19;Ryanair;1;33.65;10:15;Sofia SOF;11:50;Cologne CGNCologne-Bonn CGN FR6306
+2019-05-07;05:00;Austria;Bulgaria;35;01/07/19;Eurowings;1;79.99;16:05;Cologne CGNCologne-Bonn CGN;17:25;Klagenfurt KLU
+2019-05-07;05:00;Austria;Belgium;1;20/11/19;Laudamotion;0;26.51;10:30;Vienna VIE;12:20;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;1;27/11/19;Laudamotion;0;21.21;12:45;Brussels CRLBrussels (Charleroi) CRL;14:30;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;2;26/11/19;Laudamotion;0;26.51;07:35;Vienna VIE;09:25;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;2;03/12/19;Laudamotion;0;21.21;09:50;Brussels CRLBrussels (Charleroi) CRL;11:35;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;3;07/11/19;Laudamotion;0;26.51;07:35;Vienna VIE;09:25;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;3;12/11/19;Laudamotion;0;21.21;09:50;Brussels CRLBrussels (Charleroi) CRL;11:35;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;4;20/11/19;Laudamotion;0;26.51;10:30;Vienna VIE;12:20;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;4;26/11/19;Laudamotion;0;21.21;09:50;Brussels CRLBrussels (Charleroi) CRL;11:35;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;5;19/11/19;Laudamotion;0;26.51;07:35;Vienna VIE;09:25;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;5;27/11/19;Laudamotion;0;21.21;12:45;Brussels CRLBrussels (Charleroi) CRL;14:30;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;6;04/11/19;Laudamotion;0;26.51;12:45;Vienna VIE;14:35;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;6;12/11/19;Laudamotion;0;21.21;09:50;Brussels CRLBrussels (Charleroi) CRL;11:35;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;7;10/12/19;Laudamotion;0;26.51;07:35;Vienna VIE;09:25;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;7;17/12/19;Laudamotion;0;21.21;09:50;Brussels CRLBrussels (Charleroi) CRL;11:35;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;8;06/11/19;Laudamotion;0;26.51;10:30;Vienna VIE;12:20;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;8;13/11/19;Laudamotion;0;21.21;12:45;Brussels CRLBrussels (Charleroi) CRL;14:30;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;9;13/11/19;Laudamotion;0;26.51;10:30;Vienna VIE;12:20;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;9;20/11/19;Laudamotion;0;21.21;12:45;Brussels CRLBrussels (Charleroi) CRL;14:30;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;10;05/11/19;Laudamotion;0;26.51;07:35;Vienna VIE;09:25;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;10;13/11/19;Laudamotion;0;21.21;12:45;Brussels CRLBrussels (Charleroi) CRL;14:30;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;11;05/11/19;Laudamotion;0;26.51;07:35;Vienna VIE;09:25;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;11;12/11/19;Laudamotion;0;21.21;09:50;Brussels CRLBrussels (Charleroi) CRL;11:35;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;12;11/12/19;Laudamotion;0;26.51;10:30;Vienna VIE;12:20;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;12;18/12/19;Laudamotion;0;21.21;12:45;Brussels CRLBrussels (Charleroi) CRL;14:30;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;13;11/12/19;Laudamotion;0;26.51;10:30;Vienna VIE;12:20;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;13;17/12/19;Laudamotion;0;21.21;09:50;Brussels CRLBrussels (Charleroi) CRL;11:35;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;14;21/11/19;Laudamotion;0;26.51;07:35;Vienna VIE;09:25;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;14;26/11/19;Laudamotion;0;21.21;09:50;Brussels CRLBrussels (Charleroi) CRL;11:35;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;15;21/11/19;Laudamotion;0;26.51;07:35;Vienna VIE;09:25;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;15;27/11/19;Laudamotion;0;21.21;12:45;Brussels CRLBrussels (Charleroi) CRL;14:30;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;16;06/11/19;Laudamotion;0;26.51;10:30;Vienna VIE;12:20;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;16;12/11/19;Laudamotion;0;21.21;09:50;Brussels CRLBrussels (Charleroi) CRL;11:35;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;22/05/19;Wizz Air;1;14.99;13:25;Vienna VIE;14:40;Warsaw WAW W61344
+2019-05-07;05:00;Austria;Belgium;17;22/05/19;Wizz Air;1;13.77;18:35;Warsaw WAW;20:40;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;17;28/05/19;Ryanair;1;12.99;06:40;Brussels CRLBrussels (Charleroi) CRL;08:15;Copenhagen CPH FR201
+2019-05-07;05:00;Austria;Belgium;17;28/05/19;Laudamotion;1;9.78;13:00;Copenhagen CPH;14:45;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;12/06/19;Wizz Air;1;9.99;13:25;Vienna VIE;14:40;Warsaw WAW W61344
+2019-05-07;05:00;Austria;Belgium;17;12/06/19;Wizz Air;1;13.77;18:35;Warsaw WAW;20:40;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;17;17/06/19;Ryanair;1;17.99;10:15;Brussels CRLBrussels (Charleroi) CRL;12:20;Stockholm NYOStockholm (Skavsta) NYO FR9565
+2019-05-07;05:00;Austria;Belgium;17;17/06/19;Wizz Air;1;13.92;20:45;Stockholm NYOStockholm (Skavsta) NYO;22:55;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;28/05/19;Laudamotion;1;7.99;06:10;Vienna VIE;07:40;Milan BGYMilan (Bergamo) BGY OE1318
+2019-05-07;05:00;Austria;Belgium;17;28/05/19;Ryanair;1;14.99;15:55;Milan BGYMilan (Bergamo) BGY;17:30;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;17;05/06/19;Ryanair;1;17.99;06:20;Brussels CRLBrussels (Charleroi) CRL;07:50;Milan BGYMilan (Bergamo) BGY FR4522
+2019-05-07;05:00;Austria;Belgium;17;05/06/19;Laudamotion;1;14.99;09:55;Milan BGYMilan (Bergamo) BGY;11:25;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;28/05/19;Laudamotion;1;7.99;06:10;Vienna VIE;07:40;Milan BGYMilan (Bergamo) BGY OE1318
+2019-05-07;05:00;Austria;Belgium;17;28/05/19;Ryanair;1;14.99;15:55;Milan BGYMilan (Bergamo) BGY;17:30;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;17;03/06/19;Ryanair;1;17.99;06:20;Brussels CRLBrussels (Charleroi) CRL;07:50;Milan BGYMilan (Bergamo) BGY FR4522
+2019-05-07;05:00;Austria;Belgium;17;03/06/19;Laudamotion;1;14.99;09:25;Milan BGYMilan (Bergamo) BGY;10:55;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;12/06/19;Wizz Air;1;9.99;13:25;Vienna VIE;14:40;Warsaw WAW W61344
+2019-05-07;05:00;Austria;Belgium;17;12/06/19;Wizz Air;1;13.77;18:35;Warsaw WAW;20:40;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;17;17/06/19;Ryanair;1;17.99;06:20;Brussels CRLBrussels (Charleroi) CRL;07:50;Milan BGYMilan (Bergamo) BGY FR4522
+2019-05-07;05:00;Austria;Belgium;17;17/06/19;Laudamotion;1;14.99;09:25;Milan BGYMilan (Bergamo) BGY;10:55;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;05/06/19;Wizz Air;1;9.99;13:25;Vienna VIE;14:40;Warsaw WAW W61344
+2019-05-07;05:00;Austria;Belgium;17;05/06/19;Wizz Air;1;13.77;18:35;Warsaw WAW;20:40;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;17;13/06/19;Ryanair;1;17.99;06:20;Brussels CRLBrussels (Charleroi) CRL;07:50;Milan BGYMilan (Bergamo) BGY FR4522
+2019-05-07;05:00;Austria;Belgium;17;13/06/19;Laudamotion;1;14.99;09:30;Milan BGYMilan (Bergamo) BGY;11:00;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;12/06/19;Wizz Air;1;9.99;13:25;Vienna VIE;14:40;Warsaw WAW W61344
+2019-05-07;05:00;Austria;Belgium;17;12/06/19;Wizz Air;1;13.77;18:35;Warsaw WAW;20:40;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;17;19/06/19;Ryanair;1;17.99;06:20;Brussels CRLBrussels (Charleroi) CRL;07:50;Milan BGYMilan (Bergamo) BGY FR4522
+2019-05-07;05:00;Austria;Belgium;17;19/06/19;Laudamotion;1;14.99;09:55;Milan BGYMilan (Bergamo) BGY;11:25;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;16/05/19;Laudamotion;1;19.99;11:40;Vienna VIE;14:05;Palma Mall PMI OE122
+2019-05-07;05:00;Austria;Belgium;17;16/05/19;Ryanair;1;14.99;15:30;Palma Mall PMI;17:55;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;17;21/05/19;Ryanair;1;12.99;06:40;Brussels CRLBrussels (Charleroi) CRL;08:15;Copenhagen CPH FR201
+2019-05-07;05:00;Austria;Belgium;17;21/05/19;Laudamotion;1;9.78;13:00;Copenhagen CPH;14:45;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;16/05/19;Laudamotion;1;19.99;11:25;Vienna VIE;13:50;Palma Mall PMI OE100
+2019-05-07;05:00;Austria;Belgium;17;16/05/19;Ryanair;1;14.99;15:30;Palma Mall PMI;17:55;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;17;21/05/19;Ryanair;1;12.99;06:40;Brussels CRLBrussels (Charleroi) CRL;08:15;Copenhagen CPH FR201
+2019-05-07;05:00;Austria;Belgium;17;21/05/19;Laudamotion;1;9.78;13:00;Copenhagen CPH;14:45;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;28/05/19;Laudamotion;1;7.99;06:10;Vienna VIE;07:40;Milan BGYMilan (Bergamo) BGY OE1318
+2019-05-07;05:00;Austria;Belgium;17;28/05/19;Ryanair;1;14.99;15:55;Milan BGYMilan (Bergamo) BGY;17:30;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;17;04/06/19;Wizz Air;1;14.99;09:30;Brussels CRLBrussels (Charleroi) CRL;13:15;Bucharest OTPBucharest (Otopeni) OTP W63082
+2019-05-07;05:00;Austria;Belgium;17;04/06/19;Laudamotion;1;19.99;16:10;Bucharest OTPBucharest (Otopeni) OTP;16:50;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;12/06/19;Wizz Air;1;9.99;13:25;Vienna VIE;14:40;Warsaw WAW W61344
+2019-05-07;05:00;Austria;Belgium;17;12/06/19;Wizz Air;1;13.77;18:35;Warsaw WAW;20:40;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;17;18/06/19;Wizz Air;1;14.99;09:30;Brussels CRLBrussels (Charleroi) CRL;13:15;Bucharest OTPBucharest (Otopeni) OTP W63082
+2019-05-07;05:00;Austria;Belgium;17;18/06/19;Laudamotion;1;19.99;16:10;Bucharest OTPBucharest (Otopeni) OTP;16:50;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;05/06/19;Wizz Air;1;9.99;13:25;Vienna VIE;14:40;Warsaw WAW W61344
+2019-05-07;05:00;Austria;Belgium;17;05/06/19;Wizz Air;1;13.77;18:35;Warsaw WAW;20:40;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;17;12/06/19;Ryanair;1;19.99;06:30;Brussels CRLBrussels (Charleroi) CRL;08:30;Krakow KRK FR6728
+2019-05-07;05:00;Austria;Belgium;17;12/06/19;Laudamotion;1;15.17;17:05;Krakow KRK;18:05;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;12/06/19;Wizz Air;1;9.99;13:25;Vienna VIE;14:40;Warsaw WAW W61344
+2019-05-07;05:00;Austria;Belgium;17;12/06/19;Wizz Air;1;13.77;18:35;Warsaw WAW;20:40;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;17;16/06/19;Ryanair;1;19.99;06:30;Brussels CRLBrussels (Charleroi) CRL;08:30;Krakow KRK FR6728
+2019-05-07;05:00;Austria;Belgium;17;16/06/19;Laudamotion;1;15.17;22:40;Krakow KRK;23:40;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;24/10/19;Laudamotion;1;19.99;11:25;Vienna VIE;13:10;Copenhagen CPH OE1320
+2019-05-07;05:00;Austria;Belgium;17;24/10/19;Ryanair;1;19.96;20:45;Copenhagen CPH;22:25;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;17;30/10/19;Laudamotion;1;21.21;12:45;Brussels CRLBrussels (Charleroi) CRL;14:30;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;19/11/19;Laudamotion;1;19.57;07:20;Vienna VIE;08:40;Milan BGYMilan (Bergamo) BGY OE318
+2019-05-07;05:00;Austria;Belgium;17;19/11/19;Ryanair;1;21.21;21:05;Milan BGYMilan (Bergamo) BGY;22:40;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;17;26/11/19;Laudamotion;1;21.21;09:50;Brussels CRLBrussels (Charleroi) CRL;11:35;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;19/11/19;Laudamotion;1;19.57;07:20;Vienna VIE;08:40;Milan BGYMilan (Bergamo) BGY OE318
+2019-05-07;05:00;Austria;Belgium;17;19/11/19;Ryanair;1;21.21;21:05;Milan BGYMilan (Bergamo) BGY;22:40;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;17;27/11/19;Laudamotion;1;21.21;12:45;Brussels CRLBrussels (Charleroi) CRL;14:30;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;13/11/19;Laudamotion;1;19.99;18:45;Vienna VIE;20:05;Milan BGYMilan (Bergamo) BGY OE318
+2019-05-07;05:00;Austria;Belgium;17;13/11/19;Ryanair;1;21.21;21:05;Milan BGYMilan (Bergamo) BGY;22:40;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;17;19/11/19;Laudamotion;1;21.21;09:50;Brussels CRLBrussels (Charleroi) CRL;11:35;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;11/12/19;Laudamotion;1;19.99;18:45;Vienna VIE;20:05;Milan BGYMilan (Bergamo) BGY OE318
+2019-05-07;05:00;Austria;Belgium;17;11/12/19;Ryanair;1;21.21;21:05;Milan BGYMilan (Bergamo) BGY;22:40;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;17;18/12/19;Laudamotion;1;21.21;12:45;Brussels CRLBrussels (Charleroi) CRL;14:30;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;03/12/19;Laudamotion;1;19.99;07:20;Vienna VIE;08:40;Milan BGYMilan (Bergamo) BGY OE318
+2019-05-07;05:00;Austria;Belgium;17;03/12/19;Ryanair;1;21.21;21:05;Milan BGYMilan (Bergamo) BGY;22:40;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;17;11/12/19;Laudamotion;1;21.21;12:45;Brussels CRLBrussels (Charleroi) CRL;14:30;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;03/12/19;Laudamotion;1;19.99;07:20;Vienna VIE;08:40;Milan BGYMilan (Bergamo) BGY OE318
+2019-05-07;05:00;Austria;Belgium;17;03/12/19;Ryanair;1;21.21;21:05;Milan BGYMilan (Bergamo) BGY;22:40;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;17;10/12/19;Laudamotion;1;21.21;09:50;Brussels CRLBrussels (Charleroi) CRL;11:35;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;04/12/19;Laudamotion;1;19.99;18:45;Vienna VIE;20:05;Milan BGYMilan (Bergamo) BGY OE318
+2019-05-07;05:00;Austria;Belgium;17;04/12/19;Ryanair;1;21.21;21:05;Milan BGYMilan (Bergamo) BGY;22:40;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;17;11/12/19;Laudamotion;1;21.21;12:45;Brussels CRLBrussels (Charleroi) CRL;14:30;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;04/12/19;Laudamotion;1;19.99;18:45;Vienna VIE;20:05;Milan BGYMilan (Bergamo) BGY OE318
+2019-05-07;05:00;Austria;Belgium;17;04/12/19;Ryanair;1;21.21;21:05;Milan BGYMilan (Bergamo) BGY;22:40;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;17;10/12/19;Laudamotion;1;21.21;09:50;Brussels CRLBrussels (Charleroi) CRL;11:35;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;11/12/19;Laudamotion;1;19.99;18:45;Vienna VIE;20:05;Milan BGYMilan (Bergamo) BGY OE318
+2019-05-07;05:00;Austria;Belgium;17;11/12/19;Ryanair;1;21.21;21:05;Milan BGYMilan (Bergamo) BGY;22:40;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;17;17/12/19;Laudamotion;1;21.21;09:50;Brussels CRLBrussels (Charleroi) CRL;11:35;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;20/11/19;Laudamotion;1;19.99;18:45;Vienna VIE;20:05;Milan BGYMilan (Bergamo) BGY OE318
+2019-05-07;05:00;Austria;Belgium;17;20/11/19;Ryanair;1;21.21;21:05;Milan BGYMilan (Bergamo) BGY;22:40;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;17;27/11/19;Laudamotion;1;21.21;12:45;Brussels CRLBrussels (Charleroi) CRL;14:30;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;13/11/19;Laudamotion;1;19.99;18:45;Vienna VIE;20:05;Milan BGYMilan (Bergamo) BGY OE318
+2019-05-07;05:00;Austria;Belgium;17;13/11/19;Ryanair;1;21.21;21:05;Milan BGYMilan (Bergamo) BGY;22:40;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;17;20/11/19;Laudamotion;1;21.21;12:45;Brussels CRLBrussels (Charleroi) CRL;14:30;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;23/10/19;Laudamotion;1;19.99;08:00;Vienna VIE;09:30;Milan BGYMilan (Bergamo) BGY OE1318
+2019-05-07;05:00;Austria;Belgium;17;23/10/19;Ryanair;1;21.21;15:55;Milan BGYMilan (Bergamo) BGY;17:30;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;17;30/10/19;Laudamotion;1;21.21;12:45;Brussels CRLBrussels (Charleroi) CRL;14:30;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;22/10/19;Laudamotion;1;19.99;06:10;Vienna VIE;07:40;Milan BGYMilan (Bergamo) BGY OE1318
+2019-05-07;05:00;Austria;Belgium;17;22/10/19;Ryanair;1;21.21;15:55;Milan BGYMilan (Bergamo) BGY;17:30;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;17;30/10/19;Laudamotion;1;21.21;12:45;Brussels CRLBrussels (Charleroi) CRL;14:30;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;26/11/19;Laudamotion;1;19.99;07:20;Vienna VIE;08:40;Milan BGYMilan (Bergamo) BGY OE318
+2019-05-07;05:00;Austria;Belgium;17;26/11/19;Ryanair;1;21.21;21:05;Milan BGYMilan (Bergamo) BGY;22:40;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;17;03/12/19;Laudamotion;1;21.21;09:50;Brussels CRLBrussels (Charleroi) CRL;11:35;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;26/11/19;Laudamotion;1;19.99;07:20;Vienna VIE;08:40;Milan BGYMilan (Bergamo) BGY OE318
+2019-05-07;05:00;Austria;Belgium;17;26/11/19;Ryanair;1;21.21;21:05;Milan BGYMilan (Bergamo) BGY;22:40;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;17;04/12/19;Laudamotion;1;21.21;12:45;Brussels CRLBrussels (Charleroi) CRL;14:30;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;14/11/19;Laudamotion;0;26.51;07:35;Vienna VIE;09:25;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;17;20/11/19;Ryanair;1;19.57;15:35;Brussels CRLBrussels (Charleroi) CRL;17:45;Stockholm NYOStockholm (Skavsta) NYO FR9565
+2019-05-07;05:00;Austria;Belgium;17;20/11/19;Wizz Air;1;18.59;20:45;Stockholm NYOStockholm (Skavsta) NYO;22:55;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;21/11/19;Laudamotion;1;26.51;07:35;Vienna VIE;09:25;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;17;27/11/19;Ryanair;1;19.57;15:35;Brussels CRLBrussels (Charleroi) CRL;17:45;Stockholm NYOStockholm (Skavsta) NYO FR9565
+2019-05-07;05:00;Austria;Belgium;17;27/11/19;Wizz Air;1;18.59;20:45;Stockholm NYOStockholm (Skavsta) NYO;22:55;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;12/11/19;Laudamotion;1;26.51;07:35;Vienna VIE;09:25;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;17;20/11/19;Ryanair;1;19.57;15:35;Brussels CRLBrussels (Charleroi) CRL;17:45;Stockholm NYOStockholm (Skavsta) NYO FR9565
+2019-05-07;05:00;Austria;Belgium;17;20/11/19;Wizz Air;1;18.59;20:45;Stockholm NYOStockholm (Skavsta) NYO;22:55;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;19/11/19;Laudamotion;1;26.51;07:35;Vienna VIE;09:25;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;17;27/11/19;Ryanair;1;19.57;15:35;Brussels CRLBrussels (Charleroi) CRL;17:45;Stockholm NYOStockholm (Skavsta) NYO FR9565
+2019-05-07;05:00;Austria;Belgium;17;27/11/19;Wizz Air;1;18.59;20:45;Stockholm NYOStockholm (Skavsta) NYO;22:55;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;13/11/19;Laudamotion;1;26.51;10:30;Vienna VIE;12:20;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;17;20/11/19;Ryanair;1;19.57;15:35;Brussels CRLBrussels (Charleroi) CRL;17:45;Stockholm NYOStockholm (Skavsta) NYO FR9565
+2019-05-07;05:00;Austria;Belgium;17;20/11/19;Wizz Air;1;18.59;20:45;Stockholm NYOStockholm (Skavsta) NYO;22:55;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;20/11/19;Laudamotion;1;26.51;10:30;Vienna VIE;12:20;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;17;27/11/19;Ryanair;1;19.57;15:35;Brussels CRLBrussels (Charleroi) CRL;17:45;Stockholm NYOStockholm (Skavsta) NYO FR9565
+2019-05-07;05:00;Austria;Belgium;17;27/11/19;Wizz Air;1;18.59;20:45;Stockholm NYOStockholm (Skavsta) NYO;22:55;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;21/01/20;Laudamotion;1;31.61;07:35;Vienna VIE;09:25;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;17;26/01/20;Ryanair;1;22.02;15:35;Brussels CRLBrussels (Charleroi) CRL;17:45;Stockholm NYOStockholm (Skavsta) NYO FR9565
+2019-05-07;05:00;Austria;Belgium;17;26/01/20;Wizz Air;1;13.92;20:45;Stockholm NYOStockholm (Skavsta) NYO;22:55;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;22/01/20;Laudamotion;1;31.61;10:30;Vienna VIE;12:20;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;17;26/01/20;Ryanair;1;22.02;15:35;Brussels CRLBrussels (Charleroi) CRL;17:45;Stockholm NYOStockholm (Skavsta) NYO FR9565
+2019-05-07;05:00;Austria;Belgium;17;26/01/20;Wizz Air;1;13.92;20:45;Stockholm NYOStockholm (Skavsta) NYO;22:55;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;06/11/19;Laudamotion;1;26.51;10:30;Vienna VIE;12:20;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;17;13/11/19;Ryanair;1;21.21;06:35;Brussels CRLBrussels (Charleroi) CRL;08:05;Milan BGYMilan (Bergamo) BGY FR4522
+2019-05-07;05:00;Austria;Belgium;17;13/11/19;Laudamotion;1;19.99;20:30;Milan BGYMilan (Bergamo) BGY;21:50;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;07/11/19;Laudamotion;1;26.51;07:35;Vienna VIE;09:25;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;17;13/11/19;Ryanair;1;21.21;06:35;Brussels CRLBrussels (Charleroi) CRL;08:05;Milan BGYMilan (Bergamo) BGY FR4522
+2019-05-07;05:00;Austria;Belgium;17;13/11/19;Laudamotion;1;19.99;20:30;Milan BGYMilan (Bergamo) BGY;21:50;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;05/11/19;Laudamotion;1;26.51;07:35;Vienna VIE;09:25;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;17;13/11/19;Ryanair;1;21.21;06:35;Brussels CRLBrussels (Charleroi) CRL;08:05;Milan BGYMilan (Bergamo) BGY FR4522
+2019-05-07;05:00;Austria;Belgium;17;13/11/19;Laudamotion;1;19.99;20:30;Milan BGYMilan (Bergamo) BGY;21:50;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;03/12/19;Laudamotion;1;26.51;07:35;Vienna VIE;09:25;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;17;11/12/19;Ryanair;1;22.98;06:35;Brussels CRLBrussels (Charleroi) CRL;08:05;Milan BGYMilan (Bergamo) BGY FR4522
+2019-05-07;05:00;Austria;Belgium;17;11/12/19;Laudamotion;1;19.57;20:30;Milan BGYMilan (Bergamo) BGY;21:50;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;05/12/19;Laudamotion;1;26.51;07:35;Vienna VIE;09:25;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;17;11/12/19;Ryanair;1;22.98;06:35;Brussels CRLBrussels (Charleroi) CRL;08:05;Milan BGYMilan (Bergamo) BGY FR4522
+2019-05-07;05:00;Austria;Belgium;17;11/12/19;Laudamotion;1;19.57;20:30;Milan BGYMilan (Bergamo) BGY;21:50;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;04/12/19;Laudamotion;1;26.51;10:30;Vienna VIE;12:20;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;17;11/12/19;Ryanair;1;22.98;06:35;Brussels CRLBrussels (Charleroi) CRL;08:05;Milan BGYMilan (Bergamo) BGY FR4522
+2019-05-07;05:00;Austria;Belgium;17;11/12/19;Laudamotion;1;19.57;20:30;Milan BGYMilan (Bergamo) BGY;21:50;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;12/12/19;Laudamotion;1;26.51;07:35;Vienna VIE;09:25;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;17;18/12/19;Ryanair;1;22.84;14:25;Brussels CRLBrussels (Charleroi) CRL;16:30;Barcelona BCN FR2835
+2019-05-07;05:00;Austria;Belgium;17;18/12/19;Laudamotion;1;19.99;20:40;Barcelona BCN;23:10;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;11/12/19;Laudamotion;1;26.51;10:30;Vienna VIE;12:20;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;17;18/12/19;Ryanair;1;22.84;14:25;Brussels CRLBrussels (Charleroi) CRL;16:30;Barcelona BCN FR2835
+2019-05-07;05:00;Austria;Belgium;17;18/12/19;Laudamotion;1;19.99;20:40;Barcelona BCN;23:10;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;17/09/19;Wizz Air;1;9.99;14:45;Vienna VIE;16:25;Rome FCORome (Fiumicino) FCO W62815
+2019-05-07;05:00;Austria;Belgium;17;17/09/19;Ryanair;1;24.99;20:00;Rome FCORome (Fiumicino) FCO;22:15;Brussels BRU
+2019-05-07;05:00;Austria;Belgium;17;24/09/19;Ryanair;1;21.21;18:50;Brussels BRU;20:25;Milan MXPMilan (Malpensa) MXP FR2963
+2019-05-07;05:00;Austria;Belgium;17;24/09/19;Wizz Air;1;14.99;21:30;Milan MXPMilan (Malpensa) MXP;22:55;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;17/09/19;Wizz Air;1;9.99;14:45;Vienna VIE;16:25;Rome FCORome (Fiumicino) FCO W62815
+2019-05-07;05:00;Austria;Belgium;17;17/09/19;Ryanair;1;24.99;20:00;Rome FCORome (Fiumicino) FCO;22:15;Brussels BRU
+2019-05-07;05:00;Austria;Belgium;17;25/09/19;Ryanair;1;21.21;06:55;Brussels BRU;08:30;Milan MXPMilan (Malpensa) MXP FR2961
+2019-05-07;05:00;Austria;Belgium;17;25/09/19;Wizz Air;1;14.99;21:30;Milan MXPMilan (Malpensa) MXP;22:55;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;17/09/19;Wizz Air;1;9.99;14:45;Vienna VIE;16:25;Rome FCORome (Fiumicino) FCO W62815
+2019-05-07;05:00;Austria;Belgium;17;17/09/19;Ryanair;1;24.99;20:00;Rome FCORome (Fiumicino) FCO;22:15;Brussels BRU
+2019-05-07;05:00;Austria;Belgium;17;24/09/19;Ryanair;1;21.21;06:55;Brussels BRU;08:30;Milan MXPMilan (Malpensa) MXP FR2961
+2019-05-07;05:00;Austria;Belgium;17;24/09/19;Wizz Air;1;14.99;21:30;Milan MXPMilan (Malpensa) MXP;22:55;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;17/09/19;Wizz Air;1;9.99;14:45;Vienna VIE;16:25;Rome FCORome (Fiumicino) FCO W62815
+2019-05-07;05:00;Austria;Belgium;17;17/09/19;Ryanair;1;24.99;20:00;Rome FCORome (Fiumicino) FCO;22:15;Brussels BRU
+2019-05-07;05:00;Austria;Belgium;17;25/09/19;Ryanair;1;21.21;18:50;Brussels BRU;20:25;Milan MXPMilan (Malpensa) MXP FR2963
+2019-05-07;05:00;Austria;Belgium;17;25/09/19;Wizz Air;1;14.99;21:30;Milan MXPMilan (Malpensa) MXP;22:55;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;21/05/19;easyJet;1;14.27;10:30;Vienna VIE;12:05;Manchester MAN U21980
+2019-05-07;05:00;Austria;Belgium;17;21/05/19;Ryanair;1;15.19;18:30;Manchester MAN;20:55;Brussels CRLBrussels (Charleroi) CRL
+2019-05-07;05:00;Austria;Belgium;17;28/05/19;Ryanair;1;12.99;06:40;Brussels CRLBrussels (Charleroi) CRL;08:15;Copenhagen CPH FR201
+2019-05-07;05:00;Austria;Belgium;17;28/05/19;Laudamotion;1;9.78;13:00;Copenhagen CPH;14:45;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;18/06/19;Wizz Air;1;14.99;05:50;Vienna VIE;08:50;Madrid MAD W62845
+2019-05-07;05:00;Austria;Belgium;17;18/06/19;Ryanair;1;22.98;17:20;Madrid MAD;19:40;Brussels BRU
+2019-05-07;05:00;Austria;Belgium;17;26/06/19;Ryanair;1;19.99;18:50;Brussels BRU;20:25;Milan MXPMilan (Malpensa) MXP FR2963
+2019-05-07;05:00;Austria;Belgium;17;26/06/19;Wizz Air;1;14.99;21:30;Milan MXPMilan (Malpensa) MXP;22:55;Vienna VIE
+2019-05-07;05:00;Austria;Belgium;17;18/06/19;Wizz Air;1;14.99;05:50;Vienna VIE;08:50;Madrid MAD W62845
