@@ -1,12 +1,3 @@
-from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.firefox.options import Options
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import TimeoutException
-from selenium.webdriver.common.by import By
-from selenium.common.exceptions import NoSuchElementException
-#from pyvirtualdisplay import Display
 from scraping_data import ScrapData
 import os
 import datetime
@@ -17,18 +8,17 @@ import sys
 start_time = time.time()
 
 main_directory = os.path.dirname(os.path.abspath(__file__))
-os.environ["PATH"] += os.pathsep + main_directory
 
-config_file_path = main_directory[:-13]+"/prepare_links/scrap_links_" + str(sys.argv[1]) + ".txt"
+config_file_path = main_directory[:-13] + "/prepare_links/scrap_links_" + str(sys.argv[1]) + ".txt"
 
 connections_to_scrap = []
 with open(config_file_path, "r") as conf_file:
-     for line in conf_file:
-         single_line = []
-         for item in line.split(";"):
-             single_line.append(item)
+    for line in conf_file:
+        single_line = []
+        for item in line.split(";"):
+            single_line.append(item)
 
-         connections_to_scrap.append(single_line)
+        connections_to_scrap.append(single_line)
 
 
 currentDT = datetime.datetime.now()
@@ -40,11 +30,10 @@ catalog = main_directory + "/flight_prices/"
 if not os.path.exists(catalog):
     os.makedirs(catalog)
 
+
 file_path = catalog + currentDT.strftime("%Y-%m-%d") + ".txt"
 file_exists = os.path.exists(file_path)
 
-#display = Display(visible = 0, size = (800, 600))
-#display.start()
 
 with open(file_path, "a") as output_file:
     if not file_exists:

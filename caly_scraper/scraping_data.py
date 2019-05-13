@@ -4,7 +4,6 @@ import requests
 from bs4 import BeautifulSoup
 
 
-
 class ScrapData():
 
     def scrap(self, country_from, country_to, link, file, time):
@@ -102,6 +101,7 @@ class ScrapData():
 
             licz_ceny += 1
             licznik += 2
+            i += 1
 
             if (i+ii) % 2 == 0:
                 id_podrozy += 1
@@ -115,5 +115,5 @@ class ScrapData():
             #print(i)
 
         file.flush()
-        print(country_from + " - " + country_to + " skończone!")
+        print(country_from + " - " + country_to + " skonczone!")
 
