@@ -6,6 +6,10 @@ from bs4 import BeautifulSoup
 
 class ScrapData():
 
+    def __init__(self, flight_id):
+        self.flight_id = flight_id
+
+
     def scrap(self, country_from, country_to, link, file, time):
         """
 
@@ -27,21 +31,20 @@ class ScrapData():
         scrap_date = time.strftime("%Y-%m-%d")
         scrap_time = time.strftime("%H:%M")
 
-        #with open(file, "a") as f:
+        # with open(file, "a") as f:
 
-        #myfile.write("appended text")
-        #self.write_data(myfile)
+        # myfile.write("appended text")
+        # self.write_data(myfile)
         licznik = 0
         ii = 0
         licz_ceny = 0
         i = 0
-        id_podrozy = 1
-        ThereBack = ['There',"Back"]
+        id_podrozy = self.flight_id
+        ThereBack = ['There', "Back"]
 
-        #print(len(change))
+        # print(len(change))
 
         print('zaczynam zapisywanie dla.. ' + country_from + " - " + country_to)
-        print(len(change))
 
         while i + ii < len(change):
             przes = 0
@@ -53,67 +56,74 @@ class ScrapData():
 
             try:
                 while change[i + ii].full_text[9:11] != 'no':
-                    #print('if 1 dla.. ' + country)
+                    # print('if 1 dla.. ' + country)
 
                     przes = 1
 
-                    file.write(scrap_date+";"+scrap_time+";"+country_from + ";" + country_to + ";" + str(id_podrozy) + ";"+ \
-                        str(ThereBack[(i+ii) % 2]) + ";"+ str(data[i + ii].text[4:]) + ";" + str(przewoznik[licz_ceny].text) + ";" + str(
+                    file.write(scrap_date + ";" + scrap_time + ";" + country_from + ";" + country_to + ";" + str(
+                        id_podrozy) + ";" + \
+                               str(ThereBack[(i + ii) % 2]) + ";" + str(data[i + ii].text[4:]) + ";" + str(
+                        przewoznik[licz_ceny].text) + ";" + str(
                         przes) + ";" + str(cena[licz_ceny].text[1:]) + ";" + str(
                         skad[licznik + 1].text.replace('\xa0', ' ')[3:8]) + \
-                            ";" + str(skad[licznik + 1].text.replace('\xa0', ' ')[9:]) + ";" + str(
-                        to[licznik+1].text[:5]) + ";" + str(to[licznik+1].text[6:]) + "\n")
+                               ";" + str(skad[licznik + 1].text.replace('\xa0', ' ')[9:]) + ";" + str(
+                        to[licznik + 1].text[:5]) + ";" + str(to[licznik + 1].text[6:]) + "\n")
                     licz_ceny += 1
                     licznik += 1
-                    file.write(scrap_date+";"+scrap_time+";"+country_from + ";" + country_to + ";" + str(id_podrozy) + ";"+ \
-                        str(ThereBack[(i+ii) % 2]) + ";"+str(data[i + ii].text[4:]) + ";" + str(przewoznik[licz_ceny].text) + ";" + str(
+                    file.write(scrap_date + ";" + scrap_time + ";" + country_from + ";" + country_to + ";" + str(
+                        id_podrozy) + ";" + \
+                               str(ThereBack[(i + ii) % 2]) + ";" + str(data[i + ii].text[4:]) + ";" + str(
+                        przewoznik[licz_ceny].text) + ";" + str(
                         przes) + ";" + str(cena[licz_ceny].text[1:]) + ";" + str(
                         skad[licznik + 1].text.replace('\xa0', ' ')[3:8]) + \
-                            ";" + str(skad[licznik + 1].text.replace('\xa0', ' ')[9:]) + ";" + str(
-                        to[licznik-1].text[:5]) + ";" + str(to[licznik-1].text[6:]) + "\n")
+                               ";" + str(skad[licznik + 1].text.replace('\xa0', ' ')[9:]) + ";" + str(
+                        to[licznik - 1].text[:5]) + ";" + str(to[licznik - 1].text[6:]) + "\n")
                     licz_ceny += 1
                     licznik += 2
                     ii += 1
 
-                    
-                    if (i+ii) % 2 == 0:
+                    if (i + ii) % 2 == 0:
                         id_podrozy += 1
 
             except IndexError:
                 print("Something went wrong")
 
-                #if ii%3==0:
-                    #id_podrozy += 1
+                # if ii%3==0:
+                # id_podrozy += 1
 
             # ?? dodane ify żeby się nie wywalało, ale teraz część się w ogóle nie zapisuje
 
             if len(to) > licznik:
-                #if len(to[licznik].text)<7 and len(skad[licznik + 1].text.replace('\xa0', ' '))<10:
+                # if len(to[licznik].text)<7 and len(skad[licznik + 1].text.replace('\xa0', ' '))<10:
 
                 file.write(
-                    scrap_date+";"+scrap_time+";"+country_from + ";" + country_to + ";" + str(id_podrozy) + ";"+ \
-                    str(ThereBack[(i+ii) % 2]) + ";"+ str(data[i + ii].text[4:]) + ";" + str(przewoznik[licz_ceny].text) + ";" + str(przes) + ";" + str(
+                    scrap_date + ";" + scrap_time + ";" + country_from + ";" + country_to + ";" + str(
+                        id_podrozy) + ";" + \
+                    str(ThereBack[(i + ii) % 2]) + ";" + str(data[i + ii].text[4:]) + ";" + str(
+                        przewoznik[licz_ceny].text) + ";" + str(przes) + ";" + str(
                         cena[licz_ceny].text[1:]) + ";" + str(skad[licznik + 1].text.replace('\xa0', ' ')[3:8]) + \
                     ";" + str(skad[licznik + 1].text.replace('\xa0', ' ')[9:]) + ";" + str(
                         to[licznik].text[:5]) + ";" + str(to[licznik].text[6:]) + "\n")
 
-                #id_podrozy += 1
+                # id_podrozy += 1
 
             licz_ceny += 1
             licznik += 2
             i += 1
 
-            if (i+ii) % 2 == 0:
+            if (i + ii) % 2 == 0:
                 id_podrozy += 1
-
 
             print('-----')
 
-            #print("----2------")
-            #print(licz_ceny)
-            #print(licznik)
-            #print(i)
+            # print("----2------")
+            # print(licz_ceny)
+            # print(licznik)
+            # print(i)
 
+        self.flight_id = id_podrozy
         file.flush()
-        print(country_from + " - " + country_to + " skonczone!")
+        print(country_from + " - " + country_to + " skończone!")
+
+
 
