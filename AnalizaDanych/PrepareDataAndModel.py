@@ -71,18 +71,11 @@ for country_from in country_list:
                                            maxCategories=10).fit(transformed)
 
             data = featureIndexer.transform(transformed)
-            (trainingData, testData) = data.randomSplit([0.6, 0.4])
 
             #licz model 
             pipeline = Pipeline(stages=[featureIndexer, rf])
        
-            model = pipeline.fit(trainingData)
-            predictions = model.transform(testData)
-            evaluator = RegressionEvaluator(
-                labelCol="label", predictionCol="prediction", metricName="rmse")
-            rmse = evaluator.evaluate(predictions)
-            print(country_from," ", country_to, " Root Mean Squared Error (RMSE) on test data = %g" % rmse)
-            wyniki.append((country_from, country_to, model))
+            model = pipeline.fit(data)
             model.save("modele/"+country_from+"_"+country_to)
         except:
             print("Puść jeszcze raz ", country_from," ", country_to)
