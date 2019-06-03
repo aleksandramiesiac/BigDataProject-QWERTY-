@@ -54,7 +54,7 @@ nazwy = ["Airline1_Back",'Airline2_There','Airline2_Back','Airline1_There']
 for country_from in country_list:
     for country_to in country_list:
         try:
-            df2 = df.filter(df.Country_from =='Austria').filter(df.Country_to =='Austria')
+            df2 = df.filter(df.Country_from ==country_from).filter(df.Country_to ==country_to)
             df_temp = df2.select(df2.Scrap_time.cast("float"),'Airline1_Back','Airline2_There','Airline2_Back'\
                              ,'Airline1_There',df2.Days.cast("float"),df2.Journey_time.cast("float"), df2.Full_Price.cast("float"))
 
