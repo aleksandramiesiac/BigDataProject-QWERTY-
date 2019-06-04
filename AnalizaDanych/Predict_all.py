@@ -35,7 +35,7 @@ def transData(data):
 #----------ZMIEŃ ŚCIEŻKĘ DO PLIKU Z DANYMI TRENINGOWYMI!!!!---------------
 lines = sc.textFile('Structured_data2')
 data = lines.map(lambda line: line.split(";"))
-df = data.toDF(['Scrap_date','Scrap_time','Country_from','Country_to','Flight_id','Days','Journey_time','Airline1_There',\
+df_all = data.toDF(['Scrap_date','Scrap_time','Country_from','Country_to','Flight_id','Days','Journey_time','Airline1_There',\
                 'Airline1_Back','Airline2_There','Airline2_Back','Price1_There','Price1_Back','Price2_There','Price2_Back',\
                 'Depart_hour1_There','Depart_hour1_Back','Depart_hour2_There','Depart_hour2_Back','Depart_from1_There',\
                 'Depart_from1_Back','Depart_from2_There','Depart_from2_Back','Arrival_hour1_There','Arrival_hour1_Back',\
@@ -53,7 +53,7 @@ nazwy = ["Airline1_Back",'Airline2_There','Airline2_Back','Airline1_There']
 for country_from in country_list:
     for country_to in country_list:
         try:
-            df2 = df.filter(df.Country_from ==country_from).filter(df.Country_to ==country_to)          
+            df2 = df_all.filter(df_all.Country_from ==country_from).filter(df_all.Country_to ==country_to)          
             nazwy_Airline2_There = list(df2.toPandas()['Airline2_There'].unique())
             nazwa_days = list(df2.toPandas()['Days'].unique())
             nazwa_Journey_time = list(df2.toPandas()['Journey_time'].unique())
