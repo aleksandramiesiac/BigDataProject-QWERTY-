@@ -17,7 +17,7 @@ from pyspark.ml.clustering import KMeans
 import json
 import socket
 import pandas as pd
-
+from pyspark.mllib.tree import RandomForest, RandomForestModel
 from pyspark.ml.linalg import Vectors
 
 conf = SparkConf().setAppName('MyFirstStandaloneApp')
@@ -85,15 +85,14 @@ for country_from in country_list:
             df_temp = df_temp.select('Airline1_BackIndex','Airline2_ThereIndex','Airline2_BackIndex','Airline1_ThereIndex','Scrap_time',\
                    'Days','Journey_time', 'Full_Price')
             transformed= transData(df_temp)
-            featureIndexer = VectorIndexer(inputCol="features", \
-                                           outputCol="indexedFeatures",\
-                                           maxCategories=10).fit(transformed)
 
-            data = featureIndexer.transform(transformed)
+            data = transformed.rdd.map(lambda row: LabeledPoint(row['label'], row['features'].toArray()))
 #---------TUTAJ ŚCIEŻKA DO PLIKU Z MODELAMI !!!
-            model = PipelineModel.load("modele\\"+country_from+"_"+country_to)
-            
-            predictions = model.transform(data)
+            model = RandomForestModel.load(sc, "modele\\"+country_from+"_"+country_to)
+            predictions = model.predict(data.map(lambda x: x.features))
+            labelsAndPredictions = testData.map(lambda lp: lp.label).zip(predictions)
+            spark_df = sqlContext.createDataFrame(labelsAndPredictions)
+            predictions = spark_df.select(col("_1").alias("label"), col("_2").alias("prediction"))
             
             pred = predictions.select(predictions.label.cast("float"),'prediction')
             ta = temp2.alias('ta')

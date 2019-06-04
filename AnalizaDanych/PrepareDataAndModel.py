@@ -16,6 +16,8 @@ from pyspark.ml.regression import LinearRegression, RandomForestRegressor
 from pyspark.ml.clustering import KMeans
 import json
 import socket
+from pyspark.mllib.regression import LabeledPoint
+from pyspark.mllib.tree import RandomForest
 
 from pyspark.ml.linalg import Vectors
 
@@ -31,7 +33,7 @@ def transData(data):
 
 
 #tutaj zamień ścieżkę do pliku !!!!--------------------------------------------------------------------------
-lines = sc.textFile('Structured_data2')
+lines = sc.textFile('structured_data')
 
 data = lines.map(lambda line: line.split(";"))
 df = data.toDF(['Scrap_date','Scrap_time','Country_from','Country_to','Flight_id','Days','Journey_time','Airline1_There',\
@@ -53,6 +55,7 @@ nazwy = ["Airline1_Back",'Airline2_There','Airline2_Back','Airline1_There']
 
 for country_from in country_list:
     for country_to in country_list:
+        print("Country from: ", country_from, " Country to: ", country_to)
         try:
             df2 = df.filter(df.Country_from ==country_from).filter(df.Country_to ==country_to)
             df_temp = df2.select(df2.Scrap_time.cast("float"),'Airline1_Back','Airline2_There','Airline2_Back'\
@@ -66,16 +69,12 @@ for country_from in country_list:
             df_temp = df_temp.select('Airline1_BackIndex','Airline2_ThereIndex','Airline2_BackIndex','Airline1_ThereIndex','Scrap_time',\
                    'Days','Journey_time', 'Full_Price')
             transformed= transData(df_temp)
-            featureIndexer = VectorIndexer(inputCol="features", \
-                                           outputCol="indexedFeatures",\
-                                           maxCategories=10).fit(transformed)
-
-            data = featureIndexer.transform(transformed)
-
-            #licz model 
-            pipeline = Pipeline(stages=[featureIndexer, rf])
-       
-            model = pipeline.fit(data)
-            model.save("modele/"+country_from+"_"+country_to)
+            
+            test = transformed.rdd.map(lambda row: LabeledPoint(row['label'], row['features'].toArray()))
+            model = RandomForest.trainRegressor(test, categoricalFeaturesInfo={},
+                                    numTrees = 30, featureSubsetStrategy="auto",
+                                    impurity='variance', maxDepth=4, maxBins=32)
+            
+            model.save(sc, "modele/"+country_from+"_"+country_to)
         except:
             print("Puść jeszcze raz ", country_from," ", country_to)
