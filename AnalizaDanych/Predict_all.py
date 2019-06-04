@@ -19,6 +19,7 @@ import socket
 import pandas as pd
 from pyspark.mllib.tree import RandomForest, RandomForestModel
 from pyspark.ml.linalg import Vectors
+import pandas as pd
 
 conf = SparkConf().setAppName('MyFirstStandaloneApp')
 conf.set("spark.network.timeout", "5601s")
