@@ -8,6 +8,7 @@ library(ggthemes)
 library(RColorBrewer)
 library(dplyr)
 library(scales)
+library(stringi)
 
 #-----------------------------------------------------------------------------------------------------------------------
 
